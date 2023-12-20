@@ -1,4 +1,4 @@
-acl_anthology
+acl-anthology-py
 pandas
 requests
 tqdm
