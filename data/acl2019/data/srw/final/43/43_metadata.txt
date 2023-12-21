@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#A Computational Approach to Feature Extraction for Identification of Suicidal Ideation in Tweets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ramit Sawhney
+JobTitle#==#
+Organization#==#Netaji Subhas Institute of Technology, New Delhi 110078, India
+Abstract#==#Technological advancements in the World Wide Web and social networks in particular coupled with an increase in social media usage has led to a positive correlation between the exhibition of Suicidal ideation on websites such as Twitter and cases of suicide.  This paper proposes a novel supervised approach for detecting suicidal ideation in content on Twitter. A set of features is proposed for training both linear and ensemble classifiers over a dataset of manually annotated tweets. The performance of the proposed methodology is compared against four baselines that utilize varying approaches to validate its utility. The results are finally summarized by reflecting on the effect of the inclusion of the proposed features one by one for suicidal ideation detection.
+Author{1}{Firstname}#=%=#Ramit
+Author{1}{Lastname}#=%=#Sawhney
+Author{1}{Email}#=%=#ramits.co@nsit.net.in
+Author{1}{Affiliation}#=%=#Netaji Subhas Institute of Technology, New Delhi, 110078, India
+Author{2}{Firstname}#=%=#Prachi
+Author{2}{Lastname}#=%=#Manchanda
+Author{2}{Email}#=%=#prachim.co@nsit.net.in
+Author{2}{Affiliation}#=%=#Netaji Subhas Institute of Technology, New Delhi, 110078, India
+Author{3}{Firstname}#=%=#Raj
+Author{3}{Lastname}#=%=#Singh
+Author{3}{Email}#=%=#rajs.co@nsit.net.in
+Author{3}{Affiliation}#=%=#Netaji Subhas Institute of Technology, New Delhi, 110078, India
+Author{4}{Firstname}#=%=#Swati
+Author{4}{Lastname}#=%=#Aggarwal
+Author{4}{Email}#=%=#swati1178@gmail.com
+Author{4}{Affiliation}#=%=#NSIT, Dwarka
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#587
+FinalPaperTitle#=%=#Discourse Coherence: Concurrent Explicit and Implicit Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bonnie Webber
+JobTitle#==#
+Organization#==#University of Edinburgh
+Abstract#==#Theories of discourse coherence posit relations between discourse segments as a key feature of coherent text. Our prior work suggests that multiple discourse relations can be simultaneously operative between two segments for reasons not predicted by the literature. Here we test how this joint presence can lead participants to endorse seemingly divergent conjunctions (e.g., BUT and SO) to express the link they see between two segments. These apparent divergences are not symptomatic of participant naivety or bias, but arise reliably from the concurrent availability of multiple relations between segments -- some available through explicit signals and some via inference. We believe that these new results can both inform future progress in theoretical work on discourse coherence and lead to higher levels of performance in discourse parsing.
+Author{1}{Firstname}#=%=#Hannah
+Author{1}{Lastname}#=%=#Rohde
+Author{1}{Email}#=%=#hr@hannahrohde.org
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Johnson
+Author{2}{Email}#=%=#ajohnso5@exseed.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Nathan
+Author{3}{Lastname}#=%=#Schneider
+Author{3}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{3}{Affiliation}#=%=#Georgetown University
+Author{4}{Firstname}#=%=#Bonnie
+Author{4}{Lastname}#=%=#Webber
+Author{4}{Email}#=%=#bonnie.webber@ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Coding Structures and Actions with the COSTA Scheme in Medical Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Nan Wang
+JobTitle#==#
+Organization#==#University of California-Los Angeles, CA, USA
+Abstract#==#This paper describes the COSTA scheme for coding structures and actions in conversation. Informed by Conversation Analysis, the scheme introduces an innovative method for marking multi-layer structural organization of conversation and a structure-informed taxonomy of actions. In addition, we create a corpus of naturally occurring medical conversations, containing 318 video-recorded and manually transcribed pediatric consultations. Based on the annotated corpus, we investigate 1) treatment decision-making process in medical conversations, and 2) effects of physician-caregiver communication behaviors on antibiotic over-prescribing. Although the COSTA annotation scheme is developed based on data from the task-specific domain of pediatric consultations, it can be easily extended to apply to more general domains and other languages.
+Author{1}{Firstname}#=%=#Nan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#nwang3@ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#mattsure@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Fei
+Author{3}{Lastname}#=%=#Xia
+Author{3}{Email}#=%=#fxia@u.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

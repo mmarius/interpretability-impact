@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1227
+FinalPaperTitle#=%=#Think Visually: Question Answering through Virtual Imagery
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ankit Goyal
+JobTitle#==#
+Organization#==#University of Michigan, Ann Arbor, MI, USA
+Abstract#==#In this paper, we study the problem of geometric reasoning (a form of visual reasoning) in the context of question-answering. We introduce Dynamic Spatial Memory Network (DSMN), a new deep network architecture that specializes in answering questions that admit latent visual representations, and learns to generate and reason over such representations. Further, we propose two synthetic benchmarks, FloorPlanQA and ShapeIntersection, to evaluate the geometric reasoning capability of QA systems. Experimental results validate the effectiveness of our proposed DSMN for visual thinking tasks.
+Author{1}{Firstname}#=%=#Ankit
+Author{1}{Lastname}#=%=#Goyal
+Author{1}{Email}#=%=#ankgoyal@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan, Ann Arbor
+Author{2}{Firstname}#=%=#Jian
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#jianwolf@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan, Ann Arbor
+Author{3}{Firstname}#=%=#Jia
+Author{3}{Lastname}#=%=#Deng
+Author{3}{Email}#=%=#jiadeng@umich.edu
+Author{3}{Affiliation}#=%=#University of Michigan, Ann Arbor
+
+==========

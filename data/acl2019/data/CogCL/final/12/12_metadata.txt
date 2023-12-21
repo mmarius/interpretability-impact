@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Predicting Brain Activation with WordNet Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#António Branco
+JobTitle#==#
+Organization#==#
+Abstract#==#The task of taking a semantic representation of a noun and predicting the brain activity triggered by it in terms of fMRI spatial patterns was pioneered by Mitchell et al. 2008.
+
+That seminal work used word co-occurrence features to represent the meaning of the nouns. Even though the task does not impose any specific type of semantic representation, the vast majority of subsequent approaches resort to feature-based models or to semantic spaces (aka word embeddings).
+
+We address this task, with competitive results, by using instead a semantic network to encode lexical semantics, thus providing further evidence for the cognitive plausibility of this approach to model lexical meaning.
+Author{1}{Firstname}#=%=#João
+Author{1}{Lastname}#=%=#António Rodrigues
+Author{1}{Email}#=%=#joao.rodrigues@di.fc.ul.pt
+Author{1}{Affiliation}#=%=#University of Lisbon
+Author{2}{Firstname}#=%=#Ruben
+Author{2}{Lastname}#=%=#Branco
+Author{2}{Email}#=%=#ruben.branco@di.fc.ul.pt
+Author{2}{Affiliation}#=%=#Faculty of Sciences, University of Lisbon
+Author{3}{Firstname}#=%=#João
+Author{3}{Lastname}#=%=#Silva
+Author{3}{Email}#=%=#jsilva@di.fc.ul.pt
+Author{3}{Affiliation}#=%=#University of Lisbon
+Author{4}{Firstname}#=%=#Chakaveh
+Author{4}{Lastname}#=%=#Saedi
+Author{4}{Email}#=%=#chakaveh.saedi@di.fc.ul.pt
+Author{4}{Affiliation}#=%=#University of Lisbon
+Author{5}{Firstname}#=%=#António
+Author{5}{Lastname}#=%=#Branco
+Author{5}{Email}#=%=#antonio.branco@di.fc.ul.pt
+Author{5}{Affiliation}#=%=#University of Lisbon
+
+==========

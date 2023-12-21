@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Sentiment Analysis using Imperfect Views from Spoken Language and Acoustic Modalities
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Multimodal sentiment classification in practical applications may have to rely on erroneous and imperfect views, namely (a) language transcription from a speech recognizer and (b) under-performing acoustic views. This work focuses on improving the representations of these views by performing a deep canonical correlation analysis with the representations of the better performing manual transcription view. Enhanced representations of the imperfect views can be obtained even in absence of the perfect views and give an improved performance during test conditions. Evaluations on the CMU-MOSI and CMU-MOSEI datasets 
+demonstrate the effectiveness of the proposed approach.
+Author{1}{Firstname}#=%=#Imran
+Author{1}{Lastname}#=%=#Sheikh
+Author{1}{Email}#=%=#imran.as@tcs.com
+Author{1}{Affiliation}#=%=#TCS Research and Innovation-Mumbai
+Author{2}{Firstname}#=%=#Sri Harsha
+Author{2}{Lastname}#=%=#Dumpala
+Author{2}{Email}#=%=#d.harsha@tcs.com
+Author{2}{Affiliation}#=%=#TCS Research and Innovation-Mumbai
+Author{3}{Firstname}#=%=#Rupayan
+Author{3}{Lastname}#=%=#Chakraborty
+Author{3}{Email}#=%=#rupayan.chakraborty@tcs.com
+Author{3}{Affiliation}#=%=#TCS Innovation Labs-Mumbai
+Author{4}{Firstname}#=%=#Sunil Kumar
+Author{4}{Lastname}#=%=#Kopparapu
+Author{4}{Email}#=%=#sunilkumar.kopparapu@tcs.com
+Author{4}{Affiliation}#=%=#TCS Research and Innovation  - Mumbai
+
+==========

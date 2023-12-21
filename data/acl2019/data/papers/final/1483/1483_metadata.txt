@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1483
+FinalPaperTitle#=%=#Exploring Semantic Properties of Sentence Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xunjie Zhu
+JobTitle#==#
+Organization#==#Rutgers University, Bowser Rd, Piscataway Township NJ 08854
+Abstract#==#Neural vector representations are ubiquitous throughout all subfields of NLP.
+While word vectors have been studied in much detail, thus far only little light
+has been shed on the properties of sentence embeddings. In this paper, we
+assess to what extent prominent sentence embedding methods exhibit select
+semantic properties. We propose a framework that generate triplets of sentences
+to explore how changes in the syntactic structure or semantics of a given
+sentence affect the similarities obtained between their sentence embeddings.
+Author{1}{Firstname}#=%=#Xunjie
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Email}#=%=#xz388@scarletmail.rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Tingfeng
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#ltf@mail.nwpu.edu.cn
+Author{2}{Affiliation}#=%=#Northwestern Polytechnical University
+Author{3}{Firstname}#=%=#Gerard
+Author{3}{Lastname}#=%=#de Melo
+Author{3}{Email}#=%=#gdm@demelo.org
+Author{3}{Affiliation}#=%=#Rutgers University
+
+==========

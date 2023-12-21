@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Recognizing Emotions in Video Using Multimodal DNN Feature Fusion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jennifer Williams
+JobTitle#==#
+Organization#==#Informatics Forum, University of Edinburgh, UK
+Abstract#==#We present our system description of input-level multimodal fusion of audio, video, and text for recognition of emotions and their intensities for the 2018 First Grand Challenge on Computational Modeling of Human Multimodal Language. Our proposed approach is based on input-level feature fusion with sequence learning from Bidirectional Long-Short Term Memory (BLSTM) deep neural networks (DNNs). We show that our fusion approach outperforms unimodal predictors. Our system performs 6-way simultaneous classification and regression, allowing for overlapping emotion labels in a video segment. This leads to an overall binary accuracy of 90\%, overall 4-class accuracy of 89.2\% and an overall mean-absolute-error (MAE) of 0.12. Our work shows that an early fusion technique can effectively predict the presence of multi-label emotions as well as their coarse-grained intensities. The presented multimodal approach creates a simple and robust baseline on this new Grand Challenge dataset. Furthermore, we provide a detailed analysis of emotion intensity distributions as output from our DNN, as well as a related discussion concerning the inherent difficulty of this task.
+Author{1}{Firstname}#=%=#Jennifer
+Author{1}{Lastname}#=%=#Williams
+Author{1}{Email}#=%=#jaw97@georgetown.edu
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Kleinegesse
+Author{2}{Email}#=%=#s1313429@sms.ed.ac.uk
+Author{2}{Affiliation}#=%=#Edinburgh
+Author{3}{Firstname}#=%=#Ramona
+Author{3}{Lastname}#=%=#Comanescu
+Author{3}{Email}#=%=#ramonacomanescu5@gmail.com
+Author{3}{Affiliation}#=%=#Edinburgh
+Author{4}{Firstname}#=%=#Oana
+Author{4}{Lastname}#=%=#Radu
+Author{4}{Email}#=%=#oana.radu8@gmail.com
+Author{4}{Affiliation}#=%=#Edinburgh
+
+==========

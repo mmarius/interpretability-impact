@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1460
+FinalPaperTitle#=%=#HotFlip: White-Box Adversarial Examples for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Javid Ebrahimi
+JobTitle#==#
+Organization#==#University of Oregon, Eugene, OR, US
+Abstract#==#We propose an efficient method to generate white-box  adversarial examples to trick a character-level neural classifier. We find that only a few manipulations are needed to greatly decrease the accuracy. 
+ Our method relies on an atomic flip operation, which swaps one token for another, based on the gradients of the one-hot input vectors.
+Due to efficiency of our method, we can perform adversarial training which makes the model more robust to attacks at test time. 
+With the use of a few semantics-preserving constraints, we demonstrate that HotFlip can be adapted to attack a word-level classifier as well.
+Author{1}{Firstname}#=%=#Javid
+Author{1}{Lastname}#=%=#Ebrahimi
+Author{1}{Email}#=%=#jebivid@gmail.com
+Author{1}{Affiliation}#=%=#University of Oregon
+Author{2}{Firstname}#=%=#Anyi
+Author{2}{Lastname}#=%=#Rao
+Author{2}{Email}#=%=#anyirao@smail.nju.edu.cn
+Author{2}{Affiliation}#=%=#Nanjing University
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Lowd
+Author{3}{Email}#=%=#lowd@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+Author{4}{Firstname}#=%=#Dejing
+Author{4}{Lastname}#=%=#Dou
+Author{4}{Email}#=%=#dou@cs.uoregon.edu
+Author{4}{Affiliation}#=%=#University of Oregon
+
+==========

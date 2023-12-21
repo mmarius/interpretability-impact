@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1267
+FinalPaperTitle#=%=#Style Transfer Through Back-Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shrimai Prabhumoye
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15217
+Abstract#==#Style transfer is the task of rephrasing the text to contain specific stylistic properties without changing the intent or affect within the context. This paper introduces a new method for automatic style transfer. We first learn a latent representation of the input sentence which is grounded in a language translation model in order to better preserve the meaning of the sentence while reducing stylistic properties. Then adversarial generation techniques are used to make the output match the desired style. We evaluate this technique on three different style transformations: sentiment, gender and political slant. Compared to two state-of-the-art style transfer modeling techniques we show improvements both in automatic evaluation of style transfer and in manual evaluation of meaning preservation and fluency.
+Author{1}{Firstname}#=%=#Shrimai
+Author{1}{Lastname}#=%=#Prabhumoye
+Author{1}{Email}#=%=#sprabhum@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Yulia
+Author{2}{Lastname}#=%=#Tsvetkov
+Author{2}{Email}#=%=#yulia.tsvetkov@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Ruslan
+Author{3}{Lastname}#=%=#Salakhutdinov
+Author{3}{Email}#=%=#rsalakhu@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Alan W
+Author{4}{Lastname}#=%=#Black
+Author{4}{Email}#=%=#awb@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

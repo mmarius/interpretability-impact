@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#338
+FinalPaperTitle#=%=#Neural Hidden Markov Model for Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Weiyue Wang
+JobTitle#==#
+Organization#==#RWTH Aachen University, Templergraben 55, 52062 Aachen, Germany
+Abstract#==#Attention-based neural machine translation (NMT) models selectively focus on
+specific source positions to produce a translation, which brings significant
+improvements over pure encoder-decoder sequence-to-sequence models. This work
+investigates NMT while replacing the attention component. We study a neural
+hidden Markov model (HMM) consisting of neural network-based alignment and
+lexicon models, which are trained jointly using the forward-backward algorithm.
+We show that the attention component can be effectively replaced by the neural
+network alignment model and the neural HMM approach is able to provide
+comparable performance with the state-of-the-art attention-based models on the
+WMT 2017 German<->English and Chinese->English translation tasks.
+Author{1}{Firstname}#=%=#Weiyue
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#weiyue.wang@rwth-aachen.de
+Author{1}{Affiliation}#=%=#RWTH Aachen University
+Author{2}{Firstname}#=%=#Derui
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#derui.zhu@rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Tamer
+Author{3}{Lastname}#=%=#Alkhouli
+Author{3}{Email}#=%=#alkhouli@cs.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+Author{4}{Firstname}#=%=#Zixuan
+Author{4}{Lastname}#=%=#Gan
+Author{4}{Email}#=%=#zixuan.gan@rwth-aachen.de
+Author{4}{Affiliation}#=%=#RWTH Aachen University
+Author{5}{Firstname}#=%=#Hermann
+Author{5}{Lastname}#=%=#Ney
+Author{5}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{5}{Affiliation}#=%=#RWTH Aachen University
+
+==========

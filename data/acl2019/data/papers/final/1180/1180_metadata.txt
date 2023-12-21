@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1180
+FinalPaperTitle#=%=#Party Matters: Enhancing Legislative Embeddings with Author Attributes for Vote Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anastassia Kornilova
+JobTitle#==#
+Organization#==#FiscalNote, 1201 Pennsylvania Ave NW, Washington, DC, USA 20009
+Abstract#==#Predicting how Congressional legislators will vote is important for
+understanding their past and future behavior. However, previous work on
+roll-call prediction has been limited to single session settings, thus not
+allowing for generalization across sessions. In this paper, we show that text
+alone is insufficient for modeling voting outcomes in new contexts, as session
+changes lead to changes in the underlying data generation process. We propose a
+novel neural method for encoding documents alongside additional metadata,
+achieving an average of a 4% boost in accuracy over the previous
+state-of-the-art.
+Author{1}{Firstname}#=%=#Anastassia
+Author{1}{Lastname}#=%=#Kornilova
+Author{1}{Email}#=%=#annie237@gmail.com
+Author{1}{Affiliation}#=%=#FiscalNote
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Argyle
+Author{2}{Email}#=%=#daniel@fiscalnote.com
+Author{2}{Affiliation}#=%=#FiscalNote
+Author{3}{Firstname}#=%=#Vladimir
+Author{3}{Lastname}#=%=#Eidelman
+Author{3}{Email}#=%=#vladimir.eidelman@gmail.com
+Author{3}{Affiliation}#=%=#FiscalNote
+
+==========

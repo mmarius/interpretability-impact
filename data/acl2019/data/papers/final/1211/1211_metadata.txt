@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1211
+FinalPaperTitle#=%=#Word Embedding and WordNet Based Metaphor Identification and Interpretation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rui Mao
+JobTitle#==#
+Organization#==#Department of Computing Science, University of Aberdeen, Aberdeen, UK
+Abstract#==#Metaphoric expressions are widespread in natural language, posing a significant challenge for various natural language processing tasks such as Machine Translation. Current word embedding based metaphor identification models cannot identify the exact metaphorical words within a sentence. In this paper, we propose an unsupervised learning method that identifies and interprets metaphors at word-level without any preprocessing, outperforming strong baselines in the metaphor identification task. Our model extends to interpret the identified metaphors, paraphrasing them into their literal counterparts, so that they can be better translated by machines. We evaluated this with two popular translation systems for English to Chinese, showing that our model improved the systems significantly.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Email}#=%=#r03rm16@abdn.ac.uk
+Author{1}{Affiliation}#=%=#Computing Science Department in the University of Aberdeen
+Author{2}{Firstname}#=%=#Chenghua
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#chenghua.lin@abdn.ac.uk
+Author{2}{Affiliation}#=%=#Computing Science Department in the University of Aberdeen
+Author{3}{Firstname}#=%=#Frank
+Author{3}{Lastname}#=%=#Guerin
+Author{3}{Email}#=%=#f.guerin@abdn.ac.uk
+Author{3}{Affiliation}#=%=#Computing Science Department in the University of Aberdeen
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1588
+FinalPaperTitle#=%=#Simpler but More Accurate Semantic Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Timothy Dozat
+JobTitle#==#
+Organization#==#
+Abstract#==#While syntactic dependency annotations
+concentrate on the surface or functional
+structure of a sentence, semantic depen-
+dency annotations aim to capture between-
+word relationships that are more closely
+related to the meaning of a sentence, using
+graph-structured representations. We ex-
+tend the LSTM-based syntactic parser of
+Dozat and Manning (2017) to train on and
+generate these graph structures. The re-
+sulting system on its own achieves state-
+of-the-art performance, beating the pre-
+vious, substantially more complex state-
+of-the-art system by 0.6% labeled F1.
+Adding linguistically richer input repre-
+sentations pushes the margin even higher,
+allowing us to beat it by 1.9% labeled F1.
+Author{1}{Firstname}#=%=#Timothy
+Author{1}{Lastname}#=%=#Dozat
+Author{1}{Email}#=%=#tdozat@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Christopher D.
+Author{2}{Lastname}#=%=#Manning
+Author{2}{Email}#=%=#manning@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

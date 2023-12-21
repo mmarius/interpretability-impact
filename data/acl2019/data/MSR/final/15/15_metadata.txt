@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#The First Multilingual Surface Realisation Shared Task (SR’18): Overview and Evaluation Results
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#The SR’18 Shared Task was a new multilingual surface realisation task organised as part of the ACL’18 Workshop on Multilingual Surface Realisation. As in its English-only predecessor task SR’11, the shared task comprised two tracks with different levels of complexity: (a) a shallow track where the inputs were full UD structures with word order information removed and tokens lemmatised; and (b) a deep track where additionally, functional words and morphological information were removed. The shallow track was offered in ten, and the deep track in three languages. Systems were evaluated (a) automatically, using a range of intrinsic metrics, and (b) by human judges in terms of fluency and meaning similarity. This report presents the evaluation results, along with descriptions of the SR’18 tracks, data and evaluation methods. For full descriptions of the participating systems, please see the separate system reports elsewhere in this volume.
+Author{1}{Firstname}#=%=#Simon
+Author{1}{Lastname}#=%=#Mille
+Author{1}{Email}#=%=#simon.mille@upf.edu
+Author{1}{Affiliation}#=%=#Pompeu Fabra University
+Author{2}{Firstname}#=%=#Anja
+Author{2}{Lastname}#=%=#Belz
+Author{2}{Email}#=%=#a.s.belz@brighton.ac.uk
+Author{2}{Affiliation}#=%=#University of Brighton
+Author{3}{Firstname}#=%=#Bernd
+Author{3}{Lastname}#=%=#Bohnet
+Author{3}{Email}#=%=#bohnetbd@gmail.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Yvette
+Author{4}{Lastname}#=%=#Graham
+Author{4}{Email}#=%=#graham.yvette@gmail.com
+Author{4}{Affiliation}#=%=#Dublin City University
+Author{5}{Firstname}#=%=#Emily
+Author{5}{Lastname}#=%=#Pitler
+Author{5}{Email}#=%=#emily.pitler@gmail.com
+Author{5}{Affiliation}#=%=#Google, Inc.
+Author{6}{Firstname}#=%=#Leo
+Author{6}{Lastname}#=%=#Wanner
+Author{6}{Email}#=%=#leo.wanner@upf.edu
+Author{6}{Affiliation}#=%=#ICREA and Pompeu Fabra University
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1126
+FinalPaperTitle#=%=#Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yang Xu
+JobTitle#==#
+Organization#==#
+Abstract#==#Linguistic alignment between dialogue partners has been claimed to be affected
+by their relative social power. A common finding has been that interlocutors of
+higher power tend to receive more alignment than those of lower power. 
+However, these studies overlook some low-level linguistic features that can
+also affect alignment, which casts doubts on these findings. 
+This work characterizes the effect of power on alignment with logistic
+regression models in two datasets, finding that the effect vanishes or is
+reversed after controlling for low-level features such as utterance length.
+Thus, linguistic alignment is explained better by low-level features than by
+social power. 
+We argue that a wider range of factors, especially cognitive factors, need to
+be taken into account for future studies on observational data when social
+factors of language use are in question.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#yang.xu@psu.edu
+Author{1}{Affiliation}#=%=#The Pennsylvania State University
+Author{2}{Firstname}#=%=#Jeremy
+Author{2}{Lastname}#=%=#Cole
+Author{2}{Email}#=%=#jrcole@psu.edu
+Author{2}{Affiliation}#=%=#Penn State
+Author{3}{Firstname}#=%=#David
+Author{3}{Lastname}#=%=#Reitter
+Author{3}{Email}#=%=#reitter@psu.edu
+Author{3}{Affiliation}#=%=#Penn State University
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Comparison of Assorted Models for Transliteration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Saeed Najafi
+JobTitle#==#
+Organization#==#Department of Computing Science University of Alberta, Edmonton, Canada
+Abstract#==#We report the results of our experiments
+in the context of the NEWS 2018 Shared
+Task on Transliteration. We focus on the
+comparison of several diverse systems, including
+three neural MT models. A combination
+of discriminative, generative, and
+neural models obtains the best results on
+the development sets. We also put forward
+ideas for improving the shared task.
+Author{1}{Firstname}#=%=#Saeed
+Author{1}{Lastname}#=%=#Najafi
+Author{1}{Email}#=%=#snajafi@ualberta.ca
+Author{1}{Affiliation}#=%=#Master's Student, University of Alberta
+Author{2}{Firstname}#=%=#Bradley
+Author{2}{Lastname}#=%=#Hauer
+Author{2}{Email}#=%=#bmhauer@ualberta.ca
+Author{2}{Affiliation}#=%=#University of Alberta
+Author{3}{Firstname}#=%=#Rashed Rubby
+Author{3}{Lastname}#=%=#Riyadh
+Author{3}{Email}#=%=#riyadh@ualberta.ca
+Author{3}{Affiliation}#=%=#University of Alberta
+Author{4}{Firstname}#=%=#Leyuan
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Email}#=%=#leyuan@ualberta.ca
+Author{4}{Affiliation}#=%=#University of Alberta
+Author{5}{Firstname}#=%=#Grzegorz
+Author{5}{Lastname}#=%=#Kondrak
+Author{5}{Email}#=%=#gkondrak@ualberta.ca
+Author{5}{Affiliation}#=%=#University of Alberta
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yang Xu
+JobTitle#==#
+Organization#==#University of Science and Technology of China,  Hefei City, Anhui Province, 230027, P.R. China
+Abstract#==#Traditional word embedding approaches learn semantic information at word level while ignoring the meaningful internal structures of words like morphemes.
+Furthermore, existing morphology-based models directly incorporate morphemes to train word embeddings, but still neglect the latent meanings of morphemes.
+In this paper, we explore to employ the latent meanings of morphological compositions of words to train and enhance word embeddings.
+Based on this purpose, we propose three Latent Meaning Models (LMMs), named LMM-A, LMM-S and LMM-M respectively, which adopt different strategies to incorporate the latent meanings of morphemes during the training process.
+Experiments on word similarity, syntactic analogy and text classification are conducted to validate the feasibility of our models.
+The results demonstrate that our models outperform the baselines on five word similarity datasets.
+On Wordsim-353 and RG-65 datasets, our models nearly achieve 5% and 7% gains over  the classic CBOW model, respectively.
+For the syntactic analogy and text classification tasks, our models also surpass all the baselines including a morphology-based model.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#smallant@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Jiawei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#ustcljw@mail.ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#qubit@ustc.edu.cn
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+Author{4}{Firstname}#=%=#Liusheng
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#lshuang@ustc.edu.cn
+Author{4}{Affiliation}#=%=#University of Science and Technology of China
+
+==========

@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#297
+FinalPaperTitle#=%=#Learning to Control the Specificity in Neural Response Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ruqing Zhang
+JobTitle#==#Student
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences, NO. 6 Kexueyuan South Road, Haidian District, Beijing, P.R.China
+Abstract#==#In conversation, a general response (e.g., ''I don't know'') could correspond
+to a large variety of input utterances. Previous generative conversational
+models usually employ a single model to learn the relationship between
+different utterance-response pairs, thus tend to favor general and trivial
+responses which appear frequently. To address this problem, we propose a novel
+controlled response generation mechanism to handle different utterance-response
+relationships in terms of specificity. Specifically, we introduce an explicit
+specificity control variable into a sequence-to-sequence model, which interacts
+with the usage representation of words through a Gaussian Kernel layer, to
+guide the model to generate responses at different specificity levels. We
+describe two ways to acquire distant labels for the specificity control
+variable in learning. Empirical studies show that our model can significantly
+outperform the state-of-the-art response generation models under both automatic
+and human evaluations.
+Author{1}{Firstname}#=%=#Ruqing
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhangruqing@software.ict.ac.cn
+Author{1}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Jiafeng
+Author{2}{Lastname}#=%=#Guo
+Author{2}{Email}#=%=#guojiafeng@ict.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{3}{Firstname}#=%=#Yixing
+Author{3}{Lastname}#=%=#Fan
+Author{3}{Email}#=%=#fanyixing@software.ict.ac.cn
+Author{3}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Yanyan
+Author{4}{Lastname}#=%=#Lan
+Author{4}{Email}#=%=#lanyanyan@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Email}#=%=#junxu@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{6}{Firstname}#=%=#Xueqi
+Author{6}{Lastname}#=%=#Cheng
+Author{6}{Email}#=%=#cxq@ict.ac.cn
+Author{6}{Affiliation}#=%=#Institute of Computing Technology, CAS
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#876
+FinalPaperTitle#=%=#Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#DONGYU ZHANG
+JobTitle#==#
+Organization#==#
+Abstract#==#Metaphors are frequently used to convey emotions. However, there is little research on the construction of metaphor corpora annotated with emotion for the analysis of emotionality of metaphorical expressions. Furthermore, most studies focus on English, and few in other languages, particularly Sino-Tibetan languages such as Chinese, for emotion analysis from metaphorical texts, although there are likely to be many differences in emotional expressions of metaphorical usages across different languages. We therefore construct a significant new corpus on metaphor, with 5,605 manually annotated sentences in Chinese. We present an annotation scheme that contains annotations of linguistic metaphors, emotional categories (joy, anger, sadness, fear, love, disgust and surprise), and intensity. The annotation agreement analyses for multiple annotators are described. We also use the corpus to explore and analyze the emotionality of metaphors. To the best of our knowledge, this is the first relatively large metaphor corpus with an annotation of emotions in Chinese.
+Author{1}{Firstname}#=%=#Dongyu
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhangdongyuzt78@163.com
+Author{1}{Affiliation}#=%=#School of Software, Dalian University of Technology
+Author{2}{Firstname}#=%=#Hongfei
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#hflin@dlut.edu.cn
+Author{2}{Affiliation}#=%=#DALIAN UNIVERSITY OF TECHNOLOGY
+Author{3}{Firstname}#=%=#Liang
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#liang@dlut.edu.cn
+Author{3}{Affiliation}#=%=#DALIAN UNIVERSITY OF TECHNOLOGY
+Author{4}{Firstname}#=%=#Shaowu
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#zhangsw@dlut.edu.cn
+Author{4}{Affiliation}#=%=#DALIAN UNIVERSITY OF TECHNOLOGY
+Author{5}{Firstname}#=%=#BO
+Author{5}{Lastname}#=%=#XU
+Author{5}{Email}#=%=#xubo2011@mail.dlut.edu.cn
+Author{5}{Affiliation}#=%=#DALIAN UNIVERSITY OF TECHNOLOGY
+
+==========

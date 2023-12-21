@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1238
+FinalPaperTitle#=%=#Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Urvashi Khandelwal
+JobTitle#==#
+Organization#==#Stanford University, Stanford, California, USA
+Abstract#==#We know very little about how neural language models (LM) use prior linguistic context. In this paper, we investigate the role of context in an LSTM LM, through ablation studies. Specifically, we analyze the increase in perplexity when prior context words are shuffled, replaced, or dropped. On two standard datasets, Penn Treebank and WikiText-2, we find that the model is capable of using about 200 tokens of context on average, but sharply distinguishes nearby context (recent 50 tokens) from the distant history. The model is highly sensitive to the order of words within the most recent sentence, but ignores word order in the long-range context (beyond 50 tokens), suggesting the distant past is modeled only as a rough semantic field or topic. We further find that the neural caching model (Grave et al., 2017b) especially helps the LSTM to copy words from within this distant context. Overall, our analysis not only provides a better understanding of how neural LMs use their context, but also sheds light on recent success from cache-based models.
+Author{1}{Firstname}#=%=#Urvashi
+Author{1}{Lastname}#=%=#Khandelwal
+Author{1}{Email}#=%=#urvashik@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#He
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#hhe.xiy@gmail.com
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Qi
+Author{3}{Email}#=%=#pengqi@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Jurafsky
+Author{4}{Email}#=%=#jurafsky@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#137
+FinalPaperTitle#=%=#Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yu Hong
+JobTitle#==#
+Organization#==#Soochow Univiersity, No.1 Shizi ST, Suzhou, China, 215006
+Abstract#==#Due to the ability of encoding and mapping semantic information into a
+high-dimensional latent feature space, neural networks have been successfully
+used for detecting events to a certain extent. However, such a feature space
+can be easily contaminated by spurious features inherent in event detection. In
+this paper, we propose a self-regulated learning approach by utilizing a
+generative adversarial network to generate spurious features. On the basis, we
+employ a recurrent network to eliminate the fakes. Detailed experiments on the
+ACE 2005 and TAC-KBP 2015 corpora show that our proposed method is highly
+effective and adaptable.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Email}#=%=#tianxianer@gmail.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Wenxuan
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#chrisnotkris7@gmail.com
+Author{2}{Affiliation}#=%=#Sochoow University
+Author{3}{Firstname}#=%=#jingli
+Author{3}{Lastname}#=%=#zhang
+Author{3}{Email}#=%=#jlzhang05@gmail.com
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Guodong
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#gdzhou@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Qiaoming
+Author{5}{Lastname}#=%=#Zhu
+Author{5}{Email}#=%=#qmzhu@suda.edu.cn
+Author{5}{Affiliation}#=%=#Soochow University
+
+==========

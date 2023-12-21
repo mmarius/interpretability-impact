@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#1044
+FinalPaperTitle#=%=#Towards Robust Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yong Cheng
+JobTitle#==#Researcher
+Organization#==#Tencent, Silver Tech Tower, HaiDian District, Beijing, China
+Abstract#==#Small perturbations in the input can severely distort intermediate
+representations and thus impact translation quality of neural machine
+translation (NMT) models. In this paper, we propose to improve the robustness
+of NMT models with adversarial stability training. The basic idea is to make
+both the encoder and decoder in NMT models robust against input perturbations
+by enabling them to behave similarly for the original input and its perturbed
+counterpart. Experimental results on Chinese-English, English-German and
+English-French translation tasks show that our approaches can not only achieve
+significant improvements over strong NMT systems but also improve the
+robustness of NMT models.
+Author{1}{Firstname}#=%=#Yong
+Author{1}{Lastname}#=%=#Cheng
+Author{1}{Email}#=%=#chengyong3001@gmail.com
+Author{1}{Affiliation}#=%=#Tencent
+Author{2}{Firstname}#=%=#Zhaopeng
+Author{2}{Lastname}#=%=#Tu
+Author{2}{Email}#=%=#tuzhaopeng@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Fandong
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Email}#=%=#350428698@qq.com
+Author{3}{Affiliation}#=%=#Tencent
+Author{4}{Firstname}#=%=#Junjie
+Author{4}{Lastname}#=%=#Zhai
+Author{4}{Email}#=%=#jasonzhai@tencent.com
+Author{4}{Affiliation}#=%=#Tencent
+Author{5}{Firstname}#=%=#Yang
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#liuyang2011@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+
+==========

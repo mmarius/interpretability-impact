@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1500
+FinalPaperTitle#=%=#Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bingfeng Luo
+JobTitle#==#
+Organization#==#Peking University,  No.5 Yiheyuan Road Haidian District, Beijing, China
+Abstract#==#The success of many natural language processing (NLP) tasks is bound by the number and quality of annotated data, but there is often a shortage of such training data. In this paper, we ask the question: “Can we combine a neural network (NN) with regular expressions (RE) to improve supervised learning for NLP?”. In answer, we develop novel methods to exploit the rich expressiveness of REs at different levels within a NN, showing that the combination significantly enhances the learning effectiveness when a small number of training examples are available. We evaluate our approach by applying it to spoken language understanding for intent detection and slot filling. Experimental results show that our approach is highly effective in exploiting the available training data, giving a clear boost to the RE-unaware NN.
+Author{1}{Firstname}#=%=#Bingfeng
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#bingfeng_luo@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computer Science and Technology, Peking University
+Author{2}{Firstname}#=%=#Yansong
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Email}#=%=#fengyansong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Zheng
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#z.wang@lancaster.ac.uk
+Author{3}{Affiliation}#=%=#Lancaster University
+Author{4}{Firstname}#=%=#Songfang
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#huangsf@cn.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+Author{5}{Firstname}#=%=#Rui
+Author{5}{Lastname}#=%=#Yan
+Author{5}{Email}#=%=#ruiyan@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Dongyan
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Email}#=%=#zhaody@pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+
+==========

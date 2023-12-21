@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1001
+FinalPaperTitle#=%=#Adversarial Contrastive Estimation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Avishek Bose
+JobTitle#==#
+Organization#==#Borealis AI, 101 College St, Suite 350, Toronto
+Abstract#==#Learning by contrasting positive and negative samples is a general strategy adopted by many methods. Noise contrastive estimation (NCE) for word embeddings and translating embeddings for knowledge graphs are examples in NLP employing this approach. In this work, we view contrastive learning as an abstraction of all such methods and augment the negative sampler into a mixture distribution containing an adversarially learned sampler. The resulting adaptive sampler finds harder negative examples, which forces the main model to learn a better representation of the data. We evaluate our proposal on learning word embeddings, order embeddings and knowledge graph embeddings and observe both faster convergence and improved results on multiple metrics.
+Author{1}{Firstname}#=%=#Avishek Joey
+Author{1}{Lastname}#=%=#Bose
+Author{1}{Email}#=%=#joey.bosr@gmail.com
+Author{1}{Affiliation}#=%=#Borealis AI
+Author{2}{Firstname}#=%=#huan
+Author{2}{Lastname}#=%=#ling
+Author{2}{Email}#=%=#huan.ling@borealisai.com
+Author{2}{Affiliation}#=%=#Borealis AI
+Author{3}{Firstname}#=%=#Yanshuai
+Author{3}{Lastname}#=%=#Cao
+Author{3}{Email}#=%=#yanshuai.cao@borealisai.com
+Author{3}{Affiliation}#=%=#Borealis AI
+
+==========

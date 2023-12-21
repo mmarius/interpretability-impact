@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#152
+FinalPaperTitle#=%=#Continuous Learning in a Hierarchical Multiscale Neural Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Thomas Wolf
+JobTitle#==#
+Organization#==#HuggingFace Inc. 81 Prospect St. Brooklyn, New-York 11201, USA
+Abstract#==#We reformulate the problem of encoding a multi-scale representation of a
+sequence  in a language model by casting it in a continuous learning framework.
+We propose a hierarchical multi-scale language model in which short time-scale
+dependencies are encoded in the hidden state of a lower-level recurrent neural
+network while longer time-scale dependencies are encoded in the dynamic of the
+lower-level network by having a meta-learner update the weights of the
+lower-level neural network in an online meta-learning fashion. We use elastic
+weights consolidation as a higher-level to prevent catastrophic forgetting in
+our continuous learning framework.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Wolf
+Author{1}{Email}#=%=#thomwolf@gmail.com
+Author{1}{Affiliation}#=%=#HuggingFace Inc.
+Author{2}{Firstname}#=%=#Julien
+Author{2}{Lastname}#=%=#Chaumond
+Author{2}{Email}#=%=#julien@huggingface.co
+Author{2}{Affiliation}#=%=#HuggingFace Inc.
+Author{3}{Firstname}#=%=#Clement
+Author{3}{Lastname}#=%=#Delangue
+Author{3}{Email}#=%=#clement@huggingface.co
+Author{3}{Affiliation}#=%=#HuggingFace Inc.
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#975
+FinalPaperTitle#=%=#Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gourab Kundu
+JobTitle#==#
+Organization#==#IBM Research
+Abstract#==#We propose an entity-centric neural crosslingual coreference model that builds
+on multi-lingual embeddings and language independent features. We perform both
+intrinsic and extrinsic evaluations of our model. In the intrinsic evaluation,
+we show that our model, when trained on English and tested on Chinese and
+Spanish,
+achieves competitive results to the models trained directly on Chinese and
+Spanish respectively. In the extrinsic evaluation, we show that our English
+model
+helps achieve superior entity linking accuracy on Chinese and Spanish test sets
+than the top 2015 TAC system without using any annotated data from Chinese or
+Spanish.
+Author{1}{Firstname}#=%=#Gourab
+Author{1}{Lastname}#=%=#Kundu
+Author{1}{Email}#=%=#gourab.kundu08@gmail.com
+Author{1}{Affiliation}#=%=#IBM T.J. Watson Research Center
+Author{2}{Firstname}#=%=#Avi
+Author{2}{Lastname}#=%=#Sil
+Author{2}{Email}#=%=#avi@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research AI
+Author{3}{Firstname}#=%=#Radu
+Author{3}{Lastname}#=%=#Florian
+Author{3}{Email}#=%=#raduf@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Wael
+Author{4}{Lastname}#=%=#Hamza
+Author{4}{Email}#=%=#whamza@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research AI
+
+==========

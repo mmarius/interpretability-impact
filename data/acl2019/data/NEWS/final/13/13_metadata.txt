@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Neural Machine Translation Techniques for Named Entity Transliteration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Roman Grundkiewicz
+JobTitle#==#
+Organization#==#
+Abstract#==#Transliterating named entities from one language into another can be approached as neural machine translation (NMT) problem, for which we use deep attentional RNN encoder-decoder models.  To build a strong transliteration system, we apply well-established techniques from NMT, such as dropout regularization, model ensembling, rescoring with right-to-left models, and back-translation.  Our submission to the NEWS 2018 Shared Task on Named Entity Transliteration ranked first in several tracks.
+Author{1}{Firstname}#=%=#Roman
+Author{1}{Lastname}#=%=#Grundkiewicz
+Author{1}{Email}#=%=#rgrundki@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{2}{Firstname}#=%=#Kenneth
+Author{2}{Lastname}#=%=#Heafield
+Author{2}{Email}#=%=#softconf@kheafield.com
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

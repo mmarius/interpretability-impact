@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#539
+FinalPaperTitle#=%=#Guess Me if You Can: Acronym Disambiguation for Enterprises
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yang Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Acronyms are abbreviations formed from the initial components of words or
+phrases. In enterprises, people often use acronyms to make communications more
+efficient. However, acronyms could be difficult to understand for people who
+are not familiar with the subject matter (new employees, etc.), thereby
+affecting productivity. To alleviate such troubles, we study how to
+automatically resolve the true meanings of acronyms in a given context. Acronym
+disambiguation for enterprises is challenging for several reasons. First,
+acronyms may be highly ambiguous since an acronym used in the enterprise could
+have multiple internal and external meanings. Second, there are usually no
+comprehensive knowledge bases such as Wikipedia available in enterprises.
+Finally, the system should be generic to work for any enterprise. In this work
+we propose an end-to-end framework to tackle all these challenges. The
+framework takes the enterprise corpus as input and produces a high-quality
+acronym disambiguation system as output. Our disambiguation models are trained
+via distant supervised learning, without requiring any manually labeled
+training examples. Therefore, our proposed framework can be deployed to any
+enterprise to support high-quality acronym disambiguation. Experimental results
+on real world data justified the effectiveness of our system.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#ngli@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Bo
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Email}#=%=#bo.zhao.uiuc@gmail.com
+Author{2}{Affiliation}#=%=#Pinterest
+Author{3}{Firstname}#=%=#Ariel
+Author{3}{Lastname}#=%=#Fuxman
+Author{3}{Email}#=%=#afuxman@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Fangbo
+Author{4}{Lastname}#=%=#Tao
+Author{4}{Email}#=%=#fangbo.tao@gmail.com
+Author{4}{Affiliation}#=%=#Facebook
+
+==========

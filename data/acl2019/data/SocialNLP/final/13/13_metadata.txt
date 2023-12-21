@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#A Crowd-Annotated Spanish Corpus for Humor Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Santiago Castro
+JobTitle#==#
+Organization#==#
+Abstract#==#Computational Humor involves several tasks, such as humor recognition, humor generation, and humor scoring, for which it is useful to have human-curated data. In this work we present a corpus of 27,000 tweets written in Spanish and crowd-annotated by their humor value and funniness score, with about four annotations per tweet, tagged by 1,300 people over the Internet. It is equally divided between tweets coming from humorous and non-humorous accounts. The inter-annotator agreement Krippendorff's alpha value is 0.5710. The dataset is available for general usage and can serve as a basis for humor detection and as a first step to tackle subjectivity.
+Author{1}{Firstname}#=%=#Santiago
+Author{1}{Lastname}#=%=#Castro
+Author{1}{Email}#=%=#sacastro@fing.edu.uy
+Author{1}{Affiliation}#=%=#Universidad de la República
+Author{2}{Firstname}#=%=#Luis
+Author{2}{Lastname}#=%=#Chiruzzo
+Author{2}{Email}#=%=#luischir@fing.edu.uy
+Author{2}{Affiliation}#=%=#Universidad de la República
+Author{3}{Firstname}#=%=#Aiala
+Author{3}{Lastname}#=%=#Rosá
+Author{3}{Email}#=%=#aialar@fing.edu.uy
+Author{3}{Affiliation}#=%=#Universidad de la República
+Author{4}{Firstname}#=%=#Diego
+Author{4}{Lastname}#=%=#Garat
+Author{4}{Email}#=%=#dgarat@fing.edu.uy
+Author{4}{Affiliation}#=%=#Universidad de la República
+Author{5}{Firstname}#=%=#Guillermo
+Author{5}{Lastname}#=%=#Moncecchi
+Author{5}{Email}#=%=#gmonce@fing.edu.uy
+Author{5}{Affiliation}#=%=#Universidad de la República
+
+==========

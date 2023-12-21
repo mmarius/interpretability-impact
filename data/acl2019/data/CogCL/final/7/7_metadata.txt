@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#A Sound and Complete Left-Corner Parsing for Minimalist Grammars
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Milos Stanojevic
+JobTitle#==#
+Organization#==#University of Edinburgh
+Abstract#==#This paper presents a left-corner parser for minimalist grammars. The relation between the parser and the grammar is transparent in the sense that there is a very simple 1-1 correspondence between derivations and parses. Like left-corner context-free parsers, left-corner minimalist parsers can be non-terminating when the grammar has empty left corners, so an easily computed left-corner oracle is defined to restrict the search.
+Author{1}{Firstname}#=%=#Miloš
+Author{1}{Lastname}#=%=#Stanojević
+Author{1}{Email}#=%=#milosh.stanojevic@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Edward
+Author{2}{Lastname}#=%=#Stabler
+Author{2}{Email}#=%=#stabler@ucla.edu
+Author{2}{Affiliation}#=%=#UCLA
+
+==========

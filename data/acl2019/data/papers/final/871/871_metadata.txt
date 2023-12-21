@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#871
+FinalPaperTitle#=%=#Aspect Based Sentiment Analysis with Gated Convolutional Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wei Xue
+JobTitle#==#Student
+Organization#==#Florida International University, 11200 SW 8th St, Miami, FL 33199
+Abstract#==#Aspect based sentiment analysis (ABSA) can provide more detailed information than general sentiment analysis, because it aims to predict the sentiment polarities of the given aspects or entities in text. We summarize previous approaches into two subtasks: aspect-category sentiment analysis (ACSA) and aspect-term sentiment analysis (ATSA). Most previous approaches employ long short-term memory and attention mechanisms to predict the sentiment polarity of the concerned targets, which are often complicated and need more training time.
+
+We propose a model based on convolutional neural networks and gating mechanisms, which is more accurate and efficient. First, the novel Gated Tanh-ReLU Units can selectively output the sentiment features according to the given aspect or entity. The architecture is much simpler than attention layer used in the existing models. Second, the computations of our model could be easily parallelized during training, because convolutional layers do not have time dependency as in LSTM layers, and gating units also work independently.
+The experiments on SemEval datasets demonstrate the efficiency and effectiveness of our models.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Xue
+Author{1}{Email}#=%=#wxue004@cs.fiu.edu
+Author{1}{Affiliation}#=%=#Florida International University
+Author{2}{Firstname}#=%=#Tao
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#taoli@cs.fiu.edu
+Author{2}{Affiliation}#=%=#Florida International University
+
+==========

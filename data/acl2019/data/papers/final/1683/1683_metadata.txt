@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1683
+FinalPaperTitle#=%=#Dating Documents using Graph Convolution Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shikhar Vashishth
+JobTitle#==#
+Organization#==#Indian Institute of Science, Bangalore, India
+Abstract#==#Document date is essential for many important tasks, such as document retrieval, summarization, event detection, etc. While existing approaches for these tasks assume accurate knowledge of the document date, this is not always available, especially for arbitrary documents from the Web. Document Dating is a challenging problem which requires inference over the temporal structure of the document. Prior document dating systems have largely relied on handcrafted features while ignoring such document-internal structures. In this paper, we propose NeuralDater, a Graph Convolutional Network (GCN) based document dating approach which jointly exploits syntactic and temporal graph structures of document in a principled way. To the best of our knowledge, this is the first application of deep learning for the problem of document dating. Through extensive experiments on real-world datasets, we find that NeuralDater significantly outperforms state-of-the-art baseline by 19% absolute (45% relative) accuracy points.
+Author{1}{Firstname}#=%=#Shikhar
+Author{1}{Lastname}#=%=#Vashishth
+Author{1}{Email}#=%=#shikhar@iisc.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Science
+Author{2}{Firstname}#=%=#Shib Sankar
+Author{2}{Lastname}#=%=#Dasgupta
+Author{2}{Email}#=%=#shibd@iisc.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute of Science
+Author{3}{Firstname}#=%=#Swayambhu Nath
+Author{3}{Lastname}#=%=#Ray
+Author{3}{Email}#=%=#swayambhuray@iisc.ac.in
+Author{3}{Affiliation}#=%=#Indian Institute of Science
+Author{4}{Firstname}#=%=#Partha
+Author{4}{Lastname}#=%=#Talukdar
+Author{4}{Email}#=%=#ppt@iisc.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Science
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Ontology alignment in the biomedical domain using entity definitions and context
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Lucy Lu Wang
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#Ontology alignment is the task of identifying semantically equivalent entities from two given ontologies. Different ontologies have different representations of the same entity, resulting in a need to de-duplicate entities when merging ontologies. We propose a method for enriching entities in an ontology with external definition and context information, and use this additional information for ontology alignment. We develop a neural architecture capable of encoding the additional information when available, and show that the addition of external data results in an F1-score of 0.69 on the Ontology Alignment Evaluation Initiative (OAEI) largebio SNOMED-NCI subtask, comparable with the entity-level matchers in a SOTA system.
+Author{1}{Firstname}#=%=#Lucy
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#lucylw@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Chandra
+Author{2}{Lastname}#=%=#Bhagavatula
+Author{2}{Email}#=%=#chandrab@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Neumann
+Author{3}{Email}#=%=#markn@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#Kyle
+Author{4}{Lastname}#=%=#Lo
+Author{4}{Email}#=%=#kylel@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{5}{Firstname}#=%=#Chris
+Author{5}{Lastname}#=%=#Wilhelm
+Author{5}{Email}#=%=#chrisw@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{6}{Firstname}#=%=#Waleed
+Author{6}{Lastname}#=%=#Ammar
+Author{6}{Email}#=%=#waleed.ammar@gmail.com
+Author{6}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+
+==========

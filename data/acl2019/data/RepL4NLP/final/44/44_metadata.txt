@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#Jointly Embedding Entities and Text with Distant Supervision
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Learning representations for knowledge base entities and concepts is becoming increasingly important for NLP applications.  However, recent entity embedding methods have relied on structured resources that are expensive to create for new domains and corpora.  We present a distantly-supervised method for jointly learning embeddings of entities and text from an unnanotated corpus, using only a list of mappings between entities and surface forms.  We learn embeddings from open-domain and biomedical corpora, and compare against prior methods that rely on human-annotated text or large knowledge graph structure.  Our embeddings capture entity similarity and relatedness better than prior work, both in existing biomedical datasets and a new Wikipedia-based dataset that we release to the community. Results on analogy completion and entity sense disambiguation indicate that entities and words capture complementary information that can be effectively combined for downstream use.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Newman-Griffis
+Author{1}{Email}#=%=#newman-griffis.1@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Albert M.
+Author{2}{Lastname}#=%=#Lai
+Author{2}{Email}#=%=#albert.lai@osumc.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Eric
+Author{3}{Lastname}#=%=#Fosler-Lussier
+Author{3}{Email}#=%=#fosler@cse.ohio-state.edu
+Author{3}{Affiliation}#=%=#The Ohio State University
+
+==========

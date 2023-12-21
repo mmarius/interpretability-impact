@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1487
+FinalPaperTitle#=%=#Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Pankaj Kumar
+JobTitle#==#
+Organization#==#Indian Institute of Technology, Delhi
+Abstract#==#State-of-the-art knowledge base completion (KBC) models predict a score for
+every known or unknown fact via a latent factorization over entity and relation
+embeddings. We observe that when they fail, they often make entity predictions
+that are incompatible with the type required by the relation. In response, we
+enhance each base factorization with two type-compatibility terms between
+entity-relation pairs, and combine the signals in a novel manner. Without
+explicit supervision from a type catalog, our proposed modification obtains up
+to 7% MRR gains over base models, and new state-of-the-art results on several
+datasets.  Further analysis reveals that our models better represent the latent
+types of entities and their embeddings also predict supervised types better
+than the embeddings fitted by baseline models.
+Author{1}{Firstname}#=%=#Prachi
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#p6.jain@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Delhi
+Author{2}{Firstname}#=%=#Pankaj
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Email}#=%=#pankajkumaryadav1997@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Delhi
+Author{3}{Firstname}#=%=#Mausam
+Author{3}{Lastname}#=%=#-
+Author{3}{Email}#=%=#mausam@cs.washington.edu
+Author{3}{Affiliation}#=%=#Indian Institute of Technology, Delhi
+Author{4}{Firstname}#=%=#Soumen
+Author{4}{Lastname}#=%=#Chakrabarti
+Author{4}{Email}#=%=#soumen.chakrabarti@gmail.com
+Author{4}{Affiliation}#=%=#IIT Bombay
+
+==========

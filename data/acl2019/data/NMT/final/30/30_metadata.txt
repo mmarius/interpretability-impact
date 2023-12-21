@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Findings of the Second Workshop on Neural Machine Translation and Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Andrew Finch
+JobTitle#==#
+Organization#==#Apple Inc, Cupertino CA
+Abstract#==#This document describes the findings of the Second Workshop on Neural Machine Translation and Generation, held in concert with the annual conference of the Association for Computational Linguistics (ACL 2018). First, we summarize the research trends of papers presented in the proceedings, and note that there is particular interest in linguistic structure, domain adaptation, data augmentation, handling inadequate resources, and analysis of models. Second, we describe the results of the workshop’s shared task on efficient neural machine translation, where participants were tasked with creating MT systems that are both accurate and efficient.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Birch
+Author{1}{Email}#=%=#lexi.birch@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#Finch
+Author{2}{Email}#=%=#andrew.finch@gmail.com
+Author{2}{Affiliation}#=%=#Apple Inc.
+Author{3}{Firstname}#=%=#Minh-Thang
+Author{3}{Lastname}#=%=#Luong
+Author{3}{Email}#=%=#luong.m.thang@gmail.com
+Author{3}{Affiliation}#=%=#Google Brain
+Author{4}{Firstname}#=%=#Graham
+Author{4}{Lastname}#=%=#Neubig
+Author{4}{Email}#=%=#gneubig@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Yusuke
+Author{5}{Lastname}#=%=#Oda
+Author{5}{Email}#=%=#yus.takara@gmail.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

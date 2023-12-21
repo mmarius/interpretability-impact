@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Named-Entity Tagging and Domain adaptation for Better Customized Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Customized translation need pay spe-cial attention to the target domain ter-minology especially the named-entities for the domain. Adding linguistic features to neural machine translation (NMT) has been shown to benefit translation in many studies. In this paper, we further demonstrate that adding named-entity (NE) feature with named-entity recognition (NER) into the source language produces better translation with NMT. Our experiments show that by just including the different NE classes and boundary tags, we can increase the BLEU score by around 1 to 2 points using the standard test sets from WMT2017. We also show that adding NE tags using NER and applying in-domain adaptation can be combined to further improve customized machine translation.
+Author{1}{Firstname}#=%=#Zhongwei
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#ZLI017@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Xuancong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#xuancong84@gmail.com
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#AiTi
+Author{3}{Lastname}#=%=#Aw
+Author{3}{Email}#=%=#aaiti@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#Institute for Infocomm Research
+Author{4}{Firstname}#=%=#Eng Siong
+Author{4}{Lastname}#=%=#Chng
+Author{4}{Email}#=%=#aseschng@ntu.edu.sg
+Author{4}{Affiliation}#=%=#Nanyang Technological University
+Author{5}{Firstname}#=%=#Haizhou
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#hzli@ieee.org
+Author{5}{Affiliation}#=%=#National University of Singapore
+
+==========

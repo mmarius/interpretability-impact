@@ -1,0 +1,15 @@
+abbrev WNMT2018
+type WORKSHOP
+title The 2nd Workshop on Neural Machine Translation and Generation
+url https://sites.google.com/site/wnmt18
+booktitle Proceedings of the 2nd Workshop on Neural Machine Translation and Generation
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Alexandra Birch (Edinburgh)
+chairs Andrew Finch (Apple)
+chairs Thang Luong (Google)
+chairs Graham Neubig (CMU)
+chairs Yusuke Oda (Google)
+bib_url http://www.aclweb.org/anthology/W18-27%02d

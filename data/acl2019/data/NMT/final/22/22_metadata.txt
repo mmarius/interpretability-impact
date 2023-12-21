@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Multi-Source Neural Machine Translation with Missing Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yuta Nishimura
+JobTitle#==#
+Organization#==#Nara Institute of Science and Technology 8916-5 Takayamacho, Ikoma, Nara 630-0192, Japan
+Abstract#==#Multi-source translation is an approach to exploit multiple inputs (e.g. in two different languages) to increase translation accuracy.
+  In this paper, we examine approaches for multi-source neural machine translation (NMT) using an incomplete multilingual corpus in which some translations are missing.
+  In practice, many multilingual corpora are not complete due to the difficulty to provide translations in all of the relevant languages (for example, in TED talks, most English talks only have subtitles for a small portion of the languages that TED supports).
+  Existing studies on multi-source translation did not explicitly handle such situations.
+  This study focuses on the use of incomplete multilingual corpora in multi-encoder NMT and mixture of NMT experts and examines a very simple implementation where missing source translations are replaced by a special symbol <NULL>.
+  These methods allow us to use incomplete corpora both at training time and test time.
+  In experiments with real incomplete multilingual corpora of TED Talks, the multi-source NMT with the <NULL> tokens achieved higher translation accuracies measured by BLEU than those by any one-to-one NMT systems.
+Author{1}{Firstname}#=%=#Yuta
+Author{1}{Lastname}#=%=#Nishimura
+Author{1}{Email}#=%=#nishimura.yuta.nn9@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Katsuhito
+Author{2}{Lastname}#=%=#Sudoh
+Author{2}{Email}#=%=#sudoh@is.naist.jp
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology (NAIST)
+Author{3}{Firstname}#=%=#Graham
+Author{3}{Lastname}#=%=#Neubig
+Author{3}{Email}#=%=#gneubig@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Satoshi
+Author{4}{Lastname}#=%=#Nakamura
+Author{4}{Email}#=%=#s-nakamura@is.naist.jp
+Author{4}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

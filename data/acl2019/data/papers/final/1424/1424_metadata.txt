@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1424
+FinalPaperTitle#=%=#A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Benjamin Nye
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a corpus of 5,000 richly annotated abstracts of medical articles
+describing clinical randomized controlled trials. Annotations include
+demarcations of text spans that describe the Patient population enrolled, the
+Interventions studied and to what they were Compared, and the Outcomes measured
+(the `PICO' elements). These spans are further annotated at a more granular
+level, e.g., individual interventions within them are marked and mapped onto a
+structured medical vocabulary. We acquired annotations from a diverse set of
+workers with varying levels of expertise and cost. We describe our data
+collection process and the corpus itself in detail. We then outline a set of
+challenging NLP tasks that would aid searching of the medical literature and
+the practice of evidence-based medicine.
+Author{1}{Firstname}#=%=#Benjamin
+Author{1}{Lastname}#=%=#Nye
+Author{1}{Email}#=%=#bepnye@gmail.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Junyi Jessy
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#jessy@austin.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Roma
+Author{3}{Lastname}#=%=#Patel
+Author{3}{Email}#=%=#romap@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Yinfei
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#yangyin7@gmail.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Iain
+Author{5}{Lastname}#=%=#Marshall
+Author{5}{Email}#=%=#mail@ijmarshall.com
+Author{5}{Affiliation}#=%=#Department of Primary Care and Public Health Sciences, King's College
+Author{6}{Firstname}#=%=#Ani
+Author{6}{Lastname}#=%=#Nenkova
+Author{6}{Email}#=%=#nenkova@seas.upenn.edu
+Author{6}{Affiliation}#=%=#University of Pennsylvania
+Author{7}{Firstname}#=%=#Byron
+Author{7}{Lastname}#=%=#Wallace
+Author{7}{Email}#=%=#b.wallace@northeastern.edu
+Author{7}{Affiliation}#=%=#Northeastern University
+
+==========

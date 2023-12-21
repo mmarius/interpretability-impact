@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Political discourse classification in social networks using context sensitive convolutional neural networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Aritz Bilbao-Jayo
+JobTitle#==#
+Organization#==#
+Abstract#==#In this study we propose a new approach to analyse the political discourse in on-line social networks such as Twitter. To do so, we have built a discourse classifier using Convolutional Neural Networks. Our model has been trained using election manifestos annotated manually by political scientists following the Regional Manifestos Project (RMP) methodology. In total, it has been trained with more than 88,000 sentences extracted from more that 100 annotated manifestos. Our approach takes into account the context of the phrase in order to classify it, like what was previously said and the political affiliation of the transmitter. To improve the classification results we have used a simplified political message taxonomy developed within the Electronic Regional Manifestos Project (E-RMP). Using this taxonomy, we have validated our approach analysing the Twitter activity of the main Spanish political parties during 2015 and 2016 Spanish general election and providing a study of their discourse.
+Author{1}{Firstname}#=%=#Aritz
+Author{1}{Lastname}#=%=#Bilbao-Jayo
+Author{1}{Email}#=%=#aritzbilbao@deusto.es
+Author{1}{Affiliation}#=%=#DeustoTech - Fundación Deusto
+Author{2}{Firstname}#=%=#Aitor
+Author{2}{Lastname}#=%=#Almeida
+Author{2}{Email}#=%=#aitor.almeida@deusto.es
+Author{2}{Affiliation}#=%=#DeustoTech - Fundación Deusto
+
+==========

@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#84
+FinalPaperTitle#=%=#A Deep Relevance Model for Zero-Shot Document Filtering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chenliang Li
+JobTitle#==#Assoc Prof
+Organization#==#School of Cyber Science and Engineering, Wuhan University, Wuhan, China, 430075
+Abstract#==#In the era of big data, focused analysis for diverse topics with a short
+response time becomes an urgent demand. As a fundamental task, information
+filtering therefore becomes a critical necessity. In this paper, we propose a
+novel deep relevance model for zero-shot document filtering, named DAZER. DAZER
+estimates the relevance between a document and a category by taking a small set
+of seed words relevant to the category. With pre-trained word embeddings from a
+large external corpus, DAZER is devised to extract the relevance signals by
+modeling the hidden feature interactions in the word embedding space. The
+relevance signals are extracted through a gated convolutional process. The gate
+mechanism controls which convolution filters output the relevance signals in a
+category dependent manner. Experiments on two document collections of two
+different tasks (i.e., topic categorization and sentiment analysis) demonstrate
+that DAZER significantly outperforms the existing alternative solutions,
+including the state-of-the-art deep relevance ranking models.
+Author{1}{Firstname}#=%=#Chenliang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#cllee@whu.edu.cn
+Author{1}{Affiliation}#=%=#Wuhan University
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#fayi.zw@alibaba-inc.com
+Author{2}{Affiliation}#=%=#Alibaba Group
+Author{3}{Firstname}#=%=#Feng
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Email}#=%=#zhongxiu.jf@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Yu
+Author{4}{Lastname}#=%=#Duan
+Author{4}{Email}#=%=#duanyu@whu.edu.cn
+Author{4}{Affiliation}#=%=#Wuhan University
+Author{5}{Firstname}#=%=#Haiqing
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#haiqing.chenhq@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba Group
+
+==========

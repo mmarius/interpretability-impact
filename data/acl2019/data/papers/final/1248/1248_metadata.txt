@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1248
+FinalPaperTitle#=%=#Backpropagating through Structured Argmax using a SPIGOT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hao Peng
+JobTitle#==#
+Organization#==#Paul G. Allen Center for Computer Science & Engineering, University of Washington, 185 E Stevens Way NE, Seattle, WA 98195
+Abstract#==#We introduce structured projection of intermediate gradients (SPIGOT), a
+new method for backpropagating through neural networks that include
+hard-decision structured predictions (e.g., parsing) in intermediate layers.
+SPIGOT requires no marginal inference, unlike structured
+attention networks and reinforcement learning-inspired solutions.
+Like so-called straight-through estimators, 
+SPIGOT defines gradient-like quantities associated with
+intermediate nondifferentiable operations, allowing backpropagation
+before and after them; SPIGOT's proxy aims to ensure that, after
+a parameter update, the intermediate structure will remain well-formed.
+
+We experiment on two structured NLP pipelines: syntactic-then-semantic
+dependency parsing, and semantic parsing
+followed by sentiment classification.
+We show that training with SPIGOT leads to a larger improvement on the
+downstream
+task than a modularly-trained pipeline, the straight-through estimator,
+and structured attention, reaching a new state of the art on semantic
+dependency parsing.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#hapeng@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Sam
+Author{2}{Lastname}#=%=#Thomson
+Author{2}{Email}#=%=#sthomson@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

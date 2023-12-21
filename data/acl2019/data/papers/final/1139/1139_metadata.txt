@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1139
+FinalPaperTitle#=%=#Temporal Event Knowledge Acquisition via Identifying Narratives
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenlin Yao
+JobTitle#==#
+Organization#==#Texas A&M University
+Abstract#==#Inspired by the double temporality characteristic of narrative texts, we
+propose a novel approach for acquiring rich temporal ``before/after'' event
+knowledge across sentences in narrative stories. The double temporality states
+that a narrative story often describes a sequence of events following the
+chronological order and therefore, the temporal order of events matches with
+their textual order. 
+We explored narratology principles and built a weakly supervised approach that
+identifies 287k narrative paragraphs from three large corpora. 
+We then extracted rich temporal event knowledge from these narrative
+paragraphs. Such event knowledge is shown useful to improve temporal relation
+classification and outperforms several recent neural network models on the
+narrative cloze task.
+Author{1}{Firstname}#=%=#Wenlin
+Author{1}{Lastname}#=%=#Yao
+Author{1}{Email}#=%=#wenlinyao@tamu.edu
+Author{1}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+Author{2}{Firstname}#=%=#Ruihong
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangrh@cse.tamu.edu
+Author{2}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1323
+FinalPaperTitle#=%=#What Action Causes This? Towards Naive Physical Action-Effect Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Qiaozi Gao
+JobTitle#==#
+Organization#==#Michigan State University, 220 Trowbridge Rd, East Lansing, MI 48824, USA
+Abstract#==#Despite recent advances in knowledge representation, automated reasoning, and machine learning, artificial agents still lack the ability to understand basic action-effect relations regarding the physical world, for example, the action of cutting a cucumber most likely leads to the state where the cucumber is broken apart into smaller pieces. If artificial agents (e.g., robots) ever become our partners in joint tasks, it is critical to empower them with such action-effect understanding so that they can reason about the state of the world and plan for actions. Towards this goal, this paper introduces a new task on naive physical action-effect prediction, which addresses the relations between concrete actions (expressed in the form of verb-noun pairs) and their effects on the state of the physical world as depicted by images. We collected a dataset for this task and developed an approach that harnesses web image data through distant supervision to facilitate learning for action-effect prediction. Our empirical results have shown that web data can be used to complement a small number of seed examples (e.g., three examples for each action) for model learning. This opens up possibilities for agents to learn physical action-effect relations for tasks at hand through communication with humans with a few examples.
+Author{1}{Firstname}#=%=#Qiaozi
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#qiaozikl@gmail.com
+Author{1}{Affiliation}#=%=#Michigan State University
+Author{2}{Firstname}#=%=#Shaohua
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yangshao@cse.msu.edu
+Author{2}{Affiliation}#=%=#michigan state university
+Author{3}{Firstname}#=%=#Joyce
+Author{3}{Lastname}#=%=#Chai
+Author{3}{Email}#=%=#jchai@cse.msu.edu
+Author{3}{Affiliation}#=%=#Michigan State University
+Author{4}{Firstname}#=%=#Lucy
+Author{4}{Lastname}#=%=#Vanderwende
+Author{4}{Email}#=%=#lucy_vanderwende@live.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

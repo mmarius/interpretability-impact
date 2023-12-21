@@ -1,0 +1,66 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Texar: A Modularized, Versatile, and Extensible Toolbox for Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhiting Hu
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We introduce Texar, an open-source toolkit aiming to support the broad set of text generation tasks. Different from many existing toolkits that are specialized for specific applications (e.g., neural machine translation), Texar is designed to be highly flexible and versatile. This is achieved by abstracting the common patterns underlying the diverse tasks and methodologies, creating a library of highly reusable modules and functionalities, and enabling arbitrary model architectures and various algorithmic paradigms. The features make Texar particularly suitable for technique sharing and generalization across different text generation applications. The toolkit emphasizes heavily on extensibility and modularized system design, so that components can be freely plugged in or swapped out. We conduct extensive experiments and case studies to demonstrate the use and advantage of the toolkit.
+Author{1}{Firstname}#=%=#Zhiting
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#zhitingh@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Zichao
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#zichaoy@cs.cmu.edu
+Author{2}{Affiliation}#=%=#CMU
+Author{3}{Firstname}#=%=#Tiancheng
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#tianchez@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{4}{Firstname}#=%=#Haoran
+Author{4}{Lastname}#=%=#Shi
+Author{4}{Email}#=%=#shr970423@gmail.com
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Junxian
+Author{5}{Lastname}#=%=#He
+Author{5}{Email}#=%=#junxianh@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Di
+Author{6}{Lastname}#=%=#Wang
+Author{6}{Email}#=%=#diwang@cs.cmu.edu
+Author{6}{Affiliation}#=%=#School of Computer Science, Carnegie Mellon University
+Author{7}{Firstname}#=%=#Xuezhe
+Author{7}{Lastname}#=%=#Ma
+Author{7}{Email}#=%=#xuezhem@cs.cmu.edu
+Author{7}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{8}{Firstname}#=%=#Zhengzhong
+Author{8}{Lastname}#=%=#Liu
+Author{8}{Email}#=%=#liu@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+Author{9}{Firstname}#=%=#Xiaodan
+Author{9}{Lastname}#=%=#Liang
+Author{9}{Email}#=%=#xdliang328@gmail.com
+Author{9}{Affiliation}#=%=#Carnegie Mellon University
+Author{10}{Firstname}#=%=#Lianhui
+Author{10}{Lastname}#=%=#Qin
+Author{10}{Email}#=%=#qinlianhui@sjtu.edu.cn
+Author{10}{Affiliation}#=%=#Department of Computer Science and Engineering, Shanghai Jiao Tong University
+Author{11}{Firstname}#=%=#Devendra Singh
+Author{11}{Lastname}#=%=#Chaplot
+Author{11}{Email}#=%=#chaplot@cs.cmu.edu
+Author{11}{Affiliation}#=%=#Carnegie Mellon University
+Author{12}{Firstname}#=%=#Bowen
+Author{12}{Lastname}#=%=#Tan
+Author{12}{Email}#=%=#kevintanyuqian@gmail.com
+Author{12}{Affiliation}#=%=#Carnegie Mellon University
+Author{13}{Firstname}#=%=#Xingjiang
+Author{13}{Lastname}#=%=#Yu
+Author{13}{Email}#=%=#yuxj1997@gmail.com
+Author{13}{Affiliation}#=%=#Carnegie Mellon University
+Author{14}{Firstname}#=%=#Eric
+Author{14}{Lastname}#=%=#Xing
+Author{14}{Email}#=%=#epxing@cs.cmu.edu
+Author{14}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

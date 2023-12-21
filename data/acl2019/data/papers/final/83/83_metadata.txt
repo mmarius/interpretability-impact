@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#83
+FinalPaperTitle#=%=#Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Bo Chen
+JobTitle#==#
+Organization#==#ISCAS, Beijing, China
+Abstract#==#This paper proposes a neural semantic parsing approach -- Sequence-to-Action, which models semantic parsing as an end-to-end semantic graph generation process. Our method simultaneously leverages the advantages from two recent promising directions of semantic parsing. Firstly, our model uses a semantic graph to represent the meaning of a sentence, which has a tight-coupling with knowledge bases. Secondly, by leveraging the powerful representation learning and prediction ability of neural network models, we propose a RNN model which can effectively map sentences to action sequences for semantic graph generation. Experiments show that our method achieves state-of-the-art performance on Overnight dataset and gets competitive performance on Geo and Atis datasets.
+Author{1}{Firstname}#=%=#Bo
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chenbo@nfs.iscas.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Le
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#lesunle@163.com
+Author{2}{Affiliation}#=%=#ISCAS
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#hanxianpei@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+
+==========

@@ -1,0 +1,62 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jing Liu
+JobTitle#==#
+Organization#==#Baidu Inc.
+Abstract#==#This paper introduces DuReader, a new large-scale, open-domain Chinese machine reading comprehension (MRC) dataset, designed to address real-world MRC. DuReader has three advantages over previous MRC datasets: (1) data sources: questions and documents are based on Baidu Search and Baidu Zhidao; answers are manually generated. (2) question types: it provides rich annotations for more question types, especially yes-no and opinion questions, that leaves more opportunity for the research community. (3) scale: it contains 200K questions, 420K answers and 1M documents; it is the largest Chinese MRC dataset so far. Experiments show that human performance is well above current state-of-the-art baseline systems, leaving plenty of room for the community to make improvements. To help the community make these improvements, both DuReader and baseline systems have been posted online. We also organize a shared competition to encourage the exploration of more models. Since the release of the task, there are significant improvements over the baselines.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#hewei06@baidu.com
+Author{1}{Affiliation}#=%=#Baidu Inc.
+Author{2}{Firstname}#=%=#Kai
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#lkliukai1987@163.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Jing
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#jliu@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Yajuan
+Author{4}{Lastname}#=%=#Lyu
+Author{4}{Email}#=%=#lvyajuan@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Company
+Author{5}{Firstname}#=%=#Shiqi
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Email}#=%=#zhaoshiqi@baidu.com
+Author{5}{Affiliation}#=%=#Baidu
+Author{6}{Firstname}#=%=#Xinyan
+Author{6}{Lastname}#=%=#Xiao
+Author{6}{Email}#=%=#xiaoxinyan@baidu.com
+Author{6}{Affiliation}#=%=#Baidu Company
+Author{7}{Firstname}#=%=#Yuan
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Email}#=%=#liuyuan04@baidu.com
+Author{7}{Affiliation}#=%=#Baidu Inc.
+Author{8}{Firstname}#=%=#Yizhong
+Author{8}{Lastname}#=%=#Wang
+Author{8}{Email}#=%=#yizhong@pku.edu.cn
+Author{8}{Affiliation}#=%=#Peking University
+Author{9}{Firstname}#=%=#Hua
+Author{9}{Lastname}#=%=#Wu
+Author{9}{Email}#=%=#wu_hua@baidu.com
+Author{9}{Affiliation}#=%=#Baidu
+Author{10}{Firstname}#=%=#Qiaoqiao
+Author{10}{Lastname}#=%=#She
+Author{10}{Email}#=%=#sheqiaoqiao@baidu.com
+Author{10}{Affiliation}#=%=#Baidu Inc.
+Author{11}{Firstname}#=%=#Xuan
+Author{11}{Lastname}#=%=#Liu
+Author{11}{Email}#=%=#liuxuan@baidu.com
+Author{11}{Affiliation}#=%=#Baidu Inc.
+Author{12}{Firstname}#=%=#Tian
+Author{12}{Lastname}#=%=#Wu
+Author{12}{Email}#=%=#wutian@baidu.com
+Author{12}{Affiliation}#=%=#Baidu Inc.
+Author{13}{Firstname}#=%=#Haifeng
+Author{13}{Lastname}#=%=#Wang
+Author{13}{Email}#=%=#wanghaifeng@baidu.com
+Author{13}{Affiliation}#=%=#Baidu
+
+==========

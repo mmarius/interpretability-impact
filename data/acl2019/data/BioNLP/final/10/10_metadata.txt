@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#On Learning Better Embeddings from Chinese Clinical Records: Study on Combining In-Domain and Out-Domain Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yaqiang Wang
+JobTitle#==#
+Organization#==#Department of Software Engineering, Chengdu University of Information Technology, Chengdu, Sichuan 610225, China
+Abstract#==#High quality word embeddings are of great significance to advance applications of biomedical natural language processing. In recent years, a surge of interest on how to learn good embeddings and evaluate embedding quality based on English medical text has become increasing evident, however a limited number of studies based on Chinese medical text, particularly Chinese clinical records, were performed. Herein, we proposed a novel approach of improving the quality of learned embeddings using out-domain data as a supplementary in the case of limited Chinese clinical records. Moreover, the embedding quality evaluation method was conducted based on Medical Conceptual Similarity Property. The experimental results revealed that selecting good training samples was necessary, and collecting right amount of out-domain data and trading off between the quality of embeddings and the training time consumption were essential factors for better embeddings.
+Author{1}{Firstname}#=%=#Yaqiang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#yaqwang@cuit.edu.cn
+Author{1}{Affiliation}#=%=#Chengdu University of Information Technology
+Author{2}{Firstname}#=%=#Yunhui
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#tcmhero@126.com
+Author{2}{Affiliation}#=%=#Chengdu University of Traditional Chinese Medicine
+Author{3}{Firstname}#=%=#Hongping
+Author{3}{Lastname}#=%=#Shu
+Author{3}{Email}#=%=#cqshp@cuit.edu.cn
+Author{3}{Affiliation}#=%=#Chengdu University of Information Technology
+Author{4}{Firstname}#=%=#Yongguang
+Author{4}{Lastname}#=%=#Jiang
+Author{4}{Email}#=%=#cdtcm@163.com
+Author{4}{Affiliation}#=%=#Chengdu University of Traditional Chinese Medicine
+
+==========

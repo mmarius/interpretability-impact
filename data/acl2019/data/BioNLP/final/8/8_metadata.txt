@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Prediction Models for Risk of Type-2 Diabetes Using Health Claims
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Masatoshi Nagata
+JobTitle#==#
+Organization#==#KDDI Research, Inc.
+Abstract#==#This study focuses on highly accurate prediction of the onset of type-2 diabetes. We investigated whether prediction accuracy can be improved by utilizing lab test data obtained from health checkups and incorporating health claim text data such as medically diagnosed diseases with ICD10 codes and pharmacy information. In a previous study, prediction accuracy was increased slightly by adding diagnosis disease name and independent variables such as prescription medicine. Therefore, in the current study we explored more suitable models for prediction by using state-of-the-art techniques such as XGBoost and long short-term memory (LSTM) based on recurrent neural networks. In the current study, text data was vectorized using word2vec, and the prediction model was compared with logistic regression. The results obtained confirmed that onset of type-2 diabetes can be predicted with a high degree of accuracy when the XGBoost model is used.
+Author{1}{Firstname}#=%=#Masatoshi
+Author{1}{Lastname}#=%=#Nagata
+Author{1}{Email}#=%=#ms-nagata@kddi-research.jp
+Author{1}{Affiliation}#=%=#KDDI Research, Inc.
+Author{2}{Firstname}#=%=#Kohichi
+Author{2}{Lastname}#=%=#Takai
+Author{2}{Email}#=%=#ko-takai@kddi-research.jp
+Author{2}{Affiliation}#=%=#KDDI Research, Inc.
+Author{3}{Firstname}#=%=#Keiji
+Author{3}{Lastname}#=%=#Yasuda
+Author{3}{Email}#=%=#ke-yasuda@dsc.naist.jp
+Author{3}{Affiliation}#=%=#KDDI Research, Inc. present affiliation: Nara Institute of Science and Technology
+Author{4}{Firstname}#=%=#Panikos
+Author{4}{Lastname}#=%=#Heracleous
+Author{4}{Email}#=%=#pa-heracleous@kddi-research.jp
+Author{4}{Affiliation}#=%=#KDDI Research, Inc.
+Author{5}{Firstname}#=%=#Akio
+Author{5}{Lastname}#=%=#Yoneyama
+Author{5}{Email}#=%=#yoneyama@kddi-research.jp
+Author{5}{Affiliation}#=%=#KDDI Research, Inc.
+
+==========

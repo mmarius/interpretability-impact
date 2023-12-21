@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Predicting Concreteness and Imageability of Words Within and Across Languages via Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nikola Ljubešić
+JobTitle#==#
+Organization#==#Jožef Stefan Institute
+Abstract#==#The notions of concreteness and imageability, traditionally important in psycholinguistics, are gaining significance in semantic-oriented natural language processing tasks. In this paper we investigate the predictability of these two concepts via supervised learning, using word embeddings as explanatory variables. We perform predictions both within and across languages by exploiting collections of cross-lingual embeddings aligned to a single vector space. We show that the notions of concreteness and imageability are highly predictable both within and across languages, with a moderate loss of up to 20% in correlation when predicting across languages. We further show that the cross-lingual transfer via word embeddings is more efficient than the simple transfer via bilingual dictionaries.
+Author{1}{Firstname}#=%=#Nikola
+Author{1}{Lastname}#=%=#Ljubešić
+Author{1}{Email}#=%=#nljubesi@ffzg.hr
+Author{1}{Affiliation}#=%=#Jožef Stefan Institute
+Author{2}{Firstname}#=%=#Darja
+Author{2}{Lastname}#=%=#Fišer
+Author{2}{Email}#=%=#darja.fiser@ff.uni-lj.si
+Author{2}{Affiliation}#=%=#University of Ljubljana
+Author{3}{Firstname}#=%=#Anita
+Author{3}{Lastname}#=%=#Peti-Stantić
+Author{3}{Email}#=%=#anita.peti-stantic@ffzg.hr
+Author{3}{Affiliation}#=%=#University of Zagreb
+
+==========

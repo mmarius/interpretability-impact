@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1058
+FinalPaperTitle#=%=#Modeling discourse cohesion for discourse parsing via memory network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yansong Feng
+JobTitle#==#Associate Professor
+Organization#==#Peking University
+Abstract#==#Identifying long-span dependencies between discourse units is crucial to improve discourse parsing performance. Most existing approaches design sophisticated features or exploit various off-the-shelf tools, but achieve little success. In this paper, we propose a new transition-based discourse parser that makes use of memory networks to take discourse cohesion into account.  The automatically captured discourse cohesion benefits discourse parsing, especially for long span scenarios. Experiments on the RST discourse treebank show that our method outperforms traditional featured based methods, and the memory based discourse cohesion can improve the overall parsing performance significantly.
+Author{1}{Firstname}#=%=#Yanyan
+Author{1}{Lastname}#=%=#Jia
+Author{1}{Email}#=%=#jiayanyan@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yuan
+Author{2}{Lastname}#=%=#Ye
+Author{2}{Email}#=%=#pkuyeyuan@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Yansong
+Author{3}{Lastname}#=%=#Feng
+Author{3}{Email}#=%=#fengyansong@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Yuxuan
+Author{4}{Lastname}#=%=#Lai
+Author{4}{Email}#=%=#erutan@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Rui
+Author{5}{Lastname}#=%=#Yan
+Author{5}{Email}#=%=#ruiyan@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Dongyan
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Email}#=%=#zhaodongyan@pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+
+==========

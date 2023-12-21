@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#Reinforced Extractive Summarization with Question-Focused Rewards
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Fei Liu
+JobTitle#==#Assistant Professor
+Organization#==#University of Central Florida
+Abstract#==#We investigate a new training paradigm for extractive summarization. Traditionally, human abstracts are used to derive goldstandard labels for extraction units. However, the labels are often inaccurate, because human abstracts and source documents cannot be easily aligned at the word level. In this paper we convert human abstracts to a set of Cloze-style comprehension questions. System summaries are encouraged to preserve salient source content useful for answering questions and share common words with the abstracts. We use reinforcement learning to explore the space of possible extractive summaries and introduce a question-focused reward function to promote concise, fluent, and informative summaries. Our experiments show that the proposed method is effective. It surpasses state-of-the-art systems on the standard summarization dataset.
+Author{1}{Firstname}#=%=#Kristjan
+Author{1}{Lastname}#=%=#Arumae
+Author{1}{Email}#=%=#k.arumae@knights.ucf.edu
+Author{1}{Affiliation}#=%=#University of Central Florida
+Author{2}{Firstname}#=%=#Fei
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#feiliu@cs.ucf.edu
+Author{2}{Affiliation}#=%=#University of Central Florida
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1372
+FinalPaperTitle#=%=#hyperdoc2vec: Distributed Representations of Hypertext Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jialong Han
+JobTitle#==#
+Organization#==#Tencent AI Lab
+Abstract#==#Hypertext documents, such as web pages and academic papers, are of great importance in delivering information in our daily life. Although being effective on plain documents, conventional text embedding methods suffer from information loss if directly adapted to hyper-documents. In this paper, we propose a general embedding approach for hyper-documents, namely, hyperdoc2vec, along with four criteria characterizing necessary information that hyper-document embedding models should preserve. Systematic comparisons are conducted between hyperdoc2vec and several competitors on two tasks, i.e., paper classification and citation recommendation, in the academic paper domain. Analyses and experiments both validate the superiority of hyperdoc2vec to other models w.r.t. the four criteria.
+Author{1}{Firstname}#=%=#Jialong
+Author{1}{Lastname}#=%=#Han
+Author{1}{Email}#=%=#jialonghan@gmail.com
+Author{1}{Affiliation}#=%=#Tencent AI Lab
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#mattsure@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Wayne Xin
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#batmanfly@gmail.com
+Author{3}{Affiliation}#=%=#RUC
+Author{4}{Firstname}#=%=#Shuming
+Author{4}{Lastname}#=%=#Shi
+Author{4}{Email}#=%=#shumingshi@tencent.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Haisong
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#hansonzhang@tencent.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+
+==========

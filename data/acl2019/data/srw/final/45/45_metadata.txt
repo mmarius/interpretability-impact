@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#BCSAT : A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sreekavitha Parupalli
+JobTitle#==#
+Organization#==#IIIT-H
+Abstract#==#The presented work aims at generating a systematically annotated corpus that can support the enhancement of sentiment analysis tasks in Telugu using word-level sentiment annotations. From OntoSenseNet, we extracted 11,000 adjectives, 253 adverbs, 8483 verbs and sentiment annotation is being done by language experts. We discuss the methodology followed for the polarity annotations and validate the developed resource. This work aims at developing a benchmark corpus, as an extension to SentiWordNet, and baseline accuracy for a model where lexeme annotations are applied for sentiment predictions. The fundamental aim of this paper is to validate and study the possibility of utilizing machine learning algorithms, word-level sentiment annotations in the task of automated sentiment identification. Furthermore, accuracy is improved by annotating the bi-grams extracted from the target corpus.
+Author{1}{Firstname}#=%=#Sreekavitha
+Author{1}{Lastname}#=%=#Parupalli
+Author{1}{Email}#=%=#parupallishreekavithaa@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Vijjini
+Author{2}{Lastname}#=%=#Anvesh Rao
+Author{2}{Email}#=%=#vijjinianvesh.rao@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Radhika
+Author{3}{Lastname}#=%=#Mamidi
+Author{3}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

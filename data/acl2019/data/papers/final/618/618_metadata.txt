@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#618
+FinalPaperTitle#=%=#Finding syntax in human encephalography with beam search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#John T Hale
+JobTitle#==#
+Organization#==#Deepmind, London UK
+Abstract#==#Recurrent neural network grammars (RNNGs) are generative models
+of (tree , string ) pairs that rely on neural networks to evaluate
+derivational choices. Parsing with them using beam search yields a
+variety of incremental complexity metrics such as word surprisal and
+parser action count. When used as regressors against human
+electrophysiological responses to naturalistic text, they derive two
+amplitude effects: an early peak and a P600-like later peak. By
+contrast, a non-syntactic neural language model yields no reliable
+effects. Model comparisons attribute the early peak to syntactic
+composition within the RNNG. This pattern of results recommends the
+RNNG+beam search combination as a mechanistic model of the syntactic
+processing that occurs during normal human language comprehension.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Hale
+Author{1}{Email}#=%=#jthale@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University and Google DeepMind
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Dyer
+Author{2}{Email}#=%=#cdyer@google.com
+Author{2}{Affiliation}#=%=#Google DeepMind
+Author{3}{Firstname}#=%=#Adhiguna
+Author{3}{Lastname}#=%=#Kuncoro
+Author{3}{Email}#=%=#adhiguna.kuncoro@gmail.com
+Author{3}{Affiliation}#=%=#University of Oxford and DeepMind
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#Brennan
+Author{4}{Email}#=%=#jobrenn@umich.edu
+Author{4}{Affiliation}#=%=#University of Michigan
+
+==========

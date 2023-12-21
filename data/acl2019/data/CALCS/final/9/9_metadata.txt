@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Language Identification and Analysis of Code-Switched Social Media Text
+ShortPaperTitle#=%=#Language Identification and Analysis of Code-Switched Social Media Text
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#DEEPTHI MAVE
+JobTitle#==#
+Organization#==#University of Houston, Department of Computer Science, Philip Guthrie Hoffman Hall
+3551 Cullen Blvd., Room 501
+Houston, TX 77204-3010
+Abstract#==#In this paper, we detail our work on comparing different word-level language identification systems for code-switched Hindi-English data and a standard Spanish-English dataset. In this regard, we build a new code-switched dataset for Hindi-English. To understand the code-switching patterns in these language pairs, we investigate different code-switching metrics. We find that the CRF model outperforms the neural network based models by a margin of 2-5 percentage points for Spanish-English and 3-5 percentage points for Hindi-English.
+Author{1}{Firstname}#=%=#Deepthi
+Author{1}{Lastname}#=%=#Mave
+Author{1}{Email}#=%=#dmave@uh.edu
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Suraj
+Author{2}{Lastname}#=%=#Maharjan
+Author{2}{Email}#=%=#smaharjan@uh.edu
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Thamar
+Author{3}{Lastname}#=%=#Solorio
+Author{3}{Email}#=%=#thamar.solorio@gmail.com
+Author{3}{Affiliation}#=%=#UH
+
+==========

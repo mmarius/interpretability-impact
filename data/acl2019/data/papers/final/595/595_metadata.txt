@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#595
+FinalPaperTitle#=%=#Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shikhar Murty
+JobTitle#==#
+Organization#==#College of Information and Computer Sciences, 150 Governors Drive, Amherst
+Abstract#==#Extraction from raw text to a knowledge base of entities and fine-grained types
+is often cast as prediction into a flat set of entity and type labels,
+neglecting the rich hierarchies over types and entities contained in curated
+ontologies. Previous attempts to incorporate hierarchical structure have
+yielded little benefit and are restricted to shallow ontologies. This paper
+presents new methods using real and complex bilinear mappings for integrating
+hierarchical information, yielding substantial improvement over flat
+predictions in entity linking and fine-grained entity typing, and achieving new
+state-of-the-art results for end-to-end models on the benchmark FIGER dataset.
+We also present two new human-annotated datasets containing wide and deep
+hierarchies which we will release to the community to encourage further
+research in this direction: \emph{MedMentions}, a collection of PubMed
+abstracts in which 246k mentions have been mapped to the massive UMLS ontology;
+and \emph{TypeNet}, which aligns Freebase types with the WordNet hierarchy to
+obtain nearly 2k entity types. In experiments on all three datasets we show
+substantial gains from hierarchy-aware training.
+Author{1}{Firstname}#=%=#Shikhar
+Author{1}{Lastname}#=%=#Murty
+Author{1}{Email}#=%=#smurty@cs.umass.edu
+Author{1}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Patrick
+Author{2}{Lastname}#=%=#Verga
+Author{2}{Email}#=%=#pat@cs.umass.edu
+Author{2}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Vilnis
+Author{3}{Email}#=%=#luke@cs.umass.edu
+Author{3}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Irena
+Author{4}{Lastname}#=%=#Radovanovic
+Author{4}{Email}#=%=#iradovanovic@chanzuckerberg.com
+Author{4}{Affiliation}#=%=#Chan Zuckerberg Initiative
+Author{5}{Firstname}#=%=#Andrew
+Author{5}{Lastname}#=%=#McCallum
+Author{5}{Email}#=%=#mccallum@cs.umass.edu
+Author{5}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+
+==========

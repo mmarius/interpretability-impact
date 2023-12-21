@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#117
+FinalPaperTitle#=%=#Measuring Beginner Friendliness of Japanese Web Pages explaining Academic Concepts by Integrating Neural Image Feature and Text Features
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Takehito Utsuro
+JobTitle#==#
+Organization#==#University of Tsukuba, 1-1-1, Tennodai, Tsukuba, Ibaraki, 305-8573, JAPAN
+Abstract#==#Search engine is an important tool of modern academic study, but the results are lack of measurement of beginner friendliness. In order to improve the efficiency of using search engine for academic study, it is necessary to invent a technique of measuring the beginner friendliness of a Web page explaining academic concepts and to build an automatic measurement system.  This paper studies how to integrate heterogeneous features such as a neural image feature generated from the image of the Web page by a variant of CNN (convolutional neural network) as well as text features extracted from the body text of the HTML file of the Web page. Integration is performed through the framework of the SVM classifier learning.  Evaluation results show that heterogeneous features perform better than each individual type of features.
+Author{1}{Firstname}#=%=#Hayato
+Author{1}{Lastname}#=%=#Shiokawa
+Author{1}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{1}{Affiliation}#=%=#University of Tsukuba
+Author{2}{Firstname}#=%=#Kota
+Author{2}{Lastname}#=%=#Kawaguchi
+Author{2}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{2}{Affiliation}#=%=#University of Tsukuba
+Author{3}{Firstname}#=%=#Bingcai
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{3}{Affiliation}#=%=#University of Tsukuba
+Author{4}{Firstname}#=%=#Takehito
+Author{4}{Lastname}#=%=#Utsuro
+Author{4}{Email}#=%=#t.utsuro@gmail.com
+Author{4}{Affiliation}#=%=#University of Tsukuba
+Author{5}{Firstname}#=%=#Yasuhide
+Author{5}{Lastname}#=%=#Kawada
+Author{5}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{5}{Affiliation}#=%=#Logworks Co., Ltd.
+Author{6}{Firstname}#=%=#Masaharu
+Author{6}{Lastname}#=%=#Yoshioka
+Author{6}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{6}{Affiliation}#=%=#Hokkaido University
+Author{7}{Firstname}#=%=#Noriko
+Author{7}{Lastname}#=%=#Kando
+Author{7}{Email}#=%=#utsuro@iit.tsukuba.ac.jp
+Author{7}{Affiliation}#=%=#National Institute of Informatics
+
+==========

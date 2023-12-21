@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Syntax Helps ELMo Understand Semantics: Is Syntax Still Relevant in a Deep Neural Architecture for SRL?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Emma Strubell
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+Abstract#==#Do unsupervised methods for learning rich, contextualized token representations obviate the need for explicit modeling of linguistic structure in neural network models for semantic role labeling (SRL)? We address this question by incorporating the massively successful ELMo embeddings \citep{peters2018deep} into LISA \citep{anon2018linguistically}, a strong, linguistically-informed neural network architecture for SRL. In experiments on the CoNLL-2005 shared task we find that though ELMo out-performs typical word embeddings, beginning to close the gap in F1 between LISA with predicted and gold syntactic parses, syntactically-informed models still out-perform syntax-free models when both use ELMo, especially on out-of-domain data. Our results suggest that linguistic structures are indeed still relevant in this golden age of deep learning for NLP.
+Author{1}{Firstname}#=%=#Emma
+Author{1}{Lastname}#=%=#Strubell
+Author{1}{Email}#=%=#strubell@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{2}{Firstname}#=%=#Andrew
+Author{2}{Lastname}#=%=#McCallum
+Author{2}{Email}#=%=#mccallum@cs.umass.edu
+Author{2}{Affiliation}#=%=#UMass Amherst
+
+==========

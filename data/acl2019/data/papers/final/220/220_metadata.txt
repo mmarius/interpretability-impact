@@ -1,0 +1,51 @@
+SubmissionNumber#=%=#220
+FinalPaperTitle#=%=#A dataset for identifying actionable feedback in collaborative software development
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Emily Prudhommeaux
+JobTitle#==#
+Organization#==#Rochester Institute of Technology, 1 Lomb Memorial Dr., Rochester NY 14623, USA
+Abstract#==#Software developers and testers have long struggled with how to elicit
+proactive responses from their coworkers when reviewing code for security
+vulnerabilities and errors. For a code review to be successful, it must not
+only identify potential problems but also elicit an active response from the
+colleague responsible for modifying the code. To understand the factors that
+contribute to this outcome, we analyze a novel dataset of more than one million
+code reviews for the Google Chromium project, from which we extract linguistic
+features of feedback that elicited responsive actions from coworkers. Using a
+manually-labeled subset of reviewer comments, we trained a highly accurate
+classifier to identify acted-upon comments (AUC = 0.85). Our results
+demonstrate the utility of our dataset, the feasibility of using NLP for this
+new task, and the potential of NLP to improve our understanding of how
+communications between colleagues can be authored to elicit positive, proactive
+responses.
+Author{1}{Firstname}#=%=#Benjamin S
+Author{1}{Lastname}#=%=#Meyers
+Author{1}{Email}#=%=#bsm9339@rit.edu
+Author{1}{Affiliation}#=%=#Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Nuthan
+Author{2}{Lastname}#=%=#Munaiah
+Author{2}{Email}#=%=#nm6061@rit.edu
+Author{2}{Affiliation}#=%=#Rochester Institute of Technology
+Author{3}{Firstname}#=%=#Emily
+Author{3}{Lastname}#=%=#Prud'hommeaux
+Author{3}{Email}#=%=#emilypx@gmail.com
+Author{3}{Affiliation}#=%=#Boston College
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#Meneely
+Author{4}{Email}#=%=#axmvse@rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+Author{5}{Firstname}#=%=#Josephine
+Author{5}{Lastname}#=%=#Wolff
+Author{5}{Email}#=%=#jcwgpt@rit.edu
+Author{5}{Affiliation}#=%=#Rochester Institute of Technology
+Author{6}{Firstname}#=%=#Cecilia
+Author{6}{Lastname}#=%=#Ovesdotter Alm
+Author{6}{Email}#=%=#coagla@rit.edu
+Author{6}{Affiliation}#=%=#Rochester Institute of Technology
+Author{7}{Firstname}#=%=#Pradeep
+Author{7}{Lastname}#=%=#Murukannaiah
+Author{7}{Email}#=%=#pkmvse@rit.edu
+Author{7}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

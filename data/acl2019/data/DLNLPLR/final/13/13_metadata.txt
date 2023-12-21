@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Exploiting Cross-Lingual Subword Similarities in Low-Resource Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#Mozhi Zhang
+JobTitle#==#
+Organization#==#University of Maryland, College Park, MD
+Abstract#==#Text classification must sometimes be applied in situations with no training data in a target language. However, training data may be available in a related language. We introduce a cross-lingual document classification framework (CACO) between related language pairs. To best use limited training data, our transfer learning scheme exploits cross-lingual subword similarity by jointly training a character-based embedder and a word-based classifier. The embedder derives vector representations for input words from their written forms, and the classifier makes predictions based on the word vectors. We use a joint character representation for both the source language and the target language, which allows the embedder to generalize knowledge about source language words to target language words with similar forms. We propose a multi-task objective that can further improve the model if a small parallel dictionary or pre-trained word embeddings are available. CACO models trained under low-resource settings rival cross-lingual word embedding models trained under high-resource settings on related language pairs.
+Author{1}{Firstname}#=%=#Mozhi
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#mozhi@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Yoshinari
+Author{2}{Lastname}#=%=#Fujinuma
+Author{2}{Email}#=%=#Yoshinari.Fujinuma@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado
+Author{3}{Firstname}#=%=#Jordan
+Author{3}{Lastname}#=%=#Boyd-Graber
+Author{3}{Email}#=%=#jbg@umiacs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+
+==========

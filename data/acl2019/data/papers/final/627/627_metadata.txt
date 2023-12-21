@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#627
+FinalPaperTitle#=%=#Pretraining Sentiment Classifiers with Unlabeled Dialog Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Toru Shimizu
+JobTitle#==#
+Organization#==#Yahoo Japan Corporation; Kioi Tower, 1-3 Kioicho, Chiyoda-ku, Tokyo, Japan
+Abstract#==#The huge cost of creating labeled training data is a common problem for
+supervised learning tasks such as sentiment classification.  Recent studies
+showed that pretraining with unlabeled data via a language model can improve
+the performance of classification models.  In this paper, we take the 
+concept a step further by using a conditional language model, instead of 
+a language model.  Specifically, we address a sentiment classification task 
+for a tweet analysis service as a case study and propose a pretraining 
+strategy with unlabeled dialog data (tweet-reply pairs) via an encoder-decoder 
+model. Experimental results show that our strategy can improve the performance 
+of sentiment classifiers and outperform several state-of-the-art strategies
+including language model pretraining.
+Author{1}{Firstname}#=%=#Toru
+Author{1}{Lastname}#=%=#Shimizu
+Author{1}{Email}#=%=#toshimiz@yahoo-corp.jp
+Author{1}{Affiliation}#=%=#Yahoo Japan Corporation
+Author{2}{Firstname}#=%=#Nobuyuki
+Author{2}{Lastname}#=%=#Shimizu
+Author{2}{Email}#=%=#nobushim@yahoo-corp.jp
+Author{2}{Affiliation}#=%=#Yahoo Japan Corporation
+Author{3}{Firstname}#=%=#Hayato
+Author{3}{Lastname}#=%=#Kobayashi
+Author{3}{Email}#=%=#hakobaya@yahoo-corp.jp
+Author{3}{Affiliation}#=%=#Yahoo Japan Corporation
+
+==========

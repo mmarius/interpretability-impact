@@ -1,0 +1,18 @@
+abbrev W18-29
+type WORKSHOP
+title Workshop on the Relevance of Linguistic Structure in Neural Architectures for NLP
+url https://sites.google.com/view/relsnnlp
+booktitle Proceedings of the Workshop on the Relevance of Linguistic Structure in Neural Architectures for NLP
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Georgiana Dinu (Amazon)
+chairs Miguel Ballesteros (IBM)
+chairs Avirup Sil (IBM)
+chairs Sam Bowman (NYU)
+chairs Wael Hamza (Amazon)
+chairs Anders Sogaard (University of Copenhagen)
+chairs Tahira Naseem (IBM)
+chairs Yoav Goldberg (Bar Ilan University)
+bib_url http://www.aclweb.org/anthology/W18-29%02d

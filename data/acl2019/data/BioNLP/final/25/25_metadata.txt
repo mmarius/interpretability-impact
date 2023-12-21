@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Predicting Discharge Disposition Using Patient Complaint Notes in Electronic Medical Records
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Alla Rozovskaya
+JobTitle#==#
+Organization#==#
+Abstract#==#Overcrowding in emergency rooms is a major challenge faced by hospitals across
+the United States. Overcrowding can result in longer wait times, which, in turn, has been shown to adversely affect patient satisfaction, clinical outcomes, and procedure reimbursements. This paper presents research that aims to automatically predict discharge disposition of patients who received medical treatment in an emergency department. We make use of a corpus that consists of notes containing patient complaints, diagnosis information, and disposition, entered by health care providers. We use this corpus to develop a model
+that uses the complaint and diagnosis information to predict patient disposition. We show that the proposed model substantially outperforms the baseline of predicting the most common disposition type. The long-term goal of this research is to build a model that can be implemented as a real-time service in an application to predict disposition as patients arrive.
+Author{1}{Firstname}#=%=#Mohamad
+Author{1}{Lastname}#=%=#Salimi
+Author{1}{Email}#=%=#mohamad.salimi45@qmail.cuny.edu
+Author{1}{Affiliation}#=%=#Queens College, CUNY
+Author{2}{Firstname}#=%=#Alla
+Author{2}{Lastname}#=%=#Rozovskaya
+Author{2}{Email}#=%=#sigaliyah@gmail.com
+Author{2}{Affiliation}#=%=#City University of New York
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1198
+FinalPaperTitle#=%=#TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#BEN HE
+JobTitle#==#
+Organization#==#University of Chinese Academy of Sciences, No.19(A) Yuquan Road, Shijingshan District, Beijing, P.R.China 100049
+Abstract#==#Existing automated essay scoring (AES) models rely on rated essays for the target prompt as training data. Despite their successes in prompt-dependent AES, how to effectively predict essay ratings under a prompt-independent setting remains a challenge, where the rated essays for the target prompt are not available. To close this gap, a two-stage deep neural network (TDNN) is proposed. In particular, in the first stage, using the rated essays for non-target prompts as the training data, a shallow model is learned to select essays with an extreme quality for the target prompt, serving as pseudo training data; in the second stage, an end-to-end hybrid deep model is proposed to learn a prompt-dependent rating model consuming the pseudo training data from the first step. Evaluation of the proposed TDNN on the standard ASAP dataset demonstrates a promising improvement for the prompt-independent AES task.
+Author{1}{Firstname}#=%=#Cancan
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jincancan15@mails.ucas.ac.cn
+Author{1}{Affiliation}#=%=#University of Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Ben
+Author{2}{Lastname}#=%=#He
+Author{2}{Email}#=%=#benhe@ucas.ac.cn
+Author{2}{Affiliation}#=%=#School of Computer and Control Engineering, CAS
+Author{3}{Firstname}#=%=#Kai
+Author{3}{Lastname}#=%=#Hui
+Author{3}{Email}#=%=#kai.hui@sap.com
+Author{3}{Affiliation}#=%=#SAP SE
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#ISCAS
+
+==========

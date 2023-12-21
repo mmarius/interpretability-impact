@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1103
+FinalPaperTitle#=%=#Subword-level Word Vector Representations for Korean
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sungjoon Park
+JobTitle#==#
+Organization#==#Department of Computing, KAIST, Republic of Korea
+Abstract#==#Research on distributed word representations is focused on widely-used
+languages such as English. Although the same methods can be used for other
+languages, language-specific knowledge can enhance the accuracy and richness of
+word vector representations. In this paper, we look at improving distributed
+word representations for Korean using knowledge about the unique linguistic
+structure of Korean. Specifically, we decompose Korean words into the
+jamo-level, beyond the character-level, allowing a systematic use of subword
+information.
+To evaluate the vectors, we develop Korean test sets for word similarity and
+analogy and make them publicly available. The results show that our simple
+method outperforms word2vec and character-level Skip-Grams on semantic and
+syntactic similarity and analogy tasks and contributes positively toward
+downstream NLP tasks such as sentiment analysis.
+Author{1}{Firstname}#=%=#Sungjoon
+Author{1}{Lastname}#=%=#Park
+Author{1}{Email}#=%=#sungjoon.park@kaist.ac.kr
+Author{1}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{2}{Firstname}#=%=#Jeongmin
+Author{2}{Lastname}#=%=#Byun
+Author{2}{Email}#=%=#jmbyun@kaist.ac.kr
+Author{2}{Affiliation}#=%=#Korea Advanced Institute of Science and Technology
+Author{3}{Firstname}#=%=#Sion
+Author{3}{Lastname}#=%=#Baek
+Author{3}{Email}#=%=#sioning1122@snu.ac.kr
+Author{3}{Affiliation}#=%=#Seoul National University
+Author{4}{Firstname}#=%=#Yongseok
+Author{4}{Lastname}#=%=#Cho
+Author{4}{Email}#=%=#yongseok.cho84@gmail.com
+Author{4}{Affiliation}#=%=#NLP team from Adecco
+Author{5}{Firstname}#=%=#Alice
+Author{5}{Lastname}#=%=#Oh
+Author{5}{Email}#=%=#alice.oh@kaist.edu
+Author{5}{Affiliation}#=%=#KAIST
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Semantic representations have long been argued as potentially useful for enforcing meaning preservation and improving generalization performance of machine translation methods. 
+  In this work, we are the first to incorporate information about predicate-argument structure of source sentences (namely, semantic-role representations) into neural machine translation. We use Graph Convolutional Networks (GCNs) to inject a semantic bias into sentence encoders and achieve improvements in BLEU scores over the linguistic-agnostic and syntax-aware versions on the English--German language pair. 
+
+This is a submission to the cross-submission track, presented at NAACL 2018.
+Author{1}{Firstname}#=%=#Diego
+Author{1}{Lastname}#=%=#Marcheggiani
+Author{1}{Email}#=%=#andrew.finch@gmail.com
+Author{1}{Affiliation}#=%=#na
+Author{2}{Firstname}#=%=#Joost
+Author{2}{Lastname}#=%=#Bastings
+Author{2}{Email}#=%=#andrew.finch@gmail.com
+Author{2}{Affiliation}#=%=#Na
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Titov
+Author{3}{Email}#=%=#andrew.finch@gmail.com
+Author{3}{Affiliation}#=%=#na
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#881
+FinalPaperTitle#=%=#Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Luheng He
+JobTitle#==#
+Organization#==#University of Washington, 185 E Stevens Way NE Seattle WA 98195-2350
+Abstract#==#Recent BIO-tagging-based neural semantic role labeling models are very high
+performing, but assume gold predicates as part of the input and cannot
+incorporate span-level features. We propose an end-to-end approach for jointly
+predicting all predicates, arguments spans, and the relations between them. The
+model makes independent decisions about what relationship, if any, holds
+between every possible word-span pair, and learns contextualized span
+representations that provide rich, shared input features for each decision.
+Experiments demonstrate that this approach sets a new state of the art on
+PropBank SRL without gold predicates.
+Author{1}{Firstname}#=%=#Luheng
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#luheng@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Kenton
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#kentonl@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Omer
+Author{3}{Lastname}#=%=#Levy
+Author{3}{Email}#=%=#omerlevy@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

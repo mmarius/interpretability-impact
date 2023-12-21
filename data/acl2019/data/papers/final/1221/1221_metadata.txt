@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1221
+FinalPaperTitle#=%=#Split and Rephrase: Better Evaluation and Stronger Baselines
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#RA
+JobTitle#==#
+Organization#==#Bar Ilan University, Ramat Gan, Israel
+Abstract#==#Splitting and rephrasing a complex sentence into several shorter sentences that convey the same meaning is a challenging problem in NLP. We show that while vanilla seq2seq models can reach high scores on the proposed benchmark (Narayan et al., 2017), they suffer from memorization of the training set which contains more than 89% of the unique simple sentences from the validation and test sets. To aid this, we present a new train-development-test data split and neural models augmented with a copy-mechanism, outperforming the best reported baseline by 8.68 BLEU and fostering further progress on the task.
+Author{1}{Firstname}#=%=#Roee
+Author{1}{Lastname}#=%=#Aharoni
+Author{1}{Email}#=%=#roee.aharoni@gmail.com
+Author{1}{Affiliation}#=%=#Bar Ilan University
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#yoav.goldberg@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+
+==========

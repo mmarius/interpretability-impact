@@ -1,0 +1,13 @@
+abbrev W18-31
+type WORKSHOP
+title First Workshop on Economics and Natural Language Processing
+url http://www.julielab.de/econlp2018.html
+booktitle Proceedings of the First Workshop on Economics and Natural Language Processing
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Udo Hahn (Friedrich-Schiller-Universität Jena, Germany)
+chairs Véronique Hoste (Gent University, Belgium)
+chairs Ming-Feng Tsai (National Chengchi University, Taiwan)
+bib_url http://www.aclweb.org/anthology/W18-31

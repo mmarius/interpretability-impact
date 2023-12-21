@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1093
+FinalPaperTitle#=%=#A Multi-Axis Annotation Scheme for Event Temporal Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qiang Ning
+JobTitle#==#
+Organization#==#UIUC
+Abstract#==#Existing temporal relation (TempRel) annotation schemes often have low inter-annotator agreements (IAA) even between experts, suggesting that the current annotation task needs a better definition. This paper proposes a new multi-axis modeling to better capture the temporal structure of events. In addition, we identify that event end-points are a major source of confusion in annotation, so we also propose to annotate TempRels based on start-points only. A pilot expert annotation effort using the proposed scheme shows significant improvement in IAA from the conventional 60's to 80's  (Cohen's Kappa). This better-defined annotation scheme further enables the use of crowdsourcing to alleviate the labor intensity for each annotator. We hope that this work can foster more interesting studies towards event understanding.
+Author{1}{Firstname}#=%=#Qiang
+Author{1}{Lastname}#=%=#Ning
+Author{1}{Email}#=%=#qning2@illinois.edu
+Author{1}{Affiliation}#=%=#Univ. of Illinois, Urbana-Champaign
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#haowu4@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Roth
+Author{3}{Email}#=%=#danr@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois
+
+==========

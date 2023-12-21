@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Simple Features for Strong Performance on Named Entity Recognition in Code-Switched Twitter Data
+ShortPaperTitle#=%=#Simple Features for Strong Performance on Named Entity Recognition in Code-Switched Twitter Data
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Devanshu Jain
+JobTitle#==#Student
+Organization#==#University of Pennsylvania
+Abstract#==#In this work, we address the problem of Named Entity Recognition (NER) in code-switched tweets as a part of the Workshop on Computational Approaches to Linguistic Code-switching (CALCS) at ACL'18. Code-switching is the phenomenon where a speaker switches between two languages or variants of the same language within or across utterances, known as intra-sentential or inter-sentential code-switching, respectively. Processing such data is challenging using state of the art methods since such technology is generally geared towards processing monolingual text. In this paper we explored  ways to use language identification and translation to recognize named entities in such data, however, utilizing simple features (sans multi-lingual features) with Conditional Random Field (CRF) classifier achieved the best results. Our experiments were mainly aimed at the (ENG-SPA) English-Spanish dataset but we submitted a language-independent version of our system to the (MSA-EGY) Arabic-Egyptian dataset as well and achieved good results.
+Author{1}{Firstname}#=%=#Devanshu
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#jndevanshu@gmail.com
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Maria
+Author{2}{Lastname}#=%=#Kustikova
+Author{2}{Email}#=%=#mkust@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Mayank
+Author{3}{Lastname}#=%=#Darbari
+Author{3}{Email}#=%=#mdarbari@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Rishabh
+Author{4}{Lastname}#=%=#Gupta
+Author{4}{Email}#=%=#rgupt@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Firstname}#=%=#Stephen
+Author{5}{Lastname}#=%=#Mayhew
+Author{5}{Email}#=%=#mayhew@seas.upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1551
+FinalPaperTitle#=%=#A Co-Matching Model for Multi-choice Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shuohang Wang
+JobTitle#==#
+Organization#==#Singapore Management University
+Abstract#==#Multi-choice reading comprehension is a challenging task, which involves the
+matching between a passage and a question-answer pair. This paper proposes a
+new co-matching approach to this problem, which jointly models whether a
+passage can match both a question and a candidate answer. Experimental results
+on the RACE dataset demonstrate that our approach achieves state-of-the-art
+performance.
+Author{1}{Firstname}#=%=#Shuohang
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#shwang.2014@phdis.smu.edu.sg
+Author{1}{Affiliation}#=%=#Singapore Management University
+Author{2}{Firstname}#=%=#Mo
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#gflfof@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Jing
+Author{3}{Lastname}#=%=#Jiang
+Author{3}{Email}#=%=#jingjiang@smu.edu.sg
+Author{3}{Affiliation}#=%=#Singapore Management University
+Author{4}{Firstname}#=%=#Shiyu
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#mnbvcxz210@gmail.com
+Author{4}{Affiliation}#=%=#IBM Research
+
+==========

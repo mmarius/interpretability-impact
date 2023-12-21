@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1604
+FinalPaperTitle#=%=#The price of debiasing automatic metrics in natural language evalaution
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Arun Tejasvi Chaganty
+JobTitle#==#
+Organization#==#Stanford University
+Abstract#==#For evaluating generation systems, automatic metrics such as BLEU cost nothing to run but have been shown to correlate poorly with human judgment, leading to systematic bias against certain model improvements. On the other hand, averaging human judgments, the unbiased gold standard, is often too expensive. In this paper, we use control variates to combine automatic metrics with human evaluation to obtain an unbiased estimator with lower cost than human evaluation alone. In practice, however, we obtain only a 7-13% cost reduction on evaluating summarization and open-response question answering systems. We then prove that our estimator is optimal: there is no unbiased estimator with lower cost. Our theory further highlights the two fundamental bottlenecks---the automatic metric and the prompt shown to human evaluators---both of which need to be improved to obtain greater cost savings.
+Author{1}{Firstname}#=%=#Arun
+Author{1}{Lastname}#=%=#Chaganty
+Author{1}{Email}#=%=#chaganty@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Mussmann
+Author{2}{Email}#=%=#mussmann@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Percy
+Author{3}{Lastname}#=%=#Liang
+Author{3}{Email}#=%=#pliang@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

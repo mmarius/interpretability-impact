@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#250
+FinalPaperTitle#=%=#Denoising Distantly Supervised Open-Domain Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yankai Lin
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing, China
+Abstract#==#Distantly supervised open-domain question answering (DS-QA) aims to find answers in collections of unlabeled text. Existing DS-QA models usually retrieve related paragraphs from a large-scale corpus and apply reading comprehension technique to extract answers from the most relevant paragraph. They ignore the rich information contained in other paragraphs. Moreover, distant supervision data inevitably accompanies with the wrong labeling problem, and these noisy data will substantially degrade the performance of DS-QA. To address these issues, we propose a novel DS-QA model which employs a paragraph selector to filter out those noisy paragraphs and a paragraph reader to extract the correct answer from those denoised paragraphs. Experimental results on real-world datasets show that our model can capture useful information from noisy data and achieve significant improvements on DS-QA as compared to all baselines.
+Author{1}{Firstname}#=%=#Yankai
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#linyk14@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Haozhe
+Author{2}{Lastname}#=%=#Ji
+Author{2}{Email}#=%=#jihaozhe@gmail.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Zhiyuan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Maosong
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#sms@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#
+
+==========

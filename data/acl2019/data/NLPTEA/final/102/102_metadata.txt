@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#102
+FinalPaperTitle#=%=#Generating Questions for Reading Comprehension using Coherence Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Takshak Desai
+JobTitle#==#
+Organization#==#UT Dallas, Richardson TX 75080 USA
+Abstract#==#In this paper, we have proposed a technique for generating complex reading comprehension questions from a discourse that are more useful than factual ones derived from assertions. Our system produces a set of general-level questions using coherence relations and a set of well-defined syntactic transformations on the input text. Generated questions evaluate comprehension abilities like a comprehensive analysis of the text and its structure, correct identification of the author's intent, a thorough evaluation of stated arguments; and a deduction of the high-level semantic relations that hold between text spans. Experiments performed on the RST-DT corpus allow us to conclude that our system possesses a strong aptitude for generating intricate questions. These questions are capable of effectively assessing a student's interpretation of the text.
+Author{1}{Firstname}#=%=#Takshak
+Author{1}{Lastname}#=%=#Desai
+Author{1}{Email}#=%=#tsd160030@utdallas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Parag
+Author{2}{Lastname}#=%=#Dakle
+Author{2}{Email}#=%=#paragpravin.dakle@utdallas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Dallas
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Moldovan
+Author{3}{Email}#=%=#moldovan@utdallas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Dallas
+
+==========

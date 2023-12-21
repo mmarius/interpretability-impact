@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#40
+FinalPaperTitle#=%=#LSTMs Exploit Linguistic Attributes of Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nelson F. Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#While recurrent neural networks have found success in a variety of natural language processing applications, they are general models of sequential data. We investigate how the properties of natural language data affect an LSTM's ability to learn a nonlinguistic task: recalling elements from its input. We find that models trained on natural language data are able to recall tokens from much longer sequences than models trained  on non-language sequential data. Furthermore, we show that the LSTM learns to solve the memorization task by explicitly using a subset of its neurons to count timesteps in the input. We hypothesize that the patterns and structure in natural language data enable LSTMs to learn by providing approximate ways of reducing loss, but understanding the effect of different training data on the learnability of LSTMs remains an open question.
+Author{1}{Firstname}#=%=#Nelson F.
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#nfliu@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Omer
+Author{2}{Lastname}#=%=#Levy
+Author{2}{Email}#=%=#omerlevy@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Roy
+Author{3}{Lastname}#=%=#Schwartz
+Author{3}{Email}#=%=#roysch@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington and The Allen Institute for Artificial Intelligence
+Author{4}{Firstname}#=%=#Chenhao
+Author{4}{Lastname}#=%=#Tan
+Author{4}{Email}#=%=#chenhao@chenhaot.com
+Author{4}{Affiliation}#=%=#University of Colorado Boulder
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Email}#=%=#nasmith@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

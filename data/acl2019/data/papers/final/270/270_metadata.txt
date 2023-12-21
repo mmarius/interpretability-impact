@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#270
+FinalPaperTitle#=%=#Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Vered Shwartz
+JobTitle#==#
+Organization#==#Bar-Ilan University, Ramat Gan, 52900, Israel
+Abstract#==#Revealing the implicit semantic relation between the constituents of a noun-compound is important for many NLP applications. It has been addressed in the literature either as a classification task to a set of pre-defined relations or by producing free text paraphrases explicating the relations. Most existing paraphrasing methods lack the ability to generalize, and have a hard time interpreting infrequent or new noun-compounds.
+We propose a neural model that generalizes better by representing paraphrases in a continuous space,  generalizing for both unseen noun-compounds and rare paraphrases. Our model helps improving performance on both the noun-compound paraphrasing and classification tasks.
+Author{1}{Firstname}#=%=#Vered
+Author{1}{Lastname}#=%=#Shwartz
+Author{1}{Email}#=%=#vered1986@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Ido
+Author{2}{Lastname}#=%=#Dagan
+Author{2}{Email}#=%=#dagan@cs.biu.ac.il
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+
+==========

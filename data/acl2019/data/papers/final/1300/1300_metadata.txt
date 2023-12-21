@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1300
+FinalPaperTitle#=%=#Efficient Online Scalar Annotation with Bounded Support
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Keisuke Sakaguchi
+JobTitle#==#
+Organization#==#Johns Hopkins University, Hackerman Hall 226, 3400 North Charles Street Baltimore, MD, 21218, USA
+Abstract#==#We describe a novel method for efficiently eliciting scalar annotations for dataset construction and system quality estimation by human judgments. We contrast direct assessment (annotators assign scores to items directly), online pairwise ranking aggregation (scores derive from annotator comparison of items), and a hybrid approach (EASL: Efficient Annotation of Scalar Labels) proposed here. Our proposal leads to increased correlation with ground truth, at far greater annotator efficiency, suggesting this strategy as an improved mechanism for dataset creation and manual system evaluation.
+Author{1}{Firstname}#=%=#Keisuke
+Author{1}{Lastname}#=%=#Sakaguchi
+Author{1}{Email}#=%=#keisuke@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Benjamin
+Author{2}{Lastname}#=%=#Van Durme
+Author{2}{Email}#=%=#vandurme@cs.jhu.edu
+Author{2}{Affiliation}#=%=#JHU
+
+==========

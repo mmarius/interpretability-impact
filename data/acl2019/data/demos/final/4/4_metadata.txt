@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Platforms for Non-speakers Annotating Names in Any Language
+ShortPaperTitle#=%=#Platforms for Non-speakers Annotating Names in Any Language
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ying Lin
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+Abstract#==#We demonstrate two annotation platforms that allow an English speaker to annotate names for any language without knowing the language. These platforms provided high-quality '‘silver standard” annotations for low-resource language name taggers (Zhang et al., 2017) that achieved state-of-the-art performance on two surprise languages (Oromo and Tigrinya) at LoreHLT20171 and ten languages at TAC-KBP EDL2017 (Ji et al., 2017). We discuss strengths and limitations and compare other methods of creating silver- and gold- standard annotations using native speakers. We will make our tools publicly available for research use.
+Author{1}{Firstname}#=%=#Ying
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#liny9@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Cash
+Author{2}{Lastname}#=%=#Costello
+Author{2}{Email}#=%=#cash.costello@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Boliang
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#boliangzhang85@gmail.com
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institue
+Author{4}{Firstname}#=%=#Di
+Author{4}{Lastname}#=%=#Lu
+Author{4}{Email}#=%=#lud2@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Email}#=%=#jih@rpi.edu
+Author{5}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{6}{Firstname}#=%=#James
+Author{6}{Lastname}#=%=#Mayfield
+Author{6}{Email}#=%=#james.mayfield@jhuapl.edu
+Author{6}{Affiliation}#=%=#Johns Hopkins University
+Author{7}{Firstname}#=%=#Paul
+Author{7}{Lastname}#=%=#McNamee
+Author{7}{Email}#=%=#paul.mcnamee@jhuapl.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1546
+FinalPaperTitle#=%=#Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shuming Ma
+JobTitle#==#
+Organization#==#
+Abstract#==#Most of the current abstractive text summarization models are based on the
+sequence-to-sequence model (Seq2Seq). The source content of social media is
+long and noisy, so it is difficult for Seq2Seq to learn an accurate semantic
+representation. Compared with the source content, the annotated summary is
+short and well written. Moreover, it shares the same meaning as the source
+content. In this work, we supervise the learning of the representation of the
+source content with that of the summary. In implementation, we regard a summary
+autoencoder as an assistant supervisor of Seq2Seq. Following previous work, we
+evaluate our model on a popular Chinese social media dataset. Experimental
+results show that our model achieves the state-of-the-art performances on the
+benchmark dataset.
+Author{1}{Firstname}#=%=#Shuming
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#shumingma@pku.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science, School of EECS, Peking University
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#SUN
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Junyang
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#linjunyang@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Houfeng
+Author{4}{Lastname}#=%=#WANG
+Author{4}{Email}#=%=#wanghf@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1129
+FinalPaperTitle#=%=#Reasoning with Sarcasm by Reading In-Between
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yi Tay
+JobTitle#==#
+Organization#==#Nanyang Technological University, Singapore, 50 Nanyang Ave, 639798
+Abstract#==#Sarcasm is a sophisticated speech act which commonly manifests on social
+communities such as Twitter and Reddit. The prevalence of sarcasm on the social
+web is highly disruptive to opinion mining systems due to not only its tendency
+of polarity flipping but also usage of figurative language. Sarcasm commonly
+manifests with a contrastive theme either between positive-negative sentiments
+or between literal-figurative scenarios. In this paper, we revisit the notion
+of modeling contrast in order to reason with sarcasm. More specifically, we
+propose an attention-based neural model that looks in-between instead of
+across, enabling it to explicitly model contrast and incongruity. We conduct
+extensive experiments on six benchmark datasets from Twitter, Reddit and the
+Internet Argument Corpus. Our proposed model not only achieves state-of-the-art
+performance on all datasets but also enjoys improved interpretability.
+Author{1}{Firstname}#=%=#Yi
+Author{1}{Lastname}#=%=#Tay
+Author{1}{Email}#=%=#ytay017@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Anh Tuan
+Author{2}{Lastname}#=%=#Luu
+Author{2}{Email}#=%=#at.luu@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Siu Cheung
+Author{3}{Lastname}#=%=#Hui
+Author{3}{Email}#=%=#asschui@ntu.edu.sg
+Author{3}{Affiliation}#=%=#Nanyang Technological University
+Author{4}{Firstname}#=%=#Jian
+Author{4}{Lastname}#=%=#Su
+Author{4}{Email}#=%=#Sujian@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

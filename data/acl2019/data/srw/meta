@@ -1,0 +1,16 @@
+abbrev ACL2018-SRW
+type Workshop
+title ACL 2018, Student Research Workshop
+url https://sites.google.com/view/aclsrw2018/
+booktitle Proceedings of ACL 2018, Student Research Workshop
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Vered Shwartz (Bar-Ilan University)
+chairs Jeniya Tabassum (Ohio State University)
+chairs Rob Voigt (Stanford University)
+chairs Wanxiang Che   (Harbin Institute of Technology)
+chairs Marie-Catherine de Marneffe (Ohio State University)
+chairs Malvina Nissim (University of Groningen)
+bib_url http://www.aclweb.org/anthology/P18-3%03d

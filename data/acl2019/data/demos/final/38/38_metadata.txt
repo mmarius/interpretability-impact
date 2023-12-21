@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#NCRF++: An Open-source Neural Sequence Labeling Toolkit
+ShortPaperTitle#=%=#NCRF++: An Open-source Neural Sequence Labeling Toolkit
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jie Yang
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design
+8 Somapah Road, Singapore. 487372
+Abstract#==#This paper describes NCRF++, a toolkit for neural sequence labeling. NCRF++ is designed for quick implementation of different neural sequence labeling models with a CRF inference layer. It provides users with an inference for building the custom model structure through configuration file with flexible neural feature design and utilization. Built on PyTorch\footnote{\url{http://pytorch.org/}}, the core operations are calculated in batch, making the toolkit efficient with the acceleration of GPU. It also includes the implementations of most state-of-the-art neural sequence labeling models such as LSTM-CRF, facilitating reproducing and refinement on those methods.
+Author{1}{Firstname}#=%=#Jie
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#jieynlp@gmail.com
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

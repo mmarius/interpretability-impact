@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Bi-Directional Neural Machine Translation with Synthetic Parallel Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Xing Niu
+JobTitle#==#
+Organization#==#University of Maryland
+Abstract#==#Despite impressive progress in high-resource settings, Neural Machine Translation (NMT) still struggles in low-resource and out-of-domain scenarios, often failing to match the quality of phrase-based translation. We propose a novel technique that combines back-translation and multilingual NMT to improve performance in these difficult cases. Our technique trains a single model for both directions of a language pair, allowing us to back-translate source or target monolingual data without requiring an auxiliary model. We then continue training on the augmented parallel data, enabling a cycle of improvement for a single model that can incorporate any source, target, or parallel data to improve both translation directions. As a byproduct, these models can reduce training and deployment costs significantly compared to uni-directional models. Extensive experiments show that our technique outperforms standard back-translation in low-resource scenarios, improves quality on cross-domain tasks, and effectively reduces costs across the board.
+Author{1}{Firstname}#=%=#Xing
+Author{1}{Lastname}#=%=#Niu
+Author{1}{Email}#=%=#xingniu@cs.umd.edu
+Author{1}{Affiliation}#=%=#University of Maryland
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#Denkowski
+Author{2}{Email}#=%=#michael.j.denkowski@gmail.com
+Author{2}{Affiliation}#=%=#Amazon.com, Inc.
+Author{3}{Firstname}#=%=#Marine
+Author{3}{Lastname}#=%=#Carpuat
+Author{3}{Email}#=%=#marine@cs.umd.edu
+Author{3}{Affiliation}#=%=#University of Maryland
+
+==========

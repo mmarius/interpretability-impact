@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#Marian: Fast Neural Machine Translation in C++
+ShortPaperTitle#=%=#Marian: Fast Neural Machine Translation in C++
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marcin Junczys-Dowmunt
+JobTitle#==#
+Organization#==#Microsoft
+1 Microsoft Way
+Redmond, 98121 WA
+Abstract#==#We present Marian, an efficient and self-contained Neural Machine Translation framework with an integrated automatic differentiation engine based on dynamic computation graphs. Marian is written entirely in C++. We describe the design of the encoder-decoder framework and demonstrate that a research-friendly toolkit can achieve high training and translation speed.
+Author{1}{Firstname}#=%=#Marcin
+Author{1}{Lastname}#=%=#Junczys-Dowmunt
+Author{1}{Email}#=%=#marcinjd@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Roman
+Author{2}{Lastname}#=%=#Grundkiewicz
+Author{2}{Email}#=%=#rgrundki@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{3}{Firstname}#=%=#Tomasz
+Author{3}{Lastname}#=%=#Dwojak
+Author{3}{Email}#=%=#tdwojak@amu.edu.pl
+Author{3}{Affiliation}#=%=#Adam Mickiewicz University
+Author{4}{Firstname}#=%=#Hieu
+Author{4}{Lastname}#=%=#Hoang
+Author{4}{Email}#=%=#hieuhoang@gmail.com
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Kenneth
+Author{5}{Lastname}#=%=#Heafield
+Author{5}{Email}#=%=#softconf@kheafield.com
+Author{5}{Affiliation}#=%=#University of Edinburgh
+Author{6}{Firstname}#=%=#Tom
+Author{6}{Lastname}#=%=#Neckermann
+Author{6}{Email}#=%=#Tom.Neckermann@microsoft.com
+Author{6}{Affiliation}#=%=#Micosoft
+Author{7}{Firstname}#=%=#Frank
+Author{7}{Lastname}#=%=#Seide
+Author{7}{Email}#=%=#fseide@microsoft.com
+Author{7}{Affiliation}#=%=#Microsoft
+Author{8}{Firstname}#=%=#Ulrich
+Author{8}{Lastname}#=%=#Germann
+Author{8}{Email}#=%=#ugermann@inf.ed.ac.uk
+Author{8}{Affiliation}#=%=#University of Edinburgh
+Author{9}{Firstname}#=%=#Alham Fikri
+Author{9}{Lastname}#=%=#Aji
+Author{9}{Email}#=%=#afaji321@gmail.com
+Author{9}{Affiliation}#=%=#University of Edinburgh
+Author{10}{Firstname}#=%=#Nikolay
+Author{10}{Lastname}#=%=#Bogoychev
+Author{10}{Email}#=%=#n.bogoych@ed.ac.uk
+Author{10}{Affiliation}#=%=#The University of Edinburgh
+Author{11}{Firstname}#=%=#André F. T.
+Author{11}{Lastname}#=%=#Martins
+Author{11}{Email}#=%=#afm@cs.cmu.edu
+Author{11}{Affiliation}#=%=#Priberam, Instituto de Telecomunicacoes
+Author{12}{Firstname}#=%=#Alexandra
+Author{12}{Lastname}#=%=#Birch
+Author{12}{Email}#=%=#lexi.birch@gmail.com
+Author{12}{Affiliation}#=%=#University of Edinburgh
+
+==========

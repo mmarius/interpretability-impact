@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Joint Part-of-Speech and Language ID Tagging for Code-Switched Data
+ShortPaperTitle#=%=#Joint Part-of-Speech and Language ID Tagging for Code-Switched Data
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Victor Soto Martinez
+JobTitle#==#
+Organization#==#Columbia University, New York, NY 10027
+Abstract#==#Code-switching is the fluent alternation between two or more languages in conversation between bilinguals. Large populations of speakers code-switch during communication, but little effort has been made to develop tools for code-switching, including part-of-speech taggers. In this paper, we propose an approach to POS tagging of code-switched English-Spanish data based on recurrent neural networks. We test our model on known monolingual benchmarks to demonstrate that our neural POS tagging model is on par with state-of-the-art methods. We next test our code-switched methods on the Miami Bangor corpus of English Spanish conversation, focusing on two types of experiments: POS tagging alone, for which we achieve 96.34% accuracy, and joint part-of-speech and language ID tagging, which achieves similar POS tagging accuracy (96.39%) and very high language ID accuracy (98.78%). Finally, we show that our proposed models outperform other state-of-the-art code-switched taggers.
+Author{1}{Firstname}#=%=#Victor
+Author{1}{Lastname}#=%=#Soto
+Author{1}{Email}#=%=#vsoto@cs.columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Julia
+Author{2}{Lastname}#=%=#Hirschberg
+Author{2}{Email}#=%=#julia@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#308
+FinalPaperTitle#=%=#No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xin Wang
+JobTitle#==#
+Organization#==#University of California, Santa Barbara, CA 93106
+Abstract#==#Though impressive results have been achieved in visual captioning, the task of generating abstract stories from photo streams is still a little-tapped problem. Different from captions, stories have more expressive language styles and contain many imaginary concepts that do not appear in the images. Thus it poses challenges to behavioral cloning algorithms. Furthermore, due to the limitations of automatic metrics on evaluating story quality, reinforcement learning methods with hand-crafted rewards also face difficulties in gaining an overall performance boost. Therefore, we propose an Adversarial REward Learning (AREL) framework to learn an implicit reward function from human demonstrations, and then optimize policy search with the learned reward function. Though automatic evaluation indicates slight performance boost over state-of-the-art (SOTA) methods in cloning expert behaviors, human evaluation shows that our approach achieves significant improvement in generating more human-like stories than SOTA systems.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xwang@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Barbara
+Author{2}{Firstname}#=%=#Wenhu
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#wenhuchen@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#UCSB
+Author{3}{Firstname}#=%=#Yuan-Fang
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#yfwang@cs.ucsb.edu
+Author{3}{Affiliation}#=%=#University of California
+Author{4}{Firstname}#=%=#William Yang
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#william@cs.ucsb.edu
+Author{4}{Affiliation}#=%=#Unversity of California, Santa Barbara
+
+==========

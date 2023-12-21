@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#TALEN: Tool for Annotation of Low-resource ENtities
+ShortPaperTitle#=%=#TALEN: Tool for Annotation of Low-resource ENtities
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Stephen Mayhew
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a new web-based interface, TALEN, designed for named entity annotation in low-resource settings where the annotators do not speak the language. To address this non-traditional scenario, TALEN includes such features as in-place lexicon integration, TF-IDF token statistics, Internet search, and entity propagation, all implemented so as to make this difficult task efficient and frictionless. We conduct a small user study to compare against a popular annotation tool, showing that TALEN achieves higher precision and recall against ground-truth annotations, and that users strongly prefer it over the alternative. 
+
+TALEN is available at: github.com/CogComp/talen.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#Mayhew
+Author{1}{Email}#=%=#mayhew@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Roth
+Author{2}{Email}#=%=#danr@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois
+
+==========

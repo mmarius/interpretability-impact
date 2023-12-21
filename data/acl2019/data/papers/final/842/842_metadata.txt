@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#842
+FinalPaperTitle#=%=#Improving Topic Quality by Promoting Named Entities in Topic Modeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Katsiaryna Krasnashchok
+JobTitle#==#
+Organization#==#EURA NOVA, Rue Emile Francqui, 4, 1435 Mont-Saint-Guibert, Belgium
+Abstract#==#News related content has been extensively studied in both topic modeling
+research and named entity recognition. However, expressive power of named
+entities and their potential for improving the quality of discovered topics has
+not received much attention. In this paper we use named entities as
+domain-specific terms for news-centric content and present a new weighting
+model for Latent Dirichlet Allocation. Our experimental results indicate that
+involving more named entities in topic descriptors positively influences the
+overall quality of topics, improving their interpretability, specificity and
+diversity.
+Author{1}{Firstname}#=%=#Katsiaryna
+Author{1}{Lastname}#=%=#Krasnashchok
+Author{1}{Email}#=%=#katherine.krasnoschok@euranova.eu
+Author{1}{Affiliation}#=%=#EURA NOVA
+Author{2}{Firstname}#=%=#Salim
+Author{2}{Lastname}#=%=#Jouili
+Author{2}{Email}#=%=#salim.jouili@euranova.eu
+Author{2}{Affiliation}#=%=#Eura Nova R&D
+
+==========

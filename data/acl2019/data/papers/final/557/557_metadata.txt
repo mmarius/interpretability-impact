@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#557
+FinalPaperTitle#=%=#Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Omer Levy
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#LSTMs were introduced to combat vanishing gradients in simple RNNs by augmenting them with gated additive recurrent connections. We present an alternative view to explain the success of LSTMs: the gates themselves are versatile recurrent models that provide more representational power than previously appreciated. We do this by decoupling the LSTM's gates from the embedded simple RNN, producing a new class of RNNs where the recurrence computes an element-wise weighted sum of context-independent functions of the input. Ablations on a range of problems demonstrate that the gating mechanism alone performs as well as an LSTM in most settings, strongly suggesting that the gates are doing much more in practice than just alleviating vanishing gradients.
+Author{1}{Firstname}#=%=#Omer
+Author{1}{Lastname}#=%=#Levy
+Author{1}{Email}#=%=#omerlevy@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Kenton
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#kentonl@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Nicholas
+Author{3}{Lastname}#=%=#FitzGerald
+Author{3}{Email}#=%=#nfitz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

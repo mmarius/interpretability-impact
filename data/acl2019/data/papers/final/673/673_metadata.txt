@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#673
+FinalPaperTitle#=%=#Neural Natural Language Inference Models Enhanced with External Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Qian Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Modeling natural language inference is a very challenging task. With the availability of large annotated data, it has recently become feasible to train complex models such as neural-network-based inference models, which have shown to achieve the state-of-the-art performance. Although there exist relatively large annotated data, can machines learn all knowledge needed to perform natural language inference (NLI) from these data? If not, how can neural-network-based NLI models benefit from external knowledge and how to build NLI models to leverage it? In this paper, we enrich the state-of-the-art neural natural language inference models with external knowledge. We demonstrate that the proposed models improve neural NLI models to achieve the state-of-the-art performance on the SNLI and MultiNLI datasets.
+Author{1}{Firstname}#=%=#Qian
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#cq1231@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Xiaodan
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#zhu2048@gmail.com
+Author{2}{Affiliation}#=%=#National Research Council Canada
+Author{3}{Firstname}#=%=#Zhen-Hua
+Author{3}{Lastname}#=%=#Ling
+Author{3}{Email}#=%=#zhling@ustc.edu.cn
+Author{3}{Affiliation}#=%=#University of Science and Technology of China
+Author{4}{Firstname}#=%=#Diana
+Author{4}{Lastname}#=%=#Inkpen
+Author{4}{Email}#=%=#diana.inkpen@uottawa.ca
+Author{4}{Affiliation}#=%=#University of Ottawa
+Author{5}{Firstname}#=%=#Si
+Author{5}{Lastname}#=%=#Wei
+Author{5}{Email}#=%=#siwei@iflytek.com
+Author{5}{Affiliation}#=%=#iFLYTEK Research
+
+==========

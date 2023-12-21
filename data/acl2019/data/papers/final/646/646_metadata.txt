@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#646
+FinalPaperTitle#=%=#CNN for Text-Based Multiple Choice Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Akshay Chaturvedi
+JobTitle#==#
+Organization#==#Indian Statistical Institute; 203, B. T. Road; Kolkata 700108; India
+Abstract#==#The task of Question Answering is at the very core of machine comprehension. In this paper, we propose a Convolutional Neural Network (CNN) model for
+text-based multiple choice question answering where questions are based on a
+particular article. Given an article and a multiple choice question, our model
+assigns a score to each question-option tuple and chooses the final option
+accordingly. We test our model on Textbook Question Answering (TQA) and SciQ
+dataset. Our model outperforms several LSTM-based baseline models on the two
+datasets.
+Author{1}{Firstname}#=%=#Akshay
+Author{1}{Lastname}#=%=#Chaturvedi
+Author{1}{Email}#=%=#akshay91.isi@gmail.com
+Author{1}{Affiliation}#=%=#Indian Statistical Institute
+Author{2}{Firstname}#=%=#Onkar
+Author{2}{Lastname}#=%=#Pandit
+Author{2}{Email}#=%=#onkar.pandit@inria.fr
+Author{2}{Affiliation}#=%=#INRIA, Lille, France
+Author{3}{Firstname}#=%=#Utpal
+Author{3}{Lastname}#=%=#Garain
+Author{3}{Email}#=%=#utpal.garain@gmail.com
+Author{3}{Affiliation}#=%=#Indian Statistical Institute
+
+==========

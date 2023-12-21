@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Rating Distributions and Bayesian Inference: Enhancing Cognitive Models of Spatial Language Use
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Thomas Kluth
+JobTitle#==#PhD student
+Organization#==#Bielefeld University, Inspiration 1, 33619 Bielefeld, Germany
+Abstract#==#We present two methods that improve the assessment of cognitive models. The first method is applicable to models computing average acceptability ratings. For these models, we propose an extension that simulates a full rating distribution (instead of average ratings) and allows generating individual ratings. Our second method enables Bayesian inference for models generating individual data. To this end, we propose to use the cross-match test (Rosenbaum, 2005) as a likelihood function. We exemplarily present both methods using cognitive models from the domain of spatial language use. For spatial language use, determining linguistic acceptability judgments of a spatial preposition for a depicted spatial relation is assumed to be a crucial process (Logan and Sadler, 1996). Existing models of this process compute an average acceptability rating. We extend the models and – based on existing data – show that the extended models allow extracting more information from the empirical data and yield more readily interpretable information about model successes and failures. Applying Bayesian inference, we find that model performance relies less on mechanisms of capturing geometrical aspects than on mapping the captured geometry to a rating interval.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Kluth
+Author{1}{Email}#=%=#tkluth@cit-ec.uni-bielefeld.de
+Author{1}{Affiliation}#=%=#Language & Cognition Group, CITEC, Bielefeld University
+Author{2}{Firstname}#=%=#Holger
+Author{2}{Lastname}#=%=#Schultheis
+Author{2}{Email}#=%=#schulth@uni-bremen.de
+Author{2}{Affiliation}#=%=#Bremen Spatial Cognition Center, University of Bremen
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1050
+FinalPaperTitle#=%=#Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Edoardo Maria Ponti
+JobTitle#==#
+Organization#==#University of Cambridge, Cambridge, UK
+Abstract#==#The transfer or share of knowledge between languages is a potential solution to resource scarcity in NLP. However, the effectiveness of cross-lingual transfer can be challenged by variation in syntactic structures. Frameworks such as Universal Dependencies (UD) are designed to be cross-lingually consistent, but even in carefully designed resources trees representing equivalent sentences may not always overlap. In this paper, we measure cross-lingual syntactic variation,  or anisomorphism, in the UD treebank collection, considering both morphological and structural properties. We show that reducing the level of anisomorphism yields consistent gains in cross-lingual transfer tasks. We introduce a source language selection procedure that facilitates effective cross-lingual parser transfer, and propose a typologically driven method for syntactic tree processing which reduces anisomorphism. Our results show the effectiveness of this method for both machine translation and cross-lingual sentence similarity, demonstrating the importance of syntactic structure compatibility for boosting cross-lingual transfer in NLP.
+Author{1}{Firstname}#=%=#Edoardo Maria
+Author{1}{Lastname}#=%=#Ponti
+Author{1}{Email}#=%=#ep490@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Roi
+Author{2}{Lastname}#=%=#Reichart
+Author{2}{Email}#=%=#roireichart@gmail.com
+Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Korhonen
+Author{3}{Email}#=%=#anna.korhonen@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Ivan
+Author{4}{Lastname}#=%=#Vulić
+Author{4}{Email}#=%=#iv250@cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

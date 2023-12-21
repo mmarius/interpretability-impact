@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1194
+FinalPaperTitle#=%=#Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alane Suhr
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a learning approach for mapping context-dependent sequential instructions to actions. We address the problem of discourse and state dependencies with an attention-based model that considers both the history of the interaction and the state of the world. To train from start and goal states without access to demonstrations, we propose SESTRA, a learning algorithm that takes advantage of single-step reward observations and immediate expected reward maximization. We evaluate on the SCONE domains, and show absolute accuracy improvements of 9.8%-25.3% across the domains over approaches that use high-level logical representations.
+Author{1}{Firstname}#=%=#Alane
+Author{1}{Lastname}#=%=#Suhr
+Author{1}{Email}#=%=#als495@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Artzi
+Author{2}{Email}#=%=#yoav@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

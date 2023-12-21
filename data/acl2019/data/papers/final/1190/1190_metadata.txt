@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1190
+FinalPaperTitle#=%=#Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hu Xu
+JobTitle#==#
+Organization#==#University of Illinois at Chicago
+Abstract#==#One key task of fine-grained sentiment analysis of product reviews is to extract product aspects or features that users have expressed opinions on. This paper focuses on supervised aspect extraction using deep learning. Unlike other highly sophisticated supervised deep learning models, this paper proposes a novel and yet simple CNN model employing two types of pre-trained embeddings for aspect extraction: general-purpose embeddings and domain-specific embeddings. Without using any additional supervision, this model achieves surprisingly good results, outperforming state-of-the-art sophisticated existing methods. To our knowledge, this paper is the first to report such double embeddings based CNN model for aspect extraction and achieve very good results.
+Author{1}{Firstname}#=%=#Hu
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#hxu48@uic.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liub@cs.uic.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Lei
+Author{3}{Lastname}#=%=#Shu
+Author{3}{Email}#=%=#lshu3@uic.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Chicago
+Author{4}{Firstname}#=%=#Philip S.
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Email}#=%=#psyu@uic.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Chicago
+
+==========

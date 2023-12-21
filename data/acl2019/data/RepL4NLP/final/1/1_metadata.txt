@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Corpus Specificity in LSA and Word2vec: The Role of Out-of-Domain Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Edgar Altszyler
+JobTitle#==#
+Organization#==#University of Buenos Aires
+Abstract#==#Despite the popularity of word embeddings, the precise way by which they acquire semantic relations between words remain unclear. In the present article, we investigate whether LSA and word2vec capacity to identify relevant semantic relations increases with corpus size. One intuitive hypothesis is that the capacity to identify relevant associations should increase as the amount of data increases. However, if corpus size grows in topics which are not specific to the domain of interest, signal to noise ratio may weaken. Here we investigate the effect of corpus specificity and size in word-embeddings, and for this, we study two ways for progressive elimination of documents: the elimination of random documents vs. the elimination of documents unrelated to a specific task. We show that word2vec can take advantage of all the documents, obtaining its best performance when it is trained with the whole corpus. On the contrary, the specialization (removal of out-of-domain documents) of the training corpus, accompanied by a decrease of dimensionality, can increase LSA word-representation quality while speeding up the processing time. From a cognitive-modeling point of view, we point out that LSA's word-knowledge acquisitions may not be efficiently exploiting higher-order co-occurrences and global relations, whereas word2vec does.
+Author{1}{Firstname}#=%=#Edgar
+Author{1}{Lastname}#=%=#Altszyler
+Author{1}{Email}#=%=#ealtszyler@dc.uba.ar
+Author{1}{Affiliation}#=%=#Departamento de Computación, Universidad de Buenos Aires; ICC-CONICET
+Author{2}{Firstname}#=%=#Mariano
+Author{2}{Lastname}#=%=#Sigman
+Author{2}{Email}#=%=#msigman@utdt.edu
+Author{2}{Affiliation}#=%=#Universidad Torcuato Di Tella - CONICET
+Author{3}{Firstname}#=%=#Diego
+Author{3}{Lastname}#=%=#Fernandez Slezak
+Author{3}{Email}#=%=#dfslezak@dc.uba.ar
+Author{3}{Affiliation}#=%=#Departamento de Computación, Universidad de Buenos Aires, ICC-CONICET
+
+==========

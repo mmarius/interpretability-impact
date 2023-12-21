@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#A Framework for Developing and Evaluating Word Embeddings of Drug-named Entity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mengnan Zhao
+JobTitle#==#
+Organization#==#Drexel University
+Abstract#==#We investigate the quality of task specific word embeddings created with relatively small, targeted corpora. We present a comprehensive evaluation framework including both intrinsic and extrinsic evaluation that can be expanded to named entities beyond drug name. Intrinsic evaluation results tell that drug name embeddings created with a domain specific document corpus outperformed the previously published versions that derived from a very large general text corpus. Extrinsic evaluation uses word embedding for the task of drug name recognition with Bi-LSTM model and the results demonstrate the advantage of using domain-specific word embeddings as the only input feature for drug name recognition with F1-score achieving 0.91. This work suggests that it may be advantageous to derive domain specific embeddings for certain tasks even when the domain specific corpus is of limited size.
+Author{1}{Firstname}#=%=#Mengnan
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#mz438@drexel.edu
+Author{1}{Affiliation}#=%=#Drexel University
+Author{2}{Firstname}#=%=#Aaron J.
+Author{2}{Lastname}#=%=#Masino
+Author{2}{Email}#=%=#MASINOA@EMAIL.CHOP.EDU
+Author{2}{Affiliation}#=%=#Children’s Hospital of Philadelphia
+Author{3}{Firstname}#=%=#Christopher C.
+Author{3}{Lastname}#=%=#Yang
+Author{3}{Email}#=%=#ccy24@drexel.edu
+Author{3}{Affiliation}#=%=#Drexel University
+
+==========

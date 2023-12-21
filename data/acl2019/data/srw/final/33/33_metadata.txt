@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kushagra Singh
+JobTitle#==#
+Organization#==#IIIT Delhi, India
+Abstract#==#While growing code-mixed content on Online Social Networks(OSN) provides a fertile ground for studying various aspects of code-mixing, the lack of automated text analysis tools render such studies challenging. To meet this challenge, a
+family of tools for analyzing code-mixed data such as language identifiers, parts-of-speech (POS) taggers, chunkers have been developed. Named Entity Recognition (NER) is an important text analysis task which is not only informative by itself, but is also needed for downstream NLP tasks such as semantic role labeling. In this work, we present an exploration of automatic NER of code-mixed data. We compare our method with existing off-the-shelf NER tools for social media content,and find that our systems outperforms the best baseline by 33.18 % (F1 score).
+Author{1}{Firstname}#=%=#Kushagra
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Email}#=%=#kushagra14056@iiitd.ac.in
+Author{1}{Affiliation}#=%=#IIIT Delhi
+Author{2}{Firstname}#=%=#Indira
+Author{2}{Lastname}#=%=#Sen
+Author{2}{Email}#=%=#indira15021@iiitd.ac.in
+Author{2}{Affiliation}#=%=#IIIT Delhi
+Author{3}{Firstname}#=%=#Ponnurangam
+Author{3}{Lastname}#=%=#Kumaraguru
+Author{3}{Email}#=%=#pk@iiitd.ac.in
+Author{3}{Affiliation}#=%=#IIIT Delhi
+
+==========

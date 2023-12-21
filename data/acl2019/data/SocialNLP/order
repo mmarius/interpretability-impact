@@ -1,0 +1,23 @@
+* Friday, July 20, 2018
+! 09:20--10:30 Keynote Speech (I):The Search for Emotions, Creativity, and Fairness in Language %by Dr. Saif Mohammad (NSF)
+= 10:30--11:00 Coffee Break
+= 11:00--12:20 Technical Session 1 # %chair1 Lun-Wei Ku
+4   # Sociolinguistic Corpus of WhatsApp Chats in Spanish among College Students
+13   # A Crowd-Annotated Spanish Corpus for Humor Analysis
+8   # A Twitter Corpus for Hindi-English Code Mixed POS Tagging
+6   # Detecting Offensive Tweets in Hindi-English Code-Switched Language
+= 12:20--13:20 Lunch
+! 13:20--14:30 Keynote Speech (II): Understanding Online Social Behaviors through Automatic Language Analysis %by Dr. Yi-Chia Wang (Uber)
+= 14:30--15:30 EmotionX Challenge Session # %chair1 Lun-Wei Ku
+27   # SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues
+21   # EmotionX-DLC: Self-Attentive BiLSTM for Detecting Sequential Emotions in Dialogues
+22   # EmotionX-AR: CNN-DCNN autoencoder based Emotion Classifier
+24   # EmotionX-SmartDubai_NLP: Detecting User Emotions In Social Media Text
+25   # EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling
+26   # EmotionX-JTML: Detecting emotions with Attention
+= 15:30--16:00 Coffee Break
+= 16:00--17:00 Technical Session 2 # %chair1 Lun-Wei Ku
+15   # Towards Automation of Sense-type Identification of Verbs in OntoSenseNet
+9   # Improving Classification of Twitter Behavior During Hurricane Events
+11   # Political discourse classification in social networks using context sensitive convolutional neural networks
+= 17:00--17:10 Closing # %chair1 Lun-Wei Ku

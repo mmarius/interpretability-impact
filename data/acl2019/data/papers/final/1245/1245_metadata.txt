@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#1245
+FinalPaperTitle#=%=#Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hongge Chen
+JobTitle#==#
+Organization#==#MIT, Cambridge, MA 02139
+Abstract#==#Visual language grounding is widely studied
+in modern neural image captioning
+systems, which typically adopts an
+encoder-decoder framework consisting of
+two principal components: a convolutional
+neural network (CNN) for image
+feature extraction and a recurrent neural
+network (RNN) for language caption generation.
+To study the robustness of language
+grounding to adversarial perturbations
+in machine vision and perception,
+we propose Show-and-Fool, a novel algorithm
+for crafting adversarial examples
+in neural image captioning. The proposed
+algorithm provides two evaluation
+approaches, which check if we can mislead
+neural image captioning systems to
+output some randomly chosen captions
+or keywords. Our extensive experiments
+show that our algorithm can successfully
+craft visually-similar adversarial examples
+with randomly targeted captions or keywords,
+and the adversarial examples can
+be made highly transferable to other image
+captioning systems. Consequently, our approach
+leads to new robustness implications
+of neural image captioning and novel
+insights in visual language grounding.
+Author{1}{Firstname}#=%=#Hongge
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chenhg@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Huan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#ecezhang@ucdavis.edu
+Author{2}{Affiliation}#=%=#UC Davis
+Author{3}{Firstname}#=%=#Pin-Yu
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#pin-yu.chen@ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Jinfeng
+Author{4}{Lastname}#=%=#Yi
+Author{4}{Email}#=%=#jinfengyi.ustc@gmail.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Cho-Jui
+Author{5}{Lastname}#=%=#Hsieh
+Author{5}{Email}#=%=#chohsieh@ucdavis.edu
+Author{5}{Affiliation}#=%=#University of California, Davis
+
+==========

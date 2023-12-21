@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Neural Models for Key Phrase Extraction and Question Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sandeep Subramanian
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a two-stage neural model to tackle question generation from documents. First, our model estimates the probability that word sequences in a document are ones that a human would pick when selecting candidate answers by training a neural key-phrase extractor on the answers in a question-answering corpus. Predicted key phrases then act as target answers and condition a sequence-to-sequence question-generation model with a copy mechanism. Empirically, our key-phrase extraction model significantly outperforms an entity-tagging baseline and existing rule-based approaches. We further demonstrate that our question generation system formulates fluent, answerable questions from key phrases. This two-stage system could be used to augment or generate reading comprehension datasets, which may be leveraged to improve machine reading systems or in educational settings.
+Author{1}{Firstname}#=%=#Sandeep
+Author{1}{Lastname}#=%=#Subramanian
+Author{1}{Email}#=%=#sandeep.subramanian@gmail.com
+Author{1}{Affiliation}#=%=#MILA, Université de Montréal
+Author{2}{Firstname}#=%=#Tong
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#Tong.Wang@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Xingdi
+Author{3}{Lastname}#=%=#Yuan
+Author{3}{Email}#=%=#eryua@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Maluuba
+Author{4}{Firstname}#=%=#Saizheng
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#saizheng.zhang@umontreal.ca
+Author{4}{Affiliation}#=%=#University of Montreal
+Author{5}{Firstname}#=%=#Adam
+Author{5}{Lastname}#=%=#Trischler
+Author{5}{Email}#=%=#adam.trischler@microsoft.com
+Author{5}{Affiliation}#=%=#Maluuba - Microsoft
+Author{6}{Firstname}#=%=#Yoshua
+Author{6}{Lastname}#=%=#Bengio
+Author{6}{Email}#=%=#yoshua.bengio@umontreal.ca
+Author{6}{Affiliation}#=%=#U. Montreal
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#686
+FinalPaperTitle#=%=#Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Elham Jebalbarezi sarbijan
+JobTitle#==#
+Organization#==#Center for AI Research (CAiRE), Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+Abstract#==#We propose a tri-modal architecture to predict Big Five personality trait
+scores from video clips with different channels for audio, text, and video
+data. For each channel, stacked Convolutional Neural Networks are employed. The
+channels are fused both on decision-level and by concatenating their respective
+fully connected layers. It is shown that a multimodal fusion approach
+outperforms each single modality channel, with an improvement of 9.4% over the
+best individual modality (video). Full backpropagation is also shown to be
+better than a linear combination of modalities, meaning complex interactions
+between modalities can be leveraged to build better models. Furthermore, we can
+see the prediction relevance of each modality for each trait. The described
+model can be used to increase the emotional intelligence of virtual agents.
+Author{1}{Firstname}#=%=#Onno
+Author{1}{Lastname}#=%=#Kampman
+Author{1}{Email}#=%=#opkampman@connect.ust.hk
+Author{1}{Affiliation}#=%=#Human Language Technology Center,  Department of Electronic and Computer Engineering,   Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+Author{2}{Firstname}#=%=#Elham
+Author{2}{Lastname}#=%=#J. Barezi
+Author{2}{Email}#=%=#ejs@connect.ust.hk
+Author{2}{Affiliation}#=%=#Human Language Technology Center,  Department of Computer Science and Engineering,   Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+Author{3}{Firstname}#=%=#Dario
+Author{3}{Lastname}#=%=#Bertero
+Author{3}{Email}#=%=#dbertero@ust.hk
+Author{3}{Affiliation}#=%=#Center for AI Research, The Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Pascale
+Author{4}{Lastname}#=%=#Fung
+Author{4}{Email}#=%=#pascale@ece.ust.hk
+Author{4}{Affiliation}#=%=#Human Language Technology Center,  Department of Electronic and Computer Engineering,   Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+
+==========

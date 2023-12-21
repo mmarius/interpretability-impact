@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#128
+FinalPaperTitle#=%=#A Hybrid Approach Combining Statistical Knowledge with Conditional Random Fields for Chinese Grammatical Error Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yiyi Wang
+JobTitle#==#
+Organization#==#Universiry of Illinois at Urbana-Champaign, 707 S Mathews Ave, Urbana, IL 61801
+Abstract#==#This paper presents a method of combining Conditional Random Fields (CRFs) model with a post-processing layer using Google n-grams statistical information tailored to detect word selection and word order errors made by learners of Chinese as Foreign Language (CFL). We describe the architecture of the model and its performance in the shared task of the ACL 2018 Workshop on Natural Language Processing Techniques for Educational Applications (NLPTEA). This hybrid approach yields comparably high false positive rate (FPR = 0.1274) and precision (Pd= 0.7519; Pi= 0.6311), but low recall (Rd = 0.3035; Ri = 0.1696 ) in grammatical error detection and identification tasks. Additional statistical information and linguistic rules can be added to enhance the model performance in the future.
+Author{1}{Firstname}#=%=#Yiyi
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#ywang418@uiuc.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Chilin
+Author{2}{Lastname}#=%=#Shih
+Author{2}{Email}#=%=#cls@illinois.edu
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+
+==========

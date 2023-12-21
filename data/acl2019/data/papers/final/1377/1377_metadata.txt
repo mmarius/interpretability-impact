@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1377
+FinalPaperTitle#=%=#Zero-shot Learning of Classifiers from Natural Language Quantification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shashank Srivastava
+JobTitle#==#
+Organization#==#CMU
+Abstract#==#Humans can efficiently learn new concepts using language. We present a framework through which a set of explanations of a concept can be used to learn a classifier without access to any labeled examples. We use semantic parsing to map explanations to probabilistic assertions grounded in latent class labels and observed attributes of unlabeled data, and leverage the differential semantics of linguistic quantifiers (e.g., `usually' vs `always') to drive model training. Experiments on three domains show that the learned classifiers outperform previous approaches for learning with limited data, and are comparable with fully supervised classifiers trained from a small number of labeled examples.
+Author{1}{Firstname}#=%=#Shashank
+Author{1}{Lastname}#=%=#Srivastava
+Author{1}{Email}#=%=#shsriva@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon
+Author{2}{Firstname}#=%=#Igor
+Author{2}{Lastname}#=%=#Labutov
+Author{2}{Email}#=%=#igor.labutov@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Tom
+Author{3}{Lastname}#=%=#Mitchell
+Author{3}{Email}#=%=#tom.mitchell@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

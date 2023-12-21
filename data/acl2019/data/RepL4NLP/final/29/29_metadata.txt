@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#WordNet Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#António Branco
+JobTitle#==#
+Organization#==#
+Abstract#==#Semantic networks and semantic spaces have been two prominent approaches to represent lexical semantics. While a unified account of the lexical meaning relies on one being able to convert between these representations, in both directions, the conversion direction from semantic networks into semantic spaces started to attract more attention recently. In this paper we present a methodology for this conversion and assess it with a case study. When it is applied over WordNet, the performance of the resulting embeddings in a mainstream semantic similarity task is very good, substantially superior to the performance of word embeddings based on very large collections of texts like word2vec.
+Author{1}{Firstname}#=%=#Chakaveh
+Author{1}{Lastname}#=%=#Saedi
+Author{1}{Email}#=%=#chakaveh.saedi@fc.ul.pt
+Author{1}{Affiliation}#=%=#University of Lisbon
+Author{2}{Firstname}#=%=#António
+Author{2}{Lastname}#=%=#Branco
+Author{2}{Email}#=%=#antonio.branco@di.fc.ul.pt
+Author{2}{Affiliation}#=%=#University of Lisbon
+Author{3}{Firstname}#=%=#João
+Author{3}{Lastname}#=%=#António Rodrigues
+Author{3}{Email}#=%=#joao.rodrigues@di.fc.ul.pt
+Author{3}{Affiliation}#=%=#University of Lisbon
+Author{4}{Firstname}#=%=#João
+Author{4}{Lastname}#=%=#Silva
+Author{4}{Email}#=%=#jsilva@di.fc.ul.pt
+Author{4}{Affiliation}#=%=#University of Lisbon
+
+==========

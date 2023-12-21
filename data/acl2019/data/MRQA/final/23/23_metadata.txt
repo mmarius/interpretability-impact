@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Comparative Analysis of Neural QA models on SQuAD
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Soumya Wadhwa
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh
+Abstract#==#The task of Question Answering has gained prominence in the past few decades for testing the ability of machines to understand natural language. Large datasets for Machine Reading have led to the development of neural models that cater to deeper language understanding compared to information retrieval tasks. Different components in these neural architectures are intended to tackle different challenges. As a first step towards achieving generalization across multiple domains, we attempt to understand and compare the peculiarities of existing end-to-end neural models on the Stanford Question Answering Dataset (SQuAD) by performing quantitative as well as qualitative analysis of the results attained by each of them. We observed that prediction errors reflect certain model-specific biases, which we further discuss in this paper.
+Author{1}{Firstname}#=%=#Soumya
+Author{1}{Lastname}#=%=#Wadhwa
+Author{1}{Email}#=%=#soumyaw@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Khyathi
+Author{2}{Lastname}#=%=#Chandu
+Author{2}{Email}#=%=#kchandu@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Eric
+Author{3}{Lastname}#=%=#Nyberg
+Author{3}{Email}#=%=#en09@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

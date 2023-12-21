@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Exploiting Common Characters in Chinese and Japanese to Learn Cross-Lingual Word Embeddings via Matrix Factorization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jilei Wang
+JobTitle#==#
+Organization#==#Tsinghua University, Haidian, Beijing, China, 100084
+Abstract#==#Learning vector space representation of words (i.e., word embeddings) has recently attracted wide research interests, and has been extended to cross-lingual scenario. 
+Currently most cross-lingual word embedding learning models are based on sentence alignment, which inevitably introduces much noise. 
+In this paper, we show in Chinese and Japanese, the acquisition of semantic relation among words can benefit from the large number of common characters shared by both languages; 
+inspired by this unique feature, we design a method named CJC  targeting to generate cross-lingual context of words.
+We combine CJC with GloVe based on matrix factorization, and then propose an integrated model named CJ-Glo. 
+Taking two sentence-aligned models and CJ-BOC (also exploits common characters but is based on CBOW) as baseline algorithms, we compare them with CJ-Glo on a series of NLP tasks including cross-lingual synonym, word analogy and sentence alignment. 
+The result indicates CJ-Glo achieves the best performance among these methods, and is more stable in cross-lingual tasks; moreover, compared with CJ-BOC, CJ-Glo is less sensitive to the alteration of parameters.
+Author{1}{Firstname}#=%=#Jilei
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangjileiruc@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Shiying
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Email}#=%=#neulsy@hotmail.com
+Author{2}{Affiliation}#=%=#Northeastern University
+Author{3}{Firstname}#=%=#Weiyan
+Author{3}{Lastname}#=%=#Shi
+Author{3}{Email}#=%=#Wyshi@berkeley.edu
+Author{3}{Affiliation}#=%=#University of California, Berkeley
+Author{4}{Firstname}#=%=#Tao
+Author{4}{Lastname}#=%=#Dai
+Author{4}{Email}#=%=#dait14@mails.tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua Univeristy
+Author{5}{Firstname}#=%=#Shu-Tao
+Author{5}{Lastname}#=%=#Xia
+Author{5}{Email}#=%=#xiast@sz.tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#Tsinghua University
+
+==========

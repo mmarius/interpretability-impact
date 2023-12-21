@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Pranav A
+JobTitle#==#
+Organization#==#The Hong Kong University of Science and Technology. Clear Water Bay, Kowloon, Hong Kong.
+Abstract#==#Ranking functions in information retrieval are often used in search engines to extract the relevant answers to the query. This paper makes use of this notion of information retrieval and applies onto the problem domain of cognate detection. 
+
+The main contributions of this paper are: 
+(1) positional tokenization, which incorporates the sequential notion; 
+(2) graphical error modelling, which calculates the morphological shifts.
+
+The current research work only distinguishes whether a pair of words are cognates or not. However, we also study if we could predict a possible cognate from the given input. Our study shows that language modelling based retrieval functions with positional tokenization and error modelling tend to give better results than competing baselines.
+Author{1}{Firstname}#=%=#Pranav
+Author{1}{Lastname}#=%=#A
+Author{1}{Email}#=%=#cs.pranav.a@gmail.com
+Author{1}{Affiliation}#=%=#Hong Kong University of Science and Technology (HKUST)
+
+==========

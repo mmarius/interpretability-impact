@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1489
+FinalPaperTitle#=%=#Examining Temporality in Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xiaolei Huang
+JobTitle#==#
+Organization#==#Department of Information Science, University of Colorado Boulder; Environmental Design 201, 315 UCB, 1060 18th Street Boulder, CO 80309
+Abstract#==#Many corpora span broad periods of time. Language processing models trained
+during one time period may not work well in future time periods, and the best
+model may depend on specific times of year (e.g., people might describe hotels
+differently in reviews during the winter versus the summer).
+This study investigates how document classifiers trained on documents from
+certain time intervals perform on documents from other time intervals,
+considering both seasonal intervals (intervals that repeat across years, e.g.,
+winter) and non-seasonal intervals (e.g., specific years).
+We show experimentally that classification performance varies over time,
+and that performance can be improved by using a standard domain adaptation
+approach to adjust for changes in time.
+Author{1}{Firstname}#=%=#Xiaolei
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#xiaolei.huang@colorado.edu
+Author{1}{Affiliation}#=%=#Dept. of Information Science, University of Colorado Boulder
+Author{2}{Firstname}#=%=#Michael J.
+Author{2}{Lastname}#=%=#Paul
+Author{2}{Email}#=%=#mpaul39@gmail.com
+Author{2}{Affiliation}#=%=#University of Colorado
+
+==========

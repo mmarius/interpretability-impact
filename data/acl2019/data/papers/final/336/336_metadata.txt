@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#336
+FinalPaperTitle#=%=#Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yue Zhao
+JobTitle#==#
+Organization#==#CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Science
+Abstract#==#Document-level information is very important for event detection even at
+sentence level. In this paper, we propose a novel Document Embedding Enhanced
+Bi-RNN model, called DEEB-RNN, to detect events in sentences. This model first
+learns event detection oriented embeddings of documents through a hierarchical
+and supervised attention based RNN, which pays word-level attention to event
+triggers and sentence-level attention to those sentences containing events. It
+then uses the learned document embedding to enhance another bidirectional RNN
+model to identify event triggers and their types in sentences. Through
+experiments on the ACE-2005 dataset, we demonstrate the effectiveness and
+merits of the proposed DEEB-RNN model via comparison with state-of-the-art
+methods.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#zhaoyue@software.ict.ac.cn
+Author{1}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences (CAS); The School of Computer and Control Engineering, University of CAS
+Author{2}{Firstname}#=%=#Xiaolong
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Email}#=%=#jinxiaolong@ict.ac.cn
+Author{2}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences (CAS); The School of Computer and Control Engineering, University of CAS
+Author{3}{Firstname}#=%=#Yuanzhuo
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wangyuanzhuo@ict.ac.cn
+Author{3}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences (CAS); The School of Computer and Control Engineering, University of CAS
+Author{4}{Firstname}#=%=#Xueqi
+Author{4}{Lastname}#=%=#Cheng
+Author{4}{Email}#=%=#cxq@ict.ac.cn
+Author{4}{Affiliation}#=%=#CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences (CAS); The School of Computer and Control Engineering, University of CAS
+
+==========

@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Tackling Adversarial Examples in QA via Answer Sentence Selection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yuanhang Ren
+JobTitle#==#
+Organization#==#University of Electronic Science and Technology of China, Chengdu, China
+Abstract#==#Question answering systems deteriorate dramatically in the presence of adversarial sentences in articles. According to Jia and Liang (2017), the single BiDAF system (Seo et al., 2016) only achieves an F1 score of 4.8 on the ADDANY adversarial dataset. In this paper, we present a method to tackle this problem via answer sentence selection. Given a paragraph of an article and a corresponding query, instead of directly feeding the whole paragraph to the single BiDAF system, a sentence that most likely contains the answer to the query is first selected, which is done via a deep neural network based on TreeLSTM (Tai et al., 2015). Experiments on ADDANY adversarial dataset validate the effectiveness of our method. The F1 score
+has been improved to 52.3.
+Author{1}{Firstname}#=%=#Yuanhang
+Author{1}{Lastname}#=%=#Ren
+Author{1}{Email}#=%=#ryuanhang@gmail.com
+Author{1}{Affiliation}#=%=#University of Electronic Science and Technology of China
+Author{2}{Firstname}#=%=#Ye
+Author{2}{Lastname}#=%=#Du
+Author{2}{Email}#=%=#henry.duye@gmail.com
+Author{2}{Affiliation}#=%=#Southwestern University of Finance and Economics, China
+Author{3}{Firstname}#=%=#Di
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#albertwang0921@gmail.com
+Author{3}{Affiliation}#=%=#Southwestern University of Finance and Economics, China
+
+==========

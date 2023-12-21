@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1365
+FinalPaperTitle#=%=#Learning Domain-Sensitive and Sentiment-Aware Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#石贝
+JobTitle#==#
+Organization#==#Department of Systems Engineering and Engineering Management, William M. W. Mong Engineering Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+Abstract#==#Word embeddings have been widely used in sentiment classification because of their efficacy for semantic representations of words. Given reviews from different domains, some existing methods for word embeddings exploit sentiment information, but they cannot produce domain-sensitive embeddings. On the other hand, some other existing methods can generate domain-sensitive word embeddings, but they cannot distinguish words with similar contexts but opposite sentiment polarity. We propose a new method for learning domain-sensitive and sentiment-aware embeddings that simultaneously capture the information of sentiment semantics and domain sensitivity of individual words. Our method can automatically determine and produce domain-common embeddings and domain-specific embeddings. The differentiation of domain-common and domain-specific words enables the advantage of data augmentation of common semantics from multiple domains and capture the varied semantics of specific words from different domains at the same time. Experimental results show that our model provides an effective way to learn domain-sensitive and sentiment-aware word embeddings which benefit sentiment classification at both sentence level and lexicon term level.
+Author{1}{Firstname}#=%=#Bei
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#bshi@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Zihao
+Author{2}{Lastname}#=%=#Fu
+Author{2}{Email}#=%=#zhfu@se.cuhk.edu.hk
+Author{2}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{3}{Firstname}#=%=#Lidong
+Author{3}{Lastname}#=%=#Bing
+Author{3}{Email}#=%=#binglidong@gmail.com
+Author{3}{Affiliation}#=%=#Tencent AI Lab
+Author{4}{Firstname}#=%=#Wai
+Author{4}{Lastname}#=%=#Lam
+Author{4}{Email}#=%=#wlam@se.cuhk.edu.hk
+Author{4}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

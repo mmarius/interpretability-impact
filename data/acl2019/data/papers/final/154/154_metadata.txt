@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#154
+FinalPaperTitle#=%=#A Structured Variational Autoencoder for Contextual Morphological Inflection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sebastian J. Mielke
+JobTitle#==#
+Organization#==#Johns Hopkins University
+Abstract#==#Statistical morphological inflectors are typically trained on fully supervised, type-level data. One remaining open research question is the following: How can we effectively exploit raw, token-level data to improve their performance? To this end, we introduce a novel generative latent-variable model for the semi-supervised learning of inflection generation. To enable posterior inference over the latent variables, we derive an efficient variational inference procedure based on the wake-sleep algorithm. We experiment on 23 languages, using the Universal Dependencies corpora in a simulated low-resource setting, and find improvements of over 10% absolute accuracy in some cases.
+Author{1}{Firstname}#=%=#Ryan
+Author{1}{Lastname}#=%=#Cotterell
+Author{1}{Email}#=%=#ryan.cotterell@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Naradowsky
+Author{2}{Email}#=%=#jason.narad@gmail.com
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Sebastian J.
+Author{3}{Lastname}#=%=#Mielke
+Author{3}{Email}#=%=#sjm@sjmielke.com
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Lawrence
+Author{4}{Lastname}#=%=#Wolf-Sonkin
+Author{4}{Email}#=%=#lawrencews@jhu.edu
+Author{4}{Affiliation}#=%=#Johns Hopkins University
+
+==========

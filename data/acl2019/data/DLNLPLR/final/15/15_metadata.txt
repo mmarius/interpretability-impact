@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Morphological neighbors beat word2vec on the long tail
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#Clayton Greenberg
+JobTitle#==#
+Organization#==#Saarland University, Saarbruecken, Germany
+Abstract#==#The deep learning approach to representing word meaning exploits statistically observable relationships between words. But when resources are too low to find these relationships, a neural network can do worse than fail; it can return harmful garbage. The main aim of this work is to explore this threshold of rareness. First, we  analyze frequency distributions in text and in common word similarity tasks used to evaluate meaning representations. Then, we pinpoint the benefits of the low resource tool SwordSS (Singh et al., 2016), which uses surface morphology to enhance neural embeddings.
+Author{1}{Firstname}#=%=#Clayton
+Author{1}{Lastname}#=%=#Greenberg
+Author{1}{Email}#=%=#claytong@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Mittul
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Email}#=%=#msingh@lsv.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Dietrich
+Author{3}{Lastname}#=%=#Klakow
+Author{3}{Email}#=%=#dietrich.klakow@lsv.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

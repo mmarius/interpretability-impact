@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#412
+FinalPaperTitle#=%=#Prefix Lexicalization of Synchronous CFGs using Synchronous TAG
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Logan Born
+JobTitle#==#
+Organization#==#Simon Fraser University, 8888 University Drive Burnaby, B.C. Canada
+Abstract#==#We show that an epsilon-free, chain-free synchronous context-free grammar
+(SCFG) can be converted into a weakly equivalent synchronous tree-adjoining
+grammar (STAG) which is prefix lexicalized. This transformation at most doubles
+the grammar's rank and cubes its size, but we show that in practice the size
+increase is only quadratic. Our results extend Greibach normal form from CFGs
+to SCFGs and prove new formal properties about SCFG, a formalism with many
+applications in natural language processing.
+Author{1}{Firstname}#=%=#Logan
+Author{1}{Lastname}#=%=#Born
+Author{1}{Email}#=%=#loborn@sfu.ca
+Author{1}{Affiliation}#=%=#Simon Fraser University
+Author{2}{Firstname}#=%=#Anoop
+Author{2}{Lastname}#=%=#Sarkar
+Author{2}{Email}#=%=#anoop@cs.sfu.ca
+Author{2}{Affiliation}#=%=#Simon Fraser University
+
+==========

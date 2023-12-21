@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Toward Cross-Domain Engagement Analysis in Medical Notes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sara Rosenthal
+JobTitle#==#
+Organization#==#IBM Research, USA
+Abstract#==#We present a novel annotation task evaluating a patient's engagement with their health care regimen. The concept of engagement supplements the traditional concept of adherence with a focus on the patient's affect, lifestyle choices, and health goal status. We describe an engagement annotation task across two patient note domains: traditional clinical notes and a novel domain, care manager notes, where we find engagement to be more common. The annotation task resulted in a kappa of .53, suggesting strong annotator intuitions regarding engagement-bearing language.  In addition, we report the results of a series of preliminary engagement classification experiments using domain adaptation.
+Author{1}{Firstname}#=%=#Sara
+Author{1}{Lastname}#=%=#Rosenthal
+Author{1}{Email}#=%=#sjrosenthal@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Faulkner
+Author{2}{Email}#=%=#afaulkner@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+
+==========

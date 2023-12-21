@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1411
+FinalPaperTitle#=%=#A Distributional and Orthographic Aggregation Model for English Derivational Morphology
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Daniel Deutsch
+JobTitle#==#
+Organization#==#University of Pennsylvania, 3330 Walnut Street, Philadelphia, PA 19104
+Abstract#==#Modeling derivational morphology to generate words with particular semantics is
+useful in many text generation tasks, such as machine translation or
+abstractive question answering. In this work, we tackle the task of derived
+word generation. That is, we attempt to generate the word "runner" for "someone
+who runs." We identify two key problems in generating derived words from root
+words and transformations. We contribute a novel aggregation model of derived
+word generation that learns derivational transformations both as orthographic
+functions using sequence-to-sequence models and as functions in distributional
+word embedding space. The model then learns to choose between the hypothesis of
+each system. We also present two ways of incorporating corpus information into
+derived word generation.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Deutsch
+Author{1}{Email}#=%=#ddeutsch@cis.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Hewitt
+Author{2}{Email}#=%=#johnhew@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Roth
+Author{3}{Email}#=%=#danr@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois
+
+==========

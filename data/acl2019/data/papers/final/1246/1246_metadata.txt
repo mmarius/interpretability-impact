@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1246
+FinalPaperTitle#=%=#Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Osman Ramadan
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#Robust dialogue belief tracking is a key component in maintaining good quality dialogue systems. The tasks that dialogue systems are trying to solve are becoming increasingly complex, requiring scalability to multi-domain, semantically rich dialogues. However, most current approaches have difficulty scaling up with domains because of the dependency of the model parameters on the dialogue ontology. In this paper, a novel approach is introduced that fully utilizes semantic similarity between dialogue utterances and the ontology terms, allowing the information to be shared across domains. The evaluation is performed on a recently collected multi-domain dialogues dataset, one order of magnitude larger than currently available corpora. Our model demonstrates great capability in handling multi-domain dialogues, simultaneously outperforming existing state-of-the-art models in single-domain dialogue tracking tasks.
+Author{1}{Firstname}#=%=#Osman
+Author{1}{Lastname}#=%=#Ramadan
+Author{1}{Email}#=%=#oior2@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Paweł
+Author{2}{Lastname}#=%=#Budzianowski
+Author{2}{Email}#=%=#pfb30@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Milica
+Author{3}{Lastname}#=%=#Gasic
+Author{3}{Email}#=%=#mg436@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

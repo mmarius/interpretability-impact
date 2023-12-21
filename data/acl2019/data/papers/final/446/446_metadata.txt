@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#446
+FinalPaperTitle#=%=#A Rank-Based Similarity Metric for Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Enrico Santus
+JobTitle#==#Postdoc
+Organization#==#MIT
+Abstract#==#Word Embeddings have recently imposed themselves as a standard for representing word meaning in NLP. Semantic similarity between word pairs has become the most common evaluation benchmark for these representations, with vector cosine being typically used as the only similarity metric. In this paper, we report experiments with a rank-based metric for WE, which performs comparably to vector cosine in similarity estimation and outperforms it in the recently-introduced and challenging task of outlier detection, thus suggesting that rank-based measures can improve clustering quality.
+Author{1}{Firstname}#=%=#Enrico
+Author{1}{Lastname}#=%=#Santus
+Author{1}{Email}#=%=#esantus@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Hongmin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#whm.nus.ee@gmail.com
+Author{2}{Affiliation}#=%=#University of California Santa Barbara
+Author{3}{Firstname}#=%=#Emmanuele
+Author{3}{Lastname}#=%=#Chersoni
+Author{3}{Email}#=%=#emmanuelechersoni@gmail.com
+Author{3}{Affiliation}#=%=#Aix-Marseille University
+Author{4}{Firstname}#=%=#Yue
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{4}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

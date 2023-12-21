@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#772
+FinalPaperTitle#=%=#Retrieval of the Best Counterargument without Prior Topic Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Henning Wachsmuth
+JobTitle#==#Junior professor
+Organization#==#Paderborn University, Fürstenallee 11, 33102 Paderborn, Germany
+Abstract#==#Given any argument on any controversial topic, how to counter it? This question implies the challenging retrieval task of finding the best counterargument. Since prior knowledge of a topic cannot be expected in general, we hypothesize the best counterargument to invoke the same aspects as the argument while having the opposite stance. To operationalize our hypothesis, we simultaneously model the similarity and dissimilarity of pairs of arguments, based on the words and embeddings of the arguments' premises and conclusions. A salient property of our model is its independence from the topic at hand, i.e., it applies to arbitrary arguments. We evaluate different model variations on millions of argument pairs derived from the web portal idebate.org. Systematic ranking experiments suggest that our hypothesis is true for many arguments: For 7.6 candidates with opposing stance on average, we rank the best counterargument highest with 60% accuracy. Even among all 2801 test set pairs as candidates, we still find the best one about every third time.
+Author{1}{Firstname}#=%=#Henning
+Author{1}{Lastname}#=%=#Wachsmuth
+Author{1}{Email}#=%=#henningw@upb.de
+Author{1}{Affiliation}#=%=#Paderborn University
+Author{2}{Firstname}#=%=#Shahbaz
+Author{2}{Lastname}#=%=#Syed
+Author{2}{Email}#=%=#shahbaz.syed@uni-weimar.de
+Author{2}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{3}{Firstname}#=%=#Benno
+Author{3}{Lastname}#=%=#Stein
+Author{3}{Email}#=%=#benno.stein@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universität Weimar
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1452
+FinalPaperTitle#=%=#Learning Prototypical Goal Activities for Locations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tianyu Jiang
+JobTitle#==#
+Organization#==#University of Utah, 50 S. Central Campus Drive Room 3190 SLC UT 84112
+Abstract#==#People go to different places to engage in activities that reflect their goals.
+For example, people go to restaurants to eat, libraries to study, and churches
+to pray. We refer to an activity that represents a common reason why people
+typically go to a location as a prototypical goal activity (goal-act).  Our
+research aims to learn goal-acts for specific locations using a text corpus and
+semi-supervised learning. First, we extract activities and locations that
+co-occur in goal-oriented syntactic patterns. Next, we create an activity
+profile matrix and apply a semi-supervised label propagation algorithm to
+iteratively revise the activity strengths for different locations using a
+small set of labeled data. We show that this approach outperforms several
+baseline methods when judged against goal-acts identified by human annotators.
+Author{1}{Firstname}#=%=#Tianyu
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#tianyu@cs.utah.edu
+Author{1}{Affiliation}#=%=#University of Utah
+Author{2}{Firstname}#=%=#Ellen
+Author{2}{Lastname}#=%=#Riloff
+Author{2}{Email}#=%=#riloff@cs.utah.edu
+Author{2}{Affiliation}#=%=#University of Utah
+
+==========

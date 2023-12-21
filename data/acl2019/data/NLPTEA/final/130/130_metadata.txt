@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#130
+FinalPaperTitle#=%=#CYUT-III Team Chinese Grammatical Error Diagnosis System Report in NLPTEA-2018 CGED Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper reports how we build a Chinese Grammatical Error Diagnosis system in the NLPTEA-2018 CGED shared task. In 2018, we sent three runs with three different approaches. The first one is a pattern-based approach by frequent error pattern matching. The second one is a sequential labelling approach by conditional random fields (CRF). The third one is a rewriting approach by sequence to sequence (seq2seq) model. The three approaches have different properties that aim to optimize different performance metrics and the formal run results show the differences as we expected.
+Author{1}{Firstname}#=%=#Shih-Hung
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#shwu@cyut.edu.tw
+Author{1}{Affiliation}#=%=#Chaoyang University of Technology
+Author{2}{Firstname}#=%=#JUN-WEI
+Author{2}{Lastname}#=%=#WANG
+Author{2}{Email}#=%=#z6228574@gmail.com
+Author{2}{Affiliation}#=%=#Chaoyang University of Technology
+Author{3}{Firstname}#=%=#Liang-Pu
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#eit@iii.org.tw
+Author{3}{Affiliation}#=%=#Institute for Information Industry
+Author{4}{Firstname}#=%=#Ping-Che
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#maciaclark@iii.org.tw
+Author{4}{Affiliation}#=%=#Institute for Information Industry
+
+==========
