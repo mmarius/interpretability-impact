@@ -2355,3 +2355,466 @@
 2353,22,Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism,,,10.18653/v1/P18-1047,ACL2019
 2354,975,Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking,,,10.18653/v1/P18-2063,ACL2019
 2355,972,Extracting Commonsense Properties from Embeddings with Limited Human Guidance,,,10.18653/v1/P18-2102,ACL2019
+2356,587-TACL,Joint Multitask Learning for Community Question Answering Using Task-Specific Embeddings,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1452,EMNLP2018
+2357,1017,What Makes Reading Comprehension Questions Easier?,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1453,EMNLP2018
+2358,1989,Commonsense for Generative Multi-Hop Question Answering Tasks,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1454,EMNLP2018
+2359,2043,Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1455,EMNLP2018
+2360,2134,A Nil-Aware Answer Extraction Framework for Question Answering,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1456,EMNLP2018
+2361,628,Large-scale Cloze Test Dataset Created by Teachers,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1257,EMNLP2018
+2362,1849,emrQA: A Large Corpus for Question Answering on Electronic Medical Records,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1258,EMNLP2018
+2363,2015,"HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1259,EMNLP2018
+2364,2133,Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1260,EMNLP2018
+2365,2312,Evaluating Theory of Mind in Question Answering,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1261,EMNLP2018
+2366,224,Automatic Event Salience Identification,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1154,EMNLP2018
+2367,766,Temporal Information Extraction by Predicting Relative Time-lines,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1155,EMNLP2018
+2368,1177,Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1156,EMNLP2018
+2369,1613,RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1157,EMNLP2018
+2370,1924,Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1158,EMNLP2018
+2371,1000,Knowledge Graph Embedding with Hierarchical Relation Structure,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1358,EMNLP2018
+2372,1331,Embedding Multimodal Relational Data for Knowledge Base Completion,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1359,EMNLP2018
+2373,1947,"Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction",Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1360,EMNLP2018
+2374,2201,Multi-Hop Knowledge Graph Reasoning with Reward Shaping,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1362,EMNLP2018
+2375,392,PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1016,EMNLP2018
+2376,627,Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1017,EMNLP2018
+2377,1286,Using Linguistic Features to Improve Generalization in Neural Coreference Resolvers,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2378,1574,Neural Segmental Hypergraphs for Overlapping Mention Recognition,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1019,EMNLP2018
+2379,1702,Characterizing Interactions and Relationships between People,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1470,EMNLP2018
+2380,1650,"TVQA: Localized, Compositional Video Question Answering",Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1167,EMNLP2018
+2381,1504,Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1215,EMNLP2018
+2382,1430-TACL,Comparing Bayesian Models of Annotation,Area A (Information Extraction and Question Answering) [LONG],,10.1162/tacl_a_00040,EMNLP2018
+2383,1649,Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1052,EMNLP2018
+2384,131,Cut to the Chase: A Context Zoom-in Network for Reading Comprehension,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1054,EMNLP2018
+2385,1904,How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1546,EMNLP2018
+2386,592,SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1051,EMNLP2018
+2387,940,Adaptive Document Retrieval for Deep Question Answering,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1055,EMNLP2018
+2388,1776,Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1306,EMNLP2018
+2389,146,Adversarial training for multi-context joint entity and relation extraction,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1307,EMNLP2018
+2390,946,Learning Sequence Encoders for Temporal Knowledge Graph Completion,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1516,EMNLP2018
+2391,152,Similar but not the Same - Word Sense Disambiguation Improves Event Detection via Neural Representation Matching,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2392,1440,Learning Word Representations with Cross-Sentence Dependencyfor End-to-End Co-reference Resolution,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2393,500,A Probabilistic Annotation Model for Crowdsourcing Coreference,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1218,EMNLP2018
+2394,171,Mapping Text to Knowledge Graph Entities by Vector Space Transformation,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2395,415,Differentiating Concepts and Instances for Knowledge Graph Embedding,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1222,EMNLP2018
+2396,1762,Regular Expression Guided Entity Mention Mining from Noisy Web Data,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1224,EMNLP2018
+2397,1898,HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1225,EMNLP2018
+2398,615,Neural Adaptation Layers for Cross-domain Named Entity Recognition,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1226,EMNLP2018
+2399,855,Entity Linking within a Social Media Platform: A Case Study on Yelp,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1227,EMNLP2018
+2400,1094,Annotation of Large Clinical Entity Corpus,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2401,1344,Visual Supervision in Bootstrapped Information Extraction,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1229,EMNLP2018
+2402,1631,Learning Named Entity Tagger using Domain-Specific Dictionary,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1230,EMNLP2018
+2403,1973,Zero-Shot Open Entity Typing as Type-Compatible Grounding,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1231,EMNLP2018
+2404,94,Attention-Guided Answer Distillation for Machine Reading Comprehension,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1232,EMNLP2018
+2405,534,Interpretation of Natural Language Rules in Conversational Machine Reading,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1233,EMNLP2018
+2406,771,A State-transition Framework to Answer Complex Questions over Knowledge Base,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1234,EMNLP2018
+2407,833,A Multi-answer Multi-task Framework for Real-world Machine Reading Comprehension,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1235,EMNLP2018
+2408,1110,Logician and Orator: Learning from the Duality between Language and Knowledge in Open Domain,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1236,EMNLP2018
+2409,1630,Deep and Wide Reader: Effective Memory Augmenting Method for Large-Scale Reading Comprehension,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2410,1677,Multi-Granular Sequence Encoding via Dilated Compositional Units for Reading Comprehension,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1238,EMNLP2018
+2411,1721,Neural Compositional Denotational Semantics for Question Answering,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1239,EMNLP2018
+2412,2168,Cross-Pair Text Representations for Answer Sentence Selection,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1240,EMNLP2018
+2413,2244,Knowledge Base Question Answering via Encoding of Complex Query Graphs,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1242,EMNLP2018
+2414,58,Neural Relation Extraction via Inner-Sentence Noise Reduction and Transfer Learning,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1243,EMNLP2018
+2415,297,Graph Convolution over Pruned Dependency Trees Improves Relation Extraction,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1244,EMNLP2018
+2416,425,Multi-Level Structured Self-Attentions for Distantly Supervised Relation Extraction,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1245,EMNLP2018
+2417,712,N-ary Relation Extraction using Graph State LSTM,Area A (Information Extraction and Question Answering) [LONG],,,EMNLP2018
+2418,1009,Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1247,EMNLP2018
+2419,1020,Label-Free Distant Supervision for Relation Extraction via Knowledge Graph Embedding,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1248,EMNLP2018
+2420,1048,Extracting Entities and Relations with Joint Minimum Risk Training,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1249,EMNLP2018
+2421,1232,Large-scale Exploration of Neural Relation Classification Architectures,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1250,EMNLP2018
+2422,529,Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1424,EMNLP2018
+2423,1714,Answer-focused and Position-aware Neural Question Generation,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1427,EMNLP2018
+2424,585,Closed-Book Training to Improve Summarization Encoder Memory,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1440,EMNLP2018
+2425,2190,FewRel: A Large-Scale Supervised Few-shot Relation Classification Dataset with State-of-the-Art Evaluation,Area A (Information Extraction and Question Answering) [LONG],,10.18653/v1/D18-1514,EMNLP2018
+2426,575,A Deterministic Algorithm for Bridging Anaphora Resolution,"Area A from Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1219,EMNLP2018
+2427,689,Speed Reading: Learning to Read ForBackward via Shuttle,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1474,EMNLP2018
+2428,1598,NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1478,EMNLP2018
+2429,1691,Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1479,EMNLP2018
+2430,1869,Learning Universal Sentence Representations with Mean-Max Attention Autoencoder,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1481,EMNLP2018
+2431,707,Multilingual Clustering of Streaming News,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1483,EMNLP2018
+2432,744,Multi-Task Label Embedding for Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1484,EMNLP2018
+2433,1235,Semantic-Unit-Based Dilated Convolution for Multi-Label Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1485,EMNLP2018
+2434,1512,MCapsNet: Capsule Network for Text with Multi-Task Learning,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1486,EMNLP2018
+2435,1738,Uncertainty-aware generative models for inferring document class prevalence,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1487,EMNLP2018
+2436,912,Siamese Network-Based Supervised Topic Modeling,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1494,EMNLP2018
+2437,1877,GraphBTM: Graph Enhanced Autoencoded Variational Inference forBiterm Topic Model,Area B (Text Mining and Information Retrieval) [LONG],,,EMNLP2018
+2438,1104,A Knowledge Hunting Framework for Common Sense Reasoning,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1220,EMNLP2018
+2439,2140,Syntax Encoding with Application in Authorship Attribution,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1294,EMNLP2018
+2440,481,Content Explorer: Recommending Novel Entities for a Document Writer,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1374,EMNLP2018
+2441,1071,Thread Popularity Prediction and Tracking with a Permutation-invariant Model,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1376,EMNLP2018
+2442,846,An Interpretable Neural Network with Topical Information for Relevant Emotion Ranking,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1379,EMNLP2018
+2443,207,Keyphrase Generation with Correlation Constraints,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1439,EMNLP2018
+2444,1362,Semi-Supervised Learning for Neural Keyphrase Generation,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1447,EMNLP2018
+2445,245,Zero-shot User Intent Detection via Capsule Neural Networks,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1348,EMNLP2018
+2446,265,Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1349,EMNLP2018
+2447,291,Investigating Capsule Networks with Dynamic Routing for Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1350,EMNLP2018
+2448,330,Topic Memory Networks for Short Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1351,EMNLP2018
+2449,342,Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1352,EMNLP2018
+2450,190,Improved Semantic-Aware Network Embedding with Fine-Grained Word Alignment,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1209,EMNLP2018
+2451,1186,Deep Relevance Ranking using Enhanced Document-Query Interactions,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1211,EMNLP2018
+2452,1586,Learning Neural Embeddings for CLIR with Adversarial Framework,Area B (Text Mining and Information Retrieval) [LONG],,,EMNLP2018
+2453,1659,AD3: Attentive Deep Document Dater,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1213,EMNLP2018
+2454,1268,Deep Attentive Sentence Ordering Network,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1465,EMNLP2018
+2455,1324,Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1446,EMNLP2018
+2456,1691,Co-Stack Residual Affinity Networks with Multi-level Attention Refinement for Matching Text Sequences,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1479,EMNLP2018
+2457,744,Multi-Task Label Embedding for Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1484,EMNLP2018
+2458,2264,Deep Exhaustive Model for Nested Named Entity Recognition,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1309,EMNLP2018
+2459,1270,A strong baseline for question relevancy ranking,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1515,EMNLP2018
+2460,794,Improving Author Attribute Prediction by Retrofitting Linguistic Representations with Homophily,Area B (Text Mining and Information Retrieval) [LONG],,,EMNLP2018
+2461,747,Self-Governing Neural Networks for On-Device Short Text Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1092,EMNLP2018
+2462,2236,Supervised Domain Enablement Attention for Personalized Domain Classification,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1106,EMNLP2018
+2463,1039,A Deep Neural Network Sentence Level Classification Method with Context Information,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1107,EMNLP2018
+2464,16,Identifying Well-formed Natural Language Questions,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1091,EMNLP2018
+2465,1726,Supervised and Unsupervised Methods for Robust Separation of Section Titles and Prose Text in Web Documents,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1099,EMNLP2018
+2466,1549,Topic Intrusion for Automatic Topic Model Evaluation,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1098,EMNLP2018
+2467,1095,A Hierarchical Neural Attention-based Text Classifier,Area B (Text Mining and Information Retrieval) [LONG],,10.18653/v1/D18-1094,EMNLP2018
+2468,701,WECA：A WordNet-Encoded Collocation-Attention Network for Homographic Pun Recognition,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2469,622,Part-of-Speech Tagging for Twitter by Different Expression Styles,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2470,1554,Causal Explanation Analysis on Social Media,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1372,EMNLP2018
+2471,113,LRMM: Learning to Recommend with Missing Modality,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2472,624,A Genre-Aware Attention Model to Improve Likability Prediction of Books,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2473,461,Modeling Inter-Aspect Relation in Aspect-Based Sentiment Analysis,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2474,692,Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1378,EMNLP2018
+2475,1068,Multi-grained Attention Network for Aspect-Level Sentiment Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1380,EMNLP2018
+2476,1651,Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1381,EMNLP2018
+2477,1848,Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1383,EMNLP2018
+2478,2071,ExtRA: Extracting Prominent Review Aspects from Customer Feedback,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1384,EMNLP2018
+2479,647,Cross-Lingual Cross-Platform Rumor Verification Pivoting on Multimedia Content,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1385,EMNLP2018
+2480,960,Extractive Adversarial Networks: High-Recall Explanations for Identifying Personal Attacks in Social Media Posts,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1386,EMNLP2018
+2481,1340,Automatic Detection of Vague Words and Sentences in Privacy Policies,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1387,EMNLP2018
+2482,1477,Multi-view Models for Political Ideology Detection of News Articles,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1388,EMNLP2018
+2483,1694,Predicting Factuality of Reporting and Bias of News Media Sources,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1389,EMNLP2018
+2484,1911,Legal Judgment Prediction via Topological Learning,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1390,EMNLP2018
+2485,2016,Hierarchical CVAE for Fine-Grained Hate Speech Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1391,EMNLP2018
+2486,2107,Residualized Factor Adaptation for Community Social Media Prediction Tasks,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1392,EMNLP2018
+2487,2198,Framing and Agenda-Setting in Russian News: a Computational Analysis of Intricate Political Strategies,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1393,EMNLP2018
+2488,479,Identifying the narrative styles of YouTube’s vloggers,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2489,136,Sentiment Classification towards Question-Answering with Hierarchical Matching Network,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1401,EMNLP2018
+2490,212,Cross-topic Argument Mining from Heterogeneous Sources,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1402,EMNLP2018
+2491,335,Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1403,EMNLP2018
+2492,1305,CARER: Contextualized Affect Representations for Emotion Recognition,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1404,EMNLP2018
+2493,1413-TACL,Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.1162/tacl_a_00039,EMNLP2018
+2494,523,Privacy-preserving Neural Representations of Text,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1001,EMNLP2018
+2495,888,Adversarial Removal of Demographic Attributes from Text Data,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1002,EMNLP2018
+2496,909,DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1003,EMNLP2018
+2497,1879,Its going to be okay: Measuring Access to Support in Online Communities,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2498,1903,Detecting Gang-Involved Escalation on Social Media Using Context,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1005,EMNLP2018
+2499,63,"Making ""fetch"" happen: The influence of social and linguistic context on nonstandard word growth and decline","Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2500,2160,Why Swear? Analyzing and Inferring the Intentions of Vulgar Expressions,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1471,EMNLP2018
+2501,1340,Automatic Detection of Vague Words and Sentences in Privacy Policies,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1387,EMNLP2018
+2502,2016,Hierarchical CVAE for Fine-Grained Hate Speech Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1391,EMNLP2018
+2503,113,LRMM: Learning to Recommend with Missing Modality,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2504,1664,Joint Learning for Targeted Sentiment Analysis,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1504,EMNLP2018
+2505,2092,Revisiting the Importance of Encoding Logic Rules in Sentiment Classification,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1505,EMNLP2018
+2506,1622,A Co-attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1506,EMNLP2018
+2507,1217,Modeling Empathy and Distress in Reaction to News Stories,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1507,EMNLP2018
+2508,1497,Interpretable Emoji Prediction via Multi-Attention LSTMs,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,,EMNLP2018
+2509,977,Joint Learning for Emotion Classification and Emotion Cause Detection,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1066,EMNLP2018
+2510,2240,Exploring Optimism and Pessimism in Twitter Using Deep Learning,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1067,EMNLP2018
+2511,468,Hybrid Neural Attention for Agreement/Disagreement Inference in Online Debates,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1069,EMNLP2018
+2512,1733,The glass ceiling in NLP,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1301,EMNLP2018
+2513,539,Learning multiview embeddings for assessing dementia,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1304,EMNLP2018
+2514,66,SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1303,EMNLP2018
+2515,604,Reducing Gender Bias in Abusive Language Detection,"Area C (Social Media, Computational Social Science, Sentiment,  Opinion) [LONG]",,10.18653/v1/D18-1302,EMNLP2018
+2516,1199-TACL,In-Order Transition-based Constituent Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.1162/tacl_a_00070,EMNLP2018
+2517,1425-TACL,Surface Statistics of an Unknown Language Indicate How to Parse It,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.1162/tacl_a_00248,EMNLP2018
+2518,1446-TACL,Universal Word Segmentation: Implementation and Interpretation,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.1162/tacl_a_00033,EMNLP2018
+2519,709,Direct Output Connection for a High-Rank Language Model,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1489,EMNLP2018
+2520,928,A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1273,EMNLP2018
+2521,2076,Neural Quality Estimation of Grammatical Error Correction,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1274,EMNLP2018
+2522,82,Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1363,EMNLP2018
+2523,1080,Free as in Free Word Order: An Energy Based Model for Word Segmentation and Morphological Tagging in Sanskrit,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1276,EMNLP2018
+2524,1237,What do character-level models learn about morphology? The case of dependency parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1278,EMNLP2018
+2525,2208,Learning Better Internal Structure of Words for Sequence Labeling,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1279,EMNLP2018
+2526,225,Deconvolutional time series regression: A technique for modeling temporally diffuse effects,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1288,EMNLP2018
+2527,525,Is this Sentence Difficult? Do you Agree?,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1289,EMNLP2018
+2528,102,Neural Transition Based Parsing of Web Queries: An Entity Based Approach,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1290,EMNLP2018
+2529,473,"An Investigation of the Interactions Between Pre-Trained Word Embeddings, Character Models and POS Tags in Dependency Parsing","Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1291,EMNLP2018
+2530,1611,Depth-bounding is effective: Improvements and Evaluation of Unsupervised PCFG Induction,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1292,EMNLP2018
+2531,1745,Incremental Computation of Infix Probabilities for Probabilistic Finite Automata,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1293,EMNLP2018
+2532,42,Sanskrit Word Segmentation Using Character-level Recurrent and Convolutional Neural Networks,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1295,EMNLP2018
+2533,1596,Neural Ranking Models for Temporal Dependency Structure Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1371,EMNLP2018
+2534,862,Native Language Identification with User Generated Content,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1395,EMNLP2018
+2535,1846,Variational Sequential Labelers for Semi-Supervised Sequence Labeling,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,,EMNLP2018
+2536,357,Analyzing Correlated Evolution of Multiple Features Using Latent Representations,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1468,EMNLP2018
+2537,217,Valency-Augmented Dependency Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1159,EMNLP2018
+2538,336,Unsupervised Learning of Syntactic Structure with Invertible Neural Projections,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1160,EMNLP2018
+2539,791,Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1161,EMNLP2018
+2540,1147,Constituent Parsing as Sequence Labeling,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1162,EMNLP2018
+2541,2217,Synthetic Data Made to Order: The Case of Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1163,EMNLP2018
+2542,82,Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1363,EMNLP2018
+2543,538,Implicational Universals in Stochastic Constraint-Based Phonology,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1364,EMNLP2018
+2544,1533,Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1365,EMNLP2018
+2545,1860,Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1366,EMNLP2018
+2546,1420-TACL,Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.1162/tacl_a_00247,EMNLP2018
+2547,1799,Targeted Syntactic Evaluation of Language Models,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1151,EMNLP2018
+2548,928,A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1273,EMNLP2018
+2549,225,Deconvolutional time series regression: A technique for modeling temporally diffuse effects,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1288,EMNLP2018
+2550,990,Improved Dependency Parsing using Implicit Word Connections Learned from Unlabeled Data,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1311,EMNLP2018
+2551,774,A Framework for Understanding the Role of Morphology in Universal Dependency Parsing,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1312,EMNLP2018
+2552,1673,An Encoder-Decoder Approach to the Paradigm Cell Filling Problem,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1315,EMNLP2018
+2553,1161,Imitation Learning for Neural Morphological String Transduction,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1314,EMNLP2018
+2554,1002,The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1313,EMNLP2018
+2555,1376,Distant Supervision from Disparate Sources for Low-Resource Part-of-Speech Tagging,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1061,EMNLP2018
+2556,657,A Neural Model of Adaptation in Reading,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1499,EMNLP2018
+2557,1369,Lexicosyntactic inference in neural models,"Area D (Morphology, Syntax, Chunking, Psycholinguistics) [LONG]",,10.18653/v1/D18-1501,EMNLP2018
+2558,1346-TACL,"Linear Algebraic Structure of Word Senses, with Applications to Polysemy",Area E (Semantics) [LONG],,10.1162/tacl_a_00034,EMNLP2018
+2559,1050,Chargrid: Towards Understanding 2D Documents,Area E (Semantics) [LONG],,10.18653/v1/D18-1476,EMNLP2018
+2560,1962,Language Modeling with Sparse Product of Sememe Experts,Area E (Semantics) [LONG],,10.18653/v1/D18-1493,EMNLP2018
+2561,179,Card-660: A Reliable Evaluation Framework for Rare Word Representation Models,Area E (Semantics) [LONG],,,EMNLP2018
+2562,244,Leveraging Gloss Knowledge in Neural Word Sense Disambiguation by Hierarchical Co-Attention,Area E (Semantics) [LONG],,10.18653/v1/D18-1170,EMNLP2018
+2563,741,Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations,Area E (Semantics) [LONG],,10.18653/v1/D18-1171,EMNLP2018
+2564,769,Streaming word similarity mining on the cheap,Area E (Semantics) [LONG],,10.18653/v1/D18-1172,EMNLP2018
+2565,819,"Memory, Show the Way: Memory Based Few Shot Word Representation Learning",Area E (Semantics) [LONG],,10.18653/v1/D18-1173,EMNLP2018
+2566,983,Disambiguated skip-gram model,Area E (Semantics) [LONG],,10.18653/v1/D18-1174,EMNLP2018
+2567,1037,Picking Apart Story Salads,Area E (Semantics) [LONG],,10.18653/v1/D18-1175,EMNLP2018
+2568,1175,Context-Attentive Embeddings for Improved Sentence Representations,Area E (Semantics) [LONG],,,EMNLP2018
+2569,1470,Transfer and Multi-Task Learning for Noun–Noun Compound Interpretation,Area E (Semantics) [LONG],,10.18653/v1/D18-1178,EMNLP2018
+2570,1472,Dissecting Contextual Word Embeddings: Architecture and Representation,Area E (Semantics) [LONG],,10.18653/v1/D18-1179,EMNLP2018
+2571,1790,Preposition Sense Disambiguation and Representation,Area E (Semantics) [LONG],,10.18653/v1/D18-1180,EMNLP2018
+2572,1870,Auto-Encoding Dictionary Definitions into Consistent Word Embeddings,Area E (Semantics) [LONG],,10.18653/v1/D18-1181,EMNLP2018
+2573,2221,Spot the Odd Man Out: Exploring the Associative Power of Lexical Resources,Area E (Semantics) [LONG],,10.18653/v1/D18-1182,EMNLP2018
+2574,682,Neural Multitask Learning for Simile Recognition,Area E (Semantics) [LONG],,10.18653/v1/D18-1183,EMNLP2018
+2575,911,Structured Alignment Networks for Matching Sentences,Area E (Semantics) [LONG],,10.18653/v1/D18-1184,EMNLP2018
+2576,1669,"Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference",Area E (Semantics) [LONG],,10.18653/v1/D18-1185,EMNLP2018
+2577,1821,Convolutional Interaction Network for Natural Language Inference,Area E (Semantics) [LONG],,10.18653/v1/D18-1186,EMNLP2018
+2578,1837,Lessons from Natural Language Inference in the Clinical Domain,Area E (Semantics) [LONG],,10.18653/v1/D18-1187,EMNLP2018
+2579,264,Question Generation from SQL Queries Improves Neural Semantic Parsing,Area E (Semantics) [LONG],,10.18653/v1/D18-1188,EMNLP2018
+2580,829,Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing,Area E (Semantics) [LONG],,10.18653/v1/D18-1190,EMNLP2018
+2581,1052,A Span Selection Model for Semantic Role Labeling,Area E (Semantics) [LONG],,10.18653/v1/D18-1191,EMNLP2018
+2582,1100,Mapping Language to Code in Programmatic Context,Area E (Semantics) [LONG],,10.18653/v1/D18-1192,EMNLP2018
+2583,1261,SyntaxSQLNet: Syntax Tree Networks for Complex and Cross Domain Text-to-SQL Task,Area E (Semantics) [LONG],,,EMNLP2018
+2584,1262,Spider: A Large-Scale Complex Human-Labeled SQL Corpus for Semantic Parsing and Text-to-SQL Generation,Area E (Semantics) [LONG],,,EMNLP2018
+2585,1699,Learning Semantic Parsers from Natural Language Supervision,Area E (Semantics) [LONG],,,EMNLP2018
+2586,1766,DeepCx: A transition-based approach for shallow semantic parsing with complex constructional triggers,Area E (Semantics) [LONG],,10.18653/v1/D18-1196,EMNLP2018
+2587,1791,What It Takes to Achieve 100% Condition Accuracy on WikiSQL,Area E (Semantics) [LONG],,10.18653/v1/D18-1197,EMNLP2018
+2588,2073,Better Transition-Based AMR Parsing with Refined Search Space,Area E (Semantics) [LONG],,,EMNLP2018
+2589,2179,Dependency-based Hybrid Trees for Semantic Parsing,Area E (Semantics) [LONG],,10.18653/v1/D18-1265,EMNLP2018
+2590,1751,Possessors Change Over Time: A Case Study with Artworks,Area E (Semantics) [LONG],,10.18653/v1/D18-1251,EMNLP2018
+2591,470,A Computational Exploration of Exaggeration,Area E (Semantics) [LONG],,10.18653/v1/D18-1367,EMNLP2018
+2592,391,Learning Context-Aware Convolutional Filters for Text Processing,Area E (Semantics) [LONG],,,EMNLP2018
+2593,654,Heuristically Informed Unsupervised Idiom Usage Recognition,Area E (Semantics) [LONG],,10.18653/v1/D18-1199,EMNLP2018
+2594,835,Coming to Your Senses: on Controls and Evaluation Sets in Polysemy Research,Area E (Semantics) [LONG],,10.18653/v1/D18-1200,EMNLP2018
+2595,1581,Predicting Semantic Relations using Global Graph Properties,Area E (Semantics) [LONG],,10.18653/v1/D18-1201,EMNLP2018
+2596,1728,Learning Scalar Adjective Intensity from Paraphrases,Area E (Semantics) [LONG],,10.18653/v1/D18-1202,EMNLP2018
+2597,2009,Pointwise HSIC: A Linear-Time Kernelized Co-occurrence Norm for Sparse Linguistic Expressions,Area E (Semantics) [LONG],,10.18653/v1/D18-1203,EMNLP2018
+2598,1128,A Unified Syntax-aware Framework for Semantic Role Labeling,Area E (Semantics) [LONG],,10.18653/v1/D18-1262,EMNLP2018
+2599,1247,Semantics as a Foreign Language,Area E (Semantics) [LONG],,10.18653/v1/D18-1263,EMNLP2018
+2600,1478,An AMR Aligner Tuned by Transition-based Parser,Area E (Semantics) [LONG],,10.18653/v1/D18-1264,EMNLP2018
+2601,1537,Linguistically-Informed Self-Attention for Semantic Role Labeling,Area E (Semantics) [LONG],,10.18653/v1/D18-1548,EMNLP2018
+2602,2214,Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations,Area E (Semantics) [LONG],,10.18653/v1/D18-1266,EMNLP2018
+2603,1172,Process Paragraph Comprehension using World Knowledge,Area E (Semantics) [LONG],,,EMNLP2018
+2604,1634,Textual Analogy Parsing: What's Shared and What's Compared among Analogous Facts,Area E (Semantics) [LONG],,,EMNLP2018
+2605,2020,SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference,Area E (Semantics) [LONG],,10.18653/v1/D18-1009,EMNLP2018
+2606,2036,TwoWingOS: Claim Entailment with Precise Evidence via a Two-Wing Optimization Strategy,Area E (Semantics) [LONG],,,EMNLP2018
+2607,652,A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification,Area E (Semantics) [LONG],,10.18653/v1/D18-1410,EMNLP2018
+2608,2060,Syntactic Scaffolds for Semantic Structures,Area E (Semantics) [LONG],,10.18653/v1/D18-1412,EMNLP2018
+2609,2103,Hierarchical Quantized Representations for Script Generation,Area E (Semantics) [LONG],,10.18653/v1/D18-1413,EMNLP2018
+2610,2250,Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and the L2-L1 Parallel Data,Area E (Semantics) [LONG],,,EMNLP2018
+2611,758,Phrase-level Self-Attention Networks for Universal Sentence Encoding,Area E (Semantics) [LONG],,10.18653/v1/D18-1408,EMNLP2018
+2612,2091,Quantifying Context Overlap for Training Word Embeddings,Area E (Semantics) [LONG],,10.18653/v1/D18-1057,EMNLP2018
+2613,203,Neural Latent Relational Analysis to Capture Lexical Semantic Relation,Area E (Semantics) [LONG],,,EMNLP2018
+2614,2267,Generalizing Word Embeddings using Bag of Subwords,Area E (Semantics) [LONG],,10.18653/v1/D18-1059,EMNLP2018
+2615,2075,Neural Metaphor Detection in Context,Area E (Semantics) [LONG],,10.18653/v1/D18-1060,EMNLP2018
+2616,526,Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model,Area E (Semantics) [LONG],,10.18653/v1/D18-1110,EMNLP2018
+2617,1231,Retrieval-Based Neural Code Generation,Area E (Semantics) [LONG],,10.18653/v1/D18-1111,EMNLP2018
+2618,103,Understanding Deep Learning Performance through an Examination of Test Set Difficulty: A Psychometric Case Study,Area E (Semantics) [LONG],,10.18653/v1/D18-1500,EMNLP2018
+2619,1424-TACL,Polite Dialogue Generation Without Parallel Data,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.1162/tacl_a_00027,EMNLP2018
+2620,1465,Disfluency Detection using Auto-Correlational Neural Networks,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1490,EMNLP2018
+2621,761,ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1280,EMNLP2018
+2622,978,Discriminative Learning of Open-Vocabulary Object Retrieval and Localization by Negative Phrase Augmentation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1281,EMNLP2018
+2623,1257,A Probabilistic Model for Joint Learning of Word Embeddings from Texts and Images,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1177,EMNLP2018
+2624,1744,Grounding Semantic Roles in Images,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1282,EMNLP2018
+2625,1822,Commonsense Action Explanation in Human-Agent Communication,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2626,1928,Learning Personas from Dialogue with Attentive Memory Networks,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1284,EMNLP2018
+2627,1951,Grounding language acquisition by training semantic parsers using captioned videos,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1285,EMNLP2018
+2628,1998,Translating Navigation Instructions in Natural Language to a High-Level Plan for Behavioral Robot Navigation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1286,EMNLP2018
+2629,2067,Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1287,EMNLP2018
+2630,665,Building Context-aware Clause Representations for Situation Entity Type Classification,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1368,EMNLP2018
+2631,1489,Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1370,EMNLP2018
+2632,1824,"Text, Visual and Acoustic are Friends! A Multi-Modal Attention Framework for Utterance-Level Sentiment Prediction","Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2633,71,MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1547,EMNLP2018
+2634,305,A Teacher-Student Framework for Maintainable Dialog Manager,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1415,EMNLP2018
+2635,1511,Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1416,EMNLP2018
+2636,1572,A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1417,EMNLP2018
+2637,1779,Learning End-to-End Goal-Oriented Dialog with Multiple Answers,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1418,EMNLP2018
+2638,2138,AirDialogue: An Environment for Goal-Oriented Dialogue Research,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1419,EMNLP2018
+2639,377,Sentence Editing under Quantifiable Guidance,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2640,413,Paraphrase Generation with Deep Reinforcement Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1421,EMNLP2018
+2641,447,Operation Guided Neural Networks for High Fidelity Data-To-Text Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2642,462,Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1423,EMNLP2018
+2643,1818,Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1428,EMNLP2018
+2644,2039,Towards a Better Metric for Evaluating Question Generation Systems,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1429,EMNLP2018
+2645,866,Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1430,EMNLP2018
+2646,1127,Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1431,EMNLP2018
+2647,1241,"Better Conversations by Modeling, Filtering, and Optimizing for Coherence and Diversity","Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1432,EMNLP2018
+2648,229,Multimodal Differential Network for Visual Question Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1434,EMNLP2018
+2649,232,Entity-aware Image Caption Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1435,EMNLP2018
+2650,1900,Learning to Describe Differences Between Pairs of Similar Images,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1436,EMNLP2018
+2651,2074,Object Hallucination in Image Captioning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1437,EMNLP2018
+2652,206,Abstractive Text-Image Summarization based on Multi-Modal Attentional Hierarchical RNN,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2653,727,Improving Neural Abstractive Document Summarization with Structural Regularization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1441,EMNLP2018
+2654,950,Iterative Document Representation Learning Towards Summarization with Polishing,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1442,EMNLP2018
+2655,1181,Bottom-Up Abstractive Summarization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1443,EMNLP2018
+2656,1192,Controlling Length in Abstractive Summarization Using a Convolutional Neural Network,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1444,EMNLP2018
+2657,1293,APRIL: Interactively Learning to Summarise by Combining Active Preference Learning and Reinforcement Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1445,EMNLP2018
+2658,1324,Adapting the Neural Encoder-Decoder Framework from Single to Multi-Document Summarization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1446,EMNLP2018
+2659,1482,MSMO: Multimodal Summarization with Multimodal Output,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1448,EMNLP2018
+2660,1539,Frustratingly Easy Model Ensemble for Abstractive Summarization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1449,EMNLP2018
+2661,1575,Automatic Pyramid Evaluation Exploiting EDU-based Extractive Reference Summaries,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1450,EMNLP2018
+2662,1975,Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1451,EMNLP2018
+2663,2100,Playing 20 Question Game with Policy-Based Reinforcement Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1361,EMNLP2018
+2664,1411,Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1411,EMNLP2018
+2665,582,Using lexical alignment and referring ability to address data sparsity in situated dialog reference resolution,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1252,EMNLP2018
+2666,1652,Supervised Clustering of Questions into Intents for Dialog System Applications,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1254,EMNLP2018
+2667,2005,Towards Exploiting Background Knowledge for Building Conversation Systems,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1255,EMNLP2018
+2668,2300,Decoupling Strategy and Generation in Negotiation Dialogues,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1256,EMNLP2018
+2669,469,Neural Related Work Summarization with a Joint Context-driven Attention Mechanism,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1204,EMNLP2018
+2670,731,Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1205,EMNLP2018
+2671,1090,"Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization","Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2672,1778,Improving Abstraction in Text Summarization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1207,EMNLP2018
+2673,2164,Content Selection in Deep Learning Models of Summarization,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1208,EMNLP2018
+2674,300,Automatic Poetry Generation with Mutual Reinforcement Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1353,EMNLP2018
+2675,366,Variational Autoregressive Decoder for Neural Response Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1354,EMNLP2018
+2676,1746,Integrating Transformer and Paraphrase Rules for Sentence Simplification,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1355,EMNLP2018
+2677,2025,Learning Neural Templates for Text Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1356,EMNLP2018
+2678,2230,Multi-Reference Training with Pseudo-Reference Generation for Text Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2679,907,A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1462,EMNLP2018
+2680,968,Nexus Network: Connecting the Preceding and the Following in Dialogue Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1463,EMNLP2018
+2681,1138,A New Local Coherence Model for Text Quality Assessment,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2682,1276,"Getting to ""Hearer-old"": Charting Referring Expressions Across Time","Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2683,201,Associative Multichannel Autoencoder for Multimodal Word Representation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1011,EMNLP2018
+2684,836,simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1013,EMNLP2018
+2685,1792,Multimodal Language Analysis with Recurrent Multistage Fusion,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1014,EMNLP2018
+2686,1845,Temporally Grounding Natural Sentence in Video,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1015,EMNLP2018
+2687,247,Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1164,EMNLP2018
+2688,1213,RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1166,EMNLP2018
+2689,1763,Localizing Moments in Video with Temporal Language,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1168,EMNLP2018
+2690,1322,BanditSum: Extractive Summarization as a Contextual Bandit,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1409,EMNLP2018
+2691,71,MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1547,EMNLP2018
+2692,447,Operation Guided Neural Networks for High Fidelity Data-To-Text Generation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2693,1489,Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1370,EMNLP2018
+2694,1928,Learning Personas from Dialogue with Attentive Memory Networks,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1284,EMNLP2018
+2695,1424-TACL,Polite Dialogue Generation Without Parallel Data,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.1162/tacl_a_00027,EMNLP2018
+2696,2004,Predicting News Headline Popularity with Syntactic and Semantic Knowledge Using Multi-Task Learning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1068,EMNLP2018
+2697,1441,WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1305,EMNLP2018
+2698,553,SQL-to-Text Generation with Graph-to-Sequence Model,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1112,EMNLP2018
+2699,739,Generating Syntactic Paraphrases,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1113,EMNLP2018
+2700,1236,Session-level Language Modeling for Conversational Speech,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1296,EMNLP2018
+2701,867,Toward Less Generic Responses in Neural Conversation Models: A Statistical Re-weighting Method,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2702,1309,Training Millions of Personalized Dialogue Agents,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1298,EMNLP2018
+2703,2226,Towards Universal Dialogue State Tracking,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1299,EMNLP2018
+2704,1854,Task Oriented Parsing,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2705,626,Conversational Decision Making Model for Predicting Kings Decision in the Annals of the Joseon Dynasty,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,,EMNLP2018
+2706,208,How agents see things: On visual representations in an emergent language game,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1119,EMNLP2018
+2707,2127,A Dataset for Telling the Stories of Social Media Videos,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1117,EMNLP2018
+2708,1099,Cascaded Mutual Modulation for Visual Reasoning,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1118,EMNLP2018
+2709,1858,Toward Fast and Accurate Neural Discourse Segmentation,"Area F (Discourse, Dialog, Summarization, Generation, Multimodal NLP) [LONG]",,10.18653/v1/D18-1116,EMNLP2018
+2710,76,Joint Representation Learning of Cross-lingual Words and Entities via Attentive Distant Supervision,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1021,EMNLP2018
+2711,126,Deep Pivot-Based Modeling for Cross-language Cross-domain Transfer with Minimal Guidance,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1022,EMNLP2018
+2712,270,Multi-lingual Common Semantic Space Construction via Cluster-Consistent Word Embedding,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1023,EMNLP2018
+2713,344,Unsupervised Multilingual Word Embeddings,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1024,EMNLP2018
+2714,517,Crosslingual Sense Embeddings in One Space,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2715,1036,Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1026,EMNLP2018
+2716,1093,Improving Cross-Lingual Word Embeddings by Meeting in the Middle,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1027,EMNLP2018
+2717,1134,AtomicWikiEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2718,1301,On the Relation between Linguistic Typology and (Limitations of) Multilingual Language Modeling,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1029,EMNLP2018
+2719,1439,"A Fast, Compact, Accurate Model for Language Identification of Codemixed Text",Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1030,EMNLP2018
+2720,1502,Personalized Microblog Sentiment Classification via Adversarial Cross-lingual learning,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2721,2115,Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1032,EMNLP2018
+2722,2122,Cross-lingual Lexical Sememe Prediction,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1033,EMNLP2018
+2723,2268,Neural Cross-lingual Named Entity Recognition with Minimal Resources,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1034,EMNLP2018
+2724,310,A Stable and Effective Learning Strategy for Trainable Greedy Decoding,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1035,EMNLP2018
+2725,349,Addressing Troublesome Words in Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1036,EMNLP2018
+2726,455,Unsupervised Statistical Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1399,EMNLP2018
+2727,566,Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1037,EMNLP2018
+2728,643,XL-NBT: A Cross-lingual Neural Belief Tracking Framework,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1038,EMNLP2018
+2729,683,Contextual Parameter Generation for Universal Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1039,EMNLP2018
+2730,1069,Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1040,EMNLP2018
+2731,1116,A Discriminative Latent-Variable Model for Bilingual Lexicon Induction,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1042,EMNLP2018
+2732,1436,Non-Adversarial Unsupervised Word Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1043,EMNLP2018
+2733,1536,Semi-Autoregressive Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1044,EMNLP2018
+2734,1542,Understanding Back-Translation at Scale,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1045,EMNLP2018
+2735,1894,Bootstrapping Transliteration with Guided Discovery for Low-Resource Languages,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2736,1948,NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1047,EMNLP2018
+2737,1952,Adaptive Multi-pass Decoder for Neural Machine Translation with Reinforcement Learning,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2738,2139,MTNT: A Testbed for Machine Translation of Noisy Text,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1050,EMNLP2018
+2739,670,SemRegex: A Semantics-Based Approach for Generating Regular Expressions from Natural Language Specifications,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1189,EMNLP2018
+2740,499,Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1396,EMNLP2018
+2741,979,A Study of Reinforcement Learning for Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1397,EMNLP2018
+2742,1056,Meta-Learning for Low-Resource Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1398,EMNLP2018
+2743,1195,Phrase-Based & Neural Unsupervised Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1549,EMNLP2018
+2744,2187,A Visual Attention Grounding Neural Model for Multimodal Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1400,EMNLP2018
+2745,189,Sentence Compression for Arbitrary Languages via Multilingual Pivoting,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1267,EMNLP2018
+2746,768,Unsupervised Cross-lingual Transfer of Word Embedding Spaces,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1268,EMNLP2018
+2747,1605,XNLI: Cross-lingual Sentence Understanding through Inference,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2748,1880,The Importance of Joint Multilingual Supervision for Cross-lingual Entity Linking,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2749,2249,Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1271,EMNLP2018
+2750,1129,Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1458,EMNLP2018
+2751,1507,Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1459,EMNLP2018
+2752,2304,Revisiting Character-Based Neural Machine Translation with Capacity and Compression,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1461,EMNLP2018
+2753,310,A Stable and Effective Learning Strategy for Trainable Greedy Decoding,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1035,EMNLP2018
+2754,344,Unsupervised Multilingual Word Embeddings,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1024,EMNLP2018
+2755,1116,A Discriminative Latent-Variable Model for Bilingual Lexicon Induction,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1042,EMNLP2018
+2756,270,Multi-lingual Common Semantic Space Construction via Cluster-Consistent Word Embedding,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1023,EMNLP2018
+2757,1527,SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1100,EMNLP2018
+2758,2269,Improving Unsupervised Word-by-Word Translation with Language Model and Denoising Autoencoder,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1101,EMNLP2018
+2759,1220,Decipherment of Substitution Ciphers with Neural Language Models,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1102,EMNLP2018
+2760,2030,Rapid Adaptation of Neural Machine Translation to New Languages,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1103,EMNLP2018
+2761,1600,Compact Personalized Models for Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1104,EMNLP2018
+2762,958,A Tree-based Decoder for Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1509,EMNLP2018
+2763,1176,Greedy Search with Probabilistic N-gram Matching for Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1510,EMNLP2018
+2764,464,Exploring Recombination for Efficient Decoding of Neural Machine Translation,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1511,EMNLP2018
+2765,1267,Has Neural Machine Translation Achieved Human Parity? A Case for Document-level Evaluation,Area G (Machine Translation and Multilinguality) [LONG],,,EMNLP2018
+2766,1150,Automatic Reference-Based Evaluation of Pronoun Translation Misses the Point,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1513,EMNLP2018
+2767,446,Unsupervised Bilingual Lexicon Induction via Latent Variable Models,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1062,EMNLP2018
+2768,1434,Learning Unsupervised Word Translations Without Adversaries,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1063,EMNLP2018
+2769,728,Adversarial Training for Multi-task and Multi-lingual Joint Modeling of Utterance Intent Classification,Area G (Machine Translation and Multilinguality) [LONG],,10.18653/v1/D18-1064,EMNLP2018
+2770,256,Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1472,EMNLP2018
+2771,648,Hard Non-Monotonic Attention for Character-Level Transduction,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1473,EMNLP2018
+2772,1026,Modeling Localness for Self-Attention Networks,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1475,EMNLP2018
+2773,1562,Training RNNs as Fast as CNNs,Area H (Machine Learning) [LONG],,,EMNLP2018
+2774,1720,Spherical Latent Spaces for Stable Variational Autoencoders,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1480,EMNLP2018
+2775,1891,Word Mover's Embedding: From Word2Vec to Document Embedding,Area H (Machine Learning) [LONG],,,EMNLP2018
+2776,2087,Challenges of Using Text Classifiers for Causal Inference,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1488,EMNLP2018
+2777,1479,Pyramidal Recurrent Unit for Language Modeling,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1491,EMNLP2018
+2778,1793,On Tree-Based Neural Sentence Modeling,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1492,EMNLP2018
+2779,2098,Modeling Online Discourse with Coupled Distributed Topics,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1496,EMNLP2018
+2780,1221,Learning Disentangled Representations of Texts with Application to Biomedical Abstracts,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1497,EMNLP2018
+2781,1781,Multi-Source Domain Adaptation with Mixture of Experts,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1498,EMNLP2018
+2782,1107,Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1041,EMNLP2018
+2783,2056,Improving the Transformer Translation Model with Document-Level Context,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1049,EMNLP2018
+2784,1398,Cross-lingual Decompositional Semantic Parsing,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1194,EMNLP2018
+2785,1234,One-Shot Relational Learning for Knowledge Graphs,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1223,EMNLP2018
+2786,2177,QuAC: Question Answering in Context,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1241,EMNLP2018
+2787,1174,A Challenge Set and Methods for Noun-Verb Ambiguity,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1277,EMNLP2018
+2788,704,Hierarchical Dirichlet Gaussian Marked Hawkes Process for Narrative Reconstruction in Continuous Time Domain,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1369,EMNLP2018
+2789,227,Incorporating Background Knowledge into Video Description Generation,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1433,EMNLP2018
+2790,486,Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1469,EMNLP2018
+2791,1494,Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1007,EMNLP2018
+2792,1612,Subgoal Discovery for Hierarchical Dialogue Policy Learning,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1253,EMNLP2018
+2793,576,Modeling Game-Based Video-Context Dialogue,Area H (Machine Learning) [LONG],,,EMNLP2018
+2794,282,Learning a Policy for Opportunistic Active Learning,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1165,EMNLP2018
+2795,1021,Exploiting Deep Representations for Neural Machine Translation,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1457,EMNLP2018
+2796,2064,Cube Pruning for Neural Machine Translation,Area H (Machine Learning) [LONG],,,EMNLP2018
+2797,953,Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1149,EMNLP2018
+2798,1229,Large Margin Neural Language Model,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1150,EMNLP2018
+2799,2001,Rational Recurrences,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1152,EMNLP2018
+2800,2117,Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1153,EMNLP2018
+2801,1358,Noise Contrastive Estimation for Conditional Models: Consistency and Statistical Efficiency,Area H (Machine Learning) [LONG],,,EMNLP2018
+2802,1666,CaLcs: Continuously Approximating Longest Common Subsequence for Sequence Level Optimization,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1406,EMNLP2018
+2803,2051,Pathologies of Neural Models Make Interpretation Difficult,Area H (Machine Learning) [LONG],,,EMNLP2018
+2804,1406,Gromov-Wasserstein Alignment of Word Embedding Spaces,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1214,EMNLP2018
+2805,1621,Deriving Machine Attention from Human Rationales,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1216,EMNLP2018
+2806,1741,Semi-Supervised Sequence Modeling with Cross-View Training,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1217,EMNLP2018
+2807,2087,Challenges of Using Text Classifiers for Causal Inference,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1488,EMNLP2018
+2808,430,Structured Multi-Label Biomedical Text Tagging via Attentive Neural Tree Decoding,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1308,EMNLP2018
+2809,1518,Natural Language Processing Not-At-All from Scratch: Evaluating The Utility of Hand-crafted Features in Deep Learning,Area H (Machine Learning) [LONG],,,EMNLP2018
+2810,1297,Why is unsupervised alignment of English embeddings from different algorithms so hard?,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1056,EMNLP2018
+2811,1708,Neural Davidsonian Semantic Proto-role Labeling,Area H (Machine Learning) [LONG],,,EMNLP2018
+2812,1462,Surprisingly Easy Hard-Attention for Sequence to Sequence Learning,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1065,EMNLP2018
+2813,695,Dual Fixed-Size Ordinally Forgetting Encoding (FOFE) for Competitive Neural Language Models,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1502,EMNLP2018
+2814,204,The importance of Being Recurrent for Modeling Hierarchical Structure,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1503,EMNLP2018
+2815,1198,Towards Dynamic Computation Graphs via Sparse Latent Structure,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1108,EMNLP2018
+2816,1111,Convolutional Neural Networks with Recurrent Neural Filters,Area H (Machine Learning) [LONG],,10.18653/v1/D18-1109,EMNLP2018
+2817,1379-TACL,Language Modeling for Morphologically Rich Languages: Character-Aware Modeling for Word-Level Prediction,Area H or D,,10.1162/tacl_a_00032,EMNLP2018
+2818,1396-TACL,LOW-RANK RNN ADAPTATION FOR CONTEXT-AWARE LANGUAGE MODELING,Area H or D,,10.1162/tacl_a_00035,EMNLP2018
