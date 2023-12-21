@@ -4077,3 +4077,813 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 3856,,Improved Latent Tree Induction with Distant Supervision via Span Constraints,"Syntax: Tagging, Chunking, and Parsing",False,10.18653/v1/2021.emnlp-main.395,EMNLP2021
 3857,,Word Reordering for Zero-shot Cross-lingual Structured Prediction,"Syntax: Tagging, Chunking, and Parsing",False,10.18653/v1/2021.emnlp-main.338,EMNLP2021
 3858,,A Unified Encoding of Structures in Transition Systems,"Syntax: Tagging, Chunking, and Parsing",False,10.18653/v1/2021.emnlp-main.339,EMNLP2021
+3859,s438,Detecting Attackable Sentences in Arguments,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.1,EMNLP2020
+3860,s440,Extracting Implicitly Asserted Propositions in Argumentation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.2,EMNLP2020
+3861,s2688,Quantitative Argument Summarization and Beyond: Cross-Domain Key Point Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.3,EMNLP2020
+3862,s2996,Unsupervised Stance Detection for Arguments from Consequences,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.4,EMNLP2020
+3863,s84,BLEU might be Guilty but References are not Innocent,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.5,EMNLP2020
+3864,s619,Statistical Power and Translationese in Machine Translation Evaluation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.6,EMNLP2020
+3865,s856,Simulated Multiple Reference Training Improves Low-Resource Machine Translation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.7,EMNLP2020
+3866,s888,Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.8,EMNLP2020
+3867,TACL1997,Unsupervised Quality Estimation for Neural Machine Translation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.1162/tacl_a_00330,EMNLP2020
+3868,s2054,PRover: Proof Generation for Interpretable Reasoning over Rules,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.9,EMNLP2020
+3869,s2228,Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.10,EMNLP2020
+3870,s2640,Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.11,EMNLP2020
+3871,s2721,More Bang for Your Buck: Natural Perturbation for Robust Question Answering,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.12,EMNLP2020
+3872,TACL2049,What Does My QA Model Know? Devising Controlled Probes using Expert,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,EMNLP2020
+3873,s498,A Matter of Framing: The Impact of Linguistic Formalism on Probing Results,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.13,EMNLP2020
+3874,s947,Information-Theoretic Probing with Minimum Description Length,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.14,EMNLP2020
+3875,s2122,Intrinsic Probing through Dimension Selection,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.15,EMNLP2020
+3876,s2893,Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually),"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.emnlp-main.16,EMNLP2020
+3877,s1210,KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.18,EMNLP2020
+3878,s1618,ETC: Encoding Long and Structured Inputs in Transformers,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.19,EMNLP2020
+3879,s2343,Pre-Training Transformers as Energy-Based Cloze Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.20,EMNLP2020
+3880,s2615,Calibration of Pre-trained Transformers,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.21,EMNLP2020
+3881,TACL2047,Data Weighted Training Strategies for Grammatical Error Correction,Machine Learning for NLP,False,10.1162/tacl_a_00336,EMNLP2020
+3882,s328,Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.22,EMNLP2020
+3883,s802,Multi-Dimensional Gender Bias Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.23,EMNLP2020
+3884,s2958,FIND: Human-in-the-Loop Debugging Deep Text Classifiers,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.24,EMNLP2020
+3885,s1390,Conversational Document Prediction to Assist Customer Care Agents,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.25,EMNLP2020
+3886,s1219,Incremental Processing in the Age of Non-Incremental Encoders: An Empirical Assessment of Bidirectional Models for Incremental NLU,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.26,EMNLP2020
+3887,TACL2143,Task-Oriented Dialogue as Dataflow Synthesis,Machine Learning for NLP,False,10.1162/tacl_a_00333,EMNLP2020
+3888,s148,Augmented Natural Language for Generative Sequence Labeling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.27,EMNLP2020
+3889,s1700,Dialogue Response Ranking Training with Large-Scale Human Feedback Data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.28,EMNLP2020
+3890,s3544,Semantic Evaluation for Text-to-SQL with Distilled Test Suites,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.29,EMNLP2020
+3891,s2635,Cross-Thought for Sentence Encoder Pre-training,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.30,EMNLP2020
+3892,s3506,AutoQA: From Databases To QA Semantic Parsers With Only Synthetic Training Data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.31,EMNLP2020
+3893,TACL2135,Sketch-Driven Regular Expression Generation from Natural Language and Examples,Machine Learning for NLP,False,10.1162/tacl_a_00339,EMNLP2020
+3894,s2900,A Spectral Method for Unsupervised Multi-Document Summarization,Summarization,False,10.18653/v1/2020.emnlp-main.32,EMNLP2020
+3895,s965,What Have We Achieved on Text Summarization?,Summarization,False,10.18653/v1/2020.emnlp-main.33,EMNLP2020
+3896,s471,Q-learning with Language Model for Edit-based Unsupervised Summarization,Summarization,False,10.18653/v1/2020.emnlp-main.34,EMNLP2020
+3897,s3111,Friendly Topic Assistant for Transformer Based Abstractive Summarization,Summarization,False,10.18653/v1/2020.emnlp-main.35,EMNLP2020
+3898,s3394,Contrastive Distillation on Intermediate Representations for Language Model Compression,Summarization,False,10.18653/v1/2020.emnlp-main.36,EMNLP2020
+3899,s2783,TernaryBERT: Distillation-aware Ultra-low Bit BERT,Summarization,False,10.18653/v1/2020.emnlp-main.37,EMNLP2020
+3900,s903,Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference,Summarization,False,10.18653/v1/2020.emnlp-main.17,EMNLP2020
+3901,s2793,Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks,Summarization,False,10.18653/v1/2020.emnlp-main.38,EMNLP2020
+3902,s2838,Efficient Meta Lifelong-Learning with Limited Memory,Summarization,False,10.18653/v1/2020.emnlp-main.39,EMNLP2020
+3903,s858,Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings,Summarization,False,,EMNLP2020
+3904,TACL2107,Multilingual Denoising Pre-training for Neural Machine Translation,Summarization,False,10.1162/tacl_a_00343,EMNLP2020
+3905,s1503,A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT,Summarization,False,10.18653/v1/2020.emnlp-main.41,EMNLP2020
+3906,s1694,Accurate Word Alignment Induction from Neural Machine Translation,Summarization,False,10.18653/v1/2020.emnlp-main.42,EMNLP2020
+3907,s3370,ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization,Summarization,False,10.18653/v1/2020.emnlp-main.43,EMNLP2020
+3908,s838,Unsupervised Discovery of Implicit Gender Bias,Summarization,False,10.18653/v1/2020.emnlp-main.44,EMNLP2020
+3909,s2561,Condolence and Empathy in Online Communities,Summarization,False,10.18653/v1/2020.emnlp-main.45,EMNLP2020
+3910,s2651,An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets,Summarization,False,10.18653/v1/2020.emnlp-main.46,EMNLP2020
+3911,s2894,Measuring Information Propagation in Literary Social Networks,Summarization,False,10.18653/v1/2020.emnlp-main.47,EMNLP2020
+3912,s3450,Social Chemistry 101: Learning to Reason about Social and Moral Norms,Summarization,False,10.18653/v1/2020.emnlp-main.48,EMNLP2020
+3913,s96,Event Extraction by Answering (Almost) Natural Questions,Information Extraction,False,10.18653/v1/2020.emnlp-main.49,EMNLP2020
+3914,s237,Connecting the Dots: Event Graph Schema Induction with Path Language Modeling,Information Extraction,False,10.18653/v1/2020.emnlp-main.50,EMNLP2020
+3915,s1116,Joint Constrained Learning for Event-Event Relation Extraction,Information Extraction,False,10.18653/v1/2020.emnlp-main.51,EMNLP2020
+3916,s1749,Incremental Event Detection via Knowledge Consolidation Networks,Information Extraction,False,10.18653/v1/2020.emnlp-main.52,EMNLP2020
+3917,s2427,Semi-supervised New Event Type Induction and Event Detection,Information Extraction,False,10.18653/v1/2020.emnlp-main.53,EMNLP2020
+3918,s923,Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph,Information Extraction,False,10.18653/v1/2020.emnlp-main.54,EMNLP2020
+3919,s1581,Reformulating Unsupervised Style Transfer as Paraphrase Generation,Information Extraction,False,10.18653/v1/2020.emnlp-main.55,EMNLP2020
+3920,s2511,PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation,Information Extraction,False,10.18653/v1/2020.emnlp-main.57,EMNLP2020
+3921,s3010,Plan ahead: Self-Supervised Text Planning for Paragraph Completion Task,Information Extraction,False,10.18653/v1/2020.emnlp-main.529,EMNLP2020
+3922,s3270,Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning,Information Extraction,False,10.18653/v1/2020.emnlp-main.58,EMNLP2020
+3923,s647,Where Are You? Localization from Embodied Dialog,Information Extraction,False,10.18653/v1/2020.emnlp-main.59,EMNLP2020
+3924,s1071,Learning to Represent Image and Text with Denotation Graph,Information Extraction,False,10.18653/v1/2020.emnlp-main.60,EMNLP2020
+3925,s1085,Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning,Information Extraction,False,10.18653/v1/2020.emnlp-main.61,EMNLP2020
+3926,s1670,Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!,Information Extraction,False,10.18653/v1/2020.emnlp-main.62,EMNLP2020
+3927,s3183,MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering,Information Extraction,False,10.18653/v1/2020.emnlp-main.63,EMNLP2020
+3928,s318,Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning,Information Extraction,False,10.18653/v1/2020.emnlp-main.64,EMNLP2020
+3929,s419,Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness,Information Extraction,False,10.18653/v1/2020.emnlp-main.65,EMNLP2020
+3930,s1201,TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue,Information Extraction,False,10.18653/v1/2020.emnlp-main.66,EMNLP2020
+3931,s1702,RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling,Information Extraction,False,10.18653/v1/2020.emnlp-main.67,EMNLP2020
+3932,s2164,Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness,Information Extraction,False,10.18653/v1/2020.emnlp-main.68,EMNLP2020
+3933,s130,Shallow-to-Deep Training for Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.72,EMNLP2020
+3934,s1432,Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.73,EMNLP2020
+3935,s1485,Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.74,EMNLP2020
+3936,s1680,Multi-task Learning for Multilingual Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.75,EMNLP2020
+3937,s1770,Token-level Adaptive Training for Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.76,EMNLP2020
+3938,s1798,Multi-Unit Transformers for Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.77,EMNLP2020
+3939,s1960,On the Sparsity of Neural Machine Translation Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.78,EMNLP2020
+3940,s2100,Incorporating a Local Translation Mechanism into Non-autoregressive Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.79,EMNLP2020
+3941,s26,Self-Paced Learning for Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.80,EMNLP2020
+3942,s3337,Long-Short Term Masking Transformer: A Simple but Effective Baseline for Document-level Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.81,EMNLP2020
+3943,s1456,Pre-tokenization of Multi-word Expressions in Cross-lingual Word Embeddings,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.360,EMNLP2020
+3944,s3441,Generating Diverse Translation from Model Distribution with Dropout,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.82,EMNLP2020
+3945,s453,Non-Autoregressive Machine Translation with Latent Alignments,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.83,EMNLP2020
+3946,s1046,Local Additivity Based Data Augmentation for Semi-supervised NER,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.95,EMNLP2020
+3947,s1130,Grounded Compositional Outputs for Adaptive Language Modeling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.96,EMNLP2020
+3948,s1458,SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.97,EMNLP2020
+3949,s1575,SetConv: A New Approach for Learning from Imbalanced Data,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.98,EMNLP2020
+3950,s1648,Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.99,EMNLP2020
+3951,s2818,Improving Bilingual Lexicon Induction for Low Frequency Words,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.100,EMNLP2020
+3952,s1574,BERT-of-Theseus: Compressing BERT by Progressive Module Replacing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.633,EMNLP2020
+3953,s2865,Learning VAE-LDA Models with Rounded Reparameterization Trick,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.101,EMNLP2020
+3954,s2959,Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.102,EMNLP2020
+3955,s3272,Scaling Hidden Markov Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.103,EMNLP2020
+3956,s3391,Coding Textual Inputs Boosts the Accuracy of Neural Networks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.104,EMNLP2020
+3957,s3470,Learning from Task Descriptions,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.105,EMNLP2020
+3958,s1832,Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.69,EMNLP2020
+3959,s2638,Predicting Reference: What do Language Models Learn about Discourse Models?,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.70,EMNLP2020
+3960,s820,Word class flexibility: A deep contextualized approach,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.71,EMNLP2020
+3961,s1275,Benchmarking Meaning Representations in Neural Semantic Parsing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.118,EMNLP2020
+3962,s1421,Analogous Process Structure Induction for Sub-event Sequence Prediction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.119,EMNLP2020
+3963,s1892,SLM: Learning a Discourse Language Representation with Sentence Unshuffling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.120,EMNLP2020
+3964,s2553,Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.121,EMNLP2020
+3965,s3358,A Bilingual Generative Transformer for Semantic Sentence Embedding,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.122,EMNLP2020
+3966,s357,Semantically Inspired AMR Alignment for the Portuguese Language,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.123,EMNLP2020
+3967,s3609,An Unsupervised Sentence Embedding Method by Mutual Information Maximization,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.124,EMNLP2020
+3968,s754,Compositional Phrase Alignment and Beyond,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.125,EMNLP2020
+3969,s1086,Table Fact Verification with Structure-Aware Transformer,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.126,EMNLP2020
+3970,s158,Double Graph Based Reasoning for Document-level Relation Extraction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.127,EMNLP2020
+3971,s1977,Event Extraction as Machine Reading Comprehension,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.128,EMNLP2020
+3972,s2048,MAVEN: A Massive General Domain Event Detection Dataset,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.129,EMNLP2020
+3973,s2877,Knowledge Graph Alignment with Entity-Pair Embedding,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.130,EMNLP2020
+3974,s300,Adaptive Attentional Network for Few-Shot Knowledge Graph Completion,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.131,EMNLP2020
+3975,s3022,Pre-training Entity Relation Encoder with Intra-span and Inter-span Information,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.132,EMNLP2020
+3976,s3287,Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.133,EMNLP2020
+3977,s1009,BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.145,EMNLP2020
+3978,s1012,UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.146,EMNLP2020
+3979,s1140,GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.147,EMNLP2020
+3980,s128,Structured Attention for Unsupervised Dialogue Structure Induction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.148,EMNLP2020
+3981,s1522,Cross Copy Network for Dialogue Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.149,EMNLP2020
+3982,s215,Multi-turn Response Selection using Dialogue Dependency Relations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.150,EMNLP2020
+3983,s2209,Parallel Interactive Networks for Multi-Domain Dialogue State Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.151,EMNLP2020
+3984,s3621,SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.152,EMNLP2020
+3985,s1287," Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics",Machine Translation and Multilinguality,False,,EMNLP2020
+3986,s3298,Named Entity Recognition for Social Media Texts with Semantic Augmentation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.107,EMNLP2020
+3987,s3408,Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.108,EMNLP2020
+3988,s3424,Social Media Attributions in the Context of Water Crisis,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.109,EMNLP2020
+3989,s110,Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.111,EMNLP2020
+3990,s1271,Generating Radiology Reports via Memory-driven Transformer,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.112,EMNLP2020
+3991,s1634,Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.113,EMNLP2020
+3992,s1908,Predicting Clinical Trial Results by Implicit Evidence Integration,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.114,EMNLP2020
+3993,s1942,Explainable Clinical Decision Support from Text,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.115,EMNLP2020
+3994,s2779,Routing Enforced Generative Model for Recipe Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.311,EMNLP2020
+3995,s3651,A Knowledge-driven Generative Model for Multi-implication Chinese Medical Procedure Entity Normalization,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.116,EMNLP2020
+3996,s55,Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.117,EMNLP2020
+3997,s1949,Beyond [CLS] through Ranking by Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.134,EMNLP2020
+3998,s2792,Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.135,EMNLP2020
+3999,s286,Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.136,EMNLP2020
+4000,s2931,Improving Neural Topic Models using Knowledge Distillation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.137,EMNLP2020
+4001,s30,Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.138,EMNLP2020
+4002,s3419,Querying Across Genres for Medical Claims in News,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.139,EMNLP2020
+4003,s652,Incorporating Multimodal Information in Open-Domain Web Keyphrase Extraction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.140,EMNLP2020
+4004,s2994," CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French",Machine Translation and Multilinguality,False,,EMNLP2020
+4005,s3540,Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.142,EMNLP2020
+4006,s376,Multimodal Routing: Improving Local and Global Interpretability of Multimodal Language Analysis,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.143,EMNLP2020
+4007,s628,Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.144,EMNLP2020
+4008,s1388,Visually Grounded Continual Learning of Compositional Phrases,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.158,EMNLP2020
+4009,s2083,MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.159,EMNLP2020
+4010,s2273,Domain-Specific Lexical Grounding in Noisy Visual-Textual Documents,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.160,EMNLP2020
+4011,s2853,HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.161,EMNLP2020
+4012,s3360," Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision",Machine Translation and Multilinguality,False,,EMNLP2020
+4013,s635,Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.163,EMNLP2020
+4014,s1788,Look at the First Sentence: Position Bias in Question Answering,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.84,EMNLP2020
+4015,s2380,ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.85,EMNLP2020
+4016,s2973,IIRC: A Dataset of Incomplete Information Reading Comprehension Questions,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.86,EMNLP2020
+4017,s3140,Unsupervised Adaptation of Question Answering Systems via Generative Self-training,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.87,EMNLP2020
+4018,s928,TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.88,EMNLP2020
+4019,s2307,An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.153,EMNLP2020
+4020,s2886,LOGAN: Local Group Bias Detection by Clustering,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.155,EMNLP2020
+4021,s3550,RNNs can generate bounded hierarchical languages with optimal memory,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.156,EMNLP2020
+4022,s457,Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.157,EMNLP2020
+4023,s1049,ToTTo: A Controlled Table-To-Text Generation Dataset,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.89,EMNLP2020
+4024,s1706,ENT-DESC: Entity Description Generation by Exploring Knowledge Graph,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.90,EMNLP2020
+4025,s210,Small but Mighty: New Benchmarks for Split and Rephrase,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.91,EMNLP2020
+4026,s2012,De-Biased Court’s View Generation with Causality,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.56,EMNLP2020
+4027,s2422,Online Back-Parsing for AMR-to-Text Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.92,EMNLP2020
+4028,s2758,Reading Between the Lines: Exploring Infilling in Visual Narratives,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.93,EMNLP2020
+4029,s920,Acrostic Poem Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.94,EMNLP2020
+4030,sDEMO48,OpenUE: An Open Toolkit of Universal Extraction from Text,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.1,EMNLP2020
+4031,sDEMO58,Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.4,EMNLP2020
+4032,sDEMO86,CoSaTa: A Constraint Satisfaction Solver and Interpreted Language for Semi-Structured Tables of Sentences,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.10,EMNLP2020
+4033,sDEMO102," The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models",Machine Translation and Multilinguality,False,,EMNLP2020
+4034,sDEMO111,SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.19,EMNLP2020
+4035,sDEMO123,WantWords: An Open-source Online Reverse Dictionary System,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.23,EMNLP2020
+4036,s983,Enhancing Aspect Term Extraction with Soft Prototypes,Information Extraction,False,10.18653/v1/2020.emnlp-main.164,EMNLP2020
+4037,s2938,FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction,Information Extraction,False,10.18653/v1/2020.emnlp-main.165,EMNLP2020
+4038,s3136,Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product,Information Extraction,False,10.18653/v1/2020.emnlp-main.166,EMNLP2020
+4039,s3497,A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression,Information Extraction,False,10.18653/v1/2020.emnlp-main.167,EMNLP2020
+4040,s204,Retrofitting Structure-aware Transformer Language Model for End Tasks,Information Extraction,False,10.18653/v1/2020.emnlp-main.168,EMNLP2020
+4041,s2795," Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation",Information Extraction,False,,EMNLP2020
+4042,TACL2121,Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs,Information Extraction,False,10.1162/tacl_a_00332,EMNLP2020
+4043,s1377," If beam search is the answer, what was the question?",Information Extraction,False,,EMNLP2020
+4044,TACL2169,A* Beam Search,Information Extraction,False,,EMNLP2020
+4045,s2535,Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning,Information Extraction,False,10.18653/v1/2020.emnlp-main.171,EMNLP2020
+4046,s2452,Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing,Information Extraction,False,10.18653/v1/2020.emnlp-main.172,EMNLP2020
+4047,s362,Exploring Logically Dependent Multi-task Learning with Causal Inference,Information Extraction,False,10.18653/v1/2020.emnlp-main.173,EMNLP2020
+4048,s1220,Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,Information Extraction,False,10.18653/v1/2020.emnlp-main.174,EMNLP2020
+4049,TACL2095,Interactive Text Ranking with Bayesian Optimisation: A Case Study on Community QA and Summarisation,Information Extraction,False,,EMNLP2020
+4050,s1504,Dynamic Context Selection for Document-level Neural Machine Translation via Reinforcement Learning,Information Extraction,False,10.18653/v1/2020.emnlp-main.175,EMNLP2020
+4051,s2674,Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation,Information Extraction,False,10.18653/v1/2020.emnlp-main.176,EMNLP2020
+4052,s3227,Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses,Information Extraction,False,10.18653/v1/2020.emnlp-main.177,EMNLP2020
+4053,s3236,Learning Adaptive Segmentation Policy for Simultaneous Translation,Information Extraction,False,10.18653/v1/2020.emnlp-main.178,EMNLP2020
+4054,s400,Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages,Information Extraction,False,10.18653/v1/2020.emnlp-main.179,EMNLP2020
+4055,TACL2411,Syntactic Structure Distillation Pretraining for Bidirectional Encoders,"Tagging, Chunking, and Parsing",False,10.1162/tacl_a_00345,EMNLP2020
+4056,s750,UDapter: Language Adaptation for Truly Universal Dependency Parsing,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.180,EMNLP2020
+4057,s1225,Uncertainty-Aware Label Reﬁnement for Sequence Labeling,"Tagging, Chunking, and Parsing",False,,EMNLP2020
+4058,s2895,Adversarial Attack and Defense of Structured Prediction Models,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.182,EMNLP2020
+4059,s3282,Position-Aware Tagging for Aspect Sentiment Triplet Extraction,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.183,EMNLP2020
+4060,s1402,Simultaneous Machine Translation with Visual Context,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.184,EMNLP2020
+4061,s623,XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.185,EMNLP2020
+4062,s2131,The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.186,EMNLP2020
+4063,s2718,Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.187,EMNLP2020
+4064,sCL2,Semantic Drift in Multilingual Representations,"Tagging, Chunking, and Parsing",False,10.1162/coli_a_00382,EMNLP2020
+4065,s1004,AnswerFact: Fact Checking in Product Question Answering,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.188,EMNLP2020
+4066,s1022,Context-Aware Answer Extraction in Question Answering,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.189,EMNLP2020
+4067,s2258,What do Models Learn from Question Answering Datasets?,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.190,EMNLP2020
+4068,s1622,Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.191,EMNLP2020
+4069,s3057,A Method for Building a Commonsense Inference Dataset based on Basic Events,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.192,EMNLP2020
+4070,s1187,Neural Deepfake Detection with Factual Structure of Text,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.193,EMNLP2020
+4071,s1032,MultiCQA: Zero-Shot Transfer of Self-Supervised Text Matching Models on a Massive Scale,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.194,EMNLP2020
+4072,s1649,XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.195,EMNLP2020
+4073,s2098,Improving AMR Parsing with Sequence-to-Sequence Pre-training,"Tagging, Chunking, and Parsing",False,10.18653/v1/2020.emnlp-main.196,EMNLP2020
+4074,s1018,Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.232,EMNLP2020
+4075,s1208,Lifelong Language Knowledge Distillation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.233,EMNLP2020
+4076,s1498,Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.234,EMNLP2020
+4077,s1682,Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.235,EMNLP2020
+4078,s2370,Word Rotator's Distance,Machine Learning for NLP,False,,EMNLP2020
+4079,s2873,Disentangle-based Continual Graph Representation Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.237,EMNLP2020
+4080,s3205,Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.238,EMNLP2020
+4081,s3321,Wasserstein Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.239,EMNLP2020
+4082,s410,A Simple Approach to Learning Unsupervised Multilingual Embeddings,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.240,EMNLP2020
+4083,s763,Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.241,EMNLP2020
+4084,s956,BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance,Machine Learning for NLP,False,,EMNLP2020
+4085,s977,Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.243,EMNLP2020
+4086,s1006,Knowledge-Grounded Dialogue Generation with Pre-trained Language Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.272,EMNLP2020
+4087,s1846,MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.273,EMNLP2020
+4088,s2070,Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.274,EMNLP2020
+4089,s2212,Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.275,EMNLP2020
+4090,s2975,Counterfactual Off-Policy Training for Neural Dialogue Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.276,EMNLP2020
+4091,s478,Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.277,EMNLP2020
+4092,s664,Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.278,EMNLP2020
+4093,s699,Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.279,EMNLP2020
+4094,s787,AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.280,EMNLP2020
+4095,s954,Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.281,EMNLP2020
+4096,s1159,Learning from Context or Names? An Empirical Study on Neural Relation Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.298,EMNLP2020
+4097,s1547,SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.299,EMNLP2020
+4098,s1566,Denoising Relation Extraction from Document-level Distant Supervision,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.300,EMNLP2020
+4099,s1862,Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!,Machine Learning for NLP,False,,EMNLP2020
+4100,s2739,Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.302,EMNLP2020
+4101,s327,Global-to-Local Neural Networks for Document-Level Relation Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.303,EMNLP2020
+4102,s3519,Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.304,EMNLP2020
+4103,s3617,Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.305,EMNLP2020
+4104,s3646,OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.306,EMNLP2020
+4105,s1180,Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.307,EMNLP2020
+4106,s1739,Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.308,EMNLP2020
+4107,s2225,Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.676,EMNLP2020
+4108,s179,Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.309,EMNLP2020
+4109,s2764,Neural Topic Modeling by Incorporating Document Relationship Graph,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.310,EMNLP2020
+4110,s3431,Selection and Generation: Learning towards Multi-Product Advertisement Post Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.313,EMNLP2020
+4111,s3496,Form2Seq : A Framework for Higher-Order Form Structure Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.314,EMNLP2020
+4112,s1857,Task-oriented Domain-specific Meta-Embedding for Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.282,EMNLP2020
+4113,s1935,Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation,Machine Learning for NLP,False,,EMNLP2020
+4114,s598,Exploring Semantic Capacity of Terms,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.684,EMNLP2020
+4115,s2151,Within-Between Lexical Relation Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.284,EMNLP2020
+4116,s2251,With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.285,EMNLP2020
+4117,s2061,Translation Quality Estimation by Jointly Learning to Score and Rank,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.205,EMNLP2020
+4118,s246,CSP:Code-Switching Pre-training for Neural Machine Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.208,EMNLP2020
+4119,s3688,Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.210,EMNLP2020
+4120,s701,Towards Enhancing Faithfulness for Neural Machine Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.212,EMNLP2020
+4121,s835,COMET: A Neural Framework for MT Evaluation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.213,EMNLP2020
+4122,s865,LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.215,EMNLP2020
+4123,s891,Uncertainty-Aware Semantic Augmentation for Neural Machine Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.216,EMNLP2020
+4124,s894,Can Automatic Post-Editing Improve NMT?,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.217,EMNLP2020
+4125,s1733,Domain Adaptation of Thai Word Segmentation Models using Stacked Ensemble,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.315,EMNLP2020
+4126,s2424,DagoBERT: Generating Derivational Morphology with a Pretrained Language Model,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.316,EMNLP2020
+4127,s557,Attention Is All You Need for Chinese Word Segmentation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.317,EMNLP2020
+4128,s930,A Joint Multiple Criteria Model in Transfer Learning for Cross-domain Chinese Word Segmentation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.318,EMNLP2020
+4129,s2075,TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.223,EMNLP2020
+4130,s2512," QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines",Machine Learning for NLP,False,,EMNLP2020
+4131,s955,Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.225,EMNLP2020
+4132,s1146,Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.202,EMNLP2020
+4133,s1248,Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.203,EMNLP2020
+4134,s1263,Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.204,EMNLP2020
+4135,s2163,Direct Segmentation Models for Streaming Speech Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.206,EMNLP2020
+4136,s2298," Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation",Machine Learning for NLP,False,,EMNLP2020
+4137,s353,Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.209,EMNLP2020
+4138,s618,Losing Heads in the Lottery: Pruning Transformer Attention in Neural Machine Translation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.211,EMNLP2020
+4139,s852,Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.214,EMNLP2020
+4140,s1030,STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.264,EMNLP2020
+4141,s1196,Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.265,EMNLP2020
+4142,s279,Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.266,EMNLP2020
+4143,s2927,A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.267,EMNLP2020
+4144,s3088,Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.268,EMNLP2020
+4145,s355,VD-BERT: A Unified Vision and Dialog Transformer with BERT,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.269,EMNLP2020
+4146,s593,The Grammar of Emergent Languages,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.270,EMNLP2020
+4147,s995,Sub-Instruction Aware Vision-and-Language Navigation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.271,EMNLP2020
+4148,s1626,Hate-Speech and Offensive Language Detection in Roman Urdu,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.197,EMNLP2020
+4149,s1904,Suicidal Risk Detection for Military Personnel,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.198,EMNLP2020
+4150,s2057,Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.199,EMNLP2020
+4151,s3101,HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.200,EMNLP2020
+4152,s360,Reactive Supervision: A New Method for Collecting Sarcasm Data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.201,EMNLP2020
+4153,s1766,Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.286,EMNLP2020
+4154,s3185,Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.287,EMNLP2020
+4155,s3286,Aspect Sentiment Classification with Aspect-Specific Opinion Spans,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.288,EMNLP2020
+4156,s3329,Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.289,EMNLP2020
+4157,s3594,End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.290,EMNLP2020
+4158,s392,Multi-modal Multi-label Emotion Detection with Modality and Label Dependence,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.291,EMNLP2020
+4159,s733," Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis",Machine Learning for NLP,False,,EMNLP2020
+4160,s1205,Top-Rank-Focused Adaptive Vote Collection for the Evaluation of Domain-Specific Semantic Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.249,EMNLP2020
+4161,s16,Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.250,EMNLP2020
+4162,s3327,Incorporating Behavioral Hypotheses for Query Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.251,EMNLP2020
+4163,s548,Conditional Causal Relationships between Emotions and Causes in Texts,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.252,EMNLP2020
+4164,s748,COMETA: A Corpus for Medical Entity Linking in the Social Media,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.253,EMNLP2020
+4165,s1647,MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.226,EMNLP2020
+4166,s214,Incomplete Utterance Rewriting as Semantic Segmentation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.227,EMNLP2020
+4167,s2357,Improving Grammatical Error Correction Models with Purpose-Built Adversarial Examples,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.228,EMNLP2020
+4168,s2766,Homophonic Pun Generation with Lexically Constrained Rewriting,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.229,EMNLP2020
+4169,s3353,How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.230,EMNLP2020
+4170,s870,Multilingual AMR-to-Text Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.231,EMNLP2020
+4171,s1837,Don't Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering,Machine Learning for NLP,False,,EMNLP2020
+4172,s2253,Multi-Step Inference for Reasoning Over Paragraphs,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.245,EMNLP2020
+4173,s2337,Learning a Cost-Effective Annotation Policy for Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.246,EMNLP2020
+4174,s390,Scene Restoring for Narrative Machine Reading Comprehension,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.247,EMNLP2020
+4175,s449,A Simple and Effective Model for Answering Multi-span Questions,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.248,EMNLP2020
+4176,s1625,Parsing Gapping Constructions Based on Grammatical and Semantic Roles,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.218,EMNLP2020
+4177,s207,Span-based discontinuous constituency parsing: a family of exact chart-based algorithms with time complexities from O(n^6) down to O(n^3),Machine Learning for NLP,False,,EMNLP2020
+4178,s447,Some Languages Seem Easier to Parse Because Their Treebanks Leak,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.220,EMNLP2020
+4179,s486,Discontinuous Constituent Parsing as Sequence Labeling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.221,EMNLP2020
+4180,s877,Modularized Syntactic Neural Networks for Sentence Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.222,EMNLP2020
+4181,s1551,Pareto Probing: Trading Off Accuracy for Complexity,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.254,EMNLP2020
+4182,s1612,Interpretation of NLP models through input marginalization,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.255,EMNLP2020
+4183,s1614,Generating Label Cohesive and Well-Formed Adversarial Claims,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.256,EMNLP2020
+4184,s1996,Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.258,EMNLP2020
+4185,s958,A Diagnostic Study of Explainability Techniques for Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.263,EMNLP2020
+4186,s1952,Modeling Content Importance for Summarization with Pre-trained Language Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.293,EMNLP2020
+4187,s3012,Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.294,EMNLP2020
+4188,s3437,Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.295,EMNLP2020
+4189,s693,Coarse-to-Fine Query Focused Multi-Document Summarization,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.296,EMNLP2020
+4190,s714,Pre-training for Abstractive Document Summarization by Reinstating Source Text,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.297,EMNLP2020
+4191,s1901,Are All Good Word Vector Spaces Isomorphic?,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.257,EMNLP2020
+4192,s2215," When BERT Plays the Lottery, All Tickets Are Winning",Machine Learning for NLP,False,,EMNLP2020
+4193,s3513,On the weak link between importance and prunability of attention heads,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.260,EMNLP2020
+4194,s3529,Towards Interpreting BERT for Reading Comprehension Based QA,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.261,EMNLP2020
+4195,s87,How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.262,EMNLP2020
+4196,s1061,Alignment-free Cross-lingual Semantic Role Labeling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.319,EMNLP2020
+4197,s1267,Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.320,EMNLP2020
+4198,s1379,X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.321,EMNLP2020
+4199,s1754,Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.322,EMNLP2020
+4200,s2419,Fast semantic parsing with well-typedness guarantees,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.323,EMNLP2020
+4201,sDEMO49,BERTweet: A pre-trained language model for English Tweets,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.2,EMNLP2020
+4202,sDEMO71,AdapterHub: A Framework for Adapting Transformers,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.7,EMNLP2020
+4203,sDEMO109,SciSight: Combining faceted navigation and research group detection for COVID-19 exploratory scientific search,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.18,EMNLP2020
+4204,sDEMO124,BENNERD: A Neural Named Entity Linking System for COVID-19,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.24,EMNLP2020
+4205,sDEMO131,Langsmith: An Interactive Academic Text Revision System,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.28,EMNLP2020
+4206,sDEMO132,IsOBS: An Information System for Oracle Bone Script,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.29,EMNLP2020
+4207,s2066,Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.324,EMNLP2020
+4208,s2583,Supervised Seeded Iterated Learning for Interactive Language Learning,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.325,EMNLP2020
+4209,s2281,Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.326,EMNLP2020
+4210,s2410,Human-centric dialog training via offline reinforcement learning,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.327,EMNLP2020
+4211,s644,Speakers Fill Lexical Semantic Gaps with Context,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.328,EMNLP2020
+4212,s1282,Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.329,EMNLP2020
+4213,s1492,Surprisal Predicts Code-Switching in Chinese-English Bilingual Text,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.330,EMNLP2020
+4214,s3115,Word Frequency Does Not Predict Grammatical Knowledge in Language Models,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.331,EMNLP2020
+4215,TACL2013,BLiMP: The Benchmark of Linguistic Minimal Pairs for English,Dialog and Interactive Systems,False,10.1162/tacl_a_00321,EMNLP2020
+4216,s2891,Improving Word Sense Disambiguation with Translations,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.332,EMNLP2020
+4217,s1395,Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.333,EMNLP2020
+4218,s1393,Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.682,EMNLP2020
+4219,s2920," Do ""Undocumented Workers"" == ""Illegal Aliens""? Differentiating Denotation and Connotation in Vector Spaces ",Dialog and Interactive Systems,False,,EMNLP2020
+4220,s645,Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.336,EMNLP2020
+4221,s1023,Few-Shot Learning for Opinion Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.337,EMNLP2020
+4222,s3464,Learning to Fuse Sentences with Transformers for Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.338,EMNLP2020
+4223,s3398,Stepwise Extractive Summarization and Planning with Structured Transformers,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.339,EMNLP2020
+4224,s1298,CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.340,EMNLP2020
+4225,s2825,SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.341,EMNLP2020
+4226,s3541,Modularized Transfomer-based Ranking Framework,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.342,EMNLP2020
+4227,s3240,Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.343,EMNLP2020
+4228,s2005,Adversarial Semantic Collisions,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.344,EMNLP2020
+4229,s2040,Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.345,EMNLP2020
+4230,s2763,AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.346,EMNLP2020
+4231,s2585,Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.347,EMNLP2020
+4232,s648,Sparse Text Generation,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.348,EMNLP2020
+4233,s1687,PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.349,EMNLP2020
+4234,s2430,Do sequence-to-sequence VAEs learn global features of sentences?,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.350,EMNLP2020
+4235,s2982,Content Planning for Neural Story Generation with Aristotelian Rescoring,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.351,EMNLP2020
+4236,s3179,Generating Dialogue Responses from a Semantic Latent Space,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.352,EMNLP2020
+4237,s2058," Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts",Information Retrieval and Text Mining,False,,EMNLP2020
+4238,s2702,Visually Grounded Compound PCFGs,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.354,EMNLP2020
+4239,s76,ALICE: Active Learning with Contrastive Natural Language Explanations,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.355,EMNLP2020
+4240,s1113,Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.356,EMNLP2020
+4241,s2991,SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.357,EMNLP2020
+4242,s1383,Identifying Elements Essential for BERT’s Multilinguality,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.358,EMNLP2020
+4243,s1445,On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.359,EMNLP2020
+4244,s2412,Monolingual Adapters for Zero-Shot Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.361,EMNLP2020
+4245,s2490,Do Explicit Alignments Robustly Improve Multilingual Encoders?,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.362,EMNLP2020
+4246,s2500,From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.363,EMNLP2020
+4247,s2661,Distilling Multiple Domains for Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.364,EMNLP2020
+4248,s267,Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.365,EMNLP2020
+4249,s2767,A Streaming Approach For Efficient Batched Beam Search,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.366,EMNLP2020
+4250,s3116,Improving Multilingual Models with Language-Clustered Vocabularies,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.367,EMNLP2020
+4251,s74,Zero-Shot Cross-Lingual Transfer with Meta Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.368,EMNLP2020
+4252,s875,The Multilingual Amazon Reviews Corpus,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.369,EMNLP2020
+4253,s1446,Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.378,EMNLP2020
+4254,s1594,BioMegatron: Larger Biomedical Domain Language Model,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.379,EMNLP2020
+4255,s2367,Text Segmentation by Cross Segment Attention,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.380,EMNLP2020
+4256,s2391,RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.381,EMNLP2020
+4257,s2396,An Empirical Study of Pre-trained Transformers for Arabic Information Extraction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.382,EMNLP2020
+4258,s2515,TNT: Text Normalization based Pre-training of Transformers for Content Moderation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.383,EMNLP2020
+4259,s3093,Methods for Numeracy-Preserving Word Embeddings,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.384,EMNLP2020
+4260,s3486,An Empirical Investigation of Contextualized Number Prediction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.385,EMNLP2020
+4261,s809,Modeling the Music Genre Perception across Language-Bound Cultures,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.386,EMNLP2020
+4262,s851,Joint Estimation and Analysis of Risk Behavior Ratings in Movie Scripts,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.387,EMNLP2020
+4263,s151,Be More with Less: Hypergraph Attention Networks for Inductive Text Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.399,EMNLP2020
+4264,s1528,Entities as Experts: Sparse Memory Access with Entity Supervision,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.400,EMNLP2020
+4265,s2271,Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.402,EMNLP2020
+4266,s2491,On Losses for Modern Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.403,EMNLP2020
+4267,s2784,We Can Detect Your Bias: Predicting the Political Ideology of News Articles,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.404,EMNLP2020
+4268,s2790,Semantic Label Smoothing for Sequence to Sequence Problems,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.405,EMNLP2020
+4269,s3348,Training for Gibbs Sampling on Conditional Random Fields with Neural Scoring Factors,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.406,EMNLP2020
+4270,s825,Multilevel Text Alignment with Cross-Document Attention,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.407,EMNLP2020
+4271,s2707,A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.425,EMNLP2020
+4272,s3028,Modeling Protagonist Emotions for Emotion-Aware Storytelling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.426,EMNLP2020
+4273,s3068,Help! Need Advice on Identifying Advice,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.427,EMNLP2020
+4274,s3352,Quantifying Intimacy in Language,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.428,EMNLP2020
+4275,s868,Writing Strategies for Science Communication: Data and Computational Analysis,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.429,EMNLP2020
+4276,s1339,Zero-Shot Crosslingual Sentence Simplification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.415,EMNLP2020
+4277,s168,Facilitating the Communication of Politeness through Fine-Grained Paraphrasing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.416,EMNLP2020
+4278,s789,On the Reliability and Validity of Detecting Approval of Political Actors in Tweets,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.110,EMNLP2020
+4279,s2313,CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.417,EMNLP2020
+4280,s2448,Seq2Edits: Sequence Transduction Using Span-level Edit Operations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.418,EMNLP2020
+4281,s2916,Controllable Meaning Representation to Text Generation: Linearization and Data Augmentation Strategies,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.419,EMNLP2020
+4282,s3403,Blank Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.420,EMNLP2020
+4283,s3457,COD3S: Diverse Generation with Discrete Semantic Signatures,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.421,EMNLP2020
+4284,s2508,Weakly Supervised Subevent Knowledge Acquisition,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.430,EMNLP2020
+4285,s2608,Biomedical Event Extraction as Sequence Labeling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.431,EMNLP2020
+4286,s2922,Annotating Temporal Dependency Graphs via Crowdsourcing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.432,EMNLP2020
+4287,s3231,Introducing a New Dataset for Event Detection in Cybersecurity Texts,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.433,EMNLP2020
+4288,s3336,CHARM: Inferring Personal Attributes from Conversations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.434,EMNLP2020
+4289,s3390,Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.435,EMNLP2020
+4290,s861,Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.436,EMNLP2020
+4291,s2064,Automatic Extraction of Rules Governing Morphological Agreement,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.422,EMNLP2020
+4292,s2675,Tackling the Low-resource Challenge for Canonical Segmentation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.423,EMNLP2020
+4293,s2847,IGT2P: From Interlinear Glossed Texts to Paradigms,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.424,EMNLP2020
+4294,s1179,Conversational Semantic Parsing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.408,EMNLP2020
+4295,s1654,Probing Task-Oriented Dialogue Representation from Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.409,EMNLP2020
+4296,s2641,End-to-End Slot Alignment and Recognition for Cross-Lingual NLU,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.410,EMNLP2020
+4297,s3217,Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.411,EMNLP2020
+4298,s3393,Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.412,EMNLP2020
+4299,s850,Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.413,EMNLP2020
+4300,s876,Sound Natural: Content Rephrasing in Dialog Systems,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.414,EMNLP2020
+4301,s2851,Structural Supervision Improves Few-Shot Learning and Syntactic Generalization in Neural Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.375,EMNLP2020
+4302,s3181,Investigating representations of verb bias in neural language models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.376,EMNLP2020
+4303,s373,Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.377,EMNLP2020
+4304,s108,How Much Knowledge Can You Pack Into the Parameters of a Language Model?,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.437,EMNLP2020
+4305,s1782,EXAMS: A Multi-subject High School Examinations Dataset for Cross-lingual and Multilingual Question Answering,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.438,EMNLP2020
+4306,s1877,End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.439,EMNLP2020
+4307,s2078,Multi-Stage Pre-training for Low-Resource Domain Adaptation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.440,EMNLP2020
+4308,s2120,ISAAQ - Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.441,EMNLP2020
+4309,s595,SubjQA: A Dataset for Subjectivity and Review Comprehension,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.442,EMNLP2020
+4310,s1258,Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.388,EMNLP2020
+4311,s1494,Unsupervised Parsing via Constituency Tests,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.389,EMNLP2020
+4312,s1943,Please Mind the Root: Decoding Arborescences for Dependency Parsing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.390,EMNLP2020
+4313,s3046,Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.391,EMNLP2020
+4314,s3259,Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.392,EMNLP2020
+4315,s1484,Utility is in the Eye of the User: A Critique of NLP Leaderboards,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.393,EMNLP2020
+4316,s1631,An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.394,EMNLP2020
+4317,s2414,Analyzing Individual Neurons in Pre-trained Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.395,EMNLP2020
+4318,s2438,Dissecting Span Identification Tasks with Performance Prediction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.396,EMNLP2020
+4319,s3278,Assessing Phrasal Representation and Composition in Transformers,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.397,EMNLP2020
+4320,s3543,Analyzing Redundancy in Pretrained Transformer Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.398,EMNLP2020
+4321,s1103,GLUCOSE: GeneraLized and COntextualized Story Explanations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.370,EMNLP2020
+4322,s1938,Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.371,EMNLP2020
+4323,s2989," Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition",Machine Translation and Multilinguality,False,,EMNLP2020
+4324,s2644,CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.154,EMNLP2020
+4325,s32," ""You are grounded!"": Latent Name Artifacts in Pre-trained Language Models ",Machine Translation and Multilinguality,False,,EMNLP2020
+4326,s41,Unsupervised Commonsense Question Answering with Self-Talk,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.373,EMNLP2020
+4327,s607," Reasoning about Goals, Steps, and Temporal Ordering with WikiHow",Machine Translation and Multilinguality,False,,EMNLP2020
+4328,sDEMO59,ARES: A Reading Comprehension Ensembling Service,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.5,EMNLP2020
+4329,sDEMO60,Transformers: State-of-the-Art Natural Language Processing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.6,EMNLP2020
+4330,sDEMO72,HUMAN: Hierarchical Universal Modular ANnotator,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.8,EMNLP2020
+4331,sDEMO79,DeezyMatch: A Flexible Deep Learning Approach to Fuzzy String Matching,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.9,EMNLP2020
+4332,sDEMO89,InVeRo: Making Semantic Role Labeling Accessible with Intelligible Verbs and Roles,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.11,EMNLP2020
+4333,sDEMO97,ENTYFI: A System for Fine-grained Entity Typing in Fictional Texts,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.14,EMNLP2020
+4334,s2383,Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.443,EMNLP2020
+4335,s3239,Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.444,EMNLP2020
+4336,s2218,Digital Voicing of Silent Speech,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.445,EMNLP2020
+4337,sCL4,Sparse Transcription,Speech and Multimodality,False,10.1162/coli_a_00387,EMNLP2020
+4338,s60,Imitation Attacks and Defenses for Black-box Machine Translation Systems,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.446,EMNLP2020
+4339,s1356,Sequence-Level Mixed Sample Data Augmentation,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.447,EMNLP2020
+4340,s2198,Consistency of a Recurrent Language Model With Respect to Incomplete Decoding,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.448,EMNLP2020
+4341,s2636,An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.449,EMNLP2020
+4342,s2834," Ensemble Distillation for Structured Prediction: Calibrated, Accurate, Fast - Choose Three",Speech and Multimodality,False,,EMNLP2020
+4343,s1289,Inducing Target-Specific Latent Structures for Aspect Sentiment Classification,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.451,EMNLP2020
+4344,s2549,Affective Event Classification with Discourse-enhanced Self-training,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.452,EMNLP2020
+4345,s3462,Deep Weighted MaxSAT for Aspect-based Opinion Extraction,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.453,EMNLP2020
+4346,s668,Multi-view Story Characterization from Movie Plot Synopses and Reviews,Speech and Multimodality,False,10.18653/v1/2020.emnlp-main.454,EMNLP2020
+4347,s1320,Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.455,EMNLP2020
+4348,s3563,Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.456,EMNLP2020
+4349,s3656,RethinkCWS: Is Chinese Word Segmentation a Solved Task?,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.457,EMNLP2020
+4350,s2208,Learning to Pronounce Chinese Without a Pronunciation Dictionary,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.458,EMNLP2020
+4351,s684,Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.459,EMNLP2020
+4352,s1011,Knowledge Association with Hyperbolic Knowledge Graph Embeddings,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.460,EMNLP2020
+4353,s2972,Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.461,EMNLP2020
+4354,s3084,TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.462,EMNLP2020
+4355,s1552,Understanding the Difficulty of Training Transformers,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.463,EMNLP2020
+4356,s2581,An Empirical Study of Generation Order for Machine Translation,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.464,EMNLP2020
+4357,s3051,Inference Strategies for Machine Translation with Conditional Masking,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.465,EMNLP2020
+4358,TACL1943,Reproducible and Efficient Benchmarks for Hyperparameter Optimization of Neural Machine Translation Systems,"Phonology, Morphology and Word Segmentation",False,10.1162/tacl_a_00322,EMNLP2020
+4359,s1580,AmbigQA: Answering Ambiguous Open-domain Questions,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.466,EMNLP2020
+4360,s1262,Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.467,EMNLP2020
+4361,s2586,Training Question Answering Models From Synthetic Data,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.468,EMNLP2020
+4362,s3672,Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.emnlp-main.469,EMNLP2020
+4363,s1100,Iterative Domain-Repaired Back-Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.474,EMNLP2020
+4364,s1572,Dynamic Data Selection and Weighting for Iterative Back-Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.475,EMNLP2020
+4365,s1986,Revisiting Modularized Multilingual NMT to Meet Industrial Demands,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.476,EMNLP2020
+4366,s2278,LAReQA: Language-Agnostic Answer Retrieval from a Multilingual Pool,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.477,EMNLP2020
+4367,s2493,OCR Post Correction for Endangered Language Texts,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.478,EMNLP2020
+4368,s2630,X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.479,EMNLP2020
+4369,s2746,CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.480,EMNLP2020
+4370,s3597,Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.481,EMNLP2020
+4371,s585,Interactive Refinement of Cross-Lingual Word Embeddings,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.482,EMNLP2020
+4372,s639,Exploiting Sentence Order in Document Alignment,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.483,EMNLP2020
+4373,s871," XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation",Machine Translation and Multilinguality,False,,EMNLP2020
+4374,s1508,Structure Aware Negative Sampling in Knowledge Graphs,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.492,EMNLP2020
+4375,s247,Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.493,EMNLP2020
+4376,s2632,Autoregressive Knowledge Distillation through Imitation Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.494,EMNLP2020
+4377,s1734,Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.634,EMNLP2020
+4378,s2914,T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.495,EMNLP2020
+4379,s3074,Structured Pruning of Large Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.496,EMNLP2020
+4380,s3434,Effective Unsupervised Domain Adaptation with Adversarially Trained Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.497,EMNLP2020
+4381,s371,BAE: BERT-based Adversarial Examples for Text Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.498,EMNLP2020
+4382,s426,Adversarial Self-Supervised Data-Free Distillation for Text Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.499,EMNLP2020
+4383,s47,BERT-ATTACK: Adversarial Attack Against BERT Using BERT,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.500,EMNLP2020
+4384,s517,The Thieves on Sesame Street are Polyglots - Extracting Multilingual Models from Monolingual APIs,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.501,EMNLP2020
+4385,s1738,Coarse-to-Fine Pre-training for Named Entity Recognition,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.514,EMNLP2020
+4386,s1787," Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment",Machine Translation and Multilinguality,False,,EMNLP2020
+4387,s2799,Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.516,EMNLP2020
+4388,s287,Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision,Machine Translation and Multilinguality,False,,EMNLP2020
+4389,s2947,Entity Enhanced BERT Pre-training for Chinese NER,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.518,EMNLP2020
+4390,s2974,Scalable Zero-shot Entity Linking with Dense Entity Retrieval,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.519,EMNLP2020
+4391,s3032,A Dataset for Tracking Entities in Open Domain Procedural Text,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.520,EMNLP2020
+4392,s3453,Design Challenges in Low-resource Cross-lingual Entity Linking,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.521,EMNLP2020
+4393,s3517,Efficient One-Pass End-to-End Entity Linking for Questions,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.522,EMNLP2020
+4394,s911,LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.523,EMNLP2020
+4395,s165,Towards Persona-Based Empathetic Conversational Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.531,EMNLP2020
+4396,s2042,Personal Information Leakage Detection in Conversations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.532,EMNLP2020
+4397,s2050,Response Selection for Multi-Party Conversations with Dynamic Topic Tracking,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.533,EMNLP2020
+4398,s3157,Regularizing Dialogue Generation by Imitating Implicit Scenarios,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.534,EMNLP2020
+4399,s3580,MovieChats: Chat like Humans in a Closed Domain,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.535,EMNLP2020
+4400,s3593,Conundrums in Entity Coreference Resolution: Making Sense of the State of the Art,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.536,EMNLP2020
+4401,s689,Semantic Role Labeling Guided Multi-turn Dialogue ReWriter,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.537,EMNLP2020
+4402,s916," Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations",Machine Translation and Multilinguality,False,,EMNLP2020
+4403,s999,Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents,Machine Translation and Multilinguality,False,,EMNLP2020
+4404,s1217,A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.565,EMNLP2020
+4405,s1299,Train No Evil: Selective Masking for Task-Guided Pre-Training,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.566,EMNLP2020
+4406,s1550,SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.567,EMNLP2020
+4407,s1675,Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.568,EMNLP2020
+4408,s2133,APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.569,EMNLP2020
+4409,s3064,Diversiﬁed Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classiﬁcation,Machine Translation and Multilinguality,False,,EMNLP2020
+4410,s3454,Identifying Exaggerated Language,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.571,EMNLP2020
+4411,s3579,Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.572,EMNLP2020
+4412,s1997,Multilingual Offensive Language Identification with Cross-lingual Embeddings,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.470,EMNLP2020
+4413,s2216,Solving Historical Dictionary Codes with a Neural Language Model,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.471,EMNLP2020
+4414,s3551,Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.472,EMNLP2020
+4415,s3566,Investigating African-American Vernacular English in Transformer-Based Text Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.473,EMNLP2020
+4416,s1107,Grounded Adaptation for Zero-shot Executable Semantic Parsing,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.558,EMNLP2020
+4417,s1495,An Imitation Game for Learning Semantic Parsers from User Interaction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.559,EMNLP2020
+4418,s1784,IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.560,EMNLP2020
+4419,s1866," ""What Do You Mean by That?"" A Parser-Independent Interactive Approach for Enhancing Text-to-SQL ",Machine Translation and Multilinguality,False,,EMNLP2020
+4420,s349,DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.562,EMNLP2020
+4421,s3507,Mention Extraction and Linking for SQL Query Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.563,EMNLP2020
+4422,s3682,Re-examining the Role of Schema Linking in Text-to-SQL,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.564,EMNLP2020
+4423,s1250,An Element-aware Multi-representation Model for Law Article Prediction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.540,EMNLP2020
+4424,s1465,Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.541,EMNLP2020
+4425,s2261,Multi-resolution Annotations for Emoji Prediction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.542,EMNLP2020
+4426,s2995,Less is More: Attention Supervision with Counterfactuals for Text Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.543,EMNLP2020
+4427,s3013,MODE-LSTM: A Parameter-efficient Recurrent Network with Multi-Scale for Sentence Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.544,EMNLP2020
+4428,s3344,Assessing the Helpfulness of Learning Materials with Inference-Based Learner-Like Agent,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.312,EMNLP2020
+4429,s3174,HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.545,EMNLP2020
+4430,s3567,Multi-Stage Pre-training for Automated Chinese Essay Scoring,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.546,EMNLP2020
+4431,s2076,When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.502,EMNLP2020
+4432,s2112,Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.503,EMNLP2020
+4433,s298,A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.504,EMNLP2020
+4434,s1141,BERT-enhanced Relational Sentence Ordering Network,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.511,EMNLP2020
+4435,s1863,Online Conversation Disentanglement with Pointer Networks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.512,EMNLP2020
+4436,s3292,VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.513,EMNLP2020
+4437,s1658,Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.524,EMNLP2020
+4438,s1928,STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.525,EMNLP2020
+4439,s2382,Substance over Style: Document-Level Targeted Content Transfer,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.526,EMNLP2020
+4440,s1428,Improving Low Compute Language Modeling with In-Domain Embedding Initialisation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.696,EMNLP2020
+4441,s2590,Template Guided Text Generation for Task-Oriented Dialogue,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.527,EMNLP2020
+4442,s2864,MOCHA: A Dataset for Training and Evaluating Generative Reading Comprehension Metrics,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.528,EMNLP2020
+4443,s3186,Inquisitive Question Generation for High Level Text Comprehension,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.530,EMNLP2020
+4444,s1052,Asking without Telling: Exploring Latent Ontologies in Contextual Representations,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.552,EMNLP2020
+4445,s1280,Pretrained Language Model Embryology: The Birth of ALBERT,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.553,EMNLP2020
+4446,s1613,Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.554,EMNLP2020
+4447,s3143,What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.555,EMNLP2020
+4448,s3304,Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.557,EMNLP2020
+4449,s1615,AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.485,EMNLP2020
+4450,s1755,HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.486,EMNLP2020
+4451,s2529,Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.487,EMNLP2020
+4452,s2733,DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.488,EMNLP2020
+4453,s3648,Interpretable Multi-dataset Evaluation for Named Entity Recognition,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.489,EMNLP2020
+4454,s744,Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.490,EMNLP2020
+4455,s1123,Multi-hop Inference for Question-driven Summarization,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.547,EMNLP2020
+4456,s1191,Towards Interpretable Reasoning over Paragraph Effects in Situation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.548,EMNLP2020
+4457,s1975,Question Directed Graph Attention Network for Numerical Reasoning over Text,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.549,EMNLP2020
+4458,s2587,Dense Passage Retrieval for Open-Domain Question Answering,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.550,EMNLP2020
+4459,s531,Distilling Structured Knowledge for Text-Based Relational Reasoning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.551,EMNLP2020
+4460,s1091," Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation",Machine Translation and Multilinguality,False,,EMNLP2020
+4461,s2437,Factual Error Correction for Abstractive Summarization Models,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.506,EMNLP2020
+4462,s2470,Compressive Summarization with Plausibility and Salience Modeling,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.507,EMNLP2020
+4463,s540,Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.648,EMNLP2020
+4464,s2650,Understanding Neural Abstractive Summarization Models via Uncertainty,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.508,EMNLP2020
+4465,s3389,Better Highlighting: Creating Sub-Sentence Summary Highlights,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.509,EMNLP2020
+4466,s3581,Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.510,EMNLP2020
+4467,sDEMO54,NeuralQA: A Usable Library for Question Answering (Contextual Query Expansion + BERT) on Large Datasets,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.3,EMNLP2020
+4468,sDEMO91,Youling: an AI-assisted Lyrics Creation System,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.12,EMNLP2020
+4469,sDEMO104," TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP",Machine Translation and Multilinguality,False,,EMNLP2020
+4470,sDEMO107," Easy, Reproducible and Quality-Controlled Data Collection with CROWDAQ",Machine Translation and Multilinguality,False,,EMNLP2020
+4471,sDEMO118,NeuSpell: A Neural Spelling Correction Toolkit,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-demos.21,EMNLP2020
+4472,s1970," Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA",Interpretability and Analysis of Models for NLP,True,,EMNLP2020
+4473,s616,Attention is Not Only a Weight: Analyzing Transformers with Vector Norms,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.574,EMNLP2020
+4474,s959,F1 is Not Enough! Models and Evaluation Towards User-Centered Explainable Question Answering,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.575,EMNLP2020
+4475,s2696,On the Ability and Limitations of Transformers to Recognize Formal Languages,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.576,EMNLP2020
+4476,s1231,An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.577,EMNLP2020
+4477,s3676,DGST: a Dual-Generator Network for Text Style Transfer,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.578,EMNLP2020
+4478,s1010,A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.579,EMNLP2020
+4479,s2117,Generating Fact Checking Briefs,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.580,EMNLP2020
+4480,s3299,Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.581,EMNLP2020
+4481,TACL2129,Beat the AI: Investigating Adversarial Human Annotation for Reading Comprehension,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00338,EMNLP2020
+4482,s315,Coreferential Reasoning Learning for Language Representation,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.582,EMNLP2020
+4483,s782,Is Graph Structure Necessary for Multi-hop Question Answering?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.583,EMNLP2020
+4484,TACL2041,oLMpics - On what Language Model Pre-training Captures,Interpretability and Analysis of Models for NLP,True,,EMNLP2020
+4485,s143,XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.584,EMNLP2020
+4486,s2349," Generationary or ""How We Went beyond Word Sense Inventories and Learned to Gloss"" ",Interpretability and Analysis of Models for NLP,True,,EMNLP2020
+4487,s2363,Probing Pretrained Language Models for Lexical Semantics,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.emnlp-main.586,EMNLP2020
+4488,TACL2011,Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00327,EMNLP2020
+4489,s407,Cross-lingual Spoken Language Understanding with Regularized Representation Alignment,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.587,EMNLP2020
+4490,s3257,SLURP: A Spoken Language Understanding Resource Package,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.588,EMNLP2020
+4491,s3495,Neural Conversational QA: Learning to Reason vs Exploiting Patterns,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.589,EMNLP2020
+4492,TACL2389,Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining,Dialog and Interactive Systems,False,10.1162/tacl_a_00347,EMNLP2020
+4493,s387,Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.590,EMNLP2020
+4494,s605,Understanding Procedural Text using Interactive Entity Networks,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.591,EMNLP2020
+4495,s1974,A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.592,EMNLP2020
+4496,TACL2103,Nested Named Entity Recognition via Second-best Sequence Learning and Decoding,Dialog and Interactive Systems,False,10.1162/tacl_a_00334,EMNLP2020
+4497,s658,DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.593,EMNLP2020
+4498,s973,Embedding Words in Non-Vector Space with Unsupervised Graph Learning,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.594,EMNLP2020
+4499,s1399,Debiasing knowledge graph embeddings,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.595,EMNLP2020
+4500,s2406,Message Passing for Hyper-Relational Knowledge Graphs,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.596,EMNLP2020
+4501,TACL2255,PERL: Pivot-based Domain Adaptation for Pre-trained Deep Contextualized Embedding Models,Dialog and Interactive Systems,False,10.1162/tacl_a_00328,EMNLP2020
+4502,s384,Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.597,EMNLP2020
+4503,s2094," BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations",Dialog and Interactive Systems,False,,EMNLP2020
+4504,s3023,Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.599,EMNLP2020
+4505,s2068,Textual Data Augmentation for Efficient Active Learning on Tiny Datasets,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.600,EMNLP2020
+4506,s1972," ""I'd rather just go to bed"": Understanding Indirect Answers ",Discourse and Pragmatics,False,,EMNLP2020
+4507,s2072,PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.602,EMNLP2020
+4508,s2205,MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.603,EMNLP2020
+4509,s2377,Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.604,EMNLP2020
+4510,s3072,Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.605,EMNLP2020
+4511,s3573,To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.678,EMNLP2020
+4512,sCL3,Predicting In-game Actions from Interviews of NBA Players,Discourse and Pragmatics,False,10.1162/coli_a_00383,EMNLP2020
+4513,s2167,An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.607,EMNLP2020
+4514,s2579,Which *BERT? A Survey Organizing Contextualized Encoders,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.608,EMNLP2020
+4515,s2962,Fact or Fiction: Verifying Scientific Claims,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.609,EMNLP2020
+4516,s1957,Semantic Role Labeling as Syntactic Dependency Parsing,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.610,EMNLP2020
+4517,s2533,PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.611,EMNLP2020
+4518,s3291,Causal Inference of Script Knowledge,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.612,EMNLP2020
+4519,s1408,Towards Debiasing NLU Models from Unknown Biases,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.613,EMNLP2020
+4520,sCL1,Tractable Lexical-Functional Grammar,Discourse and Pragmatics,False,10.1162/coli_a_00384,EMNLP2020
+4521,sCL5,Efficient Outside Computation,Discourse and Pragmatics,False,10.1162/coli_a_00386,EMNLP2020
+4522,TACL1936,Consistent Unsupervised Estimators for Anchored PCFGs,Discourse and Pragmatics,False,,EMNLP2020
+4523,TACL2141,The Return of Lexical Dependencies: Neural Lexicalized PCFGs,Discourse and Pragmatics,False,10.1162/tacl_a_00337,EMNLP2020
+4524,s2684,On the Role of Supervision in Unsupervised Constituency Parsing,Discourse and Pragmatics,False,10.18653/v1/2020.emnlp-main.614,EMNLP2020
+4525,s522,Language Model Prior for Low-Resource Neural Machine Translation,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.615,EMNLP2020
+4526,s2114,Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.616,EMNLP2020
+4527,s1803,MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.617,EMNLP2020
+4528,s2055,Translation Artifacts in Cross-lingual Transfer Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.618,EMNLP2020
+4529,TACL2221,Consistent Transcription and Translation of Speech,Machine Translation and Multilinguality,False,10.1162/tacl_a_00340,EMNLP2020
+4530,s2510,A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.619,EMNLP2020
+4531,s3644,Weakly Supervised Learning of Nuanced Frames for Analyzing Polarization in News Media,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.620,EMNLP2020
+4532,s872,Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.621,EMNLP2020
+4533,s2614,Fortifying Toxic Speech Detectors Against Veiled Toxicity,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.622,EMNLP2020
+4534,s3151,Explainable Automated Fact-Checking for Public Health Claims,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.623,EMNLP2020
+4535,s2574,Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.624,EMNLP2020
+4536,TACL2083,A Neural Generative Model for Joint Learning Topics and Topic-Specific Word Embeddings,Machine Translation and Multilinguality,False,10.1162/tacl_a_00326,EMNLP2020
+4537,TACL2093,Topic Modeling in Embedding Spaces,Machine Translation and Multilinguality,False,10.1162/tacl_a_00325,EMNLP2020
+4538,s2221,DORB: Dynamically Optimizing Multiple Rewards with Bandits,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.625,EMNLP2020
+4539,s485,MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.626,EMNLP2020
+4540,s2570,Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.627,EMNLP2020
+4541,s2724,Program Enhanced Fact Verification with Verbalization and Graph Attention Network,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.628,EMNLP2020
+4542,s2750,Constrained Fact Verification for FEVER,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.629,EMNLP2020
+4543,s3216,Entity Linking in 100 Languages,Machine Translation and Multilinguality,False,10.18653/v1/2020.emnlp-main.630,EMNLP2020
+4544,s1227," PatchBERT: Just-in-Time, Out-of-Vocabulary Patching",Machine Learning for NLP,False,,EMNLP2020
+4545,s1351,On the importance of pre-training data volume for compact language models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.632,EMNLP2020
+4546,s1490,Plug and Play Autoencoders for Conditional Text Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.491,EMNLP2020
+4547,s2087,Exploring and Predicting Transferability across NLP Tasks,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.635,EMNLP2020
+4548,s2331,To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.636,EMNLP2020
+4549,s345,Cold-start Active Learning through Self-supervised Language Modeling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.637,EMNLP2020
+4550,s493,Active Learning for BERT: An Empirical Study,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.638,EMNLP2020
+4551,s745,Transformer Based Multi-Source Domain Adaptation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.639,EMNLP2020
+4552,s821,Vector-Vector-Matrix Architecture: A Novel Hardware-Aware Framework for Low-Latency Inference in NLP Applications,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.640,EMNLP2020
+4553,s1834,Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.657,EMNLP2020
+4554,s1923,New Protocols and Negative Results for Textual Entailment Data Collection,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.658,EMNLP2020
+4555,s2268," The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions",Machine Learning for NLP,False,,EMNLP2020
+4556,s2342,Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.660,EMNLP2020
+4557,s2415,ConjNLI: Natural Language Inference Over Conjunctive Sentences,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.661,EMNLP2020
+4558,s2777,Data and Representation for Turkish Natural Language Inference,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.662,EMNLP2020
+4559,s2890,Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.663,EMNLP2020
+4560,s2999,Precise Task Formalization Matters in Winograd Schema Evaluations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.664,EMNLP2020
+4561,s359,Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.665,EMNLP2020
+4562,s1129,Chapter Captor: Text Segmentation in Novels,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.672,EMNLP2020
+4563,s125,Authorship Attribution for Neural Text Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.673,EMNLP2020
+4564,s1322,NwQM: A neural quality assessment framework for Wikipedia,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.674,EMNLP2020
+4565,s1906,Towards Modeling Revision Requirements in wikiHow Instructions,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.675,EMNLP2020
+4566,s3049,Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.677,EMNLP2020
+4567,s3126,HABERTOR: An Efficient and Effective Deep Hatespeech Detector,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.606,EMNLP2020
+4568,s470,Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.679,EMNLP2020
+4569,s767,Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.680,EMNLP2020
+4570,s1466,Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.688,EMNLP2020
+4571,s1569,Exploring Contextualized Neural Language Models for Temporal Dependency Parsing,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.689,EMNLP2020
+4572,s1669,Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.690,EMNLP2020
+4573,s1720,SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.691,EMNLP2020
+4574,s1817,AxCell: Automatic Extraction of Results from Machine Learning Papers,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.692,EMNLP2020
+4575,s2426,Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.693,EMNLP2020
+4576,s2476,DualTKB: A Dual Learning Bridge between Text and Knowledge Base,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.694,EMNLP2020
+4577,s883,Incremental Neural Coreference Resolution in Constant Memory,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.695,EMNLP2020
+4578,s2761,Hierarchical Graph Network for Multi-hop Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.710,EMNLP2020
+4579,s2943,A Simple Yet Strong Pipeline for HotpotQA,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.711,EMNLP2020
+4580,s3035,Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.712,EMNLP2020
+4581,s319,Unsupervised Question Decomposition for Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.713,EMNLP2020
+4582,s574,SRLGRN: Semantic Role Labeling Graph Reasoning Network,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.714,EMNLP2020
+4583,s1603,CancerEmo: A Dataset for Fine-Grained Emotion Detection,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.715,EMNLP2020
+4584,s1750,Exploring the Role of Argument Structure in Online Debate Persuasion,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.716,EMNLP2020
+4585,s2712,Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.717,EMNLP2020
+4586,s3357,Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.718,EMNLP2020
+4587,s3375,Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.719,EMNLP2020
+4588,s3532,EmoTag1200 👍: Understanding the Association between Emojis 😄 and Emotions 😻,Machine Learning for NLP,False,,EMNLP2020
+4589,s476,MIME: MIMicking Emotions for Empathetic Response Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.721,EMNLP2020
+4590,s1455,Experience Grounds Language,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.703,EMNLP2020
+4591,s1578,Keep CALM and Explore: Language Models for Action Generation in Text-based Games,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.704,EMNLP2020
+4592,s2322,CapWAP: Image Captioning with a Purpose,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.705,EMNLP2020
+4593,s2839,What is More Likely to Happen Next? Video-and-Language Future Event Prediction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.706,EMNLP2020
+4594,s284," X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers",Machine Learning for NLP,False,,EMNLP2020
+4595,s3504,Towards Understanding Sample Variance in Visually Grounded Language Generation: Evaluations and Observations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.708,EMNLP2020
+4596,s445,Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.709,EMNLP2020
+4597,s1024,The importance of fillers for text representations of speech transcripts,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.641,EMNLP2020
+4598,s106,The role of context in neural pitch accent detection in English,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.642,EMNLP2020
+4599,s2520,VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.643,EMNLP2020
+4600,s2915,Effectively pretraining a speech translation decoder with Machine Translation data,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.644,EMNLP2020
+4601,s1482,KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.697,EMNLP2020
+4602,s1707,POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.698,EMNLP2020
+4603,s1898,Unsupervised Text Style Transfer with Padded Masked Language Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.699,EMNLP2020
+4604,s3483,PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.700,EMNLP2020
+4605,s730,Gradient-guided Unsupervised Lexically Constrained Text Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.701,EMNLP2020
+4606,s910,TeaForN: Teacher-Forcing with N-grams,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.702,EMNLP2020
+4607,s1305,Deconstructing word embedding algorithms,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.681,EMNLP2020
+4608,s2596,Compositional Demographic Word Embeddings,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.334,EMNLP2020
+4609,s3224,Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.683,EMNLP2020
+4610,s1389,Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.650,EMNLP2020
+4611,s1561,Conversational Semantic Parsing for Dialog State Tracking,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.651,EMNLP2020
+4612,s2141,doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.652,EMNLP2020
+4613,s2444,Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.653,EMNLP2020
+4614,s2612,INSPIRED: Toward Sociable Recommendation Dialog Systems,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.654,EMNLP2020
+4615,s527,Information Seeking in the Spirit of Learning: A Dataset for Conversational Curiosity,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.655,EMNLP2020
+4616,s834,Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.656,EMNLP2020
+4617,s1518,Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.685,EMNLP2020
+4618,s1621,Revealing the Myth of Higher-Order Inference in Coreference Resolution,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.686,EMNLP2020
+4619,s3647,Pre-training Mention Representations in Coreference Models,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.687,EMNLP2020
+4620,s1070,SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.666,EMNLP2020
+4621,s1460,Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.667,EMNLP2020
+4622,s1488,Text Graph Transformer for Document Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.668,EMNLP2020
+4623,s1493,CoDEx: A Comprehensive Knowledge Graph Completion Benchmark,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.669,EMNLP2020
+4624,s2289,META: Metadata-Empowered Weak Supervision for Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.670,EMNLP2020
+4625,s450,Towards More Accurate Uncertainty Estimation In Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.671,EMNLP2020
+4626,s2809,A Preliminary Exploration of GANs for Keyphrase Generation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.645,EMNLP2020
+4627,s2849,TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.646,EMNLP2020
+4628,s504,MLSUM: The Multilingual Summarization Corpus,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.647,EMNLP2020
+4629,s675,Intrinsic Evaluation of Summarization Datasets,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-main.649,EMNLP2020
+4630,sDEMO93,A Technical Question Answering System with Transfer Learning,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.13,EMNLP2020
+4631,sDEMO116,Agent Assist through Conversation Analysis,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.20,EMNLP2020
+4632,sDEMO119,LibKGE - A knowledge graph embedding library for reproducible research,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.22,EMNLP2020
+4633,sDEMO126,RoFT: A Tool for Evaluating Human Detection of Machine-Generated Text,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.25,EMNLP2020
+4634,sDEMO127,A Data-Centric Framework for Composable NLP Workflows,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.26,EMNLP2020
+4635,sDEMO128,CoRefi: A Crowd Sourcing Suite for Coreference Annotation,Machine Learning for NLP,False,10.18653/v1/2020.emnlp-demos.27,EMNLP2020
+4636,s666,Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.722,EMNLP2020
+4637,s989,Named Entity Recognition Only from Word Embeddings,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.723,EMNLP2020
+4638,s1611,Text Classification Using Label Names Only: A Language Model Self-Training Approach,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.724,EMNLP2020
+4639,s2756,Neural Topic Modeling with Cycle-Consistent Adversarial Training,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.725,EMNLP2020
+4640,s3065,Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.726,EMNLP2020
+4641,s3438,A State-independent and Time-evolving Network for Early Rumor Detection in Social Media,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.727,EMNLP2020
+4642,s2990,PyMT5: multi-mode translation of natural language and Python code with transformers,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.728,EMNLP2020
+4643,s3054,PathQG: Neural Question Generation from Facts,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.729,EMNLP2020
+4644,s1135,What time is it? Temporal Analysis of Novels,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.730,EMNLP2020
+4645,s2179,COGS: A Compositional Generalization Challenge Based on Semantic Interpretation,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.731,EMNLP2020
+4646,s2416,An Analysis of Natural Language Inference Benchmarks through the Lens of Negation,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.732,EMNLP2020
+4647,s3635,On the Sentence Embeddings from Pre-trained Language Models,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.733,EMNLP2020
+4648,TACL2055,An Empirical Study on Robustness to Spurious Correlations using Pre-trained Language Models,Information Retrieval and Text Mining,False,10.1162/tacl_a_00335,EMNLP2020
+4649,s1540,What Can We Learn from Collective Human Opinions on Natural Language Inference Data?,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.734,EMNLP2020
+4650,s2389,Improving Text Generation with Student-Forcing Optimal Transport,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.735,EMNLP2020
+4651,s252,UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.736,EMNLP2020
+4652,s334,F^2-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax,Information Retrieval and Text Mining,False,,EMNLP2020
+4653,s3184,Partially-Aligned Data-to-Text Generation with Distant Supervision,Information Retrieval and Text Mining,False,10.18653/v1/2020.emnlp-main.738,EMNLP2020
+4654,TACL1983,How Can We Know What Language Models Know,Information Retrieval and Text Mining,False,,EMNLP2020
+4655,s1797,Like hiking? You probably enjoy nature: Persona-grounded Dialog with Commonsense Expansions,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.739,EMNLP2020
+4656,s3318,A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.740,EMNLP2020
+4657,s317,The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.741,EMNLP2020
+4658,s1606,GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.742,EMNLP2020
+4659,s233,MedDialog: Large-scale Medical Dialogue Datasets,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.743,EMNLP2020
+4660,s638,An information theoretic view on selecting linguistic probes,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.744,EMNLP2020
+4661,s2238,With Little Power Comes Great Responsibility,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.745,EMNLP2020
+4662,s2705,Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.746,EMNLP2020
+4663,s2814,Evaluating and Characterizing Human Rationales,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.747,EMNLP2020
+4664,s1835,On Extractive and Abstractive Neural Document Summarization with Transformer Language Models,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.748,EMNLP2020
+4665,s2125,Multi-Fact Correction in Abstractive Text Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.749,EMNLP2020
+4666,s2506,Evaluating the Factual Consistency of Abstractive Text Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.750,EMNLP2020
+4667,s3552,Re-evaluating Evaluation in Text Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.751,EMNLP2020
+4668,s702,VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.752,EMNLP2020
