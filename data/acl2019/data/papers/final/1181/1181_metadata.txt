@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1181
+FinalPaperTitle#=%=#Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Mohit Bansal
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#Inspired by how humans summarize long documents, we propose an accurate and fast summarization model that first selects salient sentences and then rewrites them abstractively (i.e., compresses and paraphrases) to generate a concise overall summary. We use a novel sentence-level policy gradient method to bridge the non-differentiable computation between these two neural networks in a hierarchical way, while maintaining language fluency. Empirically, we achieve the new state-of-the-art on all metrics (including human evaluation) on the CNN/Daily Mail dataset, as well as significantly higher abstractiveness scores. Moreover, by first operating at the sentence-level and then the word-level, we enable parallel decoding of our neural generative model that results in substantially faster (10-20x) inference speed as well as 4x faster training convergence than previous long-paragraph encoder-decoder models. We also demonstrate the generalization of our model on the test-only DUC-2002 dataset, where we achieve higher scores than a state-of-the-art model.
+Author{1}{Firstname}#=%=#Yen-Chun
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#yenchun@cs.unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

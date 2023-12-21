@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#536
+FinalPaperTitle#=%=#Inherent Biases in Reference-based Evaluation for Grammatical Error Correction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Leshem Choshen
+JobTitle#==#
+Organization#==#
+Abstract#==#The prevalent use of too few references for evaluating text-to-text generation
+is known to bias estimates of their quality (henceforth, low coverage bias or
+LCB). This paper shows that overcoming LCB in Grammatical Error Correction
+(GEC) evaluation cannot be attained by re-scaling or by increasing the number
+of references in any feasible range, contrary to previous suggestions. This is
+due to the long-tailed distribution of valid corrections for a sentence.
+Concretely, we show that LCB incentivizes GEC systems to avoid correcting even
+when they can generate a valid correction. Consequently, existing systems
+obtain comparable or superior performance compared to humans, by making few but
+targeted changes to the input. Similar effects on Text Simplification further
+support our claims.
+Author{1}{Firstname}#=%=#Leshem
+Author{1}{Lastname}#=%=#Choshen
+Author{1}{Email}#=%=#leshem.choshen@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#Hebrew University Jerusalem Israel
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#561
+FinalPaperTitle#=%=#Modeling Sentiment Association in Discourse for Humor Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#wei song
+JobTitle#==#
+Organization#==#
+Abstract#==#Humor is one of the most attractive parts in human communication. However, automatically recognizing humor in text is challenging due to the complex characteristics of humor. This paper proposes to model sentiment association between discourse units to indicate how the punchline breaks the expectation of the setup. We found that discourse relation, sentiment conflict and sentiment transition are effective indicators for humor recognition. On the perspective of using sentiment related features, sentiment association in discourse is more useful than counting the number of emotional words.
+Author{1}{Firstname}#=%=#Lizhen
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#lzliu@cnu.edu.cn
+Author{1}{Affiliation}#=%=#Capital Normal University
+Author{2}{Firstname}#=%=#Donghai
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#dhzhang@cnu.edu.cn
+Author{2}{Affiliation}#=%=#Capital Normal University
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Song
+Author{3}{Email}#=%=#wsong@cnu.edu.cn
+Author{3}{Affiliation}#=%=#Capital Normal University
+
+==========

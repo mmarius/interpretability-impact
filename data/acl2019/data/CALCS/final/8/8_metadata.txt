@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Code-Mixed Question Answering Challenge: Crowd-sourcing Data and Techniques
+ShortPaperTitle#=%=#Code-Mixed Question Answering Challenge: Crowd-sourcing Data and Techniques
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Khyathi Raghavi Chandu
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, Pennsylvania, United States
+Abstract#==#Code-Mixing (CM) is the phenomenon of alternating between two or more languages which is prevalent in bi- and multi-lingual communities. Most NLP applications today are still designed with the assumption of a single interaction language and are most likely to break given a CM utterance with multiple languages mixed at a morphological, phrase or sentence level. For example, popular commercial search engines do not yet fully understand the intents expressed in CM queries. As a first step towards fostering research which supports CM in NLP applications, we systematically crowd-sourced and curated an evaluation dataset for factoid question answering in three CM languages - Hinglish (Hindi+English), Tenglish (Telugu+English) and Tamlish (Tamil+English) which belong to two language families (Indo-Aryan and Dravidian). We share the details of our data collection process, techniques which were used to avoid inducing lexical bias amongst the crowd workers and other CM specific linguistic properties of the dataset. Our final dataset, which is available freely for research purposes, has 1,694 Hinglish, 2,848 Tamlish and 1,391 Tenglish factoid questions and their answers. We discuss the techniques used by the participants for the first edition of this ongoing challenge.
+Author{1}{Firstname}#=%=#Khyathi
+Author{1}{Lastname}#=%=#Chandu
+Author{1}{Email}#=%=#khythiraghavi@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Ekaterina
+Author{2}{Lastname}#=%=#Loginova
+Author{2}{Email}#=%=#ekaterina.loginova@dfki.de
+Author{2}{Affiliation}#=%=#DFKI
+Author{3}{Firstname}#=%=#Vishal
+Author{3}{Lastname}#=%=#Gupta
+Author{3}{Email}#=%=#vishal.gupta@research.iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{4}{Firstname}#=%=#Josef van
+Author{4}{Lastname}#=%=#Genabith
+Author{4}{Email}#=%=#Josef.van_Genabith@dfki.de
+Author{4}{Affiliation}#=%=#DFKI
+Author{5}{Firstname}#=%=#Günter
+Author{5}{Lastname}#=%=#Neuman
+Author{5}{Email}#=%=#neumann@dfki.de
+Author{5}{Affiliation}#=%=#DFKI
+Author{6}{Firstname}#=%=#Manoj
+Author{6}{Lastname}#=%=#Chinnakotla
+Author{6}{Email}#=%=#manoj.chinnakotla@gmail.com
+Author{6}{Affiliation}#=%=#Microsoft
+Author{7}{Firstname}#=%=#Eric
+Author{7}{Lastname}#=%=#Nyberg
+Author{7}{Email}#=%=#ehn@cs.cmu.edu
+Author{7}{Affiliation}#=%=#Carnegie Mellon University
+Author{8}{Firstname}#=%=#Alan W.
+Author{8}{Lastname}#=%=#Black
+Author{8}{Email}#=%=#awb@cs.cmu.edu
+Author{8}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

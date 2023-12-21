@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#406
+FinalPaperTitle#=%=#Breaking NLI Systems with Sentences that Require Simple Lexical Inferences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Vered Shwartz
+JobTitle#==#
+Organization#==#Bar-Ilan University, Ramat Gan, 52900, Israel
+Abstract#==#We create a new NLI test set that shows the deficiency of state-of-the-art models in inferences that require lexical and world knowledge. 
+The new examples are simpler than the SNLI test set, containing sentences that differ by at most one word from sentences in the training set. 
+Yet, the performance on the new test set is substantially worse across systems trained on SNLI, demonstrating that these systems are limited in their generalization ability, failing to capture many simple inferences.
+Author{1}{Firstname}#=%=#Max
+Author{1}{Lastname}#=%=#Glockner
+Author{1}{Email}#=%=#maxglockner@gmx.de
+Author{1}{Affiliation}#=%=#Computer Science Dpt., TU Darmstadt
+Author{2}{Firstname}#=%=#Vered
+Author{2}{Lastname}#=%=#Shwartz
+Author{2}{Email}#=%=#vered1986@gmail.com
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+Author{3}{Firstname}#=%=#Yoav
+Author{3}{Lastname}#=%=#Goldberg
+Author{3}{Email}#=%=#yoav.goldberg@gmail.com
+Author{3}{Affiliation}#=%=#Bar Ilan University
+
+==========

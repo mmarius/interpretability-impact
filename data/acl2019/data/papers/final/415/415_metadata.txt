@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#415
+FinalPaperTitle#=%=#Tailored Sequence to Sequence Models to Different Conversation Scenarios
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hainan Zhang
+JobTitle#==#
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences,No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China
+Abstract#==#Sequence to sequence (Seq2Seq) models have been widely used for response generation in the area of conversation. However, the requirements for different conversation scenarios are distinct. For example, customer service requires the generated responses to be specific and accurate, while chatbot prefers diverse responses so as to attract different users. The current Seq2Seq model fails to meet
+these diverse requirements, by using a general average likelihood as the optimization
+criteria. As a result, it usually generates safe and commonplace responses, such as ‘I don’t know’. In this paper, we propose two tailored optimization criteria for Seq2Seq to different conversation scenarios, i.e., the maximum generated likelihood for specific-requirement scenario, and the conditional value-at-risk for diverse-requirement scenario. Experimental results on the Ubuntu dialogue corpus (Ubuntu service scenario) and Chinese Weibo dataset (social chatbot scenario) show that our proposed models not only satisfies diverse requirements for different scenarios, but also yields better performances against traditional Seq2Seq models in terms of both metric-based and human evaluations.
+Author{1}{Firstname}#=%=#Hainan
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhanghainan1990@163.com
+Author{1}{Affiliation}#=%=#Institute of Computing Technology Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yanyan
+Author{2}{Lastname}#=%=#Lan
+Author{2}{Email}#=%=#lanyanyan@ict.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{3}{Firstname}#=%=#Jiafeng
+Author{3}{Lastname}#=%=#Guo
+Author{3}{Email}#=%=#guojiafeng@ict.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Computing Technology, CAS
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Email}#=%=#junxu@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology,CAS
+Author{5}{Firstname}#=%=#Xueqi
+Author{5}{Lastname}#=%=#Cheng
+Author{5}{Email}#=%=#cxq@ict.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Computing Technology,CAS
+
+==========

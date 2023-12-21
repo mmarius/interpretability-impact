@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1340
+FinalPaperTitle#=%=#Polyglot Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Phoebe Mulcaire
+JobTitle#==#
+Organization#==#Paul G. Allen School of Computer Science & Engineering,  University of Washington, Room AC 101 Box 352350 185 E Stevens Way NE, Seattle WA 98195-2350
+Abstract#==#Previous approaches to multilingual semantic dependency parsing treat languages
+independently, without exploiting the similarities between semantic structures
+across languages.
+We experiment with a new approach where we combine resources from different
+languages in the CoNLL 2009 shared task to build a single polyglot semantic
+dependency parser.
+Notwithstanding the absence of parallel data, and the dissimilarity in
+annotations between languages, our approach results in improvement in parsing
+performance on several languages over a monolingual baseline.
+Analysis of the polyglot models' performance provides a new understanding of
+the similarities and differences between languages in the shared task.
+Author{1}{Firstname}#=%=#Phoebe
+Author{1}{Lastname}#=%=#Mulcaire
+Author{1}{Email}#=%=#pmulc@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Swabha
+Author{2}{Lastname}#=%=#Swayamdipta
+Author{2}{Email}#=%=#swabha@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University; University of Washington
+Author{3}{Firstname}#=%=#Noah A.
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#nasmith@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

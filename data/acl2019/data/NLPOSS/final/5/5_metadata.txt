@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#OpenSeq2Seq: Extensible Toolkit for Distributed and Mixed Precision Training of Sequence-to-Sequence Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Oleksii Kuchaiev
+JobTitle#==#
+Organization#==#NVIDIA
+Abstract#==#We present OpenSeq2Seq -- an open-source toolkit for training sequence-to-sequence models. The main goal of our toolkit is to allow researchers to most effectively explore different sequence-to-sequence architectures. The efficiency is achieved by fully supporting distributed and mixed-precision training.
+
+OpenSeq2Seq provides building blocks for training encoder-decoder models for neural machine translation and automatic speech recognition. We plan to extend it with other modalities in the future.
+Author{1}{Firstname}#=%=#Oleksii
+Author{1}{Lastname}#=%=#Kuchaiev
+Author{1}{Email}#=%=#okuchaiev@nvidia.com
+Author{1}{Affiliation}#=%=#NVIDIA
+Author{2}{Firstname}#=%=#Boris
+Author{2}{Lastname}#=%=#Ginsburg
+Author{2}{Email}#=%=#bginsburg@nvidia.com
+Author{2}{Affiliation}#=%=#NVIDIA
+Author{3}{Firstname}#=%=#Igor
+Author{3}{Lastname}#=%=#Gitman
+Author{3}{Email}#=%=#igitman@nvidia.com
+Author{3}{Affiliation}#=%=#NVIDIA
+Author{4}{Firstname}#=%=#Vitaly
+Author{4}{Lastname}#=%=#Lavrukhin
+Author{4}{Email}#=%=#vlavrukhin@nvidia.com
+Author{4}{Affiliation}#=%=#NVIDIA
+Author{5}{Firstname}#=%=#Carl
+Author{5}{Lastname}#=%=#Case
+Author{5}{Email}#=%=#carlc@nvidia.com
+Author{5}{Affiliation}#=%=#NVIDIA
+Author{6}{Firstname}#=%=#Paulius
+Author{6}{Lastname}#=%=#Micikevicius
+Author{6}{Email}#=%=#pauliusm@nvidia.com
+Author{6}{Affiliation}#=%=#NVIDIA
+
+==========

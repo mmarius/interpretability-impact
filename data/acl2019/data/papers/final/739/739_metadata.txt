@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#739
+FinalPaperTitle#=%=#Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Raksha Sharma
+JobTitle#==#
+Organization#==#Indian Institute of Technology Bombay, Powai, Mumbai, India
+Abstract#==#Getting manually labeled data in each domain is always an expensive and a time
+consuming task. Cross-domain sentiment analysis has emerged as a demanding concept where a labeled source domain facilitates a sentiment classifier for an unlabeled target domain. However, polarity orientation (positive or negative) and the significance of a word to express an opinion often differ from one domain to another domain. Owing to these differences, cross-domain sentiment classification is still a challenging task. In this paper, we propose that words that do not change their polarity and significance represent the transferable (usable) information across domains for cross-domain sentiment classification.
+We present a novel approach based on χ2 test and cosine-similarity between context vector of words to identify polarity preserving significant words across domains. Furthermore, we show that a weighted ensemble of the classifiers enhances the cross-domain classification performance.
+Author{1}{Firstname}#=%=#Raksha
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#raksha@cse.iitb.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Bombay
+Author{2}{Firstname}#=%=#Pushpak
+Author{2}{Lastname}#=%=#Bhattacharyya
+Author{2}{Email}#=%=#pushpakbh@gmail.com
+Author{2}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{3}{Firstname}#=%=#Sandipan
+Author{3}{Lastname}#=%=#Dandapat
+Author{3}{Email}#=%=#sandipan.dandapat@xerox.com
+Author{3}{Affiliation}#=%=#Xerox Research Centre India
+Author{4}{Firstname}#=%=#Himanshu Sharad
+Author{4}{Lastname}#=%=#Bhatt
+Author{4}{Email}#=%=#bhathimanshu@gmail.com
+Author{4}{Affiliation}#=%=#Xerox Research Center India
+
+==========

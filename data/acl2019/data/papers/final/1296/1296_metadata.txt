@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1296
+FinalPaperTitle#=%=#Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mohit Bansal
+JobTitle#==#
+Organization#==#UNC Chapel Hill
+Abstract#==#An accurate abstractive summary of a document should contain all its salient information and should be logically entailed by the input document. We improve these important aspects of abstractive summarization via multi-task learning with the auxiliary tasks of question generation and entailment generation, where the former teaches the summarization model how to look for salient questioning-worthy details, and the latter teaches the model how to rewrite a summary which is a directed-logical subset of the input document. We also propose novel multi-task architectures with high-level (semantic) layer-specific sharing across multiple encoder and decoder layers of the three tasks, as well as soft-sharing mechanisms (and show performance ablations and analysis examples of each contribution). Overall, we achieve statistically significant improvements over the state-of-the-art on both the CNN/DailyMail and Gigaword datasets, as well as on the DUC-2002 transfer setup. We also present several quantitative and qualitative analysis studies of our model's learned saliency and entailment skills.
+Author{1}{Firstname}#=%=#Han
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Email}#=%=#hanguo@unc.edu
+Author{1}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{2}{Firstname}#=%=#Ramakanth
+Author{2}{Lastname}#=%=#Pasunuru
+Author{2}{Email}#=%=#ram@cs.unc.edu
+Author{2}{Affiliation}#=%=#UNC Chapel Hill
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+
+==========

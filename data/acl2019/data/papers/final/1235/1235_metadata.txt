@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1235
+FinalPaperTitle#=%=#Bag-of-Words as Target for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Shuming Ma
+JobTitle#==#
+Organization#==#
+Abstract#==#A sentence can be translated into more than one correct sentences. However,
+most of the existing neural machine translation models only use one of the
+correct translations as the targets, and the other correct sentences are
+punished as the incorrect sentences in the training stage. Since most of the
+correct translations for one sentence share the similar bag-of-words, it is
+possible to distinguish the correct translations from the incorrect ones by the
+bag-of-words. In this paper, we propose an approach that uses both the
+sentences and the bag-of-words as targets in the training stage, in order to
+encourage the model to generate the potentially correct sentences that are not
+appeared in the training set. We evaluate our model on a Chinese-English
+translation dataset, and experiments show our model outperforms the strong
+baselines by the BLEU score of 4.55.
+Author{1}{Firstname}#=%=#Shuming
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#shumingma@pku.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science, School of EECS, Peking University
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#SUN
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Yizhong
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#yizhong@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Junyang
+Author{4}{Lastname}#=%=#Lin
+Author{4}{Email}#=%=#linjunyang@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

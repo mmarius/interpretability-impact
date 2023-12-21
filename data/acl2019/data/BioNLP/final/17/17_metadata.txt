@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Biomedical Event Extraction Using Convolutional Neural Networks and Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jari Björne
+JobTitle#==#
+Organization#==#Department of Future Technologies, University of Turku, Faculty of Science and Engineering, FI-20014, Turku, Finland
+Abstract#==#Event and relation extraction are central tasks in biomedical text mining. Where relation extraction concerns the detection of semantic connections between pairs of entities, event extraction expands this concept with the addition of trigger words, multiple arguments and nested events, in order to more accurately model the diversity of natural language.
+
+In this work we develop a convolutional neural network that can be used for both event and relation extraction. We use a linear representation of the input text, where information is encoded with various vector space embeddings. Most notably, we encode the parse graph into this linear space using dependency path embeddings.
+
+We integrate our neural network into the open source Turku Event Extraction System (TEES) framework. Using this system, our machine learning model can be easily applied to a large set of corpora from e.g. the BioNLP, DDI Extraction and BioCreative shared tasks. We evaluate our system on 12 different event, relation and NER corpora, showing good generalizability to many tasks and achieving improved performance on several corpora.
+Author{1}{Firstname}#=%=#Jari
+Author{1}{Lastname}#=%=#Björne
+Author{1}{Email}#=%=#jari.bjorne@utu.fi
+Author{1}{Affiliation}#=%=#University of Turku
+Author{2}{Firstname}#=%=#Tapio
+Author{2}{Lastname}#=%=#Salakoski
+Author{2}{Email}#=%=#tapio.salakoski@utu.fi
+Author{2}{Affiliation}#=%=#University of Turku
+
+==========

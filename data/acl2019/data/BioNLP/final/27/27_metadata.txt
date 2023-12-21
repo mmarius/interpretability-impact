@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Keyphrases Extraction from User-Generated Contents in Healthcare Domain Using Long Short-Term Memory Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Rahmad Mahendra
+JobTitle#==#author
+Organization#==#Universitas Indonesia
+Abstract#==#We propose keyphrases extraction technique to extract important terms from the healthcare user-generated contents. We employ deep learning architecture, i.e. Long Short-Term Memory, and leverage word embeddings, medical concepts from a knowledge base, and linguistic components as our features. The proposed model achieves 61.37\% F-1 score. Experimental results indicate that our proposed approach outperforms the baseline methods, i.e. RAKE and CRF, on the task of extracting keyphrases from Indonesian health forum posts.
+Author{1}{Firstname}#=%=#Ilham Fathy
+Author{1}{Lastname}#=%=#Saputra
+Author{1}{Email}#=%=#ilham.fathy@ui.ac.id
+Author{1}{Affiliation}#=%=#Universitas Indonesia
+Author{2}{Firstname}#=%=#Rahmad
+Author{2}{Lastname}#=%=#Mahendra
+Author{2}{Email}#=%=#rahmad.mahendra@cs.ui.ac.id
+Author{2}{Affiliation}#=%=#Universitas Indonesia
+Author{3}{Firstname}#=%=#Alfan Farizki
+Author{3}{Lastname}#=%=#Wicaksono
+Author{3}{Email}#=%=#alfan@cs.ui.ac.id
+Author{3}{Affiliation}#=%=#Universitas Indonesia
+
+==========

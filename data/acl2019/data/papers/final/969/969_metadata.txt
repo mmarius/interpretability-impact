@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#969
+FinalPaperTitle#=%=#A Purely End-to-End System for Multi-speaker Speech Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hiroshi Seki
+JobTitle#==#
+Organization#==#Toyohashi University of Technology
+Abstract#==#Recently, there has been growing interest in multi-speaker speech recognition, where the utterances of multiple speakers are recognized from their mixture.　Promising techniques have been proposed for this task, but earlier works have required additional training data such as isolated source signals or senone alignments for effective learning.　In this paper, we propose a new sequence-to-sequence framework to directly decode multiple label sequences from a single speech sequence by unifying source separation and speech recognition functions in an end-to-end manner.　We further propose a new objective function to improve the contrast between the hidden vectors to avoid generating similar hypotheses.　Experimental results show that the model is directly able to learn a mapping from a speech mixture to multiple label sequences,　achieving 83.1% relative improvement compared to a model trained without the proposed objective.　Interestingly, the results are comparable to those produced by previous end-to-end works featuring explicit separation and recognition modules.
+Author{1}{Firstname}#=%=#Hiroshi
+Author{1}{Lastname}#=%=#Seki
+Author{1}{Email}#=%=#h123346@edu.tut.ac.jp
+Author{1}{Affiliation}#=%=#Toyohashi University of Technology
+Author{2}{Firstname}#=%=#Takaaki
+Author{2}{Lastname}#=%=#Hori
+Author{2}{Email}#=%=#thori@merl.com
+Author{2}{Affiliation}#=%=#Mitsubishi Electric Research Laboratories
+Author{3}{Firstname}#=%=#Shinji
+Author{3}{Lastname}#=%=#Watanabe
+Author{3}{Email}#=%=#shinjiw@ieee.org
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#Le Roux
+Author{4}{Email}#=%=#leroux@merl.com
+Author{4}{Affiliation}#=%=#Mitsubishi Electric Research Laboratories
+Author{5}{Firstname}#=%=#John R
+Author{5}{Lastname}#=%=#Hershey
+Author{5}{Email}#=%=#john.r.hershey@gmail.com
+Author{5}{Affiliation}#=%=#Google
+
+==========

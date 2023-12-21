@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#47
+FinalPaperTitle#=%=#The Influence of Context on Sentence Acceptability Judgements
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jey Han Lau
+JobTitle#==#
+Organization#==#IBM Research Australia. 60 City Rd, Southbank VIC 3006, Australia
+Abstract#==#We investigate the influence that document context exerts on human
+acceptability judgements for English sentences, via two sets of
+experiments. The first compares ratings for sentences presented
+on their own with ratings for the same set of sentences given in their
+document contexts.  The second assesses the accuracy with which two
+types of neural models --- one that incorporates context during training
+and one that does not --- predict these judgements.  Our results
+indicate that: (1) context improves acceptability ratings for ill-formed
+sentences, but also reduces them for well-formed sentences;  and (2)
+context helps unsupervised systems to model
+acceptability.
+Author{1}{Firstname}#=%=#Jean-Philippe
+Author{1}{Lastname}#=%=#Bernardy
+Author{1}{Email}#=%=#jean-philippe.bernardy@gu.se
+Author{1}{Affiliation}#=%=#University of Gothenburg
+Author{2}{Firstname}#=%=#Shalom
+Author{2}{Lastname}#=%=#Lappin
+Author{2}{Email}#=%=#shalom.lappin@kcl.ac.uk
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Jey Han
+Author{3}{Lastname}#=%=#Lau
+Author{3}{Email}#=%=#jeyhan.lau@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research
+
+==========

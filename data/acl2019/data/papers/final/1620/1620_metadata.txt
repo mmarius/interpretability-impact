@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1620
+FinalPaperTitle#=%=#Efficient Low-rank Multimodal Fusion With Modality-Specific Factors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ying Shen
+JobTitle#==#
+Organization#==#School of Computer Science, Carnegie Mellon University; 5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Multimodal research is an emerging field of artificial intelligence, and one of the main research problems in this field is multimodal fusion. The fusion of multimodal data is the process of integrating multiple unimodal representations into one compact multimodal representation. Previous research in this field has exploited the expressiveness of tensors for multimodal representation. However, these methods often suffer from exponential increase in dimensions and in computational complexity introduced by transformation of input into tensor. In this paper, we propose the Low- rank Multimodal Fusion method, which performs multimodal fusion using low-rank tensors to improve efficiency. We evaluate our model on three different tasks: multimodal sentiment analysis, speaker trait analysis, and emotion recognition. Our model achieves competitive results on all these tasks while drastically reducing computational complexity. Additional experiments also show that our model can perform robustly for a wide range of low-rank settings, and is indeed much more efficient in both training and inference compared to other methods that utilize tensor representations.
+Author{1}{Firstname}#=%=#Zhun
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#zhunl@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Ying
+Author{2}{Lastname}#=%=#Shen
+Author{2}{Email}#=%=#yshen2@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Varun Bharadhwaj
+Author{3}{Lastname}#=%=#Lakshminarasimhan
+Author{3}{Email}#=%=#vbl@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Paul Pu
+Author{4}{Lastname}#=%=#Liang
+Author{4}{Email}#=%=#pliang@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#AmirAli
+Author{5}{Lastname}#=%=#Bagher Zadeh
+Author{5}{Email}#=%=#abagherz@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{6}{Firstname}#=%=#Louis-Philippe
+Author{6}{Lastname}#=%=#Morency
+Author{6}{Email}#=%=#morency@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

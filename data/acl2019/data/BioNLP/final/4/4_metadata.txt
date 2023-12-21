@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Identifying Risk Factors For Heart Disease in Electronic Medical Records: A Deep Learning Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hamed Hassanzadeh
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic identification of heart disease risk factors in clinical narratives can expedite disease progression modelling and support clinical decisions. Existing practical solutions for cardiovascular risk detection are mostly hybrid systems entailing the integration of knowledge-driven and data-driven methods, relying on dictionaries, rules and machine learning methods that require a substantial amount of human effort. This paper proposes a comparative analysis on the applicability of deep learning, a re-emerged data-driven technique, in the context of clinical text classification. Various deep learning architectures were devised and evaluated for extracting heart disease risk factors from clinical documents. The data provided for the 2014 i2b2/UTHealth shared task focusing on identifying risk factors for heart disease was used for system development and evaluation. Results have shown that a relatively simple deep learning model can achieve a high micro-averaged F-measure of 0.9081, which is comparable to the best systems from the shared task. This is highly encouraging given the simplicity of the deep learning approach compared to the heavily feature-engineered hybrid approaches that were required to achieve state-of-the-art performances.
+Author{1}{Firstname}#=%=#Thanat
+Author{1}{Lastname}#=%=#Chokwijitkul
+Author{1}{Email}#=%=#t.chokwijitkul@uq.net.au
+Author{1}{Affiliation}#=%=#CSIRO
+Author{2}{Firstname}#=%=#Anthony
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#anthony.nguyen@csiro.au
+Author{2}{Affiliation}#=%=#CSIRO
+Author{3}{Firstname}#=%=#Hamed
+Author{3}{Lastname}#=%=#Hassanzadeh
+Author{3}{Email}#=%=#hamed.hassanzadeh@csiro.au
+Author{3}{Affiliation}#=%=#CSIRO
+Author{4}{Firstname}#=%=#Siegfried
+Author{4}{Lastname}#=%=#Perez
+Author{4}{Email}#=%=#siegfriedrobert.perez@health.qld.gov.au
+Author{4}{Affiliation}#=%=#Emergency Department, Logan Hospital, Queensland Health
+
+==========

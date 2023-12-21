@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1146
+FinalPaperTitle#=%=#Sparse and Constrained Attention for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chaitanya Malaviya
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh 15213, PA, USA
+Abstract#==#In neural machine translation, words are sometimes dropped from the source or
+generated repeatedly in the translation. We explore novel strategies to address
+the coverage problem that change only the attention transformation. Our
+approach allocates fertilities to source words, used to bound the attention
+each word can receive. We experiment with various sparse and constrained
+attention transformations and propose a new one, constrained sparsemax, shown
+to be differentiable and sparse. Empirical evaluation is provided in three
+languages pairs.
+Author{1}{Firstname}#=%=#Chaitanya
+Author{1}{Lastname}#=%=#Malaviya
+Author{1}{Email}#=%=#cmalaviy@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Pedro
+Author{2}{Lastname}#=%=#Ferreira
+Author{2}{Email}#=%=#pedro.miguel.ferreira@tecnico.ulisboa.pt
+Author{2}{Affiliation}#=%=#Instituto Superior Técnico, University of Lisbon
+Author{3}{Firstname}#=%=#André F. T.
+Author{3}{Lastname}#=%=#Martins
+Author{3}{Email}#=%=#afm@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Priberam, Instituto de Telecomunicacoes
+
+==========

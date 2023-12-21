@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#CRF-LSTM Text Mining Method Unveiling the Pharmacological Mechanism of Off-target Side Effect of Anti-Multiple Myeloma Drugs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Sequence labeling of biomedical entities, e.g., side effects or phenotypes, was a long-term task in BioNLP and MedNLP communities. Thanks to effects made among these communities, adverse reaction NER has developed dramatically in recent years. As an illuminative application, to achieve knowledge discovery via the combination of the text mining result and bioinformatics idea shed lights on the pharmacological mechanism research.
+Author{1}{Firstname}#=%=#Kaiyin
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#zhoukaiyinhzau@gmail.com
+Author{1}{Affiliation}#=%=#College of informatics, Huazhong Agricultural Unviersity
+Author{2}{Firstname}#=%=#Sheng
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zzshengyeah@gmail.com
+Author{2}{Affiliation}#=%=#College of science, Huazhong Agricultural University
+Author{3}{Firstname}#=%=#Xiangyu
+Author{3}{Lastname}#=%=#Meng
+Author{3}{Email}#=%=#mengxy_whu@163.com
+Author{3}{Affiliation}#=%=#Center for Evidence-based and Translational Medicine, Zhongnan Hospital of Wuhan University
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Luo
+Author{4}{Email}#=%=#zzloisyeah@gmail.com
+Author{4}{Affiliation}#=%=#College of science, Huazhong Agricultural University
+Author{5}{Firstname}#=%=#Yuxing
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Email}#=%=#505029316@qq.com
+Author{5}{Affiliation}#=%=#College of informatics, Huazhong Agricultural Unviersity
+Author{6}{Firstname}#=%=#Ke
+Author{6}{Lastname}#=%=#Ding
+Author{6}{Email}#=%=#erin0ding@gmail.com
+Author{6}{Affiliation}#=%=#College of science, Huazhong Agricultural University
+Author{7}{Firstname}#=%=#Yukun
+Author{7}{Lastname}#=%=#Feng
+Author{7}{Email}#=%=#fyk15072792852@gmail.com
+Author{7}{Affiliation}#=%=#College of science, Huazhong Agricultural University
+Author{8}{Firstname}#=%=#Mo
+Author{8}{Lastname}#=%=#Chen
+Author{8}{Email}#=%=#m134340@sina.cn
+Author{8}{Affiliation}#=%=#College of informatics, Huazhong Agricultural Unviersity
+Author{9}{Firstname}#=%=#Kevin
+Author{9}{Lastname}#=%=#Cohen
+Author{9}{Email}#=%=#kevin.cohen@gmail.com
+Author{9}{Affiliation}#=%=#Computational Bioscience Program, U. Colorado School of Medicine
+Author{10}{Firstname}#=%=#Jingbo
+Author{10}{Lastname}#=%=#Xia
+Author{10}{Email}#=%=#xiajingbo.math@gmail.com
+Author{10}{Affiliation}#=%=#Hzau
+
+==========

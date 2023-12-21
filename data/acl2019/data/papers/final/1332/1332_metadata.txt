@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1332
+FinalPaperTitle#=%=#Task-oriented Dialogue System for Automatic Diagnosis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Qianlong Liu
+JobTitle#==#
+Organization#==#School of Data Science, Fudan University, China.
+Abstract#==#In this paper, we make a move to build a dialogue system for automatic diagnosis. We first build a dataset collected from an online medical forum by extracting symptoms from both patients' self-reports and conversational data between patients and doctors. Then we propose a task-oriented dialogue system framework to make diagnosis for patients automatically, which can converse with patients to collect additional symptoms beyond their self-reports. Experimental results on our dataset show that additional symptoms extracted from conversation can greatly improve the accuracy for disease identification and our dialogue system is able to collect these symptoms automatically and make a better diagnosis.
+Author{1}{Firstname}#=%=#Zhongyu
+Author{1}{Lastname}#=%=#Wei
+Author{1}{Email}#=%=#zywei@fudan.edu.cn
+Author{1}{Affiliation}#=%=#School of Data Science, Fudan University
+Author{2}{Firstname}#=%=#Qianlong
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liuql2@163.com
+Author{2}{Affiliation}#=%=#School of Data Science, Fudan University
+Author{3}{Firstname}#=%=#Baolin
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Email}#=%=#blpeng@se.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{4}{Firstname}#=%=#Huaixiao
+Author{4}{Lastname}#=%=#Tou
+Author{4}{Email}#=%=#17210980013@fudan.edu.cn
+Author{4}{Affiliation}#=%=#School of Data Science, Fudan University
+Author{5}{Firstname}#=%=#Ting
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#17210980029@fudan.edu.cn
+Author{5}{Affiliation}#=%=#School of Data Science, Fudan University
+Author{6}{Firstname}#=%=#Xuanjing
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{6}{Affiliation}#=%=#Fudan University
+Author{7}{Firstname}#=%=#Kam-Fai
+Author{7}{Lastname}#=%=#Wong
+Author{7}{Email}#=%=#kfwong@se.cuhk.edu.hk
+Author{7}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+Author{8}{Firstname}#=%=#Xiangying
+Author{8}{Lastname}#=%=#Dai
+Author{8}{Email}#=%=#daixiangying@baidu.com
+Author{8}{Affiliation}#=%=#Baidu, Inc.
+
+==========

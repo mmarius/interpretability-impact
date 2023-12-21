@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association
+ShortPaperTitle#=%=#Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zuchao Li
+JobTitle#==#
+Organization#==#
+Abstract#==#Chinese pinyin input method engine (IME) lets user conveniently input Chinese into a computer by typing pinyin through the common keyboard. In addition to offering high conversion quality, modern pinyin IME is supposed to aid user input with extended association function. However, existing solutions for such functions are roughly based on oversimplified matching algorithms at word-level, whose resulting products provide limited extension associated with user inputs. This work presents the Moon IME, a pinyin IME that integrates the attention-based neural machine translation (NMT) model and Information Retrieval (IR) to offer amusive and customizable association ability. The released IME is implemented on Windows via text services framework.
+Author{1}{Firstname}#=%=#Yafang
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#huangyafang@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Zuchao
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#charlee@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Zhuosheng
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhangzs@sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#Hai
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{4}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

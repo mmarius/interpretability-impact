@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1611
+FinalPaperTitle#=%=#Learning with Structured Representations for Negation Scope Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Li Hao
+JobTitle#==#PhD Student
+Organization#==#Singapore University of Technology and Design
+Abstract#==#We report an empirical study on the task of negation scope extraction given the
+negation cue.
+Our key observation is that certain useful information such as features related
+to negation cue, long-distance dependencies as well as some latent structural
+information can be exploited for such a task.
+We design approaches based on conditional random fields (CRF), semi-Markov CRF,
+as well as latent-variable CRF models to capture such information.
+Extensive experiments on several standard datasets demonstrate that our
+approaches are able to achieve better results than existing approaches reported
+in the literature.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#hao_li@mymail.sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#luwei@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

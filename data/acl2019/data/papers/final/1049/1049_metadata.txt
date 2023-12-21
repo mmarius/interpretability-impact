@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1049
+FinalPaperTitle#=%=#Learning Translations via Images with a Massively Multilingual Image Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#John Hewitt
+JobTitle#==#
+Organization#==#University of Pennsylvania,  Levine Hall, 3330 Walnut St, Philadelphia, PA 19104
+Abstract#==#We conduct the most comprehensive study to date into translating words via images.
+                To facilitate research on the task, we introduce a large-scale multilingual corpus of images, each labeled with the word it represents.
+                Past datasets have been limited to only a few high-resource languages and unrealistically easy translation settings.
+                In contrast, we have collected by far the largest available dataset for this task, with images for approximately 10,000 words in each of 100 languages.
+                We run experiments on a dozen high resource languages and 20 low resources languages, demonstrating the effect of word concreteness and part-of-speech on translation quality.
+                %We find that while image features work best for concrete nouns, they are sometimes effective on other parts of speech.
+                To improve image-based translation, we introduce a novel method of predicting word concreteness from images, which improves on a previous state-of-the-art unsupervised technique.
+                This allows us to predict when image-based translation may be effective, enabling consistent improvements to a state-of-the-art text-based word translation system.
+                Our code and the Massively Multilingual Image Dataset (MMID) are available at http://multilingual-images.org/.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Hewitt
+Author{1}{Email}#=%=#johnhew@seas.upenn.edu
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Daphne
+Author{2}{Lastname}#=%=#Ippolito
+Author{2}{Email}#=%=#daphnei@seas.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Brendan
+Author{3}{Lastname}#=%=#Callahan
+Author{3}{Email}#=%=#brendan.callahan@gmail.com
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Reno
+Author{4}{Lastname}#=%=#Kriz
+Author{4}{Email}#=%=#rekriz@seas.upenn.edu
+Author{4}{Affiliation}#=%=#University of Pennsylvania
+Author{5}{Firstname}#=%=#Derry Tanti
+Author{5}{Lastname}#=%=#Wijaya
+Author{5}{Email}#=%=#derry@seas.upenn.edu
+Author{5}{Affiliation}#=%=#University of Pennsylvania
+Author{6}{Firstname}#=%=#Chris
+Author{6}{Lastname}#=%=#Callison-Burch
+Author{6}{Email}#=%=#ccb@cis.upenn.edu
+Author{6}{Affiliation}#=%=#University of Pennsylvania
+
+==========

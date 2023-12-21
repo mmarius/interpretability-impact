@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1241
+FinalPaperTitle#=%=#Global Transition-based Non-projective Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Carlos Gómez-Rodríguez
+JobTitle#==#
+Organization#==#Universidade da Coruña
+Abstract#==#Shi, Huang, and Lee (2017a) obtained state-of-the-art results for English and
+Chinese dependency parsing by combining dynamic-programming implementations of
+transition-based dependency parsers with a minimal set of bidirectional LSTM
+features. However, their results were limited to projective parsing. In this
+paper, we extend their approach to support non-projectivity by providing the
+first practical implementation of the MH_4 algorithm, an O(n^4) mildly
+nonprojective dynamic-programming parser with very high coverage on
+non-projective treebanks. To make MH_4 compatible with minimal transition-based
+feature sets, we introduce a transition-based interpretation of it in which
+parser items are mapped to sequences of transitions. We thus obtain the first
+implementation of global decoding for non-projective transition-based parsing, and demonstrate empirically that it is effective than its projective counterpart in parsing a number of highly non-projective languages.
+Author{1}{Firstname}#=%=#Carlos
+Author{1}{Lastname}#=%=#Gómez-Rodríguez
+Author{1}{Email}#=%=#cgomezr@udc.es
+Author{1}{Affiliation}#=%=#Universidade da Coruña
+Author{2}{Firstname}#=%=#Tianze
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Email}#=%=#tianze@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Lillian
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#llee@cs.cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+
+==========

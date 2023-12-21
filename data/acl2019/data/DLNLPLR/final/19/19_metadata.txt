@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Character-level Supervision for Low-resource POS Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Katharina Kann
+JobTitle#==#Postdoc
+Organization#==#CDS, NYU, 60 5th Ave, New York, NY 10011, USA
+Abstract#==#Neural part-of-speech (POS) taggers are known to not perform well with little training data. As a step towards overcoming this problem, we present an architecture for learning more robust neural POS taggers by jointly training a hierarchical, recurrent model and a recurrent character-based sequence-to-sequence network supervised using an auxiliary objective. This way, we introduce stronger character-level supervision into the model, which enables better generalization to unseen words and provides regularization, making our encoding less prone to overfitting. We experiment with three auxiliary tasks: lemmatization, character-based word autoencoding, and character-based random string autoencoding. Experiments with minimal amounts of labeled data on 34 languages show that our new architecture outperforms a single-task baseline and, sur- prisingly, that, on average, raw text autoencoding can be as beneficial for low-resource POS tagging as using lemma information. Our neural POS tagger closes the gap to a state-of-the-art POS tagger (MarMoT) for low-resource scenarios by 43%, even outperforming it on languages with templatic morphology, e.g., Arabic, Hebrew, and Turkish, by some margin.
+Author{1}{Firstname}#=%=#Katharina
+Author{1}{Lastname}#=%=#Kann
+Author{1}{Email}#=%=#kann@nyu.edu
+Author{1}{Affiliation}#=%=#NYU
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Bjerva
+Author{2}{Email}#=%=#bjerva@di.ku.dk
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+Author{3}{Firstname}#=%=#Isabelle
+Author{3}{Lastname}#=%=#Augenstein
+Author{3}{Email}#=%=#augenstein@di.ku.dk
+Author{3}{Affiliation}#=%=#Department of Computer Science, University of Copenhagen
+Author{4}{Firstname}#=%=#Barbara
+Author{4}{Lastname}#=%=#Plank
+Author{4}{Email}#=%=#bplank@gmail.com
+Author{4}{Affiliation}#=%=#University of Groningen
+Author{5}{Firstname}#=%=#Anders
+Author{5}{Lastname}#=%=#Søgaard
+Author{5}{Email}#=%=#soegaard@di.ku.dk
+Author{5}{Affiliation}#=%=#University of Copenhagen
+
+==========

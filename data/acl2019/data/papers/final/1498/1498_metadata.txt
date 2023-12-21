@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1498
+FinalPaperTitle#=%=#Large-Scale QA-SRL Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Nicholas FitzGerald
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#We present a new large-scale corpus of Question-Answer driven Semantic Role Labeling (QA-SRL) annotations, and the first high-quality QA-SRL parser. Our corpus, QA-SRL Bank 2.0, consists of over 250,000 question-answer pairs for over 64,000 sentences across 3 domains and was gathered with a new crowd-sourcing scheme that we show has high precision and good recall at modest cost. We also present neural models for two QA-SRL subtasks: detecting argument spans for a predicate and generating questions to label the semantic relationship. The best models achieve question accuracy of 82.6\% and span-level accuracy of 77.6\% (under human evaluation) on the full pipelined QA-SRL prediction task. They can also, as we show, be used to gather additional annotations at low cost.
+Author{1}{Firstname}#=%=#Nicholas
+Author{1}{Lastname}#=%=#FitzGerald
+Author{1}{Email}#=%=#nfitz@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Julian
+Author{2}{Lastname}#=%=#Michael
+Author{2}{Email}#=%=#julianjm@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luheng
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#luheng@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

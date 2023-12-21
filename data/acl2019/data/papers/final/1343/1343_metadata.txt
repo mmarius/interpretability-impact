@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1343
+FinalPaperTitle#=%=#Building Language Models for Text with Named Entities
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Md Rizwan Parvez
+JobTitle#==#
+Organization#==#Computer Science, UCLA
+Abstract#==#Text in many domains involves a significant amount of named entities.
+Predicting the entity names is often challenging for a language model as they
+appear less frequent on the training corpus. In this paper, we propose a novel
+and effective approach to building a language model which can learn the entity
+names by leveraging their entity type information. We also introduce two
+benchmark datasets based on recipes and Java programming codes, on which we
+evaluate the proposed model. Experimental results show that our model achieves
+52.2\% better perplexity in recipe generation and 22.06\% on code generation
+than state-of-the-art language models.
+Author{1}{Firstname}#=%=#Md Rizwan
+Author{1}{Lastname}#=%=#Parvez
+Author{1}{Email}#=%=#rizwan@ucla.edu
+Author{1}{Affiliation}#=%=#UCLA
+Author{2}{Firstname}#=%=#Saikat
+Author{2}{Lastname}#=%=#Chakraborty
+Author{2}{Email}#=%=#sc2nf@virginia.edu
+Author{2}{Affiliation}#=%=#University of Virginia
+Author{3}{Firstname}#=%=#Baishakhi
+Author{3}{Lastname}#=%=#Ray
+Author{3}{Email}#=%=#br8jr@virginia.edu
+Author{3}{Affiliation}#=%=#University of Virginia
+Author{4}{Firstname}#=%=#Kai-Wei
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#kw@kwchang.net
+Author{4}{Affiliation}#=%=#UCLA
+
+==========

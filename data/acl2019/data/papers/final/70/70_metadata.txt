@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#70
+FinalPaperTitle#=%=#Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenya Wang
+JobTitle#==#
+Organization#==#Nanyang Technological University, 50 Nanyang Avenue, Block N4, Singapore
+Abstract#==#Fine-grained opinion analysis aims to extract aspect and opinion terms from each sentence for opinion summarization. Supervised learning methods have proven to be effective for this task. However, in many domains, the lack of labeled data hinders the learning of a precise extraction model. In this case, unsupervised domain adaptation methods are desired to transfer knowledge from the source domain to any unlabeled target domain. In this paper, we develop a novel recursive neural network that could reduce domain shift effectively in word level through syntactic relations. We treat these relations as invariant ``pivot information'' across domains to build structural correspondences and generate an auxiliary task to predict the relation between any two adjacent words in the dependency tree. In the end, we demonstrate state-of-the-art results on three benchmark datasets.
+Author{1}{Firstname}#=%=#Wenya
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wa0001ya@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Sinno Jialin
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Email}#=%=#sinnocat@gmail.com
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+
+==========

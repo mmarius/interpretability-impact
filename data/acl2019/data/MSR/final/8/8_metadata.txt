@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#NILC-SWORNEMO at the Surface Realization Shared Task: Exploring Syntax-Based Word Ordering using Neural Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marco Atnonio Sobrevilla Cabezudo
+JobTitle#==#
+Organization#==#University of São Paulo, Avenida Trabalhador Sancarlense, 400 - Centro, São Carlos - SP, Brazil
+Abstract#==#This paper describes the submission by the NILC Computational Linguistics research group of the University of S ̃ao Paulo/Brazil to the Track 1 of the Surface Realization Shared Task (SRST Track 1). We present a neural-based method that works at the syntactic level to order the words (which we refer by NILC-SWORNEMO, standing for “Syntax-based Word ORdering using NEural MOdels”). Additionally, we apply a bottom-up approach to build the sentence and, using language-specific lexicons, we produce the proper word form of each lemma in the sentence. The results obtained by our method outperformed the average of the results for English, Portuguese and Spanish in the track.
+Author{1}{Firstname}#=%=#Marco Antonio
+Author{1}{Lastname}#=%=#Sobrevilla Cabezudo
+Author{1}{Email}#=%=#msobrevillac@usp.br
+Author{1}{Affiliation}#=%=#University of São Paulo
+Author{2}{Firstname}#=%=#Thiago
+Author{2}{Lastname}#=%=#Pardo
+Author{2}{Email}#=%=#taspardo@icmc.usp.br
+Author{2}{Affiliation}#=%=#University of São Paulo
+
+==========

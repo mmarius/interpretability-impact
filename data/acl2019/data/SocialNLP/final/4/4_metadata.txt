@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Sociolinguistic Corpus of WhatsApp Chats in Spanish among College Students
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tlauhlia Yamín Donohue Pérez
+JobTitle#==#
+Organization#==#
+Abstract#==#This work presents the Sociolinguistic Corpus of WhatsApp Chats in Spanish among College Students, a corpus of raw data for general use. Its purpose is to offer data for the study of of language and interactions via Instant Messaging (IM) among bachelors. Our paper consists of an overview of both the
+corpus’s content and demographic metadata. Furthermore, it presents the current research being conducted with it —namely parenthetical expressions, orality traits, and code-switching. This work also includes a brief outline of similar corpora and recent studies in the field of IM.
+Author{1}{Firstname}#=%=#Alejandro
+Author{1}{Lastname}#=%=#Dorantes
+Author{1}{Email}#=%=#mdorantescr@iingen.unam.mx
+Author{1}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{2}{Firstname}#=%=#Gerardo
+Author{2}{Lastname}#=%=#Sierra
+Author{2}{Email}#=%=#gsierram@iingen.unam.mx
+Author{2}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{3}{Firstname}#=%=#Tlauhlia Yamín
+Author{3}{Lastname}#=%=#Donohue Pérez
+Author{3}{Email}#=%=#yamin.donohue@gmail.com
+Author{3}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{4}{Firstname}#=%=#Gemma
+Author{4}{Lastname}#=%=#Bel-Enguix
+Author{4}{Email}#=%=#gbele@iingen.unam.mx
+Author{4}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{5}{Firstname}#=%=#Mónica
+Author{5}{Lastname}#=%=#Jasso Rosales
+Author{5}{Email}#=%=#monicatrece13@gmail.com
+Author{5}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+
+==========

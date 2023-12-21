@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#702
+FinalPaperTitle#=%=#Global Encoding for Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Junyang Lin
+JobTitle#==#
+Organization#==#Peking University
+Abstract#==#In neural abstractive summarization, the conventional sequence-to-sequence (seq2seq) model often suffers from repetition and semantic irrelevance. To tackle the problem, we propose a global encoding framework, which controls the information flow from the encoder to the decoder based on the global information of the source context. It consists of a convolutional gated unit to perform global encoding to improve the representations of the source-side information. Evaluations on the LCSTS and the English Gigaword both demonstrate that our model outperforms the baseline models, and the analysis shows that our model is capable of generating summary of higher quality and reducing repetition.
+Author{1}{Firstname}#=%=#Junyang
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#linjunyang@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#SUN
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Shuming
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Email}#=%=#shumingma@pku.edu.cn
+Author{3}{Affiliation}#=%=#Department of Computer Science, School of EECS, Peking University
+Author{4}{Firstname}#=%=#Qi
+Author{4}{Lastname}#=%=#Su
+Author{4}{Email}#=%=#sukia@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

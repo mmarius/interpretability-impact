@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#A Deep Learning Based Approach to Transliteration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Soumyadeep Kundu
+JobTitle#==#
+Organization#==#Jadavpur University. 188, Raja S.C. Mallick Rd, Kolkata - 700032, West Bengal, India.
+Abstract#==#In this paper, we propose different architectures for language independent machine transliteration which is extremely important for natural language processing (NLP) applications. Though a number of statistical models for transliteration have already been proposed in the past few decades, we proposed some neural network based deep learning architectures for the transliteration of named entities. Our transliteration systems adapt two different neural machine translation (NMT) frameworks: recurrent neural network and convolutional sequence to sequence based NMT. It is shown that our method provides quite satisfactory results when it comes to multi lingual machine transliteration. Our submitted runs are an ensemble of different transliteration systems for all the language pairs. In the NEWS 2018 Shared Task on Transliteration, our method achieves top performance for the En–Pe and Pe–En language pairs and comparable results for other cases.
+Author{1}{Firstname}#=%=#Soumyadeep
+Author{1}{Lastname}#=%=#Kundu
+Author{1}{Email}#=%=#soumyadeep1497@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Sayantan
+Author{2}{Lastname}#=%=#Paul
+Author{2}{Email}#=%=#sayantanpaul98@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Santanu
+Author{3}{Lastname}#=%=#Pal
+Author{3}{Email}#=%=#santanu.pal@uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

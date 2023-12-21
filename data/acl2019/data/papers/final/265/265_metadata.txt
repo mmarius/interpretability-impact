@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#265
+FinalPaperTitle#=%=#A Stylometric Inquiry into Hyperpartisan and Fake News
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Martin Potthast
+JobTitle#==#
+Organization#==#Leipzig University, Augustusplatz 10, 04109 Leipzig, Germany
+Abstract#==#We report on a comparative style analysis of hyperpartisan (extremely one-sided) news and fake news. A corpus of 1,627 articles from 9 political publishers, three each from the mainstream, the hyperpartisan left, and the hyperpartisan right, have been fact-checked by professional journalists at BuzzFeed: 97% of the 299 fake news articles identified are also hyperpartisan. We show how a style analysis can distinguish hyperpartisan news from the mainstream (F1 = 0.78), and satire from both (F1 = 0.81). But stylometry is no silver bullet as style-based fake news detection does not work (F1 = 0.46). We further reveal that left-wing and right-wing news share significantly more stylistic similarities than either does with the mainstream. This result is robust: it has been confirmed by three different modeling approaches, one of which employs Unmasking in a novel way. Applications of our results include partisanship detection and pre-screening for semi-automatic fake news detection.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Potthast
+Author{1}{Email}#=%=#martin.potthast@uni-leipzig.de
+Author{1}{Affiliation}#=%=#Leipzig University
+Author{2}{Firstname}#=%=#Johannes
+Author{2}{Lastname}#=%=#Kiesel
+Author{2}{Email}#=%=#johannes.kiesel@uni-weimar.de
+Author{2}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Reinartz
+Author{3}{Email}#=%=#kevin.reinartz@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{4}{Firstname}#=%=#Janek
+Author{4}{Lastname}#=%=#Bevendorff
+Author{4}{Email}#=%=#janek.bevendorff@uni-weimar.de
+Author{4}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{5}{Firstname}#=%=#Benno
+Author{5}{Lastname}#=%=#Stein
+Author{5}{Email}#=%=#benno.stein@uni-weimar.de
+Author{5}{Affiliation}#=%=#Bauhaus-Universität Weimar
+
+==========

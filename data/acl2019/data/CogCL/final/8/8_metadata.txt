@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Language Production Dynamics with Recurrent Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jesus Calvillo
+JobTitle#==#
+Organization#==#
+Abstract#==#We present an analysis of the internal mechanism of the recurrent neural model of sentence production presented by Calvillo et al. (2016). The results show clear patterns of computation related to each layer in the network allowing to infer an algorithmic account, where the semantics activates the semantically related words, then each word generated at each time step activates syntactic and semantic constraints on possible continuations, while the recurrence preserves information through time. We propose that such insights could generalize to other models with similar architecture, including some used in computational linguistics for language modeling, machine translation and image caption generation.
+Author{1}{Firstname}#=%=#Jesús
+Author{1}{Lastname}#=%=#Calvillo
+Author{1}{Email}#=%=#iesus.calvillo@gmail.com
+Author{1}{Affiliation}#=%=#University of Saarland
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Lastname}#=%=#Crocker
+Author{2}{Email}#=%=#crocker@coli.uni-sb.de
+Author{2}{Affiliation}#=%=#Saarland University
+
+==========

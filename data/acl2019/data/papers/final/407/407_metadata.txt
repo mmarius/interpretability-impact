@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#407
+FinalPaperTitle#=%=#A Study of the Importance of External Knowledge in the Named Entity Recognition Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dominic Seyler
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign, Urbana, IL, USA
+Abstract#==#In this work, we discuss the importance of external knowledge for performing Named Entity Recognition (NER). We present a novel modular framework that divides the knowledge into four categories according to the depth of knowledge they convey.  Each category consists of a set of features automatically generated from different information sources, such as a knowledge-base, a list of names, or document-specific semantic annotations. Further, we show the effects on performance when incrementally adding deeper knowledge and discuss effectiveness/efficiency trade-offs.
+Author{1}{Firstname}#=%=#Dominic
+Author{1}{Lastname}#=%=#Seyler
+Author{1}{Email}#=%=#dseyler2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Tatiana
+Author{2}{Lastname}#=%=#Dembelova
+Author{2}{Email}#=%=#tdembelo@mpi-inf.mpg.de
+Author{2}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{3}{Firstname}#=%=#Luciano
+Author{3}{Lastname}#=%=#Del Corro
+Author{3}{Email}#=%=#corrogg@mpi-inf.mpg.de
+Author{3}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{4}{Firstname}#=%=#Johannes
+Author{4}{Lastname}#=%=#Hoffart
+Author{4}{Email}#=%=#jhoffart@mpi-inf.mpg.de
+Author{4}{Affiliation}#=%=#Max Planck Institute for Informatics
+Author{5}{Firstname}#=%=#Gerhard
+Author{5}{Lastname}#=%=#Weikum
+Author{5}{Email}#=%=#weikum@mpi-inf.mpg.de
+Author{5}{Affiliation}#=%=#Max Planck Institute for Informatics
+
+==========

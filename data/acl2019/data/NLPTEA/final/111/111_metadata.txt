@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#111
+FinalPaperTitle#=%=#A Tutorial Markov Analysis of Effective Human Tutorial Sessions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Nabin Maharjan
+JobTitle#==#
+Organization#==#The University of Memphis, Memphis, TN, USA
+Abstract#==#This paper investigates what differentiates effective tutorial sessions from less effective sessions. Towards this end, we characterize and explore human tutors' actions in tutorial dialogue sessions by mapping the tutor-tutee interactions, which are streams of dialogue utterances, into streams of actions, based on the language-as-action theory. Next, we use human expert judgment measures, evidence of learning (EL) and evidence of soundness (ES), to identify effective and ineffective sessions. We perform sub-sequence pattern mining to identify sub-sequences of dialogue modes that discriminate good sessions from bad sessions. We finally use the results of sub-sequence analysis method to generate a tutorial Markov process for effective tutorial sessions.
+Author{1}{Firstname}#=%=#Nabin
+Author{1}{Lastname}#=%=#Maharjan
+Author{1}{Email}#=%=#nmharjan@memphis.edu
+Author{1}{Affiliation}#=%=#The University of Memphis
+Author{2}{Firstname}#=%=#Vasile
+Author{2}{Lastname}#=%=#Rus
+Author{2}{Email}#=%=#vrus@memphis.edu
+Author{2}{Affiliation}#=%=#The University of Memphis
+
+==========

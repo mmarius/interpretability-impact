@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#1158
+FinalPaperTitle#=%=#Comprehensive Supersense Disambiguation of English Prepositions and Possessives
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Nathan Schneider
+JobTitle#==#
+Organization#==#
+Abstract#==#Semantic relations are often signaled with prepositional or possessive
+marking—but extreme polysemy bedevils their analysis and automatic
+interpretation. We introduce a new annotation scheme, corpus, and task for the
+disambiguation of prepositions and possessives in English. Unlike previous
+approaches, our annotations are comprehensive with respect to types and tokens
+of these markers; use broadly applicable supersense classes rather than
+fine-grained dictionary definitions; unite prepositions and possessives under
+the same class inventory; and distinguish between a marker's lexical
+contribution and the role it marks in the context of a predicate or scene.
+Strong interannotator agreement rates, as well as encouraging disambiguation
+results with established supervised methods, speak to the viability of the
+scheme and task.
+Author{1}{Firstname}#=%=#Nathan
+Author{1}{Lastname}#=%=#Schneider
+Author{1}{Email}#=%=#nathan.schneider@georgetown.edu
+Author{1}{Affiliation}#=%=#Georgetown University
+Author{2}{Firstname}#=%=#Jena D.
+Author{2}{Lastname}#=%=#Hwang
+Author{2}{Email}#=%=#jhwang@ihmc.us
+Author{2}{Affiliation}#=%=#IHMC
+Author{3}{Firstname}#=%=#Vivek
+Author{3}{Lastname}#=%=#Srikumar
+Author{3}{Email}#=%=#svivek@cs.utah.edu
+Author{3}{Affiliation}#=%=#University of Utah
+Author{4}{Firstname}#=%=#Jakob
+Author{4}{Lastname}#=%=#Prange
+Author{4}{Email}#=%=#jp1724@georgetown.edu
+Author{4}{Affiliation}#=%=#Georgetown University
+Author{5}{Firstname}#=%=#Austin
+Author{5}{Lastname}#=%=#Blodgett
+Author{5}{Email}#=%=#ajb341@georgetown.edu
+Author{5}{Affiliation}#=%=#Georgetown University
+Author{6}{Firstname}#=%=#Sarah R.
+Author{6}{Lastname}#=%=#Moeller
+Author{6}{Email}#=%=#sarah.moeller@colorado.edu
+Author{6}{Affiliation}#=%=#University of Colorado Boulder
+Author{7}{Firstname}#=%=#Aviram
+Author{7}{Lastname}#=%=#Stern
+Author{7}{Email}#=%=#aviram.stern@mail.huji.ac.il
+Author{7}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{8}{Firstname}#=%=#Adi
+Author{8}{Lastname}#=%=#Bitan
+Author{8}{Email}#=%=#adi.bitan@mail.huji.ac.il
+Author{8}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{9}{Firstname}#=%=#Omri
+Author{9}{Lastname}#=%=#Abend
+Author{9}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{9}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

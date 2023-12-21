@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#296
+FinalPaperTitle#=%=#Cross-Target Stance Classification with Self-Attention Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Chang Xu
+JobTitle#==#
+Organization#==#CSIRO Data61, Marsfield, NSW, Australia
+Abstract#==#In stance classification, the target on which the stance is made defines the boundary of the task, and a classifier is usually trained for prediction on the same target. In this work, we explore the potential for generalizing classifiers between different targets, and propose a neural model that can apply what has been learned from a source target to a destination target. We show that our model can find useful information shared between relevant targets which improves generalization in certain scenarios.
+Author{1}{Firstname}#=%=#Chang
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#chang.xu@data61.csiro.au
+Author{1}{Affiliation}#=%=#Data61, CSIRO, Australia
+Author{2}{Firstname}#=%=#Cecile
+Author{2}{Lastname}#=%=#Paris
+Author{2}{Email}#=%=#Cecile.Paris@data61.csiro.au
+Author{2}{Affiliation}#=%=#Data61, CSIRO, Australia
+Author{3}{Firstname}#=%=#Surya
+Author{3}{Lastname}#=%=#Nepal
+Author{3}{Email}#=%=#Surya.Nepal@data61.csiro.au
+Author{3}{Affiliation}#=%=#Data61, CSIRO, Australia
+Author{4}{Firstname}#=%=#Ross
+Author{4}{Lastname}#=%=#Sparks
+Author{4}{Email}#=%=#Ross.Sparks@data61.csiro.au
+Author{4}{Affiliation}#=%=#Data61, CSIRO, Australia
+
+==========

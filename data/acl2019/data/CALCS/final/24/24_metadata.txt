@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data
+ShortPaperTitle#=%=#IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the best performing system for the shared task on Named Entity Recognition (NER) on code-switched data for the language pair Spanish-English (ENG-SPA). We introduce a gated neural architecture for the NER task. Our final model achieves an F1 score of 63.76%, outperforming the baseline by 10%.
+Author{1}{Firstname}#=%=#Shashwat
+Author{1}{Lastname}#=%=#Trivedi
+Author{1}{Email}#=%=#shashwat.trivedi.cse15@iitbhu.ac.in
+Author{1}{Affiliation}#=%=#Indian Institute of Technology (Banaras Hindu University)
+Author{2}{Firstname}#=%=#Harsh
+Author{2}{Lastname}#=%=#Rangwani
+Author{2}{Email}#=%=#harsh.rangwani.cse15@itbhu.ac.in
+Author{2}{Affiliation}#=%=#Indian Institute Of Technology (BHU) Varanasi
+Author{3}{Firstname}#=%=#Anil
+Author{3}{Lastname}#=%=#Kumar Singh
+Author{3}{Email}#=%=#nlprnd@gmail.com
+Author{3}{Affiliation}#=%=#IIT (BHU), Varanasi
+
+==========

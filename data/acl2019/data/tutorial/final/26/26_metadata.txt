@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Neural Approaches to Conversational AI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Developing an intelligent dialogue system that not only emulates human
+conversation, but also can answer questions of topics ranging from latest news
+of a movie star to Einstein's theory of relativity, and fulfill complex tasks
+such as travel planning, has been one of the longest running goals in AI. The
+goal remains elusive until recently when we started observing promising results
+in both the research community and industry as the large amount of conversation
+data is available for training and the breakthroughs in deep learning (DL) and
+reinforcement learning (RL) are applied to conversational AI.  
+
+In this tutorial, we start with a brief introduction to the recent progress on
+DL and RL that is related to natural language processing and conversational AI.
+Then, we describe in detail the state-of-the-art neural approaches developed
+for three types of dialogue systems. The first is a question answering (QA)
+agent. Equipped with rich knowledge drawn from various data sources including
+Web documents and pre-complied knowledge graphs (KG's), the QA agent can
+provide concise direct answers to user queries.  The second is a
+task-oriented dialogue system that can help users accomplish tasks ranging
+from meeting scheduling to vacation planning. The third is a social chat bot
+which can converse seamlessly and appropriately with humans, and often plays
+roles of a chat companion and a recommender. In the final part of the tutorial,
+we review attempts to developing open-domain conversational AI systems that
+combine the strengths of different types of dialogue systems.
+Author{1}{Firstname}#=%=#Jianfeng
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#jfgao@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{2}{Firstname}#=%=#Michel
+Author{2}{Lastname}#=%=#Galley
+Author{2}{Email}#=%=#mgalley@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Lihong
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lihongli.cs@gmail.com
+Author{3}{Affiliation}#=%=#Google Inc.
+
+==========

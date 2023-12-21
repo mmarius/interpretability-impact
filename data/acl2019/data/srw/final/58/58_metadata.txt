@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#58
+FinalPaperTitle#=%=#Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Lee Kezar
+JobTitle#==#
+Organization#==#Rhodes College, 2000 N Parkway Memphis TN USA 38112
+Abstract#==#Conversational agents, having the goal of natural language generation, must rely on language models which can integrate emotion into their responses. Recent projects outline models which can produce emotional sentences, but unlike human language, they tend to be restricted to one affective category out of a few. To my knowledge, none allow for the intentional coexistence of multiple emotions on the word or sentence level. Building on prior research which allows for variation in the intensity of a singular emotion, this research proposal outlines an LSTM (Long Short-Term Memory) language model which allows for variation in multiple emotions simultaneously.
+Author{1}{Firstname}#=%=#Lee
+Author{1}{Lastname}#=%=#Kezar
+Author{1}{Email}#=%=#kezarlee@gmail.com
+Author{1}{Affiliation}#=%=#Rhodes College
+
+==========

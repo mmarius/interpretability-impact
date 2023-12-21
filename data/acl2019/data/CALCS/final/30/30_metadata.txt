@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task
+ShortPaperTitle#=%=#Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Thamar Solorio
+JobTitle#==#
+Organization#==#University of Houston
+3551 Cullen Blvd.
+Houston, TX, 77204
+USA
+Abstract#==#In the third shared task of the Computational Approaches to Linguistic Code-Switching (CALCS) workshop, we focus on Named Entity Recognition (NER) on code-switched social-media data. We divide the shared task into two competitions based on the English-Spanish (ENG-SPA) and Modern Standard Arabic-Egyptian (MSA-EGY) language pairs. We use Twitter data and 9 entity types to establish a new dataset for code-switched NER benchmarks. In addition to the CS phenomenon, the diversity of the entities and the social media challenges make the task considerably hard to process. As a result, the best scores of the competitions are 63.76\% and 71.61\% for ENG-SPA and MSA-EGY, respectively. We present the scores of 9 participants and discuss the most common challenges among submissions.
+Author{1}{Firstname}#=%=#Gustavo
+Author{1}{Lastname}#=%=#Aguilar
+Author{1}{Email}#=%=#gustavoaguilar91@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Fahad
+Author{2}{Lastname}#=%=#AlGhamdi
+Author{2}{Email}#=%=#fghamdi@gwmail.gwu.edu
+Author{2}{Affiliation}#=%=#GWU
+Author{3}{Firstname}#=%=#Victor
+Author{3}{Lastname}#=%=#Soto
+Author{3}{Email}#=%=#vsoto@cs.columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#Mona
+Author{4}{Lastname}#=%=#Diab
+Author{4}{Email}#=%=#mtdiab@gwu.edu
+Author{4}{Affiliation}#=%=#GWU
+Author{5}{Firstname}#=%=#Julia
+Author{5}{Lastname}#=%=#Hirschberg
+Author{5}{Email}#=%=#julia@cs.columbia.edu
+Author{5}{Affiliation}#=%=#Columbia University
+Author{6}{Firstname}#=%=#Thamar
+Author{6}{Lastname}#=%=#Solorio
+Author{6}{Email}#=%=#thamar.solorio@gmail.com
+Author{6}{Affiliation}#=%=#UH
+
+==========

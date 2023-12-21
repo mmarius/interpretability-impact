@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Subcharacter Information in Japanese Embeddings: When Is It Worth It?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Bofang Li
+JobTitle#==#
+Organization#==#Renmin University of China
+Abstract#==#Languages with logographic writing systems present a difficulty for traditional character-level models. Leveraging the subcharacter information was recently shown to be beneficial for a number of intrinsic and extrinsic tasks in Chinese. We examine whether the same strategies could be applied for Japanese, and contribute a new analogy dataset for this language.
+Author{1}{Firstname}#=%=#Marzena
+Author{1}{Lastname}#=%=#Karpinska
+Author{1}{Email}#=%=#marzena.karpinska@gmail.com
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Bofang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#libofang@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin University of China
+Author{3}{Firstname}#=%=#Anna
+Author{3}{Lastname}#=%=#Rogers
+Author{3}{Email}#=%=#anna.gld@gmail.com
+Author{3}{Affiliation}#=%=#University of Massachusets Lowell
+Author{4}{Firstname}#=%=#Aleksandr
+Author{4}{Lastname}#=%=#Drozd
+Author{4}{Email}#=%=#alexander.drozd@gmail.com
+Author{4}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

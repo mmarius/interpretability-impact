@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#MeSH-based dataset for measuring the relevance of text retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Won Gyu Kim
+JobTitle#==#
+Organization#==#NCBI/NLM/NIH
+Abstract#==#Creating simulated search environments has been of a significant interest in infor-mation retrieval, in both general and bio-medical search domains. Existing collec-tions include modest number of queries and are constructed by manually evaluat-ing retrieval results. In this work we pro-pose leveraging MeSH term assignments for creating synthetic test beds. We select a suitable subset of MeSH terms as queries, and utilize MeSH term assignments as pseudo-relevance rankings for retrieval evaluation. Using well studied retrieval functions, we show that their performance on the proposed data is consistent with similar findings in previous work. We further use the proposed retrieval evaluation framework to better understand how to combine heterogeneous sources of textual information.
+Author{1}{Firstname}#=%=#Won Gyu
+Author{1}{Lastname}#=%=#KIM
+Author{1}{Email}#=%=#wonkim@nih.gov
+Author{1}{Affiliation}#=%=#NCBI/NLM/NIH
+Author{2}{Firstname}#=%=#Lana
+Author{2}{Lastname}#=%=#Yeganova
+Author{2}{Email}#=%=#lana.yeganova@nih.gov
+Author{2}{Affiliation}#=%=#NLM/NIH
+Author{3}{Firstname}#=%=#Donald
+Author{3}{Lastname}#=%=#comeau
+Author{3}{Email}#=%=#comeau@mail.nih.gov
+Author{3}{Affiliation}#=%=#NCBI/NLM/NIH
+Author{4}{Firstname}#=%=#W John
+Author{4}{Lastname}#=%=#Wilbur
+Author{4}{Email}#=%=#wilbur@ncbi.nlm.nih.gov
+Author{4}{Affiliation}#=%=#NCBI
+Author{5}{Firstname}#=%=#Zhiyong
+Author{5}{Lastname}#=%=#Lu
+Author{5}{Email}#=%=#luzh@ncbi.nlm.nih.gov
+Author{5}{Affiliation}#=%=#NCBI, NLM, NIH
+
+==========

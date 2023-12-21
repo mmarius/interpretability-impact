@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Latent Tree Learning with Differentiable Parsers: Shift-Reduce Parsing and Chart Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jean Maillard
+JobTitle#==#
+Organization#==#University of Cambridge Computer Laboratory, 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK
+Abstract#==#Latent tree learning models represent sentences by composing their words according to an induced parse tree, all based on a downstream task. These models often outperform baselines which use (externally provided) syntax trees to drive the composition order. This work contributes (a) a new latent tree learning model based on shift-reduce parsing, with competitive downstream performance and non-trivial induced trees, and (b) an analysis of the trees learned by our shift-reduce model and by a chart-based model.
+Author{1}{Firstname}#=%=#Jean
+Author{1}{Lastname}#=%=#Maillard
+Author{1}{Email}#=%=#jean@maillard.it
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Clark
+Author{2}{Email}#=%=#sc609@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

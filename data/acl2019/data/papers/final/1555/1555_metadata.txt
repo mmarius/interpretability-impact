@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#1555
+FinalPaperTitle#=%=#Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yue Gu
+JobTitle#==#
+Organization#==#Rutgers University
+Abstract#==#Multimodal affective computing, learning to recognize and interpret human
+affect and subjective information from multiple data sources, is still a
+challenge because: (i) it is hard to extract informative features to represent
+human affects from heterogeneous inputs; (ii) current fusion strategies only
+fuse different modalities at abstract levels, ignoring time-dependent
+interactions between modalities. Addressing such issues, we introduce a
+hierarchical multimodal architecture with attention and word-level fusion to
+classify utterance-level sentiment and emotion from text and audio data. Our
+introduced model outperforms state-of-the-art approaches on published
+datasets, and we demonstrate that our model is able to visualize and interpret
+synchronized attention over modalities.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Gu
+Author{1}{Email}#=%=#yg202@scarletmail.rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Kangning
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#ky189@scarletmail.rutgers.edu
+Author{2}{Affiliation}#=%=#Rutgers University
+Author{3}{Firstname}#=%=#Shiyu
+Author{3}{Lastname}#=%=#Fu
+Author{3}{Email}#=%=#sf568@scarletmail.rutgers.edu
+Author{3}{Affiliation}#=%=#Rutgers University
+Author{4}{Firstname}#=%=#Shuhong
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#sc1624@rutgers.edu
+Author{4}{Affiliation}#=%=#Rutgers University
+Author{5}{Firstname}#=%=#Xinyu
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#Xinyu.li1118@rutgers.edu
+Author{5}{Affiliation}#=%=#Rutgers University
+Author{6}{Firstname}#=%=#Ivan
+Author{6}{Lastname}#=%=#Marsic
+Author{6}{Email}#=%=#marsic@rutgers.edu
+Author{6}{Affiliation}#=%=#Rutgers University
+
+==========

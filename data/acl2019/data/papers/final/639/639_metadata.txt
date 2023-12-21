@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#639
+FinalPaperTitle#=%=#Simple and Effective Text Simplification Using Semantic and Neural Methods
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Elior Sulem
+JobTitle#==#
+Organization#==#The Hebrew University of Jerusalem, Edmond Safra Campus, Givat Ram, Jerusalem 91904, Israel
+Abstract#==#Sentence splitting is a major simplification operator. Here we present a simple and efficient splitting algorithm based on an automatic semantic parser. After splitting, the text is amenable for further fine-tuned simplification operations. In particular, we show that neural Machine Translation can be effectively used in this situation. Previous application of Machine Translation for simplification suffers from a considerable disadvantage in that they are over-conservative, often failing to modify the source in any way. Splitting based on semantic parsing, as proposed here, alleviates this issue. Extensive automatic and human evaluation shows that the proposed method compares favorably to the state-of-the-art in combined lexical and structural simplification.
+Author{1}{Firstname}#=%=#Elior
+Author{1}{Lastname}#=%=#Sulem
+Author{1}{Email}#=%=#eliors@cs.huji.ac.il
+Author{1}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{3}{Firstname}#=%=#Ari
+Author{3}{Lastname}#=%=#Rappoport
+Author{3}{Email}#=%=#arir@cs.huji.ac.il
+Author{3}{Affiliation}#=%=#The Hebrew University
+
+==========

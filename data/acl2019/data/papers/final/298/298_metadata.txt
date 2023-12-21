@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#298
+FinalPaperTitle#=%=#Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tiancheng Zhao
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15232, USA
+Abstract#==#The encoder-decoder dialog model is one of the most prominent methods used to
+build dialog systems in complex domains. Yet it is limited because it cannot
+output interpretable actions as in traditional systems, which hinders humans
+from understanding its generation process. We present an unsupervised discrete
+sentence representation learning method that can integrate with any existing
+encoder-decoder dialog models for interpretable response generation. Building
+upon variational autoencoders (VAEs), we present two novel models, DI-VAE and
+DI-VST that improve VAEs and can discover interpretable semantics via either
+auto encoding or context predicting. Our methods have been validated on
+real-world dialog datasets to discover semantic representations and enhance
+encoder-decoder models with interpretable generation.
+Author{1}{Firstname}#=%=#Tiancheng
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#tianchez@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kyusong
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#kyusongl@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Maxine
+Author{3}{Lastname}#=%=#Eskenazi
+Author{3}{Email}#=%=#max@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

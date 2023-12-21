@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#757
+FinalPaperTitle#=%=#Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Stephen Roller
+JobTitle#==#
+Organization#==#Facebook, 1 Hacker Way, Menlo Park, CA 94025
+Abstract#==#Methods for unsupervised hypernym detection may broadly be categorized according to two paradigms: pattern-based and distributional methods. In this paper, we study the performance of both approaches on several hypernymy tasks and find that simple pattern-based methods consistently outperform distributional methods on common benchmark datasets. Our results show that pattern-based models provide important contextual constraints which are not yet captured in distributional methods.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#Roller
+Author{1}{Email}#=%=#roller@fb.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Douwe
+Author{2}{Lastname}#=%=#Kiela
+Author{2}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Maximilian
+Author{3}{Lastname}#=%=#Nickel
+Author{3}{Email}#=%=#maxn@fb.com
+Author{3}{Affiliation}#=%=#Facebook
+
+==========

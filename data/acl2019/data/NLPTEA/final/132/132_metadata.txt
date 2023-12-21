@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#132
+FinalPaperTitle#=%=#Overview of NLPTEA-2018 Share Task Chinese Grammatical Error Diagnosis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents the NLPTEA 2018 shared task for Chinese Grammatical Error Diagnosis (CGED) which seeks to identify grammatical error types, their range of occurrence and recommended corrections within sentences written by learners of Chinese as foreign language. We describe the task definition, data preparation, performance metrics, and evaluation results. Of the 20 teams registered for this shared task, 13 teams developed the system and submitted a total of 32 runs. Progress in system performances was obviously, reaching F1 of 36.12% in position level and 25.27% in correction level. All data sets with gold standards and scoring scripts are made publicly available to researchers.
+Author{1}{Firstname}#=%=#Gaoqi
+Author{1}{Lastname}#=%=#RAO
+Author{1}{Email}#=%=#raogaoqi-fj@163.com
+Author{1}{Affiliation}#=%=#Beijing Language and Culture University
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Gong
+Author{2}{Email}#=%=#gongqiblcu@163.com
+Author{2}{Affiliation}#=%=#Beijing Language and Cultural University
+Author{3}{Firstname}#=%=#Baolin
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhangbaolin@blcu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Language and Cultural University
+Author{4}{Firstname}#=%=#Endong
+Author{4}{Lastname}#=%=#Xun
+Author{4}{Email}#=%=#edxun@blcu.edu.cn
+Author{4}{Affiliation}#=%=#Beijing Language and Cultural University
+
+==========

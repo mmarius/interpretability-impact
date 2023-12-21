@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1532
+FinalPaperTitle#=%=#Language Generation via DAG Transduction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#YajieYe
+JobTitle#==#
+Organization#==#Institute of Computer Science and Technology, Peking University
+Abstract#==#A DAG automaton is a formal device for manipulating graphs.
+By augmenting a DAG automaton with transduction rules, a DAG transducer has
+potential applications in fundamental NLP tasks. 
+In this paper, we propose a novel DAG transducer to perform graph-to-program
+transformation.
+The target structure of our transducer is a program licensed by a declarative
+programming language rather than linguistic structures.
+By executing such a program, we can easily get a surface string.
+Our transducer is designed especially for natural language generation (NLG)
+from type-logical semantic graphs.
+Taking Elementary Dependency Structures, a format of English Resource
+Semantics, as input, our NLG system achieves a BLEU-4 score of 68.07.
+This remarkable result demonstrates the feasibility of applying a DAG
+transducer to resolve NLG, as well as the effectiveness of our design.
+Author{1}{Firstname}#=%=#Yajie
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Email}#=%=#yeyajie@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Weiwei
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#ws@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

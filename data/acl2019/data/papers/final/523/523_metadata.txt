@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#523
+FinalPaperTitle#=%=#Sense-Aware Neural Models for Pun Location in Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Xiaojun Wan
+JobTitle#==#
+Organization#==#
+Abstract#==#A homographic pun is a form of wordplay in which one signifier (usually a word)
+suggests two or more meanings by exploiting polysemy for an intended humorous
+or rhetorical effect. In this paper, we focus on the task of pun location,
+which aims to identify the pun word in a given short text. We propose a
+sense-aware neural model to address this challenging task. Our model first
+obtains several WSD results for the text, and then leverages a bidirectional
+LSTM network to model each sequence of word senses. The outputs at each time
+step for different LSTM networks are then concatenated for prediction.
+Evaluation results on the benchmark SemEval 2017 dataset demonstrate the
+efficacy of our proposed model.
+Author{1}{Firstname}#=%=#Yitao
+Author{1}{Lastname}#=%=#Cai
+Author{1}{Email}#=%=#caiyitao@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yin
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#xyz1305121@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

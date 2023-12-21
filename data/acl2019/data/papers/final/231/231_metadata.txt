@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#231
+FinalPaperTitle#=%=#Chinese NER Using Lattice LSTM
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jie Yang
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Road Singapore
+Abstract#==#We investigate a lattice-structured LSTM model for Chinese NER, which encodes a sequence of input characters as well as all potential words that match a lexicon. Compared with character-based methods, our model explicitly leverages word and word sequence information. Compared with word-based methods, lattice LSTM does not suffer from segmentation errors. Gated recurrent cells allow our model to choose the most relevant characters and words from a sentence for better NER results. Experiments on various datasets show that lattice LSTM outperforms both word-based and character-based LSTM baselines, achieving the best results.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Jie
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#jieynlp@gmail.com
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

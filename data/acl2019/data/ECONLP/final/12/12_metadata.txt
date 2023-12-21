@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Causality Analysis of Twitter Sentiments and Stock Market Returns
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Narges Tabari
+JobTitle#==#
+Organization#==#UNCC- Charlotte, North Carolina, USA
+Abstract#==#Sentiment analysis is the process of identifying the opinion expressed in text. Recently, it has been used to study behavioral finance, and in particular the effect of opinions and emotions on economic or financial decisions. In this paper, we use a public dataset of labeled tweets that has been labeled by Amazon Mechanical Turk and then we propose a baseline classification model. Then, by using Granger causality of both sentiment datasets with the different stocks, we shows that there is causality between social media and stock market returns (in both directions) for many stocks. Finally, We evaluate this causality analysis by showing that in the event of a specific news on certain dates, there are evidences of trending the same news on Twitter for that stock.
+Author{1}{Firstname}#=%=#Narges
+Author{1}{Lastname}#=%=#Tabari
+Author{1}{Email}#=%=#nseyedit@uncc.edu
+Author{1}{Affiliation}#=%=#UNCC
+Author{2}{Firstname}#=%=#Piyusha
+Author{2}{Lastname}#=%=#Biswas
+Author{2}{Email}#=%=#pbiswas1@uncc.edu
+Author{2}{Affiliation}#=%=#UNCC
+Author{3}{Firstname}#=%=#Bhanu
+Author{3}{Lastname}#=%=#Praneeth
+Author{3}{Email}#=%=#bsirukur@uncc.edu
+Author{3}{Affiliation}#=%=#UNCC
+Author{4}{Firstname}#=%=#Armin
+Author{4}{Lastname}#=%=#Seyeditabari
+Author{4}{Email}#=%=#sseyedi1@uncc.edu
+Author{4}{Affiliation}#=%=#UNCC
+Author{5}{Firstname}#=%=#Mirsad
+Author{5}{Lastname}#=%=#Hadzikadic
+Author{5}{Email}#=%=#mirsad@uncc.edu
+Author{5}{Affiliation}#=%=#UNCC
+Author{6}{Firstname}#=%=#Wlodek
+Author{6}{Lastname}#=%=#Zadrozny
+Author{6}{Email}#=%=#wzadrozn@uncc.edu
+Author{6}{Affiliation}#=%=#UNC Charlotte
+
+==========

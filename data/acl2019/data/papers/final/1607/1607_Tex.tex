@@ -1,0 +1,508 @@
+%
+% File acl2018.tex
+%
+%% Based on the style files for ACL-2017, with some changes, which were, in turn,
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyperref]{acl2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{forest}
+\usepackage{qtree}
+\usepackage{url}
+\usepackage{mathtools}
+\usepackage{multirow}
+\usepackage{graphicx} %package to manage images
+\graphicspath{ {images/} }
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\newcolumntype{Y}{>{\RaggedRight\let\newline\\\arraybackslash\hspace{0pt}}X} 
+\usepackage{tkz-berge}
+\usepackage{tikz}
+\usetikzlibrary{matrix,chains,positioning,decorations.pathreplacing,arrows}
+\usepackage{tikz-qtree}
+\usepackage{tikz-qtree-compat}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\usepackage{pgfpages}
+\usepackage{subcaption}
+\usepackage{array}
+\usepackage{flushend}
+\usepackage{arydshln}
+\aclfinalcopy % Uncomment this line for the final submission
+\def\aclpaperid{1607} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Learning Cross-lingual Distributed Logical Representations \\for Semantic Parsing}
+
+\author{%
+	Yanyan Zou \and Wei Lu\\
+  Singapore University of Technology and Design \\
+  8 Somapah Road, Singapore, 487372 \\
+%  Affiliation / Address line 3 \\
+  {\tt yanyan\_zou@mymail.sutd.edu.sg, luwei@sutd.edu.sg} \\
+%  Wei Lu \\
+%Singapore University of Technology and Design \\
+%  Affiliation / Address line 2 \\
+%  Affiliation / Address line 3 \\
+%  {\tt luwei@sutd.edu.sg} \\
+}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+
+%OK
+
+With the development of several multilingual datasets used for semantic parsing, recent research efforts have looked into the problem of learning semantic parsers in a multilingual setup \cite{duong2017multilingual,P17-2007}.
+However, how to improve the performance of a monolingual semantic parser for a specific language by leveraging data annotated in different languages remains a research question that is under-explored.
+In this work, we present a study to show how learning distributed representations of the logical forms from data annotated in different languages can be used for improving the performance of a monolingual semantic parser.
+We extend two existing monolingual semantic parsers to incorporate such cross-lingual distributed logical representations as features.
+Experiments show that our proposed approach is able to yield improved semantic parsing results on the standard multilingual GeoQuery dataset.
+
+% In this paper, we propose to enrich feature learning in discriminative semantic parsing by including semantic embedding learnt from multiple different languages.
+% We extend an existing discriminative parser based on the neural hybrid trees by incorporating the cross-lingual semantic embedding as continuous features.
+
+\end{abstract}
+
+\section{Introduction}
+Semantic parsing, one of the classic tasks in natural language processing (NLP), has been extensively studied in the past few years \cite{zettlemoyerlearning,WongYW:06,Wong:07,liang11dcs,kwiatkowski2011lexical:11,artzi2015broad:15}.
+With the development of datasets annotated in different languages, learning semantic parsers from such multilingual datasets also attracted attention of researchers \cite{P17-2007}.
+However, how to make use of such cross-lingual data to perform cross-lingual semantic parsing -- using data annotated for one language to help improve the performance of another language remains a research question that is largely under-explored.
+
+
+% \begin{figure}[tbp]
+% 	\centering
+% 	\resizebox{0.45\textwidth}{!}{\begin{tikzpicture}
+% 		\Tree [.{Q{\small{UERY}} : $answer$ (R{\small{IVER}})} [.{R{\small{IVER}}: $exclude$ (R{\small{IVER}}, R{\small{IVER}})} {R{\small{IVER}} : $state$ (all)} [.{R{\small{IVER}} : $traverse$ (S{\small{TATE}})} [.{S{\small{TATE}} : $stateid$ (S{\small{TATE}}N{\small{AME}})} {S{\small{TATE}}N{\small{AME}} : ($'texas'$)} ]] ]]
+% 		\end{tikzpicture} 
+% 	}
+% 	\caption{An example of tree-shaped semantic representation.}
+% 	\label{fig:ExampleForTreeAndSentence}
+
+\begin{figure}[tbp]
+	\centering
+	\resizebox{0.45\textwidth}{!}{\begin{tikzpicture}
+		\Tree [.{Q{\small{UERY}} : $answer$ (R{\small{IVER}})} [.{R{\small{IVER}}: $exclude$ (R{\small{IVER}}, R{\small{IVER}})} {R{\small{IVER}} : $state$ (all)} [.{R{\small{IVER}} : $traverse$ (S{\small{TATE}})} [.{S{\small{TATE}} : $stateid$ (S{\small{TATE}}N{\small{AME}})} {S{\small{TATE}}N{\small{AME}} : ($'texas'$)} ]] ]]
+\end{tikzpicture} 
+}}
+\centering{\text{ English: which rivers do not run through texas ?}}
+\centering{\text{ German: welche flüsse fliessen nicht durch texas ?}
+\caption{An example of two semantically equivalent sentences (below) and their tree-shaped semantic representation (above).}
+	\label{fig:ExampleForTreeAndSentence}
+%    \vspace{-5mm}
+\end{figure}
+
+
+Prior work \cite{Chan:05} shows that semantically equivalent words coming from different languages may contain shared semantic level information, which will be helpful for certain semantic processing tasks.
+In this work, we propose a simple method to learn the distributed representations for output structured semantic representations which allow us to capture cross-lingual features.
+Specifically, following previous work \cite{WongYW:06,Jones:12,Rhs:17}, we adopt a commonly used tree-shaped form as the underlying meaning representation where each tree node is a semantic unit.
+Our objective is to learn for each semantic unit a distributed representation useful for semantic parsing, based on multilingual datasets.
+Figure \ref{fig:ExampleForTreeAndSentence} depicts an instance of such tree-shaped semantic representations, which correspond to the two semantically equivalent sentences in English and German below it.
+
+For such structured semantics, we consider each semantic unit separately.
+We learn distributed representations for individual semantic unit based on multilingual datasets where semantic representations are annotated with different languages.
+Such distributed representations capture shared information cross different languages.
+We extend two existing monolingual semantic parsers \cite{Luw:15,Rhs:17} to incorporate such cross-lingual features.
+To the best of our knowledge, this is the first work that exploits cross-lingual embeddings for logical representations for semantic parsing.
+Our system is publicly available at {\url{http://statnlp.org/research/sp/}}.
+
+\section{Related Work}
+Many research efforts on semantic parsing have been made, such as mapping sentences into lambda calculus forms based on CCG \cite{yoav11boot,yoav14compact,kwiatkowski2011lexical:11}, modeling dependency-based compositional semantics \cite{liang11dcs,liang17dcs}, or transforming sentences into tree structured semantic representations \cite{Luw:15,Rhs:17}.
+With the development of multilingual datasets, systems for multilingual semantic parsing are also developed.
+\newcite{ZMJie:14} employed majority voting to combine outputs from different parsers for certain languages to perform multilingual semantic parsing.
+\newcite{P17-2007} presented an extension of one existing neural parser, {\textsc{Seq2Tree}} \cite{P16-1004}, by developing a shared attention mechanism for different languages to conduct multilingual semantic parsing.
+Such a model allows two types of input signals: single source {SL-{\textsc{Single}} and multi-source  {SL-{\textsc{Multi}}}.
+However, semantic parsing with cross-lingual features has not been explored, while many recent works in various NLP tasks show the effectiveness of shared information cross different languages. Examples include semantic role labeling \cite{kozhevnikov13crosssrl}, information extraction \cite{jeff13transfer,heng17tagging,radu17ner}, and question answering \cite{israa17qa}, which motivate this work.
+%
+%\textcolor{red}{Our work involves exploiting distributed output representations for improved structured prediction, which is in line with works of \cite{NIPS2014_5323,W14-2409,xiaoguo15adaption}. The work of \cite{W14-2409} is the perhaps the most related to this research.
+%%\newcite{W14-2409}
+%In their work, the authors learn the low-dimensional embeddings of first-order logic that is also adopted as semantic representations \cite{zettlemoyerlearning}.
+%In this work, however, we focus on learning distributed representations for the variable-free logical representations that can be represented as tree structures in a cross-lingual setup.}
+%have studied that the distributed representations of structured outputs are beneficial to performance.
+
+%\textcolor{red}
+{Our work involves exploiting distributed output representations for improved structured predictions, which is in line with works of \cite{NIPS2014_5323,W14-2409,xiaoguo15adaption}.
+The work of \cite{W14-2409} is perhaps the most related to this research.
+The authors first map first-order logical statements produced by a semantic parser or an information extraction system into expressions in tensor calculus.
+They then learn low-dimensional embeddings of such statements with the help of a given logical knowledge base consisting of first-order rules so that the learned representations are consistent with these rules.
+%They then learn low-dimensional embeddings of such statements with the help of a given logical knowledge base consisting of first-order rules so that the learned representations are consistent with these rules. 
+They adopt stochastic gradient descent (SGD) to conduct optimizations. This work learns distributed representations of logical forms from cross-lingual data based on co-occurrence information without relying on external knowledge bases.
+}
+
+\section{Approach}
+
+\subsection{Semantic Parser}
+\label{sec:nht}
+
+In this work, we build our model and conduct experiments on top of the discriminative hybrid tree semantic parser \cite{Luw:14,Luw:15}.
+The parser was designed based on the hybrid tree representation ({\textsc{HT-g}}) originally introduced in \cite{Luw:08}.
+The hybrid tree is a joint representation encoding both sentence and semantics that aims to capture the interactions between words and semantic units.
+A discriminative hybrid tree ({\textsc{HT-d}}) \cite{Luw:14,Luw:15} learns the optimal latent word-semantics correspondence where every word in the input sentence is associated with a semantic unit.
+Such a model allows us to incorporate rich features and long-range dependencies.
+Recently, \newcite{Rhs:17} extended {\textsc{HT-d}} by attaching neural architectures, resulting in their neural hybrid tree ({\textsc{HT-d} \textsc{(nn)}}). 
+%Initially, the hybrid tree is built on top of a generative model , where the joint representation encoding both words and semantics is assumed to be generated from an underlying process.
+%By incorporating rich features and long-range dependencies, the discriminative hybrid tree  models word associations for each semantic unit where every word in the input sentence is associated to a semantically closed semantic unit. 
+%This model has been further extended by attaching neural architectures .
+
+Since the correct correspondence between words and semantics is not explicitly given in the training data, we regard the hybrid tree representation as a latent variable.
+Formally, for each sentence $\mathbf{n}$ with its semantic representation $\mathbf{m}$ from the training set, we assume the joint representation (a hybrid tree) is $\mathbf{h}$.
+Now we can define a discriminative log-linear model as follows:
+{\begin{gather}
+\small
+P_{\Lambda}(\mathbf{m}|\mathbf{n}) =\sum_{\mathbf{h} \in \mathcal{H}{(\mathbf{n},\mathbf{m})}} P_{\Lambda}(\mathbf{m},\mathbf{h}|\mathbf{n})   \notag \\
+=\frac{\sum_{\mathbf{h} \in \mathcal{H}{(\mathbf{n},\mathbf{m})}} e^{F_{\Lambda}(\mathbf{n},\mathbf{m},\mathbf{h})}}{\sum_{\mathbf{m}',\mathbf{h}'\in \mathcal{H}(\mathbf{n},\mathbf{m}')}e^{F_{\Lambda}(\mathbf{n},\mathbf{m}',\mathbf{h}'))}}
+\\
+F_{\Lambda}(\mathbf{n},\mathbf{m},\mathbf{h})) = \Lambda\cdot\Phi{(\mathbf{n},\mathbf{m},\mathbf{h}))}
+\label{partition}
+\end{gather}
+%Given a complete input sentence $\mathbf{n}$, paired with its semantic representation , the DHT model makes an assumption that there exists a latent structure \textbf{h} that jointly represents both $\mathbf{m}$ and $\mathbf{n}$ and illustrates the correct associations between words in $\mathbf{n}$ and semantics $\mathbf{m}$. 
+%We thus formalize such associations as latent variables in a log-linear style: 
+where $\mathcal{H}(\mathbf{n},\mathbf{m})$ returns the set of all possible joint representations that contain both $\mathbf{n}$ and $\mathbf{m}$ exactly, and $F$ is a scoring function that is calculated as a dot product between a feature function $\Phi$ defined over tuple ($\mathbf{m}$, $\mathbf{n}$, $\mathbf{h}$) and a  weight vector $\Lambda$. 
+
+%The \emph{relaxed hybrid tree} recently has been extended by combining multi-layer neural networks in a principled way \cite{Rhs:17}. The nonlinear featurization by introducing neural networks enables us to induce a dense representation of features that are made of a wider context information and also improves the robustness of the model. 
+
+To incorporate neural features, {\textsc{HT-d} \textsc{(nn)}} defines the following scoring function:
+\begin{gather}
+F_{\Lambda, \Theta}(\mathbf{n},\mathbf{m},\mathbf{h})) = \Lambda\cdot\Phi{(\mathbf{n},\mathbf{m},\mathbf{h})} + G_{\Theta}(\mathbf{n},\mathbf{m},\mathbf{h})
+\label{scof1}
+\end{gather} 
+where $\Theta$ is the set of parameters of the neural networks and $G$ is the neural scoring function over the ($\mathbf{n}$,$\mathbf{m}$,$\mathbf{h}$) tuple \cite{Rhs:17}.
+Specifically, the neural features are defined over a fixed-size window surrounding a word in $\mathbf{n}$ paired with its immediately associated semantic unit. 
+Following the work \cite{Rhs:17}, we denote the window size as $J\in\{0,1,2\}$.
+
+\subsection{Cross-lingual Distributed Semantic Representations}
+\label{sec:semantic_embedding}
+
+%In this section, we propose a method to model structured outputs as distributed representations that also capture shared information across different languages.
+
+A multilingual dataset used in semantic parsing comes with instances consisting of logical forms annotated with sentences from multiple different languages.
+%For a multilingual dataset used in semantic parsing, sentences coming from different languages are semantically equivalent.
+In this work, we aim to learn one monolingual semantic parser for each language, while leveraging useful information that can be extracted from other languages.
+Our setup is as follows. Each time, we train the parser for a target language and regard the other languages as {\em auxiliary languages}.
+To learn cross-lingual distributed semantic representations from such data,
+we first combine all data involving all auxiliary languages to form a large dataset.
+Next,
+%To borrow the power from auxiliary languages, w
+%We learn the distributed representations of structured outputs based on auxiliary language corpora.
+for each target language, we  construct a semantics-word co-occurrence matrix ${\mathbf{M}}\in{R}^{m\times n}$ (where $m$ is the number of unique semantic units, $n$ is the number of unique words in the combined dataset).
+Each entry is the number of co-occurrences for a particular (semantic unit-word) pair.
+We will use this matrix to learn a low-dimensional cross-lingual representation for each semantic unit.
+To do so, we first apply singular value decomposition (SVD) to this matrix, leading to:
+%Such information can be easily learned from training data.
+\begin{gather}
+\mathbf{M} = \mathbf{U}\mathbf{\Sigma}\mathbf{V^\ast}
+\end{gather}
+where ${\mathbf{U}}\in{R}^{m\times m}$ and ${\mathbf{V}}\in{R}^{n\times m}$ are unitary matrices, ${\mathbf V}^\ast$ is the conjugate transpose of ${\mathbf V}$, and $\mathbf{\Sigma}\in R^{m\times m}$ is a diagonal matrix.
+We truncate the diagonal matrix ${\mathbf{\Sigma}}$ and left multiply it with $\mathbf{U}$:
+\begin{gather}
+\mathbf{U}\mathbf{\tilde{\Sigma}}
+%\vspace{-5mm}
+\end{gather}
+where $\mathbf{\tilde{\Sigma}}\in R^{m\times d}$ is a matrix that consists of only the left $d$ columns of $\mathbf{\Sigma}$, containing the $d$ largest singular values.
+We leave the rank $d$ as a hyperparameter.
+Each row in the above matrix is a $d$-dimensional vector, giving a low-dimensional representation for one semantic unit.
+Such distributed output representations can be readily used as continuous features in $\Phi{(\mathbf{n},\mathbf{m},\mathbf{h})}$.
+
+
+
+\subsection{Training and Decoding}
+
+During the training process, we optimize the objective function defined over the training set as:
+\begin{gather}
+\mathcal{L}(\Lambda,\Theta)=\sum_{i}\log \sum_{\mathbf{h}\in\mathcal{H}(\mathbf{n}_i,\mathbf{m}_i) }e^{F_{\Lambda,\Theta}(\mathbf{n}_i,\mathbf{m}_i,\mathbf{h})} \notag \\
+- \sum_{i}\log \sum_{\mathbf{m}',\mathbf{h}'\in\mathcal{H}(\mathbf{n}_i,\mathbf{m}') }e^{F_{\Lambda,\Theta}(\mathbf{n}_i,\mathbf{m}',\mathbf{h}')}
+\label{obj6}
+%\vspace{-5mm}
+\end{gather} 
+We follow the dynamic programming approach used in \cite{Rhs:17} to perform efficient inference, and follow the same optimization strategy as described there.
+
+In the decoding phase, we are given a new input sentence $\mathbf{n}$, and find the optimal semantic tree $\mathbf{m}^{\ast}$:
+\begin{align}
+\mathbf{m}^{\ast} 
+%&= \mathop{\arg\max}_{\mathbf{m}} P(\mathbf{m}|\mathbf{n}) \notag \\
+%&=\mathop{\arg\max}_{\mathbf{m}} \sum_{\mathbf{h}\in \mathcal{H}(\mathbf{n},\mathbf{m})}e^{F_{\Lambda, \Theta}(\mathbf{n},\mathbf{m},\mathbf{h})} \notag \\
+%&=\mathop{\arg\max}_{\mathbf{h}\in \mathcal{H}(\mathbf{n},\mathbf{m})}e^{F_{\Lambda, \Theta}(\mathbf{n},\mathbf{m},\mathbf{h})}
+&=\mathop{\arg\max}_{\mathbf{m,h}\in \mathcal{H}(\mathbf{n},\mathbf{m})}{F_{\Lambda, \Theta}(\mathbf{n},\mathbf{m},\mathbf{h})}
+\label{argmax}
+\end{align}
+
+
+\begin{table}[t]
+	\centering
+	\small
+	\resizebox{0.48\textwidth}{!}{\begin{tabular}{|l|cc||l|cc|}
+		\hline
+		%\cline{2-3}
+		& Rank ($d$)  & $F$ &  & Rank ($d$)  & $F$ \\
+		\hline
+		English & 30 & 88.3 &Chinese & 10 & 80.0  \\
+		Thai    & 20 & 85.8 &Indonesian  & 30  & 88.3\\
+		German  & 30 & 78.3 &Swedish  & 20 & 83.3   \\
+		Greek  	& 10 & 81.7 &Farsi  & 10 &  76.7\\
+% 		Chinese & 10 & 80.0 & 80.0  \\
+% 		Indonesian  & 30 & 88.3 & 88.3\\
+% 		Swedish  & 20 & 83.3 & 83.3 \\
+% 		Farsi  & 10 & 76.7 & 76.7\\
+		\hline
+	\end{tabular}}
+	\caption{Performance on development set. $F$: F1-measure (\%).}
+	\label{tab:hyperparameter}
+%     \vspace{-5mm}
+\end{table}
+
+
+\begin{table*}[t!]
+	\centering
+	%\small
+	\resizebox{\textwidth}{!}{\begin{tabular}{|ll|cc|cc|cc|cc|cc|cc|cc|cc|}
+			\hline
+			\multicolumn{2}{|c|}{\multirow{2}{*}{}} &
+			\multicolumn{2}{c|}{English} &
+			\multicolumn{2}{c|}{Thai} & 
+			\multicolumn{2}{c|}{German} &
+			\multicolumn{2}{c|}{Greek}&
+			\multicolumn{2}{c|}{Chinese} &
+			\multicolumn{2}{c|}{Indonesian} & 
+			\multicolumn{2}{c|}{Swedish} &
+			\multicolumn{2}{c|}{Farsi} \\
+			%\cline{2-3}
+			&&  $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ & $Acc.$ & $F$ \\
+			\hline
+			\hline
+			{\textsc{Wasp}} && 71.1&77.7 & 71.4  &  75.0& 65.7&74.9 & 70.7  & 78.6& 48.2&51.6 & 74.6  &  {\bf 79.8}& 63.9&71.5 & 46.8 & 54.1\\
+			{\textsc{HT-g}}   && 76.8&81.0 & 73.6  &  76.7& 62.1&68.5 & 69.3  & 74.6 & 56.1&58.4 & 66.4  &  72.8& 61.4&70.5 & 51.8  & 58.6 \\
+			\textsc{UBL-s}& & 82.1 & 82.1 &66.4& 66.4 &75.0 &75.0 &73.6 &73.7&63.8&63.8&73.8&73.8&78.1&78.1&64.4&64.4\\
+            {\textsc{TreeTrans}}& & 79.3 & 79.3 &78.2 & 78.2 &74.6 &74.6 &75.4 &75.4&-&-&-&-&-&-&-&-\\
+			{\textsc{Seq2Tree}}$\dagger$&& 84.5&-&71.9&-&70.3&-&73.1&-&73.3&-&{\bf 80.7}&-&{\bf 80.8} &-&70.5&-\\
+			SL-{\textsc{Single}} $\dagger$&&83.5&-&72.1&-&69.3&-&74.2&-&74.9&-&79.8&-&77.5&-&72.2&-\\
+			%			SL-M{\small{ULTI}}$\dagger$&& 86.3&-&86.3&-&86.3&-&86.3&-&86.3&-&86.3&-&86.3&-&86.3&-\\
+			\hline
+			\hline
+			\textsc{HT-d}& & {\bf 86.8} &  {\bf 86.8} &{80.7}  &80.7 &{\bf 75.7} &{\bf 75.7} &79.3 &79.3&76.1&76.1&75.0&75.0&{79.3}&{\bf 79.3}&73.9&73.9\\
+			\hdashline
+			\textsc{HT-d} (+\textsc{o})& &86.1 &86.1&{\bf 81.1} &{\bf 81.1} & 73.6&73.6 &{\bf 81.4} &{\bf 81.4}&{\bf 77.9}&{\bf 77.9}&{79.6}&{79.6}&{79.3}&{\bf 79.3}&{\bf 75.7}&{\bf 75.7}\\				%S{\small{EQ}}2S{\small{EQ}}-JL&& 89.3&-&-&-&-&-&-&-&-&-&-&-&-&-&-&-\\
+			%S{\small{EQ}}2S{\small{EQ}}-JL&& 89.3&-&-&-&-&-&-&-&-&-&-&-&-&-&-&-\\
+			%NHT& & 90.0 & 90.0 &84.6 &84.6 &76.8 &76.8&81.1 &81.1\\
+			\hline
+			\hline
+			\multirow{3}{*}{\textsc{HT-d} (\textsc{nn})}  &$J$=0 &  87.9&87.9  &82.1 &82.1 &75.7&75.7 &81.1 &81.1&76.8&76.8&76.1&76.1&81.1&81.1&75.0&75.0\\
+			&$J$=1 &88.6  &88.6 &84.6&84.6  &\textbf{76.8} &\textbf{76.8} &79.6 &79.6&75.4&75.4&78.6&78.6&82.9&82.9&76.1&76.1 \\
+			&$J$=2 & \textbf{90.0} &\textbf{90.0}  &  82.1&82.1  & 73.9&73.9 &80.7 &80.7&81.1&81.1&{81.8}&{81.8}&{\bf83.9}&{\bf83.9}&74.6&74.6\\
+			\hdashline
+			\multirow{3}{*}{\textsc{HT-d} (\textsc{nn}+\textsc{o})} &$J$=0 &{86.1}  &{86.1}   & {83.6} &{83.6}   &{73.9} &{73.9}& 82.1& 82.1&77.9&77.9&81.1&81.1&82.1&82.1&74.6&74.6\\
+			&$J$=1 &86.1 &86.1  &\textbf{86.1}   & \textbf{86.1}   &72.5 &72.5 &80.4 & 80.4&{81.4}&{81.4}&{82.5}&{82.5}&82.5&82.5&75.7&75.7\\
+			&$J$=2 &{89.6}  &{89.6}   &{84.6}  & {84.6}   & {72.1}&{72.1}&\textbf{83.2} &\textbf{83.2}& \textbf{82.1} &\textbf{82.1}& \textbf{83.9}&\textbf{83.9} &{83.6}&{83.6}&\textbf{76.8}&\textbf{76.8}\\
+			\hline
+		\end{tabular}
+	}
+	\caption{Performance on multilingual datasets. $Acc.$: accuracy (\%), $F$: F1-measure (\%). +\textsc{o}: including distributed representations for semantic units as features. ($\dagger$ indicates systems that make use of lambda calculus expressions as meaning representations.)}
+	%	, $\ast$ indicates the best results before using neural architectures, and the best results are in \textbf{bold}. (T{\small{REE}}T{\small{RANS}} are not available for us; $\dagger$ indicates that models adopt lambda calculus as meaning representations, specifically, SL-M{\small{ULTI}} takes as input all training instances in eight languages and generates one predication for semantically equivalent sentences from different lingual corpora.)}
+	\label{tab:model_comparison}
+%    \vspace{-4mm}
+\end{table*}
+
+Again, the above equation can be efficiently computed by dynamic programming \cite{Rhs:17}.
+\label{sec:exp}
+
+\section{Experiments and Results}
+
+\subsection{Datasets and Settings}
+
+We evaluate our approach on the standard GeoQuery dataset annotated in eight languages \cite{WongYW:06,Jones:12,Rhs:17}.
+We follow a standard practice for evaluations which has been adopted in the literature \cite{Luw:14,Luw:15,Rhs:17}.
+Specifically, to evaluate the proposed model, predicted outputs are transformed into Prolog queries.
+An output is considered as correct if answers that queries retrieve from GeoQuery database are the same as the gold ones .
+The dataset consists of 880 instances.
+In all experiments, we follow the experimental settings and procedures in \cite{Luw:14,Luw:15,Rhs:17}.
+In particular, we use 600 instances for training and 280 for test and set the maximum optimization iteration to 150.
+In order to tune the rank $d$, we randomly select 80\% of the training instances for learning and use the rest 20\% for development.
+We report the value of $d$ for each language in Table \ref{tab:hyperparameter} and the F1 scores on the development set.
+%
+%\begin{table}[t]
+%	\centering
+%	\scalebox{0.8}
+%	{\begin{tabular}{|l|cc|cc|}
+%		\hline
+%		&
+%		\multicolumn{2}{c|}{\textsc{HT-d}} &
+%		\multicolumn{2}{c|}{\textsc{HT-d} (+\textsc{o})} \\
+%		%\cline{2-3}
+%		& $F$ & $\Delta$ & $F$ & $\Delta$ \\
+%		\hline
+%		English& 84.3 &-2.5&   84.3&-1.8  \\
+%		Thai &78.9 &-1.8&78.6 & -2.5\\
+%		German & 75.7 & -0.0&73.6  &-0.0\\
+%		Greek &78.6 &-0.7 &81.4  &-0.0\\
+%		Chinese& 71.8 & -4.3&74.3&-3.6  \\
+%		Indonesian &73.9 &-1.1&77.9&-1.7\\
+%		Swedish &77.5 &-1.8&77.9&-1.4\\
+%		Farsi &73.2 &-0.7 &75.7&-0.0\\
+%		\hline
+%		%		average $\Delta$  & &-1.6 & & -1.25 \\
+%		average $\Delta$  & &-1.65 & & -1.37 \\
+%		
+%		\hline
+%		\hline				
+%		&
+%		\multicolumn{2}{c|}{\textsc{HT-d} (\textsc{nn})} &
+%		\multicolumn{2}{c|}{\textsc{HT-d} (\textsc{nn}+\textsc{o})} \\
+%		& $F$ & $\Delta$ & $F$ & $\Delta$ \\
+%		\hline
+%		English& 89.6 & -0.4&88.2  &-1.4  \\
+%		Thai &83.2 &-1.4& 83.6 &-2.5\\
+%		German &76.8 & -0.0 &73.9  &-0.0\\
+%		Greek &80.4 &-0.7 &82.9  &-0.3\\
+%		Chinese& 76.4 & -4.7&80.0&-2.1  \\
+%		Indonesian &81.4 &-0.4& 82.9&-1.0 \\
+%		Swedish &82.1 &-1.8 & 81.8& -1.8\\
+%		Farsi &75.7 &-0.4 &76.8 &-0.0\\
+%		\hline
+%		%		average $\Delta$ &&-1.2  & & -0.825 \\	 	
+%		average $\Delta$ &&-1.22  & &-1.14 \\	 	
+%		\hline
+%	\end{tabular}}
+%	
+%\caption{Performance on synonym datasets. $F$: F1-score (\%), $\Delta$: difference (\%) from original $F$.}
+%	\label{tab:synonym_test}
+%\end{table}
+
+\subsection{Results}
+We compare our models against different existing systems, especially the two baselines \textsc{HT-d} \cite{Luw:15} and \textsc{HT-d} \textsc{(nn)} \cite{Rhs:17} with different word window sizes $J \in \{0,1,2\}$.
+
+{{\textsc{Wasp}} \cite{WongYW:06} is a semantic parser based on statistical phrase-based machine translation.
+%The {\bf{H\small{YBRID}T\small{REE}}} \cite{Luw:08} presents a joint representation involving both input sentence and semantics.
+%The \emph{discriminative hybrid tree} model, \cite{Luw:14} was formalized as a log-linear model that is able to incorporate rich features as well as long-range dependencies.
+%Such a model was extended by introducing constrained semantic forest, {\bf DHT} \cite{Luw:15} and neural architectures {\bf NHT}, \cite{Rhs:17}.
+{{\textsc{UBL-s}}} {\cite{kwiatkowski2010inducing:10}} induced probabilistic CCG grammars with higher-order unification that allowed to construct general logical forms for input sentences.
+{T{\small{REE}}T{\small{RANS}}} \cite{Jones:12} is built based on a Bayesian inference framework.
+%We rerun \textbf{W{\small{ASP}}}, \textbf{H{\small{YBRID}}T{\small{REE+}}}, and \textbf{UBL-s} on four newly-released datasets (Chinese, Indonesian, Swedish and Farsi) \cite{Rhs:17}.
+%The experiments of three systems, \textbf{S{\small{EQ}}2T{\small{REE}}}, \textbf{SL-S{\small{INGLE}}}, \textbf{SL-M{\small{ULTI}}}, are repeated 3 times with different random seed values, since we found, through experiments, that the results are heavily affected by random seeds.
+%Following previous work \cite{P17-2007}, we report the average accuracies for such three models.
+% We run {{\textsc{UBL-s}}}, {\textsc{HT-g}}, {\textsc{UBL-s}}, {S{\small{EQ}}2T{\small{REE}}} and {SL-S{\small{INGLE}}} on the multilingual dataset for comparisons.
+We run {{\textsc{Wasp}}}, {{\textsc{UBL-s}}}, {\textsc{HT-g}}, {\textsc{UBL-s}}, \textsc{Seq2Tree} and \textsc{SL-Single} \footnote{
+	Note that in \newcite{P16-1004}, they adopted a different split -- using 680 instances as training examples and the rest 200 for evaluation.
+	We ran the released source code for \textsc{Seq2Tree} \cite{P16-1004} over eight different languages.
+	For each language, we repeated the experiments 3 times with different random seed values, and reported the average results as shown in Table \ref{tab:model_comparison} to make comparisons.
+	Likewise, we ran \textsc{SL-Single} following the same procedure.} for comparisons.
+Note that there exist multiple versions of logical representations used in the \textsc{GeoQuery} dataset.
+Specifically, one version is based on lambda calculus expression, and the other is based on the variable free tree-shaped representation.
+We use the latter representation in this work, while the {\textsc{Seq2Tree}} and {SL-{\textsc{Single}} employ the lambda calculus expression.
+%Note that there are various kinds of logical forms used to represent meaning, in this work, we use tree-shaped structures, while the {S{\small{EQ}}2T{\small{REE}}} and {SL-S{\small{INGLE}}} employ lambda calculus.
+It was noted in \newcite{kwiatkowski2010inducing:10,Luw:14} that evaluations based on these two versions are not directly comparable -- the version that uses tree-shaped representations appears to be more challenging.
+%\footnote
+{We do not compare against \cite{ZMJie:14} due to their different setup from ours.\footnote{
+They trained monolingual semantic parsers. In the evaluation phase, they fed parallel text from different languages to each individual semantic parser, then employed a majority voting based ensemble method to combine predictions. Differently, we train monolingual semantic parsers augmented with cross-lingual distributed semantic information. In the evaluation phase, we only have one monolingual semantic parser. Hence, these two efforts are not directly comparable.
+}
+\begin{figure*}[t]
+	\centering
+	\scalebox{1.02}{
+\includegraphics[width=13.0cm,height=6.8cm]{embedding_bold.eps}
+}
+%\vspace{-3mm}
+\caption{2-D projection of learned distributed representations for semantics.}
+	\label{fig:embedding}
+	\vspace{-4mm}
+\end{figure*}
+
+
+Table \ref{tab:model_comparison} shows results that we have conducted on eight different languages.
+The highest scores are highlighted.
+We can observe that when distributed logical representations are included, both \textsc{HT-d} and \textsc{HT-d} (\textsc{nn}) can lead to competitive results.
+Specifically, when such features are included, evaluation results for 5 out of 8 languages get improved.
+
+\textcolor{black}{We found that the shared information cross different languages could guide the model so that it can make more accurate predictions,
+eliminating certain semantic level ambiguities associated with the semantic units.
+%This is especially the case when certain semantic ambiguity of semantic units makes the system confused,
+%such as the following two semantic units \textsc{River} : \emph{traverse} (\textsc{State}) and \textsc{State} : \emph{loc} (\textsc{River}).
+This is exemplified by a real instance from the English portion of the dataset:}
+\begin{table}[h]
+%	\vspace{-1mm}
+	\centering
+	\scalebox{0.86}
+	{
+		
+		\begin{tabular}{ll}
+%			\hline 
+			{Input}:& Which states have a river? \\
+			{Gold}:& $answer(state(loc(river(all))))$ \\
+			\hline
+			{Output}:& $answer(state(traverse(river(all))))$ \\
+			{Output \textsc{(+o)}}:& $answer(state(loc(river(all))))$ \\
+%			\hline        
+		\end{tabular}
+	}
+%	\caption{Two examples of arithmetic word problem described in English associated with answers.}
+	\label{tab:problem_definition}
+\end{table}
+
+%\noindent
+\textcolor{black}{Here  the input sentence in English is ``Which states have a river?", and the correct output is shown below the sentence.
+% stands for the true meaning representation of such a sentence available from dataset, 
+Output is the prediction from \textsc{HT-d (nn)} and Output (\textsc{+o}) is the parsing result given by \textsc{HT-d (nn+o)} where the learned cross-lingual representations of semantics are included.
+We observe that, by introducing our learned cross-lingual semantic information, the system is able to distinguish the two semantically related concepts, ${loc}$ (located in) and ${traverse}$ (traverse), and further make more promising predictions.}
+%It also helps the system distinguish semantics with opposite meanings, such as semantic units containing \emph{smallest} and \emph{largest}.
+
+Interestingly, for German, the results become much lower when such features are included,
+indicating such features are not helpful in the learning process when such a language is considered.
+Reasons for this need further investigations. We note, however, previously it was also reported in the literature that the behavior of the performance associated with this language is different than other languages in the presence of additional features \cite{Luw:14}.
+
+%\subsection{Robustness Test}
+%\textcolor{red}{We analyze the robustness of models on synthetically synonymous datasets which are created from the original datasets \cite{Rhs:17}.
+%Table \ref{tab:synonym_test} compares the performance of \textsc{HT-d}, \textsc{HT-d} \textsc{(nn)} before and after integrating output features.
+%We use the J with best performance for both \textsc{HT-d} (\textsc{nn}) and \textsc{HT-d} \textsc{(nn+o)}.
+%It is expected that the performance drops after switching to synonym datasets, since replacing words with synonyms often introduces out-of-vocabulary (OOV) words.
+%The average drop in performance ($F_1$ score) shows that integrating output features can strength the robustness of models.
+%Especially, we highlight that the performance of \textsc{HT-d (+o)} on Greek and Farsi as well as \textsc{HT-d(nn+o)} on Farsi maintain the same.}
+\subsection{Visualizing Output Representations}
+
+To qualitatively understand how good the learned distributed representations are, we also visualize the learned distributed representations for semantic units.
+In the Figure \ref{fig:embedding}, we plot the embeddings of a small set of semantic units which are learned from all languages other than English.
+Each representation is a 30-dimensional vector and is projected into a 2-dimensional space using Barnes-Hut-SNE \cite{maaten2013barnes} for visualization.
+In general, we found that semantic units expressing similar meanings tend to appear together. For example, the two semantic units {S{\small{TATE}} : $smallest\_one$ ( $density$ (S{\small{TATE}}))} and {S{\small{TATE}} : $smallest\_one$ ( $population$ (S{\small{TATE}}))} share similar representations.
+However, we also found that occasionally semantic units conveying opposite meanings are also grouped together.
+This reveals the limitations associated with such a simple co-occurrence based approach for learning distributed representations for logical expressions.
+
+\section{Conclusions}
+
+In this paper, we empirically show that the distributed representations of logical expressions learned from multilingual datasets for semantic parsing can be exploited to improve the performance of a monolingual semantic parser.
+Our approach is simple, relying on an SVD over semantics-word co-occurrence matrix for finding such distributed representations for semantic units.
+Future directions include investigating better ways of learning such distributed representations as well as learning such distributed representations and semantic parsers in a joint manner.
+
+\section*{Acknowledgments}
+We would like to thank the three anonymous ACL reviewers for their thoughtful and constructive comments.
+We would also like to thank Raymond H. Susanto for his help on this work.
+%This work is supported by Singapore Ministry of Education Academic Research Fund (AcRF) Tier 2 Project MOE2017-T2-1-156.
+This work is supported by Singapore Ministry of Education Academic Research Fund (AcRF) Tier 2 Project MOE2017-T2-1-156, and is partially supported by Singapore Ministry of Education Academic Research Fund (AcRF) Tier 1 SUTDT12015008.
+\bibliography{semantic_embedding}
+\bibliographystyle{acl_natbib}
+
+%\appendix
+%
+%\section{Supplemental Material}
+%\label{sec:supplemental}
+%
+%\section{Multiple Appendices}
+
+\end{document}

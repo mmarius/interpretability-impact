@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Transliteration Better than Translation? Answering Code-mixed Questions over a Knowledge Base
+ShortPaperTitle#=%=#Answering Code-mixed Questions over a Knowledge Base
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Vishal Gupta
+JobTitle#==#
+Organization#==#International Institute of Information Technology
+Gachibowli, Hyderabad 500 032
+Telangana, INDIA
+Abstract#==#Humans can learn multiple languages. If they know a fact in one language, they can answer a question in another language they understand. They can also answer Code-mix (CM) questions: questions which contain both languages. This behavior is attributed to the unique learning ability of humans. Our task aims to study if machines can achieve this. We demonstrate how effectively a machine can answer CM questions. In this work, we adopt a two phase approach: candidate generation and candidate re-ranking to answer questions. We propose a Triplet-Siamese-Hybrid CNN (TSHCNN) to re-rank candidate answers. We show experiments on the SimpleQuestions dataset. Our network is trained only on English questions provided in this dataset and noisy Hindi translations of these questions and can answer English-Hindi CM questions effectively without the need of translation into English. Back-transliterated CM questions outperform their lexical and sentence level translated counterparts by 5% & 35% in accuracy respectively, highlighting the efficacy of our approach in a resource constrained setting.
+Author{1}{Firstname}#=%=#Vishal
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#vishal.gupta@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Manoj
+Author{2}{Lastname}#=%=#Chinnakotla
+Author{2}{Email}#=%=#manoj.chinnakotla@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Manish
+Author{3}{Lastname}#=%=#Shrivastava
+Author{3}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+
+==========

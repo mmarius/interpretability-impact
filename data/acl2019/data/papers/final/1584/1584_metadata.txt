@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1584
+FinalPaperTitle#=%=#Learning Thematic Similarity Metric from Article Sections Using Triplet Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Liat Ein Dor
+JobTitle#==#
+Organization#==#Haifa University Campus, Mount Carmel Haifa, 3498825, Israel.
+Abstract#==#In this paper we suggest to leverage the partition of articles into sections, in order to learn thematic similarity metric between sentences. We assume that a sentence is thematically closer to sentences within its section than to sentences from other sections. Based on this assumption, we use Wikipedia articles to automatically create a large dataset of weakly labeled sentence triplets, composed of a pivot sentence, one sentence from the same section and one from another section. We train a triplet network to embed sentences from the same section closer. To test the performance of the learned embeddings, we create and release a sentence clustering benchmark. We show that the triplet network learns useful thematic metrics, that significantly outperform state-of-the-art semantic similarity methods and multipurpose embeddings on the task of thematic clustering of sentences. We also show that the learned embeddings perform well on the task of sentence semantic similarity prediction.
+Author{1}{Firstname}#=%=#Liat
+Author{1}{Lastname}#=%=#Ein Dor
+Author{1}{Email}#=%=#liate@il.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Yosi
+Author{2}{Lastname}#=%=#Mass
+Author{2}{Email}#=%=#yosimass@il.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Alon
+Author{3}{Lastname}#=%=#Halfon
+Author{3}{Email}#=%=#alonhal@il.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Elad
+Author{4}{Lastname}#=%=#Venezian
+Author{4}{Email}#=%=#eladv@il.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Ilya
+Author{5}{Lastname}#=%=#Shnayderman
+Author{5}{Email}#=%=#ilyashn@il.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research
+Author{6}{Firstname}#=%=#Ranit
+Author{6}{Lastname}#=%=#Aharonov
+Author{6}{Email}#=%=#ranita@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+Author{7}{Firstname}#=%=#Noam
+Author{7}{Lastname}#=%=#Slonim
+Author{7}{Email}#=%=#noams@il.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research
+
+==========

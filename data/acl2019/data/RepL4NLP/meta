@@ -1,0 +1,18 @@
+abbrev W18-30
+type Workshop
+title The Third Workshop on Representation Learning for NLP
+url https://sites.google.com/site/repl4nlp2018/home?authuser=0
+booktitle Proceedings of The Third Workshop on Representation Learning for NLP
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Isabelle Augenstein (University of Copenhagen)
+chairs Kris Cao (University of Cambridge)
+chairs He He (Stanford University)
+chairs Felix Hill (DeepMind)
+chairs Spandana Gella (University of Edinburgh)
+chairs Jamie Kiros (University of Toronto)
+chairs Hongyuan Mei (Johns Hopkins University)
+chairs Dipendra Misra (Cornell University)
+bib_url http://www.aclweb.org/anthology/W18-30%02d

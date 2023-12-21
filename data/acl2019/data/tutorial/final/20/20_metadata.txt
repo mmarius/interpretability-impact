@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Connecting Language and Vision to Actions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#A long-term goal of AI research is to build intelligent agents that can see the
+rich visual environment around us, communicate this understanding in natural
+language to humans and other agents, and act in a physical or embodied
+environment. To this end, recent advances at the intersection of language and
+vision have made incredible progress -- from being able to generate natural
+language descriptions of images/videos, to answering questions about them, to
+even holding free-form conversations about visual content! However, while these
+agents can passively describe images or answer (a sequence of) questions about
+them, they cannot act in the world (what if I cannot answer a question from my
+current view, or I am asked to move or manipulate something?). Thus, the
+challenge now is to extend this progress in language and vision to embodied
+agents that take actions and actively interact with their visual environments.
+To reduce the entry barrier for new researchers, this tutorial will provide an
+overview of the growing number of multimodal tasks and datasets that combine
+textual and visual understanding. We will comprehensively review existing
+state-of-the-art approaches to selected tasks such as image captioning, visual
+question answering (VQA) and visual dialog, presenting the key architectural
+building blocks (such as co-attention) and novel algorithms (such as
+cooperative/adversarial games) used to train models for these tasks. We will
+then discuss some of the current and upcoming challenges of combining language,
+vision and actions, and introduce some recently-released interactive 3D
+simulation environments designed for this purpose.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Anderson
+Author{1}{Email}#=%=#peter.anderson@anu.edu.au
+Author{1}{Affiliation}#=%=#Australian National University
+Author{2}{Firstname}#=%=#Abhishek
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#abhshkdz@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Tech
+Author{3}{Firstname}#=%=#Qi
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#qi.wu01@adelaide.edu.au
+Author{3}{Affiliation}#=%=#University of Adelaide
+
+==========

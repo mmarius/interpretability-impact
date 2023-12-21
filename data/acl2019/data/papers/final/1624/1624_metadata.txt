@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1624
+FinalPaperTitle#=%=#Named Entity Recognition With Parallel Recurrent Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Andrej Zukov Gregoric
+JobTitle#==#
+Organization#==#DigitalGenius, 1 Canada Square, London E14 5AB
+Abstract#==#We present a new architecture for named entity recognition. Our model employs
+multiple independent bidirectional LSTM units across the same input and
+promotes diversity among them by employing an inter-model regularization term.
+By distributing computation across multiple smaller LSTMs we find a significant
+reduction in the total number of parameters. We find our architecture achieves
+state-of-the-art performance on the CoNLL 2003 NER dataset.
+Author{1}{Firstname}#=%=#Andrej
+Author{1}{Lastname}#=%=#Zukov Gregoric
+Author{1}{Email}#=%=#andrejzukovgregoric@gmail.com
+Author{1}{Affiliation}#=%=#Royal Holloway, University of London
+Author{2}{Firstname}#=%=#Yoram
+Author{2}{Lastname}#=%=#Bachrach
+Author{2}{Email}#=%=#yorambac@gmail.com
+Author{2}{Affiliation}#=%=#DigtalGenius Ltd.
+Author{3}{Firstname}#=%=#Sam
+Author{3}{Lastname}#=%=#Coope
+Author{3}{Email}#=%=#sam@digitalgenius.com
+Author{3}{Affiliation}#=%=#DigitalGenius
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#127
+FinalPaperTitle#=%=#Chinese Grammatical Error Diagnosis Based on Policy Gradient LSTM Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ji Qi
+JobTitle#==#
+Organization#==#Communication University of China
+Abstract#==#Chinese Grammatical Error Diagnosis (CGED) is a natural language processing task for the NLPTEA2018 workshop held during ACL2018. The goal of this task is to diagnose Chinese sentences containing four kinds of grammatical errors through the model and find out the sentence errors. Chinese grammatical error diagnosis system is a very important tool, which can help Chinese learners automatically diagnose grammatical errors in many scenarios. However, due to the limitations of the Chinese language's own characteristics and datasets, the traditional model faces the problem of extreme imbalances in the positive and negative samples and the disappearance of gradients. In this paper, we propose a sequence labeling method based on the Policy Gradient LSTM model and apply it to this task to solve the above problems. The results show that our model can achieve higher precision scores in the case of lower False positive rate (FPR) and it is convenient to optimize the model on-line.
+Author{1}{Firstname}#=%=#Changliang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#changliang.li@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of automation,Chinese academy of sciences
+Author{2}{Firstname}#=%=#Ji
+Author{2}{Lastname}#=%=#Qi
+Author{2}{Email}#=%=#ji.qi@cuc.edu.cn
+Author{2}{Affiliation}#=%=#Communication University of China
+
+==========

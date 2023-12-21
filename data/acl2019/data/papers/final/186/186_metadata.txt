@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#186
+FinalPaperTitle#=%=#TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Alexander R. Fabbri
+JobTitle#==#
+Organization#==#Yale University Computer Science Department 51 Prospect St, New Haven, CT 06511
+Abstract#==#The field of Natural Language Processing (NLP) is growing rapidly, with new research published daily along with an abundance of tutorials, codebases and other online resources. In order to learn this dynamic field or stay up-to-date on the latest research, students as well as educators and researchers must constantly sift through multiple sources to find valuable, relevant information. To address this situation, we introduce TutorialBank, a new, publicly available dataset which aims to facilitate NLP education and research. We have manually collected and categorized over 5,600 resources on NLP as well as the related fields of Artificial Intelligence (AI), Machine Learning (ML) and Information Retrieval (IR). Our dataset is notably the largest manually-picked corpus of resources intended for NLP education which does not include only academic papers. Additionally, we have created both a search engine and a command-line tool for the resources and have annotated the corpus to include lists of research topics, relevant resources for each topic, prerequisite relations among topics, relevant sub-parts of individual resources, among other annotations. We are releasing the dataset and present several avenues for further research.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Fabbri
+Author{1}{Email}#=%=#alexander.fabbri@yale.edu
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Irene
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#irene.li@yale.edu
+Author{2}{Affiliation}#=%=#PhD Student
+Author{3}{Firstname}#=%=#Prawat
+Author{3}{Lastname}#=%=#Trairatvorakul
+Author{3}{Email}#=%=#prawat.trairatvorakul@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Yijiao
+Author{4}{Lastname}#=%=#He
+Author{4}{Email}#=%=#yijiao.he@yale.edu
+Author{4}{Affiliation}#=%=#Yale University
+Author{5}{Firstname}#=%=#Weitai
+Author{5}{Lastname}#=%=#Ting
+Author{5}{Email}#=%=#weitai.ting@yale.edu
+Author{5}{Affiliation}#=%=#Yale University
+Author{6}{Firstname}#=%=#Robert
+Author{6}{Lastname}#=%=#Tung
+Author{6}{Email}#=%=#robert.tung@yale.edu
+Author{6}{Affiliation}#=%=#Yale University
+Author{7}{Firstname}#=%=#Caitlin
+Author{7}{Lastname}#=%=#Westerfield
+Author{7}{Email}#=%=#caitlin.westerfield@yale.edu
+Author{7}{Affiliation}#=%=#Yale University
+Author{8}{Firstname}#=%=#Dragomir
+Author{8}{Lastname}#=%=#Radev
+Author{8}{Email}#=%=#dragomir.radev@yale.edu
+Author{8}{Affiliation}#=%=#Yale University
+
+==========

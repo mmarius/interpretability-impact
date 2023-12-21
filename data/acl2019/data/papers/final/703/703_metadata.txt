@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#703
+FinalPaperTitle#=%=#The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Roi Reichart
+JobTitle#==#
+Organization#==#Faculty of Industrial Engineering and Management, Technion, IIT, Haifa, 3200003
+Abstract#==#Statistical significance testing is a standard statistical
+tool designed to ensure that experimental
+results are not coincidental. In this opinion/
+theoretical paper we discuss the role of statistical
+significance testing in Natural Language Processing
+(NLP) research. We establish the fundamental
+concepts of significance testing and discuss
+the specific aspects of NLP tasks, experimental setups
+and evaluation measures that affect the choice
+of significance tests in NLP research. Based on
+this discussion we propose a simple practical protocol
+for statistical significance test selection in
+NLP setups and accompany this protocol with a
+brief survey of the most relevant tests. We then
+survey recent empirical papers published in ACL
+and TACL during 2017 and show that while our
+community assigns great value to experimental results,
+statistical significance testing is often ignored
+or misused. We conclude with a brief discussion
+of open issues that should be properly addressed
+so that this important tool can be applied.
+in NLP research in a statistically sound manner.
+Author{1}{Firstname}#=%=#Rotem
+Author{1}{Lastname}#=%=#Dror
+Author{1}{Email}#=%=#rtmdrr@gmail.com
+Author{1}{Affiliation}#=%=#Technion
+Author{2}{Firstname}#=%=#Gili
+Author{2}{Lastname}#=%=#Baumer
+Author{2}{Email}#=%=#gili.baumer@gmail.com
+Author{2}{Affiliation}#=%=#Technion
+Author{3}{Firstname}#=%=#Segev
+Author{3}{Lastname}#=%=#Shlomov
+Author{3}{Email}#=%=#segev1987@gmail.com
+Author{3}{Affiliation}#=%=#Technion
+Author{4}{Firstname}#=%=#Roi
+Author{4}{Lastname}#=%=#Reichart
+Author{4}{Email}#=%=#roireichart@gmail.com
+Author{4}{Affiliation}#=%=#Technion - Israel Institute of Technology
+
+==========

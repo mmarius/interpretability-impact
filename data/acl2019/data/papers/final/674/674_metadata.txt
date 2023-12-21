@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#674
+FinalPaperTitle#=%=#Automatic Metric Validation for Grammatical Error Correction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Leshem Choshen
+JobTitle#==#
+Organization#==#Hebrew University of Jerusalem
+Abstract#==#Metric validation in Grammatical Error Correction (GEC) is currently done by
+observing
+  the correlation between human and metric-induced rankings. 
+        However, such correlation studies are costly, 
+  methodologically troublesome, and suffer from low inter-rater agreement.
+  We propose \maege, an automatic methodology for GEC metric validation,
+  that overcomes many of the difficulties in the existing methodology.
+  Experiments with \maege\ shed a new light on metric quality, 
+  showing for example that the standard $M^2$ metric fares poorly on
+corpus-level ranking.
+        Moreover, we use \maege\ to perform a detailed analysis of metric
+        behavior, showing that some types of valid edits are consistently
+  penalized by existing metrics.
+Author{1}{Firstname}#=%=#Leshem
+Author{1}{Lastname}#=%=#Choshen
+Author{1}{Email}#=%=#leshem.choshen@mail.huji.ac.il
+Author{1}{Affiliation}#=%=#Hebrew University Jerusalem Israel
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+
+==========

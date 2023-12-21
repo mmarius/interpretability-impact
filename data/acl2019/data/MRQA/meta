@@ -1,0 +1,15 @@
+abbrev W18-26
+type Workshop
+title Workshop on Machine Reading for Question Answering
+url http://mrqa2018.github.io/
+booktitle Proceedings of the Workshop on Machine Reading for Question Answering
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Eunsol Choi (University of Washington)
+chairs Minjoon Seo (NAVER & University of Washington)
+chairs Danqi Chen (Stanford University)
+chairs Robin Jia (Stanford University)
+chairs Jonathan Berant (Tel-Aviv University)
+bib_url http://www.aclweb.org/anthology/W18-26%02d

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#217
+FinalPaperTitle#=%=#Paper Abstract Writing through Editing Mechanism
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Qingyun Wang
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute, 110 Eighth Street,  Troy, NY USA
+Abstract#==#We present a paper abstract writing system based on an attentive neural sequence-to-sequence model that can take a title as input and automatically generate an abstract. We design a novel Writing-editing Network that can attend to both the title and the previously generated abstract drafts and then iteratively revise and polish the abstract. With two series of Turing tests, where the human judges are asked to distinguish the system-generated abstracts from human-written ones, our system passes Turing tests by junior domain experts at a rate up to 30% and by non-expert at a rate up to 80%.
+Author{1}{Firstname}#=%=#Qingyun
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangq16@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Zhihao
+Author{2}{Lastname}#=%=#Zhou
+Author{2}{Email}#=%=#zhouz5@rpi.edu
+Author{2}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{3}{Firstname}#=%=#Lifu
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#warrior.fu@gmail.com
+Author{3}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{4}{Firstname}#=%=#Spencer
+Author{4}{Lastname}#=%=#Whitehead
+Author{4}{Email}#=%=#whites5@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{5}{Firstname}#=%=#Boliang
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#boliangzhang85@gmail.com
+Author{5}{Affiliation}#=%=#Rensselaer Polytechnic Institue
+Author{6}{Firstname}#=%=#Heng
+Author{6}{Lastname}#=%=#Ji
+Author{6}{Email}#=%=#jih@rpi.edu
+Author{6}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{7}{Firstname}#=%=#Kevin
+Author{7}{Lastname}#=%=#Knight
+Author{7}{Email}#=%=#knight@isi.edu
+Author{7}{Affiliation}#=%=#USC/ISI
+
+==========

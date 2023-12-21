@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#The Role of Syntax During Pronoun Resolution: Evidence from fMRI
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jixing Li
+JobTitle#==#
+Organization#==#Cornell University, Ithaca, New York
+Abstract#==#The current study examined the role of syntactic structure during pronoun resolution. We correlated complexity measures derived by the syntax-sensitive Hobbs algorithm
+and a neural network model for pronoun resolution with brain activity of participants listening to an audiobook during fMRI recording. Compared to the neural network model, the Hobbs algorithm is associated with larger clusters of brain activation in a network including the left
+Broca’s area.
+Author{1}{Firstname}#=%=#Jixing
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#jl2939@cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Murielle
+Author{2}{Lastname}#=%=#Fabre
+Author{2}{Email}#=%=#mf684@cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+Author{3}{Firstname}#=%=#Wen-Ming
+Author{3}{Lastname}#=%=#Luh
+Author{3}{Email}#=%=#wl358@cornell.edu
+Author{3}{Affiliation}#=%=#Cornell University
+Author{4}{Firstname}#=%=#John
+Author{4}{Lastname}#=%=#Hale
+Author{4}{Email}#=%=#jthale@cornell.edu
+Author{4}{Affiliation}#=%=#Cornell University and Google DeepMind
+
+==========

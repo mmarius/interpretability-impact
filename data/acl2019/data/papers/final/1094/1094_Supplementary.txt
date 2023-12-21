@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>test_case</DOCID>
+<DCT><TIMEX3 tid="t0" type="DATE" value="2018-05-01" temporalFunction="false" functionInDocument="CREATION_TIME">20180501</TIMEX3></DCT>
+
+
+John <EVENT eid="e1" class="OCCURRENCE">met</EVENT> Mary in Massachusetts when they <EVENT eid="e2" class="OCCURRENCE">attended</EVENT> the same university. They are <EVENT eid="e3" class="OCCURRENCE">getting married</EVENT> in <TIMEX3 tid="t1" type="DATE" value="2019">2019</TIMEX3>, 2 years after their <EVENT eid="e4" class="OCCURRENCE">graduation</EVENT>. But <TIMEX3 tid="t2" type="DATE" value="2018">this year</TIMEX3>, they have <EVENT eid="e5" class="ASPECTUAL">relocated</EVENT> to New Hampshire.
+
+<MAKEINSTANCE eiid="ei1" eventID="e1" pos="VERB" tense="NONE" />
+<MAKEINSTANCE eiid="ei2" eventID="e2" pos="VERB" tense="NONE" />
+<MAKEINSTANCE eiid="ei3" eventID="e3" pos="VERB" tense="NONE" />
+<MAKEINSTANCE eiid="ei4" eventID="e4" pos="VERB" tense="NONE" />
+<MAKEINSTANCE eiid="ei5" eventID="e5" pos="VERB" tense="NONE" />
+
+<TLINK eventInstanceID="ei1" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1" lid="l2" relType="IS_INCLUDED" relatedToEventInstance="e2"/>
+<TLINK eventInstanceID="ei2" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2" lid="l4" relType="BEFORE" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei2" lid="l5" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei3" lid="l6" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei3" lid="l7" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei3" lid="l8" relType="AFTER" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei3" lid="l9" relType="AFTER" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei3" lid="l10" relType="AFTER" relatedToEventInstance="ei5"/>
+<TLINK eventInstanceID="ei4" lid="l11" relType="AFTER" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei4" lid="l12" relType="BEFORE" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei4" lid="l13" relType="BEFORE" relatedToEventInstance="ei5"/>
+<TLINK eventInstanceID="ei4" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei4" lid="l15" relType="BEFORE" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei5" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei5" lid="l17" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK timeID="t1" lid="l18" relType="AFTER" relatedToTime="t0"/>
+<TLINK timeID="t1" lid="l19" relType="AFTER" relatedToEventInstance="ei1"/>
+<TLINK timeID="t1" lid="l20" relType="AFTER" relatedToEventInstance="ei2"/>
+<TLINK timeID="t1" lid="l21" relType="AFTER" relatedToEventInstance="ei4"/>
+<TLINK timeID="t1" lid="l22" relType="AFTER" relatedToEventInstance="ei5"/>
+<TLINK timeID="t2" lid="l23" relType="BEFORE" relatedToTime="t1"/>
+<TLINK timeID="t2" lid="l24" relType="INCLUDES" relatedToTime="t0"/>
+</TimeML>
+
+

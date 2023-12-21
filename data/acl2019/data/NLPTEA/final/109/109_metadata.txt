@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#109
+FinalPaperTitle#=%=#MULLE: A grammar-based Latin language learning tool to supplement the classroom setting
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Herbert Lange
+JobTitle#==#
+Organization#==#Institutionen för data- och informationsteknik, Chalmers tekniska högskola AB, 412 96 Göteborg
+Abstract#==#MULLE is a tool for language learning that focuses on teaching Latin as a foreign language. It is aimed for easy integration into the traditional classroom setting and syllabus, which makes it distinct from other language learning tools that provide standalone learning experience. It uses grammar-based lessons and embraces methods of gamification to improve the learner motivation. The main type of exercise provided by our application is to practice translation, but it is also possible to shift the focus to vocabulary or morphology training.
+Author{1}{Firstname}#=%=#Herbert
+Author{1}{Lastname}#=%=#Lange
+Author{1}{Email}#=%=#herbert.lange@cse.gu.se
+Author{1}{Affiliation}#=%=#Göteborgs Universitet
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Ljunglöf
+Author{2}{Email}#=%=#peter.ljunglof@gu.se
+Author{2}{Affiliation}#=%=#University of Gothenburg and Chalmers University of Technology
+
+==========

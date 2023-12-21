@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1095
+FinalPaperTitle#=%=#Joint Reasoning for Temporal and Causal Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qiang Ning
+JobTitle#==#
+Organization#==#UIUC
+Abstract#==#Understanding temporal and causal relations between events is a fundamental natural language understanding task. Because a cause must occur earlier than its effect, temporal and causal relations are closely related and one relation often dictates the value of the other. However, limited attention has been paid to studying these two relations jointly. This paper presents a joint inference framework for them using constrained conditional models (CCMs). Specifically, we formulate the joint problem as an integer linear programming (ILP) problem, enforcing constraints that are inherent in the nature of time and causality. We show that the joint inference framework results in statistically significant improvement in the extraction of both temporal and causal relations from text.
+Author{1}{Firstname}#=%=#Qiang
+Author{1}{Lastname}#=%=#Ning
+Author{1}{Email}#=%=#qning2@illinois.edu
+Author{1}{Affiliation}#=%=#Univ. of Illinois, Urbana-Champaign
+Author{2}{Firstname}#=%=#Zhili
+Author{2}{Lastname}#=%=#Feng
+Author{2}{Email}#=%=#zfeng49@cs.wisc.edu
+Author{2}{Affiliation}#=%=#University of Wisconsin – Madison
+Author{3}{Firstname}#=%=#Hao
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#haowu4@seas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Roth
+Author{4}{Email}#=%=#danr@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois
+
+==========

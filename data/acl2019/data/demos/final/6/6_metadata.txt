@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#NovelPerspective: Identifying Point of View Characters
+ShortPaperTitle#=%=#NovelPerspective: Identifying POV Characters
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lyndon White
+JobTitle#==#
+Organization#==#The University of Western Australia
+35 Stirling Highway
+Crawley, Western Australia
+Abstract#==#We present NovelPerspective: a tool to allow consumers to subset their digital literature, based on point of view (POV) character.
+Many novels have multiple main characters each with their own storyline running in parallel.
+A well-known example is George R. R. Martin's  novel: ``A Game of Thrones'', and others from that series.
+Our tool detects the main character that each section is from the POV of,
+and allows the user to generate a new ebook with only those sections.
+This gives consumers new options in how they consume their media; allowing them to  pursue the storylines sequentially, or skip chapters about characters they find boring.
+We present two heuristic-based baselines, and two machine learning based methods for the detection of the main character.
+Author{1}{Firstname}#=%=#Lyndon
+Author{1}{Lastname}#=%=#White
+Author{1}{Email}#=%=#lyndon.white@research.uwa.edu.au
+Author{1}{Affiliation}#=%=#The University of Western Australia
+Author{2}{Firstname}#=%=#Roberto
+Author{2}{Lastname}#=%=#Togneri
+Author{2}{Email}#=%=#roberto.togneri@uwa.edu.au
+Author{2}{Affiliation}#=%=#The University of Western Australia
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#wei.liu@uwa.edu.au
+Author{3}{Affiliation}#=%=#The University of Western Australia
+Author{4}{Firstname}#=%=#Mohammed
+Author{4}{Lastname}#=%=#Bennamoun
+Author{4}{Email}#=%=#mohammed.bennamoun@uwa.edu.au
+Author{4}{Affiliation}#=%=#The University of Western Australia
+
+==========

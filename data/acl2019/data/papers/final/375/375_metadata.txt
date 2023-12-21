@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#375
+FinalPaperTitle#=%=#Using pseudo-senses for improving the extraction of synonyms from word embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Olivier Ferret
+JobTitle#==#
+Organization#==#CEA LIST - CEA Saclay Nano-INNOV, Point courrier n°173, 91191 Gif sur Yvette CEDEX
+Abstract#==#The methods proposed recently for specializing word embeddings according to a
+particular perspective generally rely on external knowledge. In this article,
+we propose Pseudofit, a new method for specializing word embeddings according
+to semantic similarity without any external knowledge. Pseudofit exploits the
+notion of pseudo-sense for building several representations for each word and
+uses these representations for making the initial embeddings more generic. We
+illustrate the interest of Pseudofit for acquiring synonyms and study several
+variants of Pseudofit according to this perspective.
+Author{1}{Firstname}#=%=#Olivier
+Author{1}{Lastname}#=%=#Ferret
+Author{1}{Email}#=%=#olivier.ferret@cea.fr
+Author{1}{Affiliation}#=%=#CEA LIST
+
+==========

@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Supervised Treebank Conversion: Data and Approaches
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhenghua Li
+JobTitle#==#
+Organization#==#Soochow University
+Abstract#==#Treebank conversion is a straightforward and effective way to exploit 
+various heterogeneous treebanks for boosting parsing performance.
+However, previous work mainly focuses on unsupervised treebank 
+conversion and has made little progress due to the lack of manually 
+labeled data where each sentence has two syntactic trees complying 
+with two different guidelines at the same time, referred as 
+bi-tree aligned data. 
+
+In this work, we for the first time propose the task of supervised treebank
+conversion. First, we manually construct a bi-tree aligned dataset containing
+over ten thousand sentences. Then, we propose two simple yet effective
+conversion
+approaches (pattern embedding and treeLSTM) based on the state-of-the-art deep
+biaffine parser. Experimental results show that 1) the two conversion
+approaches achieve comparable conversion accuracy, and 2) treebank conversion
+is  superior to the widely used multi-task learning framework in multi-treebank
+exploitation and leads to significantly higher parsing accuracy.
+Author{1}{Firstname}#=%=#Xinzhou
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#381542235@qq.com
+Author{1}{Affiliation}#=%=#soochow university
+Author{2}{Firstname}#=%=#Zhenghua
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#zhli13@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Bo
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#1477865955@qq.com
+Author{3}{Affiliation}#=%=#soochow university
+Author{4}{Firstname}#=%=#Min
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#minzhang@suda.edu.cn
+Author{4}{Affiliation}#=%=#Suda
+Author{5}{Firstname}#=%=#Sheng
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#lisheng.ls@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba
+Author{6}{Firstname}#=%=#Luo
+Author{6}{Lastname}#=%=#Si
+Author{6}{Email}#=%=#luo.si@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#German and French Neural Supertagging Experiments for LTAG Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Tatiana Bladier
+JobTitle#==#
+Organization#==#Heinrich Heine University of Dusseldorf
+Abstract#==#We present ongoing work on data-driven parsing of German and French with Lexicalized Tree Adjoining Grammars. We use a supertagging approach combined with
+deep learning. We show the challenges of extracting LTAG supertags from the
+French Treebank, introduce the use of left- and right-sister-adjunction, present a neural architecture for the supertagger, and report experiments of n-best supertagging for French and German.
+Author{1}{Firstname}#=%=#Tatiana
+Author{1}{Lastname}#=%=#Bladier
+Author{1}{Email}#=%=#bladier@phil.hhu.de
+Author{1}{Affiliation}#=%=#Heinrich Heine University of Düsseldorf
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#van Cranenburgh
+Author{2}{Email}#=%=#cranenburgh@phil.hhu.de
+Author{2}{Affiliation}#=%=#Heinrich Heine University of Dusseldorf
+Author{3}{Firstname}#=%=#Younes
+Author{3}{Lastname}#=%=#Samih
+Author{3}{Email}#=%=#samih@phil.hhu.de
+Author{3}{Affiliation}#=%=#Heinrich Heine University of Dusseldorf
+Author{4}{Firstname}#=%=#Laura
+Author{4}{Lastname}#=%=#Kallmeyer
+Author{4}{Email}#=%=#kallmeyer@phil.uni-duesseldorf.de
+Author{4}{Affiliation}#=%=#Heinrich Heine University of Dusseldorf
+
+==========

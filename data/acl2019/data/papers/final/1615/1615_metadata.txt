@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1615
+FinalPaperTitle#=%=#Modeling Naive Psychology of Characters in Simple Commonsense Stories
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hannah Rashkin
+JobTitle#==#
+Organization#==#University of Washington, 185 E Stevens Way NE, Seattle, WA 98195
+Abstract#==#Understanding a narrative requires reading between the lines and reasoning about the unspoken but obvious implications about events and people’s mental states — a capability that is trivial for humans but remarkably hard for machines. To facilitate research addressing this challenge, we introduce a new annotation framework to explain naive psychology of story characters as fully-specified chains of mental states with respect to motivations and emotional reactions. Our work presents a new large-scale dataset with rich low-level annotations and establishes baseline performance on several new tasks, suggesting avenues for future research.
+Author{1}{Firstname}#=%=#Hannah
+Author{1}{Lastname}#=%=#Rashkin
+Author{1}{Email}#=%=#hrashkin@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Antoine
+Author{2}{Lastname}#=%=#Bosselut
+Author{2}{Email}#=%=#antoineb@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Maarten
+Author{3}{Lastname}#=%=#Sap
+Author{3}{Email}#=%=#msap@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Knight
+Author{4}{Email}#=%=#knight@isi.edu
+Author{4}{Affiliation}#=%=#USC/ISI
+Author{5}{Firstname}#=%=#Yejin
+Author{5}{Lastname}#=%=#Choi
+Author{5}{Email}#=%=#yejin@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1490
+FinalPaperTitle#=%=#Linear-time Constituency Parsing with RNNs and Dynamic Programming
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Juneki Hong
+JobTitle#==#
+Organization#==#Oregon State University, 1500 SW Jefferson St., Corvallis, OR 97331
+Abstract#==#Recently, span-based constituency parsing has achieved competitive accuracies
+with extremely simple models by using bidirectional RNNs to model ``spans''.
+However, the minimal span parser of Stern et al. (2017a) which holds the 
+current state of the art accuracy is a chart parser running in cubic time, 
+O(n^3), which is too slow for longer sentences and for applications beyond 
+sentence boundaries such as end-to-end discourse parsing
+and joint sentence boundary detection and parsing.
+We propose a linear-time constituency parser with RNNs and dynamic programming
+using graph-structured stack and beam search, which runs in time O(n b^2)
+where b is the beam size.
+We further speed this up to O(n b log b) by integrating cube pruning.
+Compared with chart parsing baselines, this linear-time parser is substantially 
+faster for long sentences on the Penn Treebank and orders of magnitude faster 
+for discourse parsing, and achieves the highest F1 accuracy 
+on the Penn Treebank among single model end-to-end systems.
+Author{1}{Firstname}#=%=#Juneki
+Author{1}{Lastname}#=%=#Hong
+Author{1}{Email}#=%=#junekihong@gmail.com
+Author{1}{Affiliation}#=%=#Oregon State University
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#liang.huang.sh@gmail.com
+Author{2}{Affiliation}#=%=#Oregon State University
+
+==========

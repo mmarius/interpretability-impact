@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#396
+FinalPaperTitle#=%=#Analogical Reasoning on Chinese Morphological and Semantic Relations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hu Renfen
+JobTitle#==#
+Organization#==#
+Abstract#==#Analogical reasoning is effective in capturing linguistic regularities. This paper proposes an analogical reasoning task on Chinese. After delving into Chinese lexical knowledge, we sketch 68 implicit morphological relations and 28 explicit semantic relations. A big and balanced dataset CA8 is then built for this task, including 17813 questions. Furthermore, we systematically explore the influences of vector representations, context features, and corpora on analogical reasoning. With the experiments, CA8 is proved to be a reliable benchmark for evaluating Chinese word embeddings.
+Author{1}{Firstname}#=%=#Shen
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#shen@mail.bnu.edu.cn
+Author{1}{Affiliation}#=%=#Beijing Normal University
+Author{2}{Firstname}#=%=#Zhe
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Email}#=%=#helloworld@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin University of China
+Author{3}{Firstname}#=%=#Renfen
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Email}#=%=#irishu@mail.bnu.edu.cn
+Author{3}{Affiliation}#=%=#Beijing Normal Univeristy
+Author{4}{Firstname}#=%=#Wensi
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#zjklws@163.com
+Author{4}{Affiliation}#=%=#Beijing Normal University
+Author{5}{Firstname}#=%=#Tao
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#tliu@ruc.edu.cn
+Author{5}{Affiliation}#=%=#Renmin University of China
+Author{6}{Firstname}#=%=#Xiaoyong
+Author{6}{Lastname}#=%=#Du
+Author{6}{Email}#=%=#duyong@ruc.edu.cn
+Author{6}{Affiliation}#=%=#Renmin University of China
+
+==========

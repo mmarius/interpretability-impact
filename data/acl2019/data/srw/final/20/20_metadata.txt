@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yuki Kawara
+JobTitle#==#
+Organization#==#
+Abstract#==#The word order between source and target languages significantly influences the translation quality. Preordering can effectively address this problem.　Previous preordering methods require a manual feature design, making language dependent design difficult.　In this paper, we propose a preordering method with recursive neural networks that learn features from raw inputs. Experiments show the proposed method is comparable to the state-of-the-art method but without a manual feature design.
+Author{1}{Firstname}#=%=#Yuki
+Author{1}{Lastname}#=%=#Kawara
+Author{1}{Email}#=%=#yukikawara530@gmail.com
+Author{1}{Affiliation}#=%=#Graduate School of Information Science and Technology, Osaka University
+Author{2}{Firstname}#=%=#Chenhui
+Author{2}{Lastname}#=%=#Chu
+Author{2}{Email}#=%=#chu@ids.osaka-u.ac.jp
+Author{2}{Affiliation}#=%=#Osaka University
+Author{3}{Firstname}#=%=#Yuki
+Author{3}{Lastname}#=%=#Arase
+Author{3}{Email}#=%=#arase@ist.osaka-u.ac.jp
+Author{3}{Affiliation}#=%=#Osaka University
+
+==========

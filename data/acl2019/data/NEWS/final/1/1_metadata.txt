@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#NEWS 2018 Whitepaper
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Rafael E Banchs
+JobTitle#==#Adjunct Associate Professor
+Organization#==#NTU
+Abstract#==#Transliteration is defined as phonetic translation of names across languages. Transliteration of Named Entities (NEs) is necessary in many applications, such as machine translation, corpus alignment, cross-language IR, information extraction and automatic lexicon acquisition. All such systems call for high-performance transliteration, which is the focus of shared task in the NEWS 2018 workshop. The objective of the shared task is to promote machine transliteration research by providing a common benchmarking platform for the community to evaluate the state-of-the-art technologies.
+Author{1}{Firstname}#=%=#Nancy
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#nancychen@alum.mit.edu
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research
+Author{2}{Firstname}#=%=#Xiangyu
+Author{2}{Lastname}#=%=#Duan
+Author{2}{Email}#=%=#xiangyuduan@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Min
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhangminmt@hotmail.com
+Author{3}{Affiliation}#=%=#SooChow University
+Author{4}{Firstname}#=%=#Rafael E.
+Author{4}{Lastname}#=%=#Banchs
+Author{4}{Email}#=%=#rembanchs@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research
+Author{5}{Firstname}#=%=#Haizhou
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#hzli@ieee.org
+Author{5}{Affiliation}#=%=#National University of Singapore
+
+==========

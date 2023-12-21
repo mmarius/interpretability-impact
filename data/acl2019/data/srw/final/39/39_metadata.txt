@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Unsupervised Semantic Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shibhansh Dohare
+JobTitle#==#
+Organization#==#CSE Department, IIT Kanpur, Kanpur, U.P., India
+Abstract#==#Automatic abstractive summary generation remains a significant open problem for natural language processing. In this work, we develop a novel pipeline for Semantic Abstractive Summarization (SAS). SAS, as introduced by Liu et. al. (2015) first generates an AMR graph of an input story, through which it extracts a summary graph and finally, creates summary sentences from this summary graph. Compared to earlier approaches, we develop a more comprehensive method to generate the story AMR graph using state-of-the-art co-reference resolution and Meta Nodes. Which we then use in a novel unsupervised algorithm based on how humans summarize a piece of text to extract the summary sub-graph. Our algorithm outperforms the state of the art SAS method by 1.7% F1 score in node prediction.
+Author{1}{Firstname}#=%=#Shibhansh
+Author{1}{Lastname}#=%=#Dohare
+Author{1}{Email}#=%=#sdohare@cse.iitk.ac.in
+Author{1}{Affiliation}#=%=#IIT Kanpur
+Author{2}{Firstname}#=%=#Vivek
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#t-vigu@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Harish
+Author{3}{Lastname}#=%=#Karnick
+Author{3}{Email}#=%=#hk@cse.iitk.ac.in
+Author{3}{Affiliation}#=%=#IIT Kanpur
+
+==========

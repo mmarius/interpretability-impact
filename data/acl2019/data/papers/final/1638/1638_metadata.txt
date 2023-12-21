@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#1638
+FinalPaperTitle#=%=#Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#eyal shnarch
+JobTitle#==#
+Organization#==#IBM research, 4 Ariel Sharon st. Givatayim, 5320045
+Abstract#==#The process of obtaining high quality labeled data for natural language understanding tasks is often slow, error-prone, complicated and expensive. With the vast usage of neural networks, this issue becomes more notorious since these networks require a large amount of labeled data to produce satisfactory results. 
+
+We propose a methodology to blend high quality but scarce strong labeled data with noisy but abundant weak labeled data during the training of neural networks. Experiments in the context of topic-dependent evidence detection with two forms of weak labeled data show the advantages of the blending scheme. In addition, we provide a manually annotated data set for the task of topic-dependent evidence detection.
+
+We believe that blending weak and strong labeled data is a general notion that may be applicable to many language understanding tasks, and can especially assist researchers who wish to train a network but have a small amount of high quality labeled data for their task of interest.
+Author{1}{Firstname}#=%=#Eyal
+Author{1}{Lastname}#=%=#Shnarch
+Author{1}{Email}#=%=#shey@cs.biu.ac.il
+Author{1}{Affiliation}#=%=#IBM research
+Author{2}{Firstname}#=%=#Carlos
+Author{2}{Lastname}#=%=#Alzate
+Author{2}{Email}#=%=#carlos.alzate@ie.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Lena
+Author{3}{Lastname}#=%=#Dankin
+Author{3}{Email}#=%=#lenad@il.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Martin
+Author{4}{Lastname}#=%=#Gleize
+Author{4}{Email}#=%=#martin.gleize@ie.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Yufang
+Author{5}{Lastname}#=%=#Hou
+Author{5}{Email}#=%=#yhou@ie.ibm.com
+Author{5}{Affiliation}#=%=#IBM Research
+Author{6}{Firstname}#=%=#Leshem
+Author{6}{Lastname}#=%=#Choshen
+Author{6}{Email}#=%=#leshem.choshen@il.ibm.com
+Author{6}{Affiliation}#=%=#IBM Research
+Author{7}{Firstname}#=%=#Ranit
+Author{7}{Lastname}#=%=#Aharonov
+Author{7}{Email}#=%=#ranita@il.ibm.com
+Author{7}{Affiliation}#=%=#IBM Research
+Author{8}{Firstname}#=%=#Noam
+Author{8}{Lastname}#=%=#Slonim
+Author{8}{Email}#=%=#noams@il.ibm.com
+Author{8}{Affiliation}#=%=#IBM Research
+
+==========

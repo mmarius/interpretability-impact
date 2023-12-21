@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#SingleCite: Towards an improved Single Citation Search in PubMed
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Yeganova
+JobTitle#==#
+Organization#==#NCBI/NLM/NIH, 9000 Rockville Pike, Bethesda MD 20894
+Abstract#==#A search that is targeted at finding a specific document in databases is called a Single Citation search. Single citation searches are particularly important for scholarly databases, such as PubMed, because users are frequently searching for a specific publication. In this work we describe SingleCite, a single citation matching system designed to facilitate user’s search for a specific document. We report on the progress that has been achieved towards building that functionality.
+Author{1}{Firstname}#=%=#Lana
+Author{1}{Lastname}#=%=#Yeganova
+Author{1}{Email}#=%=#lana.yeganova@nih.gov
+Author{1}{Affiliation}#=%=#NLM/NIH
+Author{2}{Firstname}#=%=#Donald C
+Author{2}{Lastname}#=%=#Comeau
+Author{2}{Email}#=%=#comeau@mail.nih.gov
+Author{2}{Affiliation}#=%=#NCBI/NLM/NIH
+Author{3}{Firstname}#=%=#Won
+Author{3}{Lastname}#=%=#Kim
+Author{3}{Email}#=%=#wonkim@mail.nih.gov
+Author{3}{Affiliation}#=%=#NCBI/NLM/NIH
+Author{4}{Firstname}#=%=#W John
+Author{4}{Lastname}#=%=#Wilbur
+Author{4}{Email}#=%=#wilbur@ncbi.nlm.nih.gov
+Author{4}{Affiliation}#=%=#NCBI
+Author{5}{Firstname}#=%=#Zhiyong
+Author{5}{Lastname}#=%=#Lu
+Author{5}{Email}#=%=#luzh@ncbi.nlm.nih.gov
+Author{5}{Affiliation}#=%=#NCBI, NLM, NIH
+
+==========

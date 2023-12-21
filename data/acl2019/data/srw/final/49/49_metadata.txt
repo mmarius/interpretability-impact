@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#49
+FinalPaperTitle#=%=#Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Satoru Katsumata
+JobTitle#==#
+Organization#==#
+Abstract#==#Encoder-decoder models typically only employ words that are frequently used in the training corpus because of the computational costs and/or to exclude noisy words. However, this vocabulary set may still include words that interfere with learning in encoder-decoder models. This paper proposes a method for selecting more suitable words for learning encoders by utilizing not only frequency, but also co-occurrence information, which we capture using the HITS algorithm. The proposed method is applied to two tasks: machine translation and grammatical error correction. For Japanese-to-English translation, this method achieved a BLEU score that was 0.56 points more than that of a baseline. It also outperformed the baseline method for English grammatical error correction, with an F-measure that was 1.48 points higher.
+Author{1}{Firstname}#=%=#Satoru
+Author{1}{Lastname}#=%=#Katsumata
+Author{1}{Email}#=%=#katsumata-satoru@ed.tmu.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Metropolitan University
+Author{2}{Firstname}#=%=#Yukio
+Author{2}{Lastname}#=%=#Matsumura
+Author{2}{Email}#=%=#matsumura-yukio@ed.tmu.ac.jp
+Author{2}{Affiliation}#=%=#Tokyo Metropolitan University
+Author{3}{Firstname}#=%=#Hayahide
+Author{3}{Lastname}#=%=#Yamagishi
+Author{3}{Email}#=%=#yamagishi-hayahide@ed.tmu.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Metropolitan University
+Author{4}{Firstname}#=%=#Mamoru
+Author{4}{Lastname}#=%=#Komachi
+Author{4}{Email}#=%=#komachi@tmu.ac.jp
+Author{4}{Affiliation}#=%=#Tokyo Metropolitan University
+
+==========

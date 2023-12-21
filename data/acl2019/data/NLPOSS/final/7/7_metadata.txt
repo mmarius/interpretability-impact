@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Stop Word Lists in Free Open-source Software Packages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Joel Nothman
+JobTitle#==#
+Organization#==#University of SYdn
+Abstract#==#Open-source software packages for language processing often include stop word lists. Users may apply them without awareness of their surprising omissions (e.g. "hasn't" but not "hadn't") and inclusions ("computer"), or their incompatibility with a particular tokenizer. Motivated by issues raised about the Scikit-learn stop list, we investigate variation among and consistency within 52 popular English-language stop lists, and propose strategies for mitigating these issues.
+Author{1}{Firstname}#=%=#Joel
+Author{1}{Lastname}#=%=#Nothman
+Author{1}{Email}#=%=#joel.nothman@gmail.com
+Author{1}{Affiliation}#=%=#University of Sydney
+Author{2}{Firstname}#=%=#Hanmin
+Author{2}{Lastname}#=%=#Qin
+Author{2}{Email}#=%=#qinhanmin2005@sina.com
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Roman
+Author{3}{Lastname}#=%=#Yurchak
+Author{3}{Email}#=%=#rth.yurchak@gmail.com
+Author{3}{Affiliation}#=%=#Symerio
+
+==========

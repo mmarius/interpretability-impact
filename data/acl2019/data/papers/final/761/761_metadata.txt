@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#761
+FinalPaperTitle#=%=#Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hen-Hsen Huang
+JobTitle#==#
+Organization#==#National Taiwan University, No. 1, Sec. 4, Roosevelt Road, Taipei, 10617, Taiwan
+Abstract#==#The reliability of self-labeled data is an important issue when the data are regarded as ground-truth for training and testing learning-based models. This paper addresses the issue of false-alarm hashtags in the self-labeled data for irony detection. We analyze the ambiguity of hashtag usages and propose a novel neural network-based model, which incorporates linguistic information from different aspects, to disambiguate the usage of three hashtags that are widely used to collect the training data for irony detection. Furthermore, we apply our model to prune the self-labeled training data. Experimental results show that the irony detection model trained on the less but cleaner training instances outperforms the models trained on all data.
+Author{1}{Firstname}#=%=#Hen-Hsen
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#hhhuang@nlg.csie.ntu.edu.tw
+Author{1}{Affiliation}#=%=#Department of Computer Science and Information Engineering, National Taiwan University
+Author{2}{Firstname}#=%=#Chiao-Chen
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#b04902055@ntu.edu.tw
+Author{2}{Affiliation}#=%=#National Taiwan University
+Author{3}{Firstname}#=%=#Hsin-Hsi
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#hhchen@ntu.edu.tw
+Author{3}{Affiliation}#=%=#National Taiwan University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#488
+FinalPaperTitle#=%=#Document Similarity for Texts of Varying Lengths via Hidden Topics
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hongyu Gong
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign, USA
+Abstract#==#Measuring similarity between texts is an important task for several applications. Available approaches to measure document similarity are inadequate for  document pairs that have non-comparable lengths, such as a long document and its summary. This is because of the lexical, contextual  and the abstraction gaps between a long document of rich details and its concise summary of abstract information. In this paper, we present a document matching approach to bridge this gap, by comparing the texts in a common space of hidden topics.  We evaluate the matching algorithm on two matching tasks  and find that it consistently and widely outperforms strong baselines. We also highlight the benefits of the incorporation of domain knowledge to text matching.
+Author{1}{Firstname}#=%=#Hongyu
+Author{1}{Lastname}#=%=#Gong
+Author{1}{Email}#=%=#hgong6@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana Champaign
+Author{2}{Firstname}#=%=#Tarek
+Author{2}{Lastname}#=%=#Sakakini
+Author{2}{Email}#=%=#tarek.sakakini@gmail.com
+Author{2}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{3}{Firstname}#=%=#Suma
+Author{3}{Lastname}#=%=#Bhat
+Author{3}{Email}#=%=#spbhat2@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois, Urbana-Champaign
+Author{4}{Firstname}#=%=#JinJun
+Author{4}{Lastname}#=%=#Xiong
+Author{4}{Email}#=%=#jinjun@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM T.J. Watson Research
+
+==========

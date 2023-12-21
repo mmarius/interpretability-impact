@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#A Shared Attention Mechanism for Interpretation of Neural Automatic Post-Editing Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Inigo Jauregi Unanue
+JobTitle#==#
+Organization#==#University of Technology Sydney
+Abstract#==#Automatic post-editing (APE) systems aim to correct the systematic errors made by machine translators. In this paper, we propose a neural APE system that encodes the source (src) and machine translated (mt) sentences with two separate encoders, but leverages a shared attention mechanism to better understand how the two inputs contribute to the generation of the post-edited (pe) sentences. Our empirical observations have showed that when the mt is incorrect, the attention shifts weight toward tokens in the src sentence to properly edit the incorrect translation. The model has been trained and evaluated on the official data from the WMT16 and WMT17 APE IT domain English-German shared tasks. Additionally, we have used the extra 500K artificial data provided by the shared task. Our system has been able to reproduce the accuracies of systems trained with the same data, while at the same time providing better interpretability.
+Author{1}{Firstname}#=%=#Inigo
+Author{1}{Lastname}#=%=#Jauregi Unanue
+Author{1}{Email}#=%=#ijauregi@cmcrc.com
+Author{1}{Affiliation}#=%=#University of Technology Sydney
+Author{2}{Firstname}#=%=#Ehsan
+Author{2}{Lastname}#=%=#Zare Borzeshi
+Author{2}{Email}#=%=#ezborzeshi@cmcrc.com
+Author{2}{Affiliation}#=%=#Capital Markets CRC, Sydney
+Author{3}{Firstname}#=%=#Massimo
+Author{3}{Lastname}#=%=#Piccardi
+Author{3}{Email}#=%=#massimo.piccardi@uts.edu.au
+Author{3}{Affiliation}#=%=#University of Technology Sydney
+
+==========

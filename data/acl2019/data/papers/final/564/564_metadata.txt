@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#564
+FinalPaperTitle#=%=#Weakly Supervised Semantic Parsing with Abstract Examples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#omer goldman
+JobTitle#==#
+Organization#==#Tel Aviv Univesrsity
+Abstract#==#Training semantic parsers from weak supervision (denotations) rather than strong supervision (programs) complicates training in two ways. First, a large search space of potential programs needs to be explored at training time to find a correct program. Second, spurious programs that accidentally lead to a correct denotation add noise to training.
+
+In this work we propose that in closed worlds with clear semantic types, one can substantially alleviate these problems by utilizing an abstract representation, where tokens in both the language utterance and program are lifted to an abstract form. We show that these abstractions can be defined with a handful of lexical rules and that they result in  sharing between different examples that alleviates the difficulties in training.
+
+To test our approach, we develop the first semantic parser for CNLVR, a challenging visual reasoning dataset, where the search space is large and overcoming spuriousness is critical, because denotations are either TRUE or FALSE, and thus random programs are likely to lead to a correct denotation. Our method substantially improves performance, and reaches 82.5% accuracy, a 14.7% absolute accuracy improvement compared to the best reported accuracy so far.
+Author{1}{Firstname}#=%=#Omer
+Author{1}{Lastname}#=%=#Goldman
+Author{1}{Email}#=%=#omergoldman@mail.tau.ac.il
+Author{1}{Affiliation}#=%=#Tel Aviv University
+Author{2}{Firstname}#=%=#Veronica
+Author{2}{Lastname}#=%=#Latcinnik
+Author{2}{Email}#=%=#veronical@mail.tau.ac.il
+Author{2}{Affiliation}#=%=#Tel Aviv University
+Author{3}{Firstname}#=%=#Ehud
+Author{3}{Lastname}#=%=#Nave
+Author{3}{Email}#=%=#ehudnave@mail.tau.ac.il
+Author{3}{Affiliation}#=%=#Tel Aviv University
+Author{4}{Firstname}#=%=#Amir
+Author{4}{Lastname}#=%=#Globerson
+Author{4}{Email}#=%=#gamir@post.tau.ac.il
+Author{4}{Affiliation}#=%=#Tel Aviv University
+Author{5}{Firstname}#=%=#Jonathan
+Author{5}{Lastname}#=%=#Berant
+Author{5}{Email}#=%=#joberant@cs.tau.ac.il
+Author{5}{Affiliation}#=%=#Tel Aviv University
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Simplified Abugidas
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Chenchen Ding
+JobTitle#==#
+Organization#==#NICT, 3-5 Hikaridai, Seika-cho, Soraku-gun, Kyoto, 619-0289, Japan
+Abstract#==#An abugida is a writing system where the consonant letters represent syllables
+with a default vowel and other vowels are denoted by diacritics. We investigate
+the feasibility of recovering the original text written in an abugida after
+omitting subordinate diacritics and merging consonant letters with similar
+phonetic values. This is crucial for developing more efficient input methods by
+reducing the complexity in abugidas. Four abugidas in the southern Brahmic
+family, i.e., Thai, Burmese, Khmer, and Lao, were studied using a newswire
+20,000-sentence dataset. We compared the recovery performance of a support
+vector machine and an LSTM-based recurrent neural network, finding that the
+abugida graphemes could be recovered with 94% - 97% accuracy at the top-1 level
+and 98% - 99% at the top-4 level, even after omitting most diacritics (10 - 30
+types) and merging the remaining 30 - 50 characters into 21 graphemes.
+Author{1}{Firstname}#=%=#Chenchen
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Email}#=%=#chenchen.ding@nict.go.jp
+Author{1}{Affiliation}#=%=#NICT
+Author{2}{Firstname}#=%=#Masao
+Author{2}{Lastname}#=%=#Utiyama
+Author{2}{Email}#=%=#mutiyama@nict.go.jp
+Author{2}{Affiliation}#=%=#NICT
+Author{3}{Firstname}#=%=#Eiichiro
+Author{3}{Lastname}#=%=#Sumita
+Author{3}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{3}{Affiliation}#=%=#NICT
+
+==========

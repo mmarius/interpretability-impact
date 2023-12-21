@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Compositional Language Modeling for Icon-Based Augmentative and Alternative Communication
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Shiran Dudy
+JobTitle#==#
+Organization#==#Oregon Health & Science University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239
+Abstract#==#Icon-based communication systems are widely used in the field of Augmentative and Alternative Communication. Typically, icon-based systems have lagged behind word- and character-based systems in terms of predictive typing functionality, due to the challenges inherent to training icon-based language models. We propose a method for synthesizing training data for use in icon-based language models, and explore two different modeling strategies. We propose a method to generate language models for corpus-less symbol-set.
+Author{1}{Firstname}#=%=#Shiran
+Author{1}{Lastname}#=%=#Dudy
+Author{1}{Email}#=%=#dudy@ohsu.edu
+Author{1}{Affiliation}#=%=#CSLU / OHSU
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bedrick
+Author{2}{Email}#=%=#bedricks@ohsu.edu
+Author{2}{Affiliation}#=%=#Center for Spoken Language Understanding, Oregon Health & Science University
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#421
+FinalPaperTitle#=%=#Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Roman Klinger
+JobTitle#==#
+Organization#==#University of Stuttgart, Pfaffenwaldring 5b, Stuttgart
+Abstract#==#Sentiment analysis in low-resource languages suffers from a lack of annotated corpora to estimate high-performing models. Machine translation and bilingual word embeddings provide some relief through cross-lingual sentiment approaches. However, they either require large amounts of parallel data or do not sufficiently capture sentiment information. We introduce Bilingual Sentiment Embeddings (BLSE), which jointly represent sentiment information in a source and target language. This model only requires a small bilingual lexicon, a source-language corpus annotated for sentiment, and monolingual word embeddings for each language. We perform experiments on three language combinations (Spanish, Catalan, Basque) for sentence-level cross-lingual sentiment classification and find that our model significantly out- performs state-of-the-art methods on four out of six experimental setups, as well as capturing complementary information to machine translation. Our analysis of the resulting embedding space provides evidence that it represents sentiment information in the resource-poor target language without any annotated data in that language.
+Author{1}{Firstname}#=%=#Jeremy
+Author{1}{Lastname}#=%=#Barnes
+Author{1}{Email}#=%=#jeremy.barnes@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pomeu Fabra
+Author{2}{Firstname}#=%=#Roman
+Author{2}{Lastname}#=%=#Klinger
+Author{2}{Email}#=%=#roman.klinger@ims.uni-stuttgart.de
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Sabine
+Author{3}{Lastname}#=%=#Schulte im Walde
+Author{3}{Email}#=%=#schulte@ims.uni-stuttgart.de
+Author{3}{Affiliation}#=%=#University of Stuttgart
+
+==========

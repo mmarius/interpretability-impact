@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#76
+FinalPaperTitle#=%=#Unsupervised Neural Machine Translation with Weight Sharing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhen Yang
+JobTitle#==#
+Organization#==#Institute of Automation, Chinese Academy of Sciences, Beijing, China
+Abstract#==#Unsupervised neural machine translation (NMT) is a recently proposed approach
+for machine translation which aims to train the model without using any labeled
+data. The models proposed for unsupervised NMT often use only one shared
+encoder to map the pairs of sentences from different languages to a
+shared-latent space, which is weak in keeping the unique and internal
+characteristics of each language, such as the style, terminology, and sentence
+structure. To address this issue, we introduce an extension by utilizing two
+independent encoders but sharing some partial weights which are responsible for
+extracting high-level representations of the input sentences. Besides, two
+different generative adversarial networks (GANs), namely the local GAN and
+global GAN, are proposed to enhance the cross-language translation. With this
+new approach, we achieve significant improvements on English-German,
+English-French and Chinese-to-English translation tasks.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangzhen2014@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#wei.chen.media@ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Feng
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#feng.wang@ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Bo
+Author{4}{Lastname}#=%=#Xu
+Author{4}{Email}#=%=#13163231716@163.com
+Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

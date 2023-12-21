@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#1456
+FinalPaperTitle#=%=#Cold-Start Aware User and Product Attention for Sentiment Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Reinald Kim Amplayo
+JobTitle#==#
+Organization#==#Yonsei University, Seoul, Korea
+Abstract#==#The use of user/product information in sentiment analysis is important,
+especially for cold-start users/products, whose number of reviews are very
+limited. However, current models do not deal with the cold-start problem which
+is typical in review websites. In this paper, we present Hybrid Contextualized
+Sentiment Classifier (HCSC), which contains two modules: (1) a fast word
+encoder that returns word vectors embedded with short and long range dependency
+features; and (2) Cold-Start Aware Attention (CSAA), an attention mechanism
+that considers the existence of cold-start problem when attentively pooling the
+encoded word vectors. HCSC introduces shared vectors that are constructed from
+similar users/products, and are used when the original distinct vectors do not
+have sufficient information (i.e. cold-start). This is decided by a
+frequency-guided selective gate vector. Our experiments show that in terms of
+RMSE, HCSC performs significantly better when compared with on famous datasets,
+despite having less complexity, and thus can be trained much faster. More
+importantly, our model performs significantly better than previous models when
+the training data is sparse and has cold-start problems.
+Author{1}{Firstname}#=%=#Reinald Kim
+Author{1}{Lastname}#=%=#Amplayo
+Author{1}{Email}#=%=#rktamplayo@yonsei.ac.kr
+Author{1}{Affiliation}#=%=#Yonsei University
+Author{2}{Firstname}#=%=#Jihyeok
+Author{2}{Lastname}#=%=#Kim
+Author{2}{Email}#=%=#zizi1532@yonsei.ac.kr
+Author{2}{Affiliation}#=%=#Yonsei University
+Author{3}{Firstname}#=%=#Sua
+Author{3}{Lastname}#=%=#Sung
+Author{3}{Email}#=%=#dormouse@yonsei.ac.kr
+Author{3}{Affiliation}#=%=#Yonsei University
+Author{4}{Firstname}#=%=#Seung-won
+Author{4}{Lastname}#=%=#Hwang
+Author{4}{Email}#=%=#seungwon.hwang@gmail.com
+Author{4}{Affiliation}#=%=#Yonsei University
+
+==========

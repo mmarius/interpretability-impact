@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Improving Classification of Twitter Behavior During Hurricane Events
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Kevin C Stowe
+JobTitle#==#
+Organization#==#University of Colorado, Boulder, CO 80309
+Abstract#==#A large amount of social media data is generated during natural disasters, and identifying the relevant portions of this data is critical for researchers attempting to understand human behavior, the effects of information sources, and preparatory actions undertaken during these events. In order to classify human behavior during hazard events, we employ machine learning for two tasks: identifying hurricane related tweets and classifying user evacuation behavior during hurricanes. We show that feature-based and deep learning methods provide different benefits for tweet classification, and ensemble-based methods using linguistic, temporal, and geospatial features can effectively classify user behavior.
+Author{1}{Firstname}#=%=#Kevin
+Author{1}{Lastname}#=%=#Stowe
+Author{1}{Email}#=%=#kest1439@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado, Boulder
+Author{2}{Firstname}#=%=#Jennings
+Author{2}{Lastname}#=%=#Anderson
+Author{2}{Email}#=%=#jennings.anderson@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado, Boulder
+Author{3}{Firstname}#=%=#Martha
+Author{3}{Lastname}#=%=#Palmer
+Author{3}{Email}#=%=#martha.palmer@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado
+Author{4}{Firstname}#=%=#Leysia
+Author{4}{Lastname}#=%=#Palen
+Author{4}{Email}#=%=#palen@cs.colorado.edu
+Author{4}{Affiliation}#=%=#University of Colorado, Boulder
+Author{5}{Firstname}#=%=#Ken
+Author{5}{Lastname}#=%=#Anderson
+Author{5}{Email}#=%=#kena@cs.colorado.edu
+Author{5}{Affiliation}#=%=#University of Colorado, Boulder
+
+==========

@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#742
+FinalPaperTitle#=%=#Generating Informative Responses with Controlled Sentence Function
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pei Ke
+JobTitle#==#
+Organization#==#Conversational AI group, AI Lab., Dept. of Computer Science, Tsinghua University, Beijing National Research Center for Information Science and Technology, China
+Abstract#==#Sentence function is a significant factor to achieve the purpose of the
+speaker, which, however, has not been touched in large-scale conversation
+generation so far. In this paper, we present a model to generate informative
+responses with controlled sentence function. Our model utilizes a continuous
+latent variable to capture various word patterns that realize the expected
+sentence function, and introduces a type controller to deal with the
+compatibility of controlling sentence function and generating informative
+content. Conditioned on the latent variable, the type controller determines
+the type (i.e., function-related, topic, and ordinary word) of a word to be
+generated at each decoding position. Experiments show that our model
+outperforms state-of-the-art baselines, and it has the ability to generate
+responses with both controlled sentence function and informative content.
+Author{1}{Firstname}#=%=#Pei
+Author{1}{Lastname}#=%=#Ke
+Author{1}{Email}#=%=#kepei1106@outlook.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Jian
+Author{2}{Lastname}#=%=#Guan
+Author{2}{Email}#=%=#13051331318@163.com
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Minlie
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#aihuang@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#xiaoyan
+Author{4}{Lastname}#=%=#zhu
+Author{4}{Email}#=%=#zxy-dcs@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#
+
+==========

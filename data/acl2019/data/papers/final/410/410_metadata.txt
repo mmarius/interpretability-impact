@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#410
+FinalPaperTitle#=%=#A Document Descriptor using Covariance of Word Vectors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marwan Torki
+JobTitle#==#
+Organization#==#Alexandria University, Egypt
+Abstract#==#In this paper, we address the problem of finding a novel document descriptor
+based on the covariance matrix of the word vectors of a document. Our
+descriptor has a fixed length, which makes it easy to use in many supervised
+and unsupervised applications. We tested our novel descriptor in different
+tasks including supervised and unsupervised settings. Our evaluation shows
+that our document covariance descriptor fits different tasks with competitive
+performance against state-of-the-art methods.
+Author{1}{Firstname}#=%=#Marwan
+Author{1}{Lastname}#=%=#Torki
+Author{1}{Email}#=%=#marwantorki@gmail.com
+Author{1}{Affiliation}#=%=#Alexandria University
+
+==========

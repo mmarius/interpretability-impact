@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Predicting Japanese Word Order in Double Object Constructions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Masayuki Asahara
+JobTitle#==#
+Organization#==#National Institute for Japanese Language and Linguistics, Japan
+Abstract#==#This paper presents a statistical model to
+predict Japanese word order in the double
+object constructions. We employed a
+Bayesian linear mixed model with manually
+annotated predicate-argument structure
+data. The findings from the refined
+corpus analysis confirmed the effects of
+information status of an NP as ‘givennew
+ordering’ in addition to the effects of
+‘long-before-short’ as a tendency of the
+general Japanese word order.
+Author{1}{Firstname}#=%=#Masayuki
+Author{1}{Lastname}#=%=#Asahara
+Author{1}{Email}#=%=#masayu-a@ninjal.ac.jp
+Author{1}{Affiliation}#=%=#National Institute for Japanese Language and Linguistics
+Author{2}{Firstname}#=%=#Satoshi
+Author{2}{Lastname}#=%=#Nambu
+Author{2}{Email}#=%=#satoshi.nambu@monash.edu
+Author{2}{Affiliation}#=%=#Monash University
+Author{3}{Firstname}#=%=#Shin-Ichiro
+Author{3}{Lastname}#=%=#Sano
+Author{3}{Email}#=%=#s-sano@keio.jp
+Author{3}{Affiliation}#=%=#Keio University
+
+==========

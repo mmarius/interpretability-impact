@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Identifying Key Sentences for Precision Oncology Using Semi-Supervised Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jurica Seva
+JobTitle#==#Postdoctoral Researcher (author)
+Organization#==#Knowledge Managment in Bioinformatics, Humboldt Universität zu Berlin, Berlin
+Abstract#==#We present a machine learning pipeline that identifies key sentences in abstracts of oncological articles to aid evidence-based medicine. This problem is characterized by the lack of gold standard datasets, data imbalance and thematic differences between available silver standard corpora. Additionally, available training and target data differs with regard to their domain (professional summaries vs. sentences in abstracts). This makes supervised machine learning inapplicable. We propose the use of two semi-supervised machine learning approaches: To mitigate difficulties arising from heterogeneous data sources, overcome data imbalance and create reliable training data we propose using transductive learning from positive and unlabelled data (PU Learning). For obtaining a realistic classification model, we propose the use of abstracts summarised in relevant sentences as unlabelled examples through Self-Training. The best model achieves 84% accuracy and 0.84 F1 score on our dataset
+Author{1}{Firstname}#=%=#Jurica
+Author{1}{Lastname}#=%=#Ševa
+Author{1}{Email}#=%=#seva@informatik.hu-berlin.de
+Author{1}{Affiliation}#=%=#Knowledge Management in Bioinformatics, Department of Computer Science, Humboldt-Universität zu Berlin
+Author{2}{Firstname}#=%=#Martin
+Author{2}{Lastname}#=%=#Wackerbauer
+Author{2}{Email}#=%=#wackerbm@informatik.hu-berlin.de
+Author{2}{Affiliation}#=%=#Humboldt-Universität zu Berlin
+Author{3}{Firstname}#=%=#Ulf
+Author{3}{Lastname}#=%=#Leser
+Author{3}{Email}#=%=#leser@informatik.hu-berlin.de
+Author{3}{Affiliation}#=%=#Humboldt-Universität zu Berlin
+
+==========

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#86
+FinalPaperTitle#=%=#Neural Open Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lei Cui
+JobTitle#==#
+Organization#==#Microsoft Research Asia
+Abstract#==#Conventional Open Information Extraction (Open IE) systems are usually built on hand-crafted patterns from other NLP tools such as syntactic parsing, yet they face problems of error propagation. In this paper, we propose a neural Open IE approach with an encoder-decoder framework. Distinct from existing methods, the neural Open IE approach learns highly confident arguments and relation tuples bootstrapped from a state-of-the-art Open IE system. An empirical study on a large benchmark dataset shows that the neural Open IE system significantly outperforms several baselines, while maintaining comparable computational efficiency.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Cui
+Author{1}{Email}#=%=#lecu@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research Asia
+Author{2}{Firstname}#=%=#Furu
+Author{2}{Lastname}#=%=#Wei
+Author{2}{Email}#=%=#fuwei@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Ming
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#mingzhou@microsoft.com
+Author{3}{Affiliation}#=%=#microsoft research asia
+
+==========

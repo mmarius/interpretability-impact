@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Leveraging News Sentiment to Improve Microblog Sentiment Classification in the Financial Domain
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tobias Daudert
+JobTitle#==#
+Organization#==#Insight Centre for Data Analytics, NUI Galway, Lower Dangan, Galway City, Ireland
+Abstract#==#With the rising popularity of social media in the society and in research, analysing texts short in length, such as microblogs, becomes an increasingly important task. As a medium of communication, microblogs carry peoples sentiments and express them to the public. Given that sentiments are driven by multiple factors including the news media, the question arises if the sentiment expressed in news and the news article themselves can be leveraged to detect and classify sentiment in microblogs. Prior research has highlighted the impact of sentiments and opinions on the market dynamics, making the financial domain a prime case study for this approach. Therefore, this paper describes ongoing research dealing with the exploitation of news contained sentiment to improve microblog sentiment classification in a financial context.
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Lastname}#=%=#Daudert
+Author{1}{Email}#=%=#tobias.daudert@insight-centre.org
+Author{1}{Affiliation}#=%=#Insight Centre for Data Analytics @ NUI Galway
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Lastname}#=%=#Buitelaar
+Author{2}{Email}#=%=#paul.buitelaar@insight-centre.org
+Author{2}{Affiliation}#=%=#Insight Centre for Data Analytics, National University of Ireland Galway
+Author{3}{Firstname}#=%=#Sapna
+Author{3}{Lastname}#=%=#Negi
+Author{3}{Email}#=%=#sapna.negi@insight-centre.org
+Author{3}{Affiliation}#=%=#National University of Ireland Galway
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#75
+FinalPaperTitle#=%=#A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines
+ShortPaperTitle#=%=#A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Salvatore Romeo
+JobTitle#==#
+Organization#==#Qatar Computing Research Institute, HBKU Research Complex, Doha, Qatar
+Abstract#==#Although deep neural networks have been proving to be excellent tools to deliver state-of-the-art results, when data is scarce and the tackled tasks involve complex semantic inference, deep linguistic processing and traditional structure-based approaches, such as tree kernel methods, are an alternative solution. Community Question Answering is a research area that benefits from deep linguistic analysis to improve the experience of the community of forum users.
+
+In this paper, we present a UIMA framework to distribute the computation of cQA tasks over computer clusters such that traditional systems can scale to large datasets and deliver fast processing.
+Author{1}{Firstname}#=%=#Salvatore
+Author{1}{Lastname}#=%=#Romeo
+Author{1}{Email}#=%=#salvatore.romeo@gmail.com
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute - HBKU
+Author{2}{Firstname}#=%=#Giovanni
+Author{2}{Lastname}#=%=#Da San Martino
+Author{2}{Email}#=%=#gmartino@qf.org.qa
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute, HBKU
+Author{3}{Firstname}#=%=#Alberto
+Author{3}{Lastname}#=%=#Barrón-Cedeño
+Author{3}{Email}#=%=#albarron@gmail.com
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{4}{Firstname}#=%=#Alessandro
+Author{4}{Lastname}#=%=#Moschitti
+Author{4}{Email}#=%=#amoschitti@gmail.com
+Author{4}{Affiliation}#=%=#Amazon
+
+==========

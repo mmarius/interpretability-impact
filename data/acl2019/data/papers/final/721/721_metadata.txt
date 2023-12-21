@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#721
+FinalPaperTitle#=%=#On the Limitations of Unsupervised Bilingual Dictionary Induction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#Insight Research Centre, NUI Galway, Galway, Ireland
+Abstract#==#Unsupervised machine translation - i.e., not assuming any cross-lingual
+supervision signal, whether a dictionary, translations, or comparable corpora -
+seems impossible, but nevertheless, Lample et al. (2017) recently proposed a
+fully unsupervised machine translation (MT) model. The model relies heavily on
+an adversarial, unsupervised cross-lingual word embedding technique for
+bilingual dictionary induction (Conneau et al., 2017), which we examine here.
+Our results identify the limitations of current unsupervised MT: unsupervised
+bilingual dictionary induction performs much worse on morphologically rich
+languages that are not dependent marking, when monolingual corpora from
+different domains or different embedding algorithms are used. We show that a
+simple trick, exploiting a weak supervision signal from identical words,
+enables more robust induction and establish a near-perfect correlation between
+unsupervised bilingual dictionary induction performance and a previously
+unexplored graph similarity metric.
+Author{1}{Firstname}#=%=#Anders
+Author{1}{Lastname}#=%=#Søgaard
+Author{1}{Email}#=%=#soegaard@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Ruder
+Author{2}{Email}#=%=#ruder.sebastian@gmail.com
+Author{2}{Affiliation}#=%=#National University of Ireland, Galway
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Vulić
+Author{3}{Email}#=%=#iv250@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

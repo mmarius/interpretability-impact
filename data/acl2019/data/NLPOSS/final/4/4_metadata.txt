@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Integrating Multiple NLP Technologies into an Open-source Platform for Multilingual Media Monitoring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Ulrich Germann
+JobTitle#==#
+Organization#==#University of Edinburgh; 10 Crichton Street; Edinburgh EH8 9AB; UK
+Abstract#==#The open-source SUMMA Platform is a highly scalable distributed
+architecture for monitoring a large number of media broadcasts in
+parallel, with a lag behind actual broadcast time of at most a few
+minutes.
+
+It assembles numerous state-of-the-art NLP technologies into a fully
+automated media ingestion pipeline that can record live broadcasts,
+detect and transcribe spoken content, translate from several languages
+(original text or transcribed speech) into English, 
+recognize Named Entities, detect
+topics, cluster and summarize documents across language barriers, and
+extract and store factual claims in these news items.
+
+This paper describes the intended use cases and discusses the system
+design decisions that allowed us to integrate state-of-the-art NLP
+modules into an effective workflow with comparatively little effort.
+Author{1}{Firstname}#=%=#Ulrich
+Author{1}{Lastname}#=%=#Germann
+Author{1}{Email}#=%=#ugermann@inf.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Renars
+Author{2}{Lastname}#=%=#Liepins
+Author{2}{Email}#=%=#renars.liepins@leta.lv
+Author{2}{Affiliation}#=%=#LETA
+Author{3}{Firstname}#=%=#Didzis
+Author{3}{Lastname}#=%=#Gosko
+Author{3}{Email}#=%=#didzis.gosko@leta.lv
+Author{3}{Affiliation}#=%=#LETA
+Author{4}{Firstname}#=%=#Guntis
+Author{4}{Lastname}#=%=#Barzdins
+Author{4}{Email}#=%=#guntis@latnet.lv
+Author{4}{Affiliation}#=%=#University of Latvia
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#264
+FinalPaperTitle#=%=#Question Condensing Networks for Answer Selection in Community Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wei Wu
+JobTitle#==#
+Organization#==#MOE Key Lab of Computational Linguistics, Peking University, Beijing, 100871, China
+Abstract#==#Answer selection is an important subtask of community question answering (CQA).
+In a real-world CQA forum, a question is often represented as two parts: a
+subject that summarizes the main points of the question, and a body that
+elaborates on the subject in detail. Previous researches on answer selection
+usually ignored the difference between these two parts and concatenated them as
+the question representation. In this paper, we propose the Question Condensing
+Networks (QCN) to make use of the subject-body relationship of community
+questions. In our model, the question subject is the primary part of the
+question representation, and the question body information is aggregated based
+on similarity and disparity with the question subject. Experimental results
+show that QCN outperforms all existing models on two CQA datasets.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wu.wei@pku.edu.cn
+Author{1}{Affiliation}#=%=#MOE Key Lab of Computational Linguistics, Peking University, Beijing, 100871, China
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#SUN
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Houfeng
+Author{3}{Lastname}#=%=#WANG
+Author{3}{Email}#=%=#wanghf@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

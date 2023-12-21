@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1193
+FinalPaperTitle#=%=#Personalized Language Model for Query Auto-Completion
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aaron Jaech
+JobTitle#==#
+Organization#==#University of Washington, Seattle
+Abstract#==#Query auto-completion is a search engine feature whereby the system suggests
+completed queries as the user types. Recently, the use of a recurrent neural
+network language model was suggested as a method of generating query
+completions. We show how an adaptable language model can be used to generate
+personalized completions and how the model can use online updating to make
+predictions for users not seen during training. The personalized predictions
+are significantly better than a baseline that uses no user information.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Jaech
+Author{1}{Email}#=%=#ajaech@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Mari
+Author{2}{Lastname}#=%=#Ostendorf
+Author{2}{Email}#=%=#ostendor@u.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

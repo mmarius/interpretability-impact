@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Learning Hierarchical Structures On-The-Fly with a Recurrent-Recursive Model for Sequences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Athul Paul Jacob
+JobTitle#==#
+Organization#==#Montreal Institute for Learning Algorithms, Pavillon André-Aisenstadt, 2920 Chemin de la Tour, office 3353 Montreal, QC H3T 1J4
+Abstract#==#We propose a hierarchical model for sequential data that learns a tree on-the-fly,~i.e. while reading the sequence. In the model, a recurrent network adapts its structure and reuses recurrent weights in a recursive manner. This creates adaptive skip-connections that ease the learning of long-term dependencies.
+The tree structure can either be inferred without supervision through reinforcement learning, or learned in a supervised manner.
+We provide preliminary experiments in a novel Math Expression Evaluation (MEE) task, which is created to have a hierarchical tree structure that can be used to study the effectiveness of our model. Additionally, we test our model in a well-known propositional logic and language modelling tasks. Experimental results have shown the potential of our approach.
+Author{1}{Firstname}#=%=#Athul Paul
+Author{1}{Lastname}#=%=#Jacob
+Author{1}{Email}#=%=#apjacob@edu.uwaterloo.ca
+Author{1}{Affiliation}#=%=#Microsoft Research; University of Waterloo; MILA
+Author{2}{Firstname}#=%=#Zhouhan
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#lin.zhouhan@gmail.com
+Author{2}{Affiliation}#=%=#University of Montreal
+Author{3}{Firstname}#=%=#Alessandro
+Author{3}{Lastname}#=%=#Sordoni
+Author{3}{Email}#=%=#alsordon@microsoft.com
+Author{3}{Affiliation}#=%=#Maluuba
+Author{4}{Firstname}#=%=#Yoshua
+Author{4}{Lastname}#=%=#Bengio
+Author{4}{Email}#=%=#yoshua.bengio@umontreal.ca
+Author{4}{Affiliation}#=%=#U. Montreal
+
+==========

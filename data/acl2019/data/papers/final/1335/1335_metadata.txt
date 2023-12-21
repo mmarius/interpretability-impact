@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1335
+FinalPaperTitle#=%=#Training Classifiers with Natural Language Explanations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Braden Hancock
+JobTitle#==#
+Organization#==#Stanford University, 353 Serra Mall, Stanford, CA 94305 USA
+Abstract#==#Training accurate classifiers requires many labels, but each label provides only limited information (one bit for binary classification). In this work, we propose BabbleLabble, a framework for training classifiers in which an annotator provides a natural language explanation for each labeling decision. A semantic parser converts these explanations into programmatic labeling functions that generate noisy labels for an arbitrary amount of unlabeled data, which is used to train a classifier. On three relation extraction tasks, we find that users are able to train classifiers with comparable F1 scores from 5-100 faster by providing explanations instead of just labels. Furthermore, given the inherent imperfection of labeling functions, we find that a simple rule-based semantic parser suffices.
+Author{1}{Firstname}#=%=#Braden
+Author{1}{Lastname}#=%=#Hancock
+Author{1}{Email}#=%=#bradenjh@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Paroma
+Author{2}{Lastname}#=%=#Varma
+Author{2}{Email}#=%=#paroma@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Stephanie
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#steph17@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Martin
+Author{4}{Lastname}#=%=#Bringmann
+Author{4}{Email}#=%=#martin@occamzrazor.com
+Author{4}{Affiliation}#=%=#OccamzRazor (Razor, Inc)
+Author{5}{Firstname}#=%=#Percy
+Author{5}{Lastname}#=%=#Liang
+Author{5}{Email}#=%=#pliang@cs.stanford.edu
+Author{5}{Affiliation}#=%=#Stanford University
+Author{6}{Firstname}#=%=#Christopher
+Author{6}{Lastname}#=%=#Ré
+Author{6}{Email}#=%=#chrismre@cs.stanford.edu
+Author{6}{Affiliation}#=%=#Stanford University
+
+==========

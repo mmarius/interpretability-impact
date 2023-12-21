@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1054
+FinalPaperTitle#=%=#Stochastic Answer Networks for Machine Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xiaodong Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a simple yet robust stochastic answer network (SAN) that simulates multi-step reasoning in machine reading comprehension. Compared to previous work such as ReasoNet which used reinforcement learning to determine the number of steps, the unique feature is the use of a kind of stochastic prediction dropout on the answer module (final layer) of the neural network during the training. We show that this simple trick improves robustness and achieves results competitive to the state-of-the-art on the Stanford Question Answering Dataset (SQuAD), the Adversarial SQuAD, and the Microsoft MAchine Reading COmprehension Dataset (MS MARCO).
+Author{1}{Firstname}#=%=#Xiaodong
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#xiaodl@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Yelong
+Author{2}{Lastname}#=%=#Shen
+Author{2}{Email}#=%=#yeshen@microsoft.com
+Author{2}{Affiliation}#=%=#microsoft.com
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Duh
+Author{3}{Email}#=%=#kevinduh@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Jianfeng
+Author{4}{Lastname}#=%=#Gao
+Author{4}{Email}#=%=#jfgao@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research, Redmond
+
+==========

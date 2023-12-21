@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Domain Adapted Word Embeddings for Improved Sentiment Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#prathusha k sarma
+JobTitle#==#
+Organization#==#
+Abstract#==#Generic word embeddings are trained on large-scale generic corpora; Domain Specific (DS) word embeddings are trained only on data from a domain of interest. This paper proposes a method to combine the breadth of generic embeddings with the specificity of domain specific embeddings. The resulting embeddings, called Domain Adapted (DA) word embeddings, are formed by first aligning corresponding word vectors using Canonical Correlation Analysis (CCA) or the related nonlinear Kernel CCA (KCCA) and then combining them via convex optimization.
+Results from evaluation on sentiment classification tasks show that the DA embeddings substantially outperform both generic, DS embeddings when used as input features to standard or state-of-the-art sentence encoding algorithms for classification.
+Author{1}{Firstname}#=%=#Prathusha
+Author{1}{Lastname}#=%=#Kameswara Sarma
+Author{1}{Email}#=%=#prathyushaks.21@gmail.com
+Author{1}{Affiliation}#=%=#University of Wisconsin - Madison
+Author{2}{Firstname}#=%=#Yingyu
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Email}#=%=#yliang@cs.wisc.edu
+Author{2}{Affiliation}#=%=#UW-Madison
+Author{3}{Firstname}#=%=#Bill
+Author{3}{Lastname}#=%=#Sethares
+Author{3}{Email}#=%=#sethares@wisc.edu
+Author{3}{Affiliation}#=%=#UW-Madison
+
+==========

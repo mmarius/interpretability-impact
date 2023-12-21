@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#844
+FinalPaperTitle#=%=#Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shafiq Joty
+JobTitle#==#
+Organization#==#Nanyang Technological University, Singapore
+Abstract#==#We propose a novel coherence model for written asynchronous conversations (e.g., forums, emails), and show its applications in coherence assessment and thread reconstruction tasks. We conduct our research in two steps. First, we propose improvements to the recently proposed neural entity grid model by lexicalizing its entity transitions. Then, we extend the model to asynchronous conversations by incorporating the underlying conversational structure in the entity grid representation and feature computation. Our model achieves state of the art results on standard coherence assessment tasks in monologue and conversations outperforming existing models. 
+We also demonstrate its effectiveness in reconstructing thread structures.
+Author{1}{Firstname}#=%=#Shafiq
+Author{1}{Lastname}#=%=#Joty
+Author{1}{Email}#=%=#srjoty@ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Muhammad Tasnim
+Author{2}{Lastname}#=%=#Mohiuddin
+Author{2}{Email}#=%=#mohi0004@e.ntu.edu.sg
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{3}{Firstname}#=%=#Dat
+Author{3}{Lastname}#=%=#Tien Nguyen
+Author{3}{Email}#=%=#t.d.nguyen@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+
+==========

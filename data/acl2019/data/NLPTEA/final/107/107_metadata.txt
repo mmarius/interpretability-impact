@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#107
+FinalPaperTitle#=%=#Joint learning of frequency and word embeddings for multilingual readability assessment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes two models that employ word frequency embeddings to deal with the problem of readability assessment in multiple languages. The task is to determine the difficulty level of a given document, i.e., how hard it is for a reader to fully comprehend the text. The proposed models show how frequency information can be integrated to improve the readability assessment. The experimental results testing on both English and Chinese datasets show that the proposed models improve the results notably when comparing to those using only traditional word embeddings.
+Author{1}{Firstname}#=%=#Dieu-Thu
+Author{1}{Lastname}#=%=#Le
+Author{1}{Email}#=%=#dieu-thu.le@ims.uni-stuttgart.de
+Author{1}{Affiliation}#=%=#IMS, University of Stuttgart
+Author{2}{Firstname}#=%=#Cam-Tu
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#ncamtu@nju.edu.cn
+Author{2}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+Author{3}{Firstname}#=%=#Xiaoliang
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#waxili@nju.edu.cn
+Author{3}{Affiliation}#=%=#National Key Laboratory for Novel Software Technology, Nanjing University
+
+==========

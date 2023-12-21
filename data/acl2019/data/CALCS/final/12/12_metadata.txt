@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning
+ShortPaperTitle#=%=#Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#GENTA INDRA WINATA
+JobTitle#==#
+Organization#==#Hong Kong University of Science and Technology
+Clear Water Bay, Hong Kong
+Abstract#==#Lack of text data has been the major issue on code-switching language modeling. In this paper, we introduce multi-task learning based language model which shares syntax representation of languages to leverage linguistic information and tackle the low resource data issue. Our model jointly learns both language modeling and Part-of-Speech tagging on code-switched utterances. In this way, the model is able to identify the location of code-switching points and improves the prediction of next word. Our approach outperforms standard LSTM based language model, with an improvement of 9.7% and 7.4% in perplexity on SEAME Phase I and Phase II dataset respectively.
+Author{1}{Firstname}#=%=#Genta Indra
+Author{1}{Lastname}#=%=#Winata
+Author{1}{Email}#=%=#giwinata@connect.ust.hk
+Author{1}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Andrea
+Author{2}{Lastname}#=%=#Madotto
+Author{2}{Email}#=%=#eeandreamad@ust.hk
+Author{2}{Affiliation}#=%=#The Hong Kong University Of Science and Technology
+Author{3}{Firstname}#=%=#Chien-Sheng
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#jason.wu@connect.ust.hk
+Author{3}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{4}{Firstname}#=%=#Pascale
+Author{4}{Lastname}#=%=#Fung
+Author{4}{Email}#=%=#pascale@ece.ust.hk
+Author{4}{Affiliation}#=%=#
+
+==========

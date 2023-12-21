@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Characters or Morphemes: How to Represent Words?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#MURATHAN KURFALI
+JobTitle#==#
+Organization#==#Murathan Kurfalı Middle East Technical University Üniversiteler Mahallesi,  Dumlupınar Bulvarı No:1 06800 Çankaya Ankara/TURKEY
+Abstract#==#In this paper, we investigate the effects of using subword information in representa- tion learning. We argue that using syntactic subword units effects the quality of the word representations positively. We introduce a morpheme-based model and compare it against to word-based, character-based, and character n-gram level models. Our model takes a list of candidate segmentations of a word and learns the representation of the word based on different segmentations that are weighted by an attention mechanism. We performed experiments on Turkish as a morphologically rich language and English with a comparably poorer morphology. The results show that morpheme-based models are better at learning word representations of morphologically complex languages compared to character-based and character n-gram level models since the morphemes help to incorporate more syntactic knowledge in learning, that makes morpheme-based models better at syntactic tasks.
+Author{1}{Firstname}#=%=#Ahmet
+Author{1}{Lastname}#=%=#Üstün
+Author{1}{Email}#=%=#ahmetustun89@gmail.com
+Author{1}{Affiliation}#=%=#METU
+Author{2}{Firstname}#=%=#Murathan
+Author{2}{Lastname}#=%=#Kurfalı
+Author{2}{Email}#=%=#murathankurfali@gmail.com
+Author{2}{Affiliation}#=%=#METU
+Author{3}{Firstname}#=%=#Burcu
+Author{3}{Lastname}#=%=#Can
+Author{3}{Email}#=%=#burcucan@gmail.com
+Author{3}{Affiliation}#=%=#Hacettepe University
+
+==========

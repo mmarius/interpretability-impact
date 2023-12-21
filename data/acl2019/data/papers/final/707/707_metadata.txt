@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#707
+FinalPaperTitle#=%=#Unsupervised Learning of Distributional Relation Vectors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shoaib Jameel
+JobTitle#==#Lecturer
+Organization#==#University of Kent, Medway Building, Gillingham, Chatham ME4 4AG
+Abstract#==#Word embedding models such as GloVe rely on co-occurrence statistics to learn
+vector representations of word meaning. While we may similarly expect that
+co-occurrence statistics can be used to capture rich information about the
+relationships between different words, existing approaches for modeling such
+relationships are based on manipulating pre-trained word vectors. In this
+paper, we introduce a novel method which directly learns relation vectors from
+co-occurrence statistics. To this end, we first introduce a variant of GloVe,
+in which there is an explicit connection between word vectors and PMI weighted
+co-occurrence vectors. We then show how relation vectors can be naturally
+embedded into the resulting vector space.
+Author{1}{Firstname}#=%=#Shoaib
+Author{1}{Lastname}#=%=#Jameel
+Author{1}{Email}#=%=#M.S.Jameel@kent.ac.uk
+Author{1}{Affiliation}#=%=#University of Kent
+Author{2}{Firstname}#=%=#Zied
+Author{2}{Lastname}#=%=#Bouraoui
+Author{2}{Email}#=%=#bouraoui@cril.fr
+Author{2}{Affiliation}#=%=#Université d'Artois
+Author{3}{Firstname}#=%=#Steven
+Author{3}{Lastname}#=%=#Schockaert
+Author{3}{Email}#=%=#schockaerts1@cardiff.ac.uk
+Author{3}{Affiliation}#=%=#Cardiff University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#65
+FinalPaperTitle#=%=#Automatic Question Generation using Relative Pronouns and Adverbs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Payal Khullar
+JobTitle#==#
+Organization#==#International Institute of Information Technology, Hyderabad (Gachibowli, Hyderabad, Telangana 500032)
+Abstract#==#This paper presents a system that automatically generates multiple, natural language questions using relative pronouns and relative adverbs from complex English sentences. Our system is syntax-based, runs on dependency parse information of a single-sentence input, and achieves high accuracy in terms of syntactic correctness, semantic adequacy, fluency and uniqueness. One of the key advantages of our system, in comparison with other rule-based approaches, is that we nearly eliminate the chances of getting a wrong wh- word in the generated question, by fetching the requisite wh-word from the input sentence itself. Depending upon the input, we generate both factoid and descriptive type questions. To the best of our information, the exploitation of wh-pronouns and wh-adverbs to generate questions is novel in the Automatic Question Generation task.
+Author{1}{Firstname}#=%=#Payal
+Author{1}{Lastname}#=%=#Khullar
+Author{1}{Email}#=%=#khullar.payal@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Konigari
+Author{2}{Lastname}#=%=#Rachna
+Author{2}{Email}#=%=#konigari.rachna@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Mukul
+Author{3}{Lastname}#=%=#Hase
+Author{3}{Email}#=%=#mukul.hase@students.iiit.ac.in
+Author{3}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{4}{Firstname}#=%=#Manish
+Author{4}{Lastname}#=%=#Shrivastava
+Author{4}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{4}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+
+==========

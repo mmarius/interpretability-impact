@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1397
+FinalPaperTitle#=%=#Conditional Generators of Words Definitions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Artyom Gadetsky
+JobTitle#==#
+Organization#==#
+Abstract#==#We explore recently introduced definition modeling technique that provided the tool for evaluation of different distributed vector representations of words through modeling dictionary definitions of words. In this work,  we study the problem of word ambiguities in definition modeling and propose a possible solution by employing latent variable modeling and soft attention mechanisms. Our quantitative and qualitative evaluation and analysis of the model shows that taking into account words’ ambiguity and polysemy leads to performance improvement.
+Author{1}{Firstname}#=%=#Artyom
+Author{1}{Lastname}#=%=#Gadetsky
+Author{1}{Email}#=%=#artygadetsky@yandex.ru
+Author{1}{Affiliation}#=%=#National Research University Higher School of Economics
+Author{2}{Firstname}#=%=#Ilya
+Author{2}{Lastname}#=%=#Yakubovskiy
+Author{2}{Email}#=%=#yakubovskiy@joom.com
+Author{2}{Affiliation}#=%=#Joom LLC
+Author{3}{Firstname}#=%=#Dmitry
+Author{3}{Lastname}#=%=#Vetrov
+Author{3}{Email}#=%=#vetrovd@yandex.ru
+Author{3}{Affiliation}#=%=#National Research University Higher School of Economics
+
+==========

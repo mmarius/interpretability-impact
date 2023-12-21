@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#497
+FinalPaperTitle#=%=#Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jamie Kiros
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce Picturebook, a large-scale lookup operation to ground language via `snapshots' of our physical world accessed through image search. For each word in a vocabulary, we extract the top-$k$ images from Google image search and feed the images through a convolutional network to extract a word embedding. We introduce a multimodal gating function to fuse our Picturebook embeddings with other word representations. We also introduce Inverse Picturebook, a mechanism to map a Picturebook embedding back into words. We experiment and report results across a wide range of tasks: word similarity, natural language inference, semantic relatedness, sentiment/topic classification, image-sentence ranking and machine translation. We also show that gate activations corresponding to Picturebook embeddings are highly correlated to human judgments of concreteness ratings.
+Author{1}{Firstname}#=%=#Jamie
+Author{1}{Lastname}#=%=#Kiros
+Author{1}{Email}#=%=#kiros@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#William
+Author{2}{Lastname}#=%=#Chan
+Author{2}{Email}#=%=#williamchan@google.com
+Author{2}{Affiliation}#=%=#Google Brain
+Author{3}{Firstname}#=%=#Geoffrey
+Author{3}{Lastname}#=%=#Hinton
+Author{3}{Email}#=%=#geoffhinton@google.com
+Author{3}{Affiliation}#=%=#Google
+
+==========

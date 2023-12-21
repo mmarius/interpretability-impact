@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#644
+FinalPaperTitle#=%=#Obligation and Prohibition Extraction Using Hierarchical RNNs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ilias Chalkidis
+JobTitle#==#
+Organization#==#Department of Informatics, Athens University of Economics and Business, Greece
+Abstract#==#We consider the task of detecting contractual obligations and prohibitions. We show that a self-attention mechanism improves the performance of a BILSTM classifier, the previous state of the  art for this task, by allowing it to focus on indicative tokens. We also introduce a hierarchical BILSTM, which converts each sentence to an embedding, and processes the sentence embeddings to classify each sentence. Apart from being faster to train, the hierarchical BILSTM outperforms the flat one, even when the latter considers surrounding sentences, because the hierarchical model has a broader discourse view.
+Author{1}{Firstname}#=%=#Ilias
+Author{1}{Lastname}#=%=#Chalkidis
+Author{1}{Email}#=%=#ihalk@aueb.gr
+Author{1}{Affiliation}#=%=#PhD Student
+Author{2}{Firstname}#=%=#Ion
+Author{2}{Lastname}#=%=#Androutsopoulos
+Author{2}{Email}#=%=#ion@aueb.gr
+Author{2}{Affiliation}#=%=#Associate Professor
+Author{3}{Firstname}#=%=#Achilleas
+Author{3}{Lastname}#=%=#Michos
+Author{3}{Email}#=%=#achilleas.michos@cognitivplus.com
+Author{3}{Affiliation}#=%=#Software Engineer
+
+==========

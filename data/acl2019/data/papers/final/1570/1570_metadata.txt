@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1570
+FinalPaperTitle#=%=#A Walk-based Model on Entity Graphs for Relation Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Fenia Christopoulou
+JobTitle#==#
+Organization#==#National Centre for Text Mining, The University of Manchester, 131 Princess Street, Manchester, M1 7DN
+Abstract#==#We present a novel graph-based neural network model for relation extraction. Our model treats multiple pairs in a sentence simultaneously and considers interactions among them. All the entities in a sentence are placed as nodes in a fully-connected graph structure. The edges are represented with position-aware contexts around the entity pairs. In order to consider different relation paths between two entities, we construct up to $l$-length walks between each pair. The resulting walks are merged and iteratively used to update the edge representations into longer walks representations. We show that the model achieves performance comparable to the state-of-the-art systems on the ACE 2005 dataset without using any external tools.
+Author{1}{Firstname}#=%=#Fenia
+Author{1}{Lastname}#=%=#Christopoulou
+Author{1}{Email}#=%=#efstathia.christopoulou@manchester.ac.uk
+Author{1}{Affiliation}#=%=#School of Computer Science, The University of Manchester
+Author{2}{Firstname}#=%=#Makoto
+Author{2}{Lastname}#=%=#Miwa
+Author{2}{Email}#=%=#makoto-miwa@toyota-ti.ac.jp
+Author{2}{Affiliation}#=%=#Toyota Technological Institute
+Author{3}{Firstname}#=%=#Sophia
+Author{3}{Lastname}#=%=#Ananiadou
+Author{3}{Email}#=%=#sophia.ananiadou@manchester.ac.uk
+Author{3}{Affiliation}#=%=#University of Manchester
+
+==========

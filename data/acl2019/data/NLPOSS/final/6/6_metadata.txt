@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#The Annotated Transformer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#(Note this is not being submitted blind. The chair of the workshop requested this submission unblinded from me on twitter, so assuming that is okay.)
+
+A major goal of open-source NLP is to quickly and accurately reproduce                                                                                                           
+the results of new work, in a manner that the community can easily use                                                                                                           
+and modify. While most papers publish enough detail for replication,                                                                                                             
+it still may be difficult to achieve good results in practice. This paper presents a                                                                                             
+worked exercise of paper reproduction with the goal of implementing                                                                                                              
+the results of the recent Transformer model. The replication exercise                                                                                                            
+aims at simple code structure that follows closely with the original                                                                                                             
+work, while achieving an efficient usable system.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Rush
+Author{1}{Email}#=%=#srush@seas.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University
+
+==========

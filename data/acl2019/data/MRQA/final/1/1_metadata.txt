@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Ruminating Reader: Reasoning with Gated Multi-hop Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yichen Gong
+JobTitle#==#
+Organization#==#Yichen Gong; New York University
+Abstract#==#To answer the question in machine comprehension (MC) task, the models need to establish the interaction between the question and the context. To tackle the problem that the single-pass model cannot reflect on and correct its answer, we present Ruminating Reader. Ruminating Reader adds a second pass of attention and a novel information fusion component to the Bi-Directional Attention Flow model (BiDAF). We propose novel layer structures that construct a query aware context vector representation and fuse encoding representation with intermediate representation on top of BiDAF model. We show that a multi-hop attention mechanism can be applied to a bi-directional attention structure. In experiments on SQuAD, we find that the Reader outperforms the BiDAF baseline by 2.1 F1 score and 2.7 EM score. Our analysis shows that different hops of the attention have different responsibilities in selecting answers.
+Author{1}{Firstname}#=%=#Yichen
+Author{1}{Lastname}#=%=#Gong
+Author{1}{Email}#=%=#yichen.gong@nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Samuel
+Author{2}{Lastname}#=%=#Bowman
+Author{2}{Email}#=%=#bowman@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+
+==========

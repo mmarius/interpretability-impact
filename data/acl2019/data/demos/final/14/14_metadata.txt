@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#YEDDA: A Lightweight Collaborative Text Span Annotation Tool
+ShortPaperTitle#=%=#YEDDA: A Lightweight Collaborative Text Span Annotation Tool
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jie Yang
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design
+8 Somapah Road, Singapore. 487372
+Abstract#==#In this paper, we introduce \textsc{Yedda}, a lightweight but efficient and comprehensive open-source tool for text span annotation. \textsc{Yedda} provides a systematic solution for text span annotation, ranging from collaborative user annotation to administrator evaluation and analysis. It overcomes the low efficiency of traditional text annotation tools by annotating entities through both command line and shortcut keys, which are configurable with custom labels. \textsc{Yedda} also gives intelligent recommendations by learning the up-to-date annotated text. An administrator client is developed to evaluate annotation quality of multiple annotators and generate detailed comparison report for each annotator pair. Experiments show that the proposed system can reduce the annotation time by half compared with existing annotation tools. And the annotation time can be further compressed by 16.47\% through intelligent recommendation.
+Author{1}{Firstname}#=%=#Jie
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#jieynlp@gmail.com
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Linwei
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#linwei_li@mymail.sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{4}{Firstname}#=%=#Xingxuan
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#xingxuan_li@mymail.sutd.edu.sg
+Author{4}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

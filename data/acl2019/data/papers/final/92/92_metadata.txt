@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#92
+FinalPaperTitle#=%=#Batch IS NOT Heavy: Learning Word Representations From All Samples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xin Xin
+JobTitle#==#
+Organization#==#University of Glasgow, Scotland, UK
+Abstract#==#Stochastic Gradient Descent (SGD) with negative sampling is the most prevalent
+approach to learn word representations. However, it is known that sampling methods are biased especially when the sampling distribution deviates from the true data distribution. Besides, SGD suffers from dramatic fluctuation due to the one-sample learning scheme. In this work, we propose AllVec that uses batch gradient learning to generate word representations from all training samples. Remarkably, the time complexity of AllVec remains at the same level as SGD, being determined by the number of positive samples rather than all samples. We evaluate AllVec on several benchmark tasks. Experiments show that AllVec outperforms sampling-based SGD methods with comparable efficiency, especially for small training corpora.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Xin
+Author{1}{Email}#=%=#x.xin.1@research.gla.ac.uk
+Author{1}{Affiliation}#=%=#University of Glasgow
+Author{2}{Firstname}#=%=#Fajie
+Author{2}{Lastname}#=%=#Yuan
+Author{2}{Email}#=%=#f.yuan.1@research.gla.ac.uk
+Author{2}{Affiliation}#=%=#University of Glasgow
+Author{3}{Firstname}#=%=#Xiangnan
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#xiangnanhe@gmail.com
+Author{3}{Affiliation}#=%=#National University of Singapore
+Author{4}{Firstname}#=%=#Joemon M
+Author{4}{Lastname}#=%=#Jose
+Author{4}{Email}#=%=#joemon.jose@glasgow.ac.uk
+Author{4}{Affiliation}#=%=#university of Glasgow
+
+==========

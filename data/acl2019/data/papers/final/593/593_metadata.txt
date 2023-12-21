@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#593
+FinalPaperTitle#=%=#Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Viktor Hangya
+JobTitle#==#
+Organization#==#Ludwig-Maximilians-Universität München, Munich, Germany
+Abstract#==#Bilingual tasks, such as bilingual lexicon induction and cross-lingual classification, are crucial for overcoming data sparsity in the target language. Resources required for such tasks are often out-of-domain, thus domain adaptation is an important problem here. We make two contributions. First, we test a delightfully simple method for domain adaptation of bilingual word embeddings. We evaluate these embeddings on two bilingual tasks involving different domains: cross-lingual twitter sentiment classification and medical bilingual lexicon induction. Second, we tailor a broadly applicable semi-supervised classification method from computer vision to these tasks. We show that this method also helps in low-resource setups. Using both methods together we achieve large improvements over our baselines, by using only additional unlabeled data.
+Author{1}{Firstname}#=%=#Viktor
+Author{1}{Lastname}#=%=#Hangya
+Author{1}{Email}#=%=#hangyav@cis.uni-muenchen.de
+Author{1}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{2}{Firstname}#=%=#Fabienne
+Author{2}{Lastname}#=%=#Braune
+Author{2}{Email}#=%=#braune.fabienne@gmail.com
+Author{2}{Affiliation}#=%=#University of Stuttgart
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Fraser
+Author{3}{Email}#=%=#fraser@cis.uni-muenchen.de
+Author{3}{Affiliation}#=%=#Ludwig-Maximilians-Universität München
+Author{4}{Firstname}#=%=#Hinrich
+Author{4}{Lastname}#=%=#Schütze
+Author{4}{Email}#=%=#inquiries@cislmu.org
+Author{4}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

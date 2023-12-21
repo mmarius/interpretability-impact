@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xiangyang Zhou
+JobTitle#==#
+Organization#==#Baidu Inc.
+Abstract#==#Human generates responses relying on semantic and functional dependencies,
+including coreference relation, among dialogue elements and their context. In
+this paper, we investigate matching a response with its multi-turn context
+using dependency information based entirely on attention. Our solution is
+inspired by the recently proposed Transformer in machine translation (Vaswani
+et al., 2017) and we
+extend the attention mechanism in two ways. First, we construct representations
+of text segments at different granularities solely with stacked self-attention.
+Second, we try to extract the truly matched segment pairs with attention across
+the context and response. We jointly introduce those two kinds of attention in
+one uniform
+neural network. Experiments on two large-scale multi-turn response selection
+tasks show that our proposed model significantly outperforms the
+state-of-the-art models.
+Author{1}{Firstname}#=%=#Xiangyang
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#zhouxiangyang@baidu.com
+Author{1}{Affiliation}#=%=#Baidu Inc.
+Author{2}{Firstname}#=%=#Lu
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lilu12@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Inc.
+Author{3}{Firstname}#=%=#Daxiang
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Email}#=%=#dongdaxiang@baidu.com
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Yi
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liuyi05@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Inc.
+Author{5}{Firstname}#=%=#Ying
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#chenying04@baidu.com
+Author{5}{Affiliation}#=%=#Baidu Inc.
+Author{6}{Firstname}#=%=#Wayne Xin
+Author{6}{Lastname}#=%=#Zhao
+Author{6}{Email}#=%=#batmanfly@gmail.com
+Author{6}{Affiliation}#=%=#RUC
+Author{7}{Firstname}#=%=#Dianhai
+Author{7}{Lastname}#=%=#Yu
+Author{7}{Email}#=%=#yudianhai@baidu.com
+Author{7}{Affiliation}#=%=#Baidu Inc.
+Author{8}{Firstname}#=%=#Hua
+Author{8}{Lastname}#=%=#Wu
+Author{8}{Email}#=%=#wu_hua@baidu.com
+Author{8}{Affiliation}#=%=#Baidu
+
+==========

@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#797
+FinalPaperTitle#=%=#Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alexandre Salle
+JobTitle#==#
+Organization#==#Instituto de Informática -  Universidade Federal do Rio Grande do Sul  - Av. Bento Gonçalves, 9500 - CEP 91501-970 - Porto Alegre, RS - Brazil
+Abstract#==#Increasing the capacity of recurrent neural networks (RNN) usually involves 
+augmenting the size of the hidden layer,  with significant increase of
+computational cost. Recurrent neural tensor networks (RNTN) increase capacity
+using  distinct hidden layer weights for each word, but with greater costs in
+memory usage. In this paper, we introduce restricted recurrent neural tensor
+networks (r-RNTN) which reserve distinct hidden layer weights for frequent
+vocabulary words while sharing a single set of weights for infrequent words.
+Perplexity evaluations show that for fixed hidden layer sizes, r-RNTNs improve
+language model performance over RNNs using only a small fraction of the
+parameters of unrestricted RNTNs. These results hold for r-RNTNs using Gated
+Recurrent Units and Long Short-Term Memory.
+Author{1}{Firstname}#=%=#Alexandre
+Author{1}{Lastname}#=%=#Salle
+Author{1}{Email}#=%=#outroalex@gmail.com
+Author{1}{Affiliation}#=%=#Institute of Informatics, Universidade Federal do Rio Grande do Sul
+Author{2}{Firstname}#=%=#Aline
+Author{2}{Lastname}#=%=#Villavicencio
+Author{2}{Email}#=%=#alinev@gmail.com
+Author{2}{Affiliation}#=%=#University of Essex, UK
+
+==========

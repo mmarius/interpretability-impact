@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#767
+FinalPaperTitle#=%=#Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhen Wang
+JobTitle#==#Researcher
+Organization#==#Baidu Inc., Beijing, China
+Abstract#==#While sophisticated neural-based techniques have been developed in reading comprehension, most approaches model the answer in an independent manner, ignoring its relations with other answer candidates. This problem can be even worse in open-domain scenarios, where candidates from multiple passages should be combined to answer a single question. In this paper, we formulate reading comprehension as an extract-then-select two-stage procedure. We first extract answer candidates from passages, then select the final answer by combining information from all the candidates. Furthermore, we regard candidate extraction as a latent variable and train the two-stage process jointly with reinforcement learning. As a result, our approach has improved the state-of-the-art performance significantly on two challenging open-domain reading comprehension datasets. Further analysis demonstrates the effectiveness of our model components, especially the information fusion of all the candidates and the joint training of the extract-then-select procedure.
+Author{1}{Firstname}#=%=#Zhen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangzhen24@baidu.com
+Author{1}{Affiliation}#=%=#Baidu Company
+Author{2}{Firstname}#=%=#Jiachen
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liujiachen@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Company
+Author{3}{Firstname}#=%=#Xinyan
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Email}#=%=#xiaoxinyan@baidu.com
+Author{3}{Affiliation}#=%=#Baidu Company
+Author{4}{Firstname}#=%=#Yajuan
+Author{4}{Lastname}#=%=#Lyu
+Author{4}{Email}#=%=#lvyajuan@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Company
+Author{5}{Firstname}#=%=#Tian
+Author{5}{Lastname}#=%=#Wu
+Author{5}{Email}#=%=#wutian@baidu.com
+Author{5}{Affiliation}#=%=#Baidu Company
+
+==========

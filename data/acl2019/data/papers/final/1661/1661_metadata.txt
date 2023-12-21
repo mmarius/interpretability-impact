@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1661
+FinalPaperTitle#=%=#Modeling and Prediction of Online Product Review Helpfulness: A Survey
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Gerardo Ocampo Diaz
+JobTitle#==#
+Organization#==#
+Abstract#==#As the amount of free-form user-generated reviews in e-commerce websites
+continues to increase, there is an increasing need for automatic mechanisms
+that sift through the vast amounts of user reviews and identify quality
+content. Review helpfulness modeling is a task which studies the mechanisms
+that affect review helpfulness and attempts to accurately predict it. This
+paper provides an overview of the most relevant work in helpfulness prediction
+and understanding in the past decade, discusses the insights gained from said
+work, and provides guidelines for future research.
+Author{1}{Firstname}#=%=#Gerardo
+Author{1}{Lastname}#=%=#Ocampo Diaz
+Author{1}{Email}#=%=#gxo170730@utdallas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Vincent
+Author{2}{Lastname}#=%=#Ng
+Author{2}{Email}#=%=#vince@hlt.utdallas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Dallas
+
+==========

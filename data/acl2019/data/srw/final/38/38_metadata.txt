@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Eva Vanmassenhove
+JobTitle#==#
+Organization#==#Dublin City University, Glasnevin, Dublin 9, Ireland, Ireland
+Abstract#==#In this paper we incorporate semantic supersensetags and syntactic supertag features into EN–FR and EN–DE factored NMT systems. In experiments on various test sets, we observe that such features (and particularly when combined) help the NMT  model training to converge faster and improve the model quality according to the BLEU scores.
+Author{1}{Firstname}#=%=#Eva
+Author{1}{Lastname}#=%=#Vanmassenhove
+Author{1}{Email}#=%=#eva.vanmassenhove@adaptcentre.ie
+Author{1}{Affiliation}#=%=#Adapt, Dublin City University
+Author{2}{Firstname}#=%=#Andy
+Author{2}{Lastname}#=%=#Way
+Author{2}{Email}#=%=#andy.way@adaptcentre.ie
+Author{2}{Affiliation}#=%=#Adapt, Dublin City University
+
+==========

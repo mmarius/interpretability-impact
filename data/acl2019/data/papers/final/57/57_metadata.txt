@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#57
+FinalPaperTitle#=%=#Automated essay scoring with string kernels and word embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Radu Tudor Ionescu
+JobTitle#==#
+Organization#==#University of Bucharest, 14 Academiei, Bucharest, Romania
+Abstract#==#In this work, we present an approach based on combining string kernels and word embeddings for automatic essay scoring. String kernels capture the similarity among strings based on counting common character n-grams, which are a low-level yet powerful type of feature, demonstrating state-of-the-art results in various text classification tasks such as Arabic dialect identification or native language identification. To our best knowledge, we are the first to apply string kernels to automatically score essays. We are also the first to combine them with a high-level semantic feature representation, namely the bag-of-super-word-embeddings. We report the best performance on the Automated Student Assessment Prize data set, in both in-domain and cross-domain settings, surpassing recent state-of-the-art deep learning approaches.
+Author{1}{Firstname}#=%=#Madalina
+Author{1}{Lastname}#=%=#Cozma
+Author{1}{Email}#=%=#madalinacozma93@gmail.com
+Author{1}{Affiliation}#=%=#University of Bucharest
+Author{2}{Firstname}#=%=#Andrei
+Author{2}{Lastname}#=%=#Butnaru
+Author{2}{Email}#=%=#butnaruandreimadalin@gmail.com
+Author{2}{Affiliation}#=%=#University of Bucharest
+Author{3}{Firstname}#=%=#Radu Tudor
+Author{3}{Lastname}#=%=#Ionescu
+Author{3}{Email}#=%=#raducu.ionescu@gmail.com
+Author{3}{Affiliation}#=%=#University of Bucharest
+
+==========

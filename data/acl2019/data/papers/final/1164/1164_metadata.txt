@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1164
+FinalPaperTitle#=%=#Active learning for deep semantic parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#LONG DUONG
+JobTitle#==#
+Organization#==#Voicebox Technologies, 3 Innovation road, Macquarie Park, NSW 2113, Australia
+Abstract#==#Semantic parsing requires training data that is expensive and slow to collect. 
+We apply active learning to both traditional and "overnight" data collection
+approaches. 
+We show that it is possible to obtain good training hyperparameters from
+seed data which is only a small fraction of the full dataset. We show that
+uncertainty sampling based on least confidence score is competitive in
+traditional data collection but not applicable for overnight collection. We
+propose several active learning strategies for overnight data collection and
+show that different example selection strategies per domain perform best.
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Duong
+Author{1}{Email}#=%=#longdt219@gmail.com
+Author{1}{Affiliation}#=%=#Voicebox Technologies Australia
+Author{2}{Firstname}#=%=#Hadi
+Author{2}{Lastname}#=%=#Afshar
+Author{2}{Email}#=%=#hadia@voicebox.com
+Author{2}{Affiliation}#=%=#Voicebox Technologies Australia
+Author{3}{Firstname}#=%=#Dominique
+Author{3}{Lastname}#=%=#Estival
+Author{3}{Email}#=%=#d.estival@westernsydney.edu.au
+Author{3}{Affiliation}#=%=#MARCS Institute, Western Sydney University
+Author{4}{Firstname}#=%=#Glen
+Author{4}{Lastname}#=%=#Pink
+Author{4}{Email}#=%=#glenpink@gmail.com
+Author{4}{Affiliation}#=%=#Voicebox Technologies Australia
+Author{5}{Firstname}#=%=#Philip
+Author{5}{Lastname}#=%=#Cohen
+Author{5}{Email}#=%=#philipc@voicebox.com
+Author{5}{Affiliation}#=%=#Voicebox Technologies
+Author{6}{Firstname}#=%=#Mark
+Author{6}{Lastname}#=%=#Johnson
+Author{6}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{6}{Affiliation}#=%=#Macquarie University
+
+==========

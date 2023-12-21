@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Semi-Supervised Learning with Auxiliary Evaluation Component for Large Scale e-Commerce Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Mingkuan Liu
+JobTitle#==#Senior Research Scientist
+Organization#==#eBay Inc, 2145 Hamilton Avenue, San Jose, CA, 95032, USA
+Abstract#==#The lack of high-quality labeled training data has been one of the critical challenges facing many industrial machine learning tasks. To tackle this challenge, in this paper, we propose a semi-supervised learning method to utilize unlabeled data and user feedback signals to improve the performance of ML models. The method employs a primary model Main and an auxiliary evaluation model Eval, where Main and Eval models are trained iteratively by automatically generating labeled data from unlabeled data and/or users’ feedback signals. The proposed approach is applied to different text classification tasks. We report results on both the publicly available Yahoo! Answers dataset and our e-commerce product classification dataset. The experimental results show that the proposed method reduces the classification error rate by 4% and up to 15% across various experimental setups and datasets. A detailed comparison with other semi-supervised learning approaches is also presented later in the paper. The results from various text classification tasks demonstrate that our method outperforms those developed in previous related studies.
+Author{1}{Firstname}#=%=#Mingkuan
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#mingkuan@gmail.com
+Author{1}{Affiliation}#=%=#eBay Inc.
+Author{2}{Firstname}#=%=#Musen
+Author{2}{Lastname}#=%=#Wen
+Author{2}{Email}#=%=#mwen@ebay.com
+Author{2}{Affiliation}#=%=#eBay Inc.
+Author{3}{Firstname}#=%=#Selcuk
+Author{3}{Lastname}#=%=#Kopru
+Author{3}{Email}#=%=#skopru@ebay.com
+Author{3}{Affiliation}#=%=#eBay
+Author{4}{Firstname}#=%=#Xianjing
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#xianjliu@ebay.com
+Author{4}{Affiliation}#=%=#eBay Inc
+Author{5}{Firstname}#=%=#Alan
+Author{5}{Lastname}#=%=#Lu
+Author{5}{Email}#=%=#alanlu@ebay.com
+Author{5}{Affiliation}#=%=#eBay Inc.
+
+==========

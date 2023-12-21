@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#The Importance of Recommender and Feedback Features in a Pronunciation Learning Aid
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Dzikri Rahadian Fudholi
+JobTitle#==#
+Organization#==#The Australian National University / Canberra, ACT, Australia
+Abstract#==#Verbal communication --- and pronunciation as its part --- is a core skill that can be developed through guided learning. An artificial intelligence system can take a role in these guided learning approaches as an enabler of an application for pronunciation learning with a recommender system to guide language learners through exercises and feedback system to correct their pronunciation. In this paper, we report on a user study on language learners' perceived usefulness of the application. 16 international students who spoke non-native English and lived in Australia participated. 13 of them said they need to improve their pronunciation skills in English because of their foreign accent. The feedback system with features for pronunciation scoring, speech replay, and giving a pronunciation example was deemed essential by most of the respondents. In contrast, a clear dichotomy between the recommender system perceived as useful or useless existed; the system had features to prompt new common words or old poorly-scored words. These results can be used to target research and development from information retrieval and reinforcement learning for better and better recommendations to speech recognition and speech analytics for accent acquisition.
+Author{1}{Firstname}#=%=#Dzikri
+Author{1}{Lastname}#=%=#Fudholi
+Author{1}{Email}#=%=#u5857432@anu.edu.au
+Author{1}{Affiliation}#=%=#The Australian National University
+Author{2}{Firstname}#=%=#Hanna
+Author{2}{Lastname}#=%=#Suominen
+Author{2}{Email}#=%=#hanna.suominen@data61.csiro.au
+Author{2}{Affiliation}#=%=#The Australian National University, Data61, The Commonwealth Scientific and Industrial Research Organisation
+
+==========

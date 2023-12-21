@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#A Neural Autoencoder Approach for Document Ranking and Query Refinement in Pharmacogenomic Information Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Samuel Broscheit
+JobTitle#==#
+Organization#==#University of Mannheim, Mannheim, Germany
+Abstract#==#In this study, we investigate learning-to-rank and query refinement approaches for information retrieval in the pharmacogenomic domain. The goal is to improve the information retrieval process of biomedical curators, who manually build knowledge bases for personalized medicine. We study how to exploit the relationships between genes, variants, drugs, diseases and outcomes as features for document ranking and query refinement. For a supervised approach, we are faced with a small amount of annotated data and a large amount of unannotated data. Therefore, we explore ways to use a neural document auto-encoder in a semi-supervised approach. We show that a combination of established algorithms, feature-engineering and a neural auto-encoder model yield promising results in this setting.
+Author{1}{Firstname}#=%=#Jonas
+Author{1}{Lastname}#=%=#Pfeiffer
+Author{1}{Email}#=%=#Jonas.Pfeiffer@molecularhealth.com
+Author{1}{Affiliation}#=%=#Molecular Health GmbH, Heidelberg, Germany and University of Mannheim, Mannheim, Germany
+Author{2}{Firstname}#=%=#Samuel
+Author{2}{Lastname}#=%=#Broscheit
+Author{2}{Email}#=%=#broscheit@informatik.uni-mannheim.de
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Rainer
+Author{3}{Lastname}#=%=#Gemulla
+Author{3}{Email}#=%=#rgemulla@uni-mannheim.de
+Author{3}{Affiliation}#=%=#University of Mannheim, Mannheim, Germany
+Author{4}{Firstname}#=%=#Mathias
+Author{4}{Lastname}#=%=#Göschl
+Author{4}{Email}#=%=#Mathias.Goeschl@molecularhealth.com
+Author{4}{Affiliation}#=%=#Molecular Health GmbH, Heidelberg, Germany
+
+==========

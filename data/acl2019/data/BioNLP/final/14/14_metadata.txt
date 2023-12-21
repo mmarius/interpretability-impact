@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Bacteria and Biotope Entity Recognition Using A Dictionary-Enhanced Neural Network Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Qiuyue Wang
+JobTitle#==#
+Organization#==#School of Information, Renmin Univ. of China
+Abstract#==#Automatic recognition of biomedical entities in text is the crucial initial step in biomedical text mining. In this pa-per, we investigate employing modern neural network models for recognizing biomedical entities. To compensate for the small amount of training data in biomedical domain, we propose to integrate dictionaries into the neural model. Our experiments on BB3 data sets demonstrate that state-of-the-art neural network model is promising in recognizing biomedical entities even with very little training data. When integrated with dictionaries, its performance could be greatly improved, achieving the competitive performance compared with the best dictionary-based system on the entities with specific terminology, and much higher performance on the entities with more general terminology.
+Author{1}{Firstname}#=%=#Qiuyue
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#qiuyuew@ruc.edu.cn
+Author{1}{Affiliation}#=%=#Renmin Univ. of China
+Author{2}{Firstname}#=%=#Xiaofeng
+Author{2}{Lastname}#=%=#Meng
+Author{2}{Email}#=%=#xfmeng@ruc.edu.cn
+Author{2}{Affiliation}#=%=#Renmin Univ. of China
+
+==========

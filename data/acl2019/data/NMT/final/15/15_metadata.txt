@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#On the Impact of Various Types of Noise on Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Huda KHAYRALLAH
+JobTitle#==#
+Organization#==#Johns Hopkins University, Baltimore, MD, USA
+Abstract#==#We examine how various types of noise in the parallel training data impact the quality of neural machine translation systems. We create five types of artificial noise and analyze how they degrade performance in neural and statistical machine translation. We find that neural models are generally more harmed by noise than statistical models. For one especially egregious type of noise they learn to just copy the input sentence.
+Author{1}{Firstname}#=%=#Huda
+Author{1}{Lastname}#=%=#Khayrallah
+Author{1}{Email}#=%=#huda@jhu.edu
+Author{1}{Affiliation}#=%=#The Johns Hopkins University
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Koehn
+Author{2}{Email}#=%=#phi@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Baseline: A Library for Rapid Modeling, Experimentation and Development of Deep Learning Algorithms targeting NLP
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#sagnik ray choudhury
+JobTitle#==#
+Organization#==#Interactions LLC, 31 Hayward Street Suite E  Franklin, MA 02038
+Abstract#==#We introduce Baseline: a library for reproducible deep learning research and fast model development for NLP. The library provides easily extensible abstractions and implementations for data loading, model development, training and export of deep learning architectures. It also provides implementations for simple, high-performance, deep learning models for various NLP tasks, against which newly developed models can be compared. Deep learning experiments are hard to reproduce, Baseline provides functionalities to track them. The goal is to allow a researcher to focus on model development, delegating the repetitive tasks to the library.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Pressel
+Author{1}{Email}#=%=#dpressel@interactions.com
+Author{1}{Affiliation}#=%=#member
+Author{2}{Firstname}#=%=#Sagnik
+Author{2}{Lastname}#=%=#Ray Choudhury
+Author{2}{Email}#=%=#schoudhury@interactions.com
+Author{2}{Affiliation}#=%=#Interactions LLC.
+Author{3}{Firstname}#=%=#Brian
+Author{3}{Lastname}#=%=#Lester
+Author{3}{Email}#=%=#blester@interactions.com
+Author{3}{Affiliation}#=%=#Interactions LLC.
+Author{4}{Firstname}#=%=#Yanjie
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#yzhao@interactions.com
+Author{4}{Affiliation}#=%=#Interactions LLC.
+Author{5}{Firstname}#=%=#Matt
+Author{5}{Lastname}#=%=#Barta
+Author{5}{Email}#=%=#mbarta@interactions.com
+Author{5}{Affiliation}#=%=#Interactions LLC.
+
+==========

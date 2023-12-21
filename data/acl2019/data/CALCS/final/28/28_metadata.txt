@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Tackling Code-Switched NER: Participation of CMU
+ShortPaperTitle#=%=#Tackling Code-Switched NER: Participation of CMU
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Khyathi Raghavi Chandu
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, Pennsylvania, Unites States
+Abstract#==#Named Entity Recognition plays a major role in several downstream applications in NLP. Though this task has been heavily studied in formal monolingual texts and also noisy texts like Twitter data, it is still an emerging task in code-switched (CS) content on social media. This paper describes our participation in the shared task of NER on code-switched data for Spanglish (Spanish + English) and Arabish (Arabic + English). In this paper we describe models that intuitively developed from the data for the shared task Named Entity Recognition on Code-switched Data. Owing to the sparse and non-linear relationships between words in Twitter data, we explored neural architectures that are capable of non-linearities fairly well. In specific, we trained character level models and word level models based on Bidirectional LSTMs (Bi-LSTMs) to perform sequential tagging. We train multiple models to identify nominal mentions and subsequently use this information to predict the labels of named entity in a sequence. Our best model is a character level model along with word level pre-trained multilingual embeddings that gave an F-score of 56.72 in Spanglish and a word level model that gave an F-score of 65.02 in Arabish on the test data.
+Author{1}{Firstname}#=%=#Parvathy
+Author{1}{Lastname}#=%=#Geetha
+Author{1}{Email}#=%=#pgeetha@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Khyathi
+Author{2}{Lastname}#=%=#Chandu
+Author{2}{Email}#=%=#khythiraghavi@gmail.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Alan W.
+Author{3}{Lastname}#=%=#Black
+Author{3}{Email}#=%=#awb@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

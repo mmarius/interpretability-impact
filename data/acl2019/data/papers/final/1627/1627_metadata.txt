@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1627
+FinalPaperTitle#=%=#Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shuhei Kurita
+JobTitle#==#
+Organization#==#Kyoto University, Yoshida-honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
+Abstract#==#Japanese predicate-argument structure (PAS) analysis involves zero anaphora
+resolution, which is notoriously difficult. To improve the performance of
+Japanese PAS analysis, it is straightforward to increase the size of corpora
+annotated with PAS. However, since it is prohibitively expensive, it is
+promising to take advantage of a large amount of raw corpora. In this paper, we
+propose a novel Japanese PAS analysis model based on semi-supervised
+adversarial training with a raw corpus. In our experiments, our model
+outperforms existing state-of-the-art models for Japanese PAS analysis.
+Author{1}{Firstname}#=%=#Shuhei
+Author{1}{Lastname}#=%=#Kurita
+Author{1}{Email}#=%=#kurita@nlp.ist.i.kyoto-u.ac.jp
+Author{1}{Affiliation}#=%=#Kyoto University
+Author{2}{Firstname}#=%=#Daisuke
+Author{2}{Lastname}#=%=#Kawahara
+Author{2}{Email}#=%=#dk@i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Sadao
+Author{3}{Lastname}#=%=#Kurohashi
+Author{3}{Email}#=%=#kuro@i.kyoto-u.ac.jp
+Author{3}{Affiliation}#=%=#Kyoto University
+
+==========

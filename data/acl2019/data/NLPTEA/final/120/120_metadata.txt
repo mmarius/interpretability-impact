@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#120
+FinalPaperTitle#=%=#Feature Optimization for Predicting Readability of Arabic L1 and L2
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#HIND SADDIKI
+JobTitle#==#
+Organization#==#NEW YORK UNIVERSITY ABU DHABI, UAE
+Abstract#==#Advances in automatic readability assessment can impact the way people consume information in a number of domains. Arabic, being a low-resource and morphologically complex language, presents numerous challenges to the task of automatic readability assessment. In this paper, we present the largest and most in-depth  computational readability study for Arabic to date.  We study a large set of features with varying depths, from shallow words to syntactic trees, for both L1 and L2 readability tasks. Our best L1 readability accuracy result is 94.8% (75% error reduction from a commonly used baseline). The comparable results for L2 are 72.4% (45% error reduction). We also demonstrate the added value of leveraging L1 features for L2 readability prediction.
+Author{1}{Firstname}#=%=#Hind
+Author{1}{Lastname}#=%=#Saddiki
+Author{1}{Email}#=%=#hind.saddiki@gmail.com
+Author{1}{Affiliation}#=%=#New York University Abu Dhabi
+Author{2}{Firstname}#=%=#Nizar
+Author{2}{Lastname}#=%=#Habash
+Author{2}{Email}#=%=#nizar.habash@nyu.edu
+Author{2}{Affiliation}#=%=#New York University Abu Dhabi
+Author{3}{Firstname}#=%=#Violetta
+Author{3}{Lastname}#=%=#Cavalli-Sforza
+Author{3}{Email}#=%=#v.cavallisforza@aui.ma
+Author{3}{Affiliation}#=%=#Al Akhawayn University
+Author{4}{Firstname}#=%=#Muhamed
+Author{4}{Lastname}#=%=#Al Khalil
+Author{4}{Email}#=%=#muhamed.alkhalil@nyu.edu
+Author{4}{Affiliation}#=%=#New York University Abu Dhabi
+
+==========

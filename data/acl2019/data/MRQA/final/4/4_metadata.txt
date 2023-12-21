@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Seunghak Yu
+JobTitle#==#
+Organization#==#Samsung Research, Seoul, Korea
+Abstract#==#Reading Comprehension (RC) of text is one of the fundamental tasks in natural language processing. In recent years, several end-to-end neural network models have been proposed to solve RC tasks. However, most of these models suffer in reasoning over long documents. In this work, we propose a novel Memory Augmented Machine Comprehension Network (MAMCN) to address long-range dependencies present in machine reading comprehension. We perform extensive experiments to evaluate proposed method with the renowned benchmark datasets such as SQuAD, QUASAR-T, and TriviaQA. We achieve the state of the art performance on both the document-level (QUASAR-T, TriviaQA) and paragraph-level (SQuAD) datasets compared to all the previously published approaches.
+Author{1}{Firstname}#=%=#Seunghak
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#seunghak.yu@gmail.com
+Author{1}{Affiliation}#=%=#Samsung Research
+Author{2}{Firstname}#=%=#Sathish Reddy
+Author{2}{Lastname}#=%=#Indurthi
+Author{2}{Email}#=%=#sathish.indurthi@gmail.com
+Author{2}{Affiliation}#=%=#Samsung Electronics
+Author{3}{Firstname}#=%=#Seohyun
+Author{3}{Lastname}#=%=#Back
+Author{3}{Email}#=%=#scv.back@samsung.com
+Author{3}{Affiliation}#=%=#Samsung Research
+Author{4}{Firstname}#=%=#Haejun
+Author{4}{Lastname}#=%=#Lee
+Author{4}{Email}#=%=#haejun82.lee@samsung.com
+Author{4}{Affiliation}#=%=#Samsung Research
+
+==========

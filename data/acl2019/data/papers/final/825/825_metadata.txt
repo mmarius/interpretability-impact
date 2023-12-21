@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#825
+FinalPaperTitle#=%=#Multi-representation ensembles and delayed SGD updates improve syntax-based NMT
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Danielle Saunders
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#We explore strategies for incorporating target syntax into Neural Machine Translation. We specifically focus on syntax in ensembles containing multiple sentence representations. We formulate beam search over such ensembles using WFSTs, and describe a delayed SGD update training procedure that is especially effective for long representations like linearized syntax. Our approach gives state-of-the-art performance on a difficult Japanese-English task.
+Author{1}{Firstname}#=%=#Danielle
+Author{1}{Lastname}#=%=#Saunders
+Author{1}{Email}#=%=#ds636@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Felix
+Author{2}{Lastname}#=%=#Stahlberg
+Author{2}{Email}#=%=#fs439@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge, Department of Engineering
+Author{3}{Firstname}#=%=#Adrià
+Author{3}{Lastname}#=%=#de Gispert
+Author{3}{Email}#=%=#agispert@sdl.com
+Author{3}{Affiliation}#=%=#SDL Research
+Author{4}{Firstname}#=%=#Bill
+Author{4}{Lastname}#=%=#Byrne
+Author{4}{Email}#=%=#bill.byrne@eng.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+
+==========

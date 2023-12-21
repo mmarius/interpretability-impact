@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#491
+FinalPaperTitle#=%=#Neural Sparse Topical Coding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Qianqian Xie
+JobTitle#==#
+Organization#==#School of Computer Science, WuHan University, WuHan, China
+Abstract#==#Topic models with sparsity enhancement have been proven to be effective at
+learning discriminative and coherent latent topics of short texts, which is
+critical to many scientific and engineering applications. However, the
+extensions of these models require carefully tailored graphical models and
+re-deduced inference algorithms, limiting their variations and applications. We
+propose a novel sparsity-enhanced topic model, Neural Sparse Topical Coding
+(NSTC) base on a sparsity-enhanced topic model called Sparse Topical Coding
+(STC). It focuses on replacing the complex inference process with the back
+propagation, which makes the model easy to explore extensions. Moreover, the
+external semantic information of words in word embeddings is incorporated to improve the representation of short texts. To illustrate the flexibility offered by the neural network based framework, we present three extensions base on NSTC without re-deduced inference algorithms. Experiments on Web Snippet and 20Newsgroups datasets demonstrate that our models outperform existing methods.
+Author{1}{Firstname}#=%=#Min
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#pengm@whu.edu.cn
+Author{1}{Affiliation}#=%=#Wuhan University
+Author{2}{Firstname}#=%=#Qianqian
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Email}#=%=#xieq@whu.edu.cn
+Author{2}{Affiliation}#=%=#Wuhan University
+Author{3}{Firstname}#=%=#Yanchun
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#yanchun.zhang@vu.edu.au
+Author{3}{Affiliation}#=%=#Victoria University
+Author{4}{Firstname}#=%=#Hua
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#hua.wang@vu.edu.cn
+Author{4}{Affiliation}#=%=#Victoria University
+Author{5}{Firstname}#=%=#Xiuzhen
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#xiuzhen.zhang@rmit.edu.au
+Author{5}{Affiliation}#=%=#RMIT University
+Author{6}{Firstname}#=%=#Jimin
+Author{6}{Lastname}#=%=#Huang
+Author{6}{Email}#=%=#huangjimin@whu.edu.cn
+Author{6}{Affiliation}#=%=#Wuhan University
+Author{7}{Firstname}#=%=#Gang
+Author{7}{Lastname}#=%=#Tian
+Author{7}{Email}#=%=#tiang2008@whu.edu.cn
+Author{7}{Affiliation}#=%=#Wuhan University
+
+==========

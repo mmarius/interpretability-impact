@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#600
+FinalPaperTitle#=%=#Multitask Parsing Across Semantic Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Daniel Hershcovich
+JobTitle#==#
+Organization#==#Hebrew University, Jerusalem, Israel
+Abstract#==#The ability to consolidate information of different types is at the core of intelligence, and has tremendous practical value in allowing learning for one task to benefit from generalizations learned for others.  In this paper we tackle the challenging task of improving semantic parsing performance, taking UCCA parsing as a test case, and AMR, SDP and Universal Dependencies (UD) parsing as auxiliary tasks.  We experiment on three languages, using a uniform transition-based system and learning architecture for all parsing tasks.  Despite notable conceptual, formal and domain differences, we show that multitask learning significantly improves UCCA parsing in both in-domain and out-of-domain settings.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Hershcovich
+Author{1}{Email}#=%=#daniel.hershcovich@gmail.com
+Author{1}{Affiliation}#=%=#Hebrew University
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#omri.abend@mail.huji.ac.il
+Author{2}{Affiliation}#=%=#The Hebrew University of Jerusalem
+Author{3}{Firstname}#=%=#Ari
+Author{3}{Lastname}#=%=#Rappoport
+Author{3}{Email}#=%=#arir@cs.huji.ac.il
+Author{3}{Affiliation}#=%=#The Hebrew University
+
+==========

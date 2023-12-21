@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1210
+FinalPaperTitle#=%=#Scoring Lexical Entailment with a Supervised Directional Similarity Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marek Rei
+JobTitle#==#
+Organization#==#University of Cambridge
+Abstract#==#We present the Supervised Directional Similarity Network, a novel neural
+architecture for learning task-specific transformation functions on top of
+general-purpose word embeddings. Relying on only a limited amount of
+supervision from task-specific scores on a subset of the vocabulary, our
+architecture is able to generalise and transform a general-purpose
+distributional vector space to model the relation of lexical entailment.
+Experiments show excellent performance on scoring graded lexical entailment,
+raising the state-of-the-art on the HyperLex dataset by approximately 25%.
+Author{1}{Firstname}#=%=#Marek
+Author{1}{Lastname}#=%=#Rei
+Author{1}{Email}#=%=#marek.rei@cl.cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Daniela
+Author{2}{Lastname}#=%=#Gerz
+Author{2}{Email}#=%=#dsg40@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Ivan
+Author{3}{Lastname}#=%=#Vulić
+Author{3}{Email}#=%=#iv250@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

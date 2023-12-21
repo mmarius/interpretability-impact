@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Natural Language Inference with Definition Embedding Considering Context On the Fly
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kosuke Nishida
+JobTitle#==#
+Organization#==#NTT Media Intelligence Laboratories, Japan
+Abstract#==#Natural language inference (NLI) is one of the most important tasks in NLP. In this study, we propose a novel method using word dictionaries, which are pairs of a word and its definition, as external knowledge. Our neural definition embedding mechanism encodes input sentences with the definitions of each word of the sentences on the fly. It can encode the definition of words considering the context of input sentences by using an attention mechanism. We evaluated our method using WordNet as a dictionary and confirmed that our method performed better than baseline models when using the full or a subset of 100d GloVe as word embeddings.
+Author{1}{Firstname}#=%=#Kosuke
+Author{1}{Lastname}#=%=#Nishida
+Author{1}{Email}#=%=#nishida.kosuke@lab.ntt.co.jp
+Author{1}{Affiliation}#=%=#NTT Media Intelligence Laboratories
+Author{2}{Firstname}#=%=#Kyosuke
+Author{2}{Lastname}#=%=#Nishida
+Author{2}{Email}#=%=#nishida.kyosuke@lab.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT Media Intelligence Laboratories
+Author{3}{Firstname}#=%=#Hisako
+Author{3}{Lastname}#=%=#Asano
+Author{3}{Email}#=%=#asano.hisako@lab.ntt.co.jp
+Author{3}{Affiliation}#=%=#NTT Media Intelligence Laboratories
+Author{4}{Firstname}#=%=#Junji
+Author{4}{Lastname}#=%=#Tomita
+Author{4}{Email}#=%=#tomita.junji@lab.ntt.co.jp
+Author{4}{Affiliation}#=%=#NTT Media Intelligence Laboratories
+
+==========
