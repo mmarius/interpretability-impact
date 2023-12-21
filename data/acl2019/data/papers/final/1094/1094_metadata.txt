@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1094
+FinalPaperTitle#=%=#Context-Aware Neural Model for Temporal Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yuanliang Meng
+JobTitle#==#
+Organization#==#University of Massachusetts Lowell, Lowell, MA, USA
+Abstract#==#We propose a context-aware neural network model for temporal information
+extraction. This model has a uniform architecture for event-event, event-timex
+and timex-timex pairs. A Global Context Layer (GCL), inspired by Neural Turing
+Machine (NTM), stores processed temporal relations in narrative order, and
+retrieves them for use when relevant entities come in. Relations are then
+classified in context. The GCL model has long-term memory and attention
+mechanisms to resolve irregular long-distance dependencies that regular RNNs
+such as LSTM cannot recognize. It does not require any new input features,
+while outperforming the existing models in literature. To our knowledge it is
+also the first model to use NTM-like architecture to process the information
+from global context in discourse-scale natural text processing. We are going to release the source code in the future.
+Author{1}{Firstname}#=%=#Yuanliang
+Author{1}{Lastname}#=%=#Meng
+Author{1}{Email}#=%=#yuanliang.meng@gmail.com
+Author{1}{Affiliation}#=%=#University of Massachusetts Lowell
+Author{2}{Firstname}#=%=#Anna
+Author{2}{Lastname}#=%=#Rumshisky
+Author{2}{Email}#=%=#arumshisky@gmail.com
+Author{2}{Affiliation}#=%=#University of Massachusetts Lowell
+
+==========

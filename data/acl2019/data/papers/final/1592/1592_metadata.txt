@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1592
+FinalPaperTitle#=%=#Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Luke Vilnis
+JobTitle#==#
+Organization#==#University of Massachusetts Amherst
+Abstract#==#Embedding methods which enforce a partial order or lattice structure over the
+concept space, such as Order Embeddings (OE), are a natural way to model
+transitive relational data (e.g. entailment graphs). However, OE learns a
+deterministic knowledge base, limiting expressiveness of queries and the
+ability to use uncertainty  for both prediction and learning (e.g. learning
+from expectations). Probabilistic extensions of OE  have provided the ability
+to somewhat calibrate these denotational probabilities while retaining the
+consistency and inductive bias of ordered models, but lack the ability to model
+the negative correlations found in real-world knowledge. In this work we show
+that a broad class of models that assign probability measures to OE can never
+capture negative correlation, which motivates our construction of a novel box
+lattice and accompanying probability measure to capture anti-correlation and
+even disjoint concepts, while still providing the benefits of probabilistic
+modeling, such as the ability to perform rich joint and conditional queries
+over arbitrary sets of concepts, and both learning from and predicting
+calibrated uncertainty. We show improvements over previous approaches in
+modeling the Flickr and WordNet entailment graphs, and investigate the power of
+the model.
+Author{1}{Firstname}#=%=#Luke
+Author{1}{Lastname}#=%=#Vilnis
+Author{1}{Email}#=%=#luke@cs.umass.edu
+Author{1}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Xiang
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#xiangl@cs.umass.edu
+Author{2}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Shikhar
+Author{3}{Lastname}#=%=#Murty
+Author{3}{Email}#=%=#smurty@cs.umass.edu
+Author{3}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+Author{4}{Firstname}#=%=#Andrew
+Author{4}{Lastname}#=%=#McCallum
+Author{4}{Email}#=%=#mccallum@cs.umass.edu
+Author{4}{Affiliation}#=%=#College of Information and Computer Sciences, University of Massachusetts Amherst
+
+==========

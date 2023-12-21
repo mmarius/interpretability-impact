@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Predicting the presence of a Matrix Language in code-switching
+ShortPaperTitle#=%=#Predicting the presence of a Matrix Language in code-switching
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Barbara E. Bullock
+JobTitle#==#Professor
+Organization#==#The University of Texas at Austin and George Mason University
+Abstract#==#One language is often assumed to be dominant in code-switching but this assumption has not been empirically tested. We operationalize the matrix language (ML) at the level of the sentence, using three common definitions from linguistics. We test whether these converge and then model this convergence via a set of metrics that together quantify the nature of C-S. We conduct our experiment on four Spanish-English corpora. Our results demonstrate that our model can separate some corpora according to whether they have a dominant ML or not but that the corpora span a range of mixing types that cannot be sorted neatly into an insertional vs. alternational dichotomy.
+Author{1}{Firstname}#=%=#Barbara
+Author{1}{Lastname}#=%=#Bullock
+Author{1}{Email}#=%=#bbullock@austin.utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas
+Author{2}{Firstname}#=%=#Wally
+Author{2}{Lastname}#=%=#Guzman
+Author{2}{Email}#=%=#gualbertoguzman@utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Jacqueline
+Author{3}{Lastname}#=%=#Serigos
+Author{3}{Email}#=%=#jserigos@gmu.edu
+Author{3}{Affiliation}#=%=#George Mason University
+Author{4}{Firstname}#=%=#Vivek
+Author{4}{Lastname}#=%=#Sharath
+Author{4}{Email}#=%=#vivek.sharath@gmail.com
+Author{4}{Affiliation}#=%=#University of Texas at Austin
+Author{5}{Firstname}#=%=#Almeida Jacqueline
+Author{5}{Lastname}#=%=#Toribio
+Author{5}{Email}#=%=#toribio@austin.utexas.edu
+Author{5}{Affiliation}#=%=#The University of Texas
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1024
+FinalPaperTitle#=%=#AMR Parsing as Graph Prediction with Latent Alignment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#chunchuan lyu
+JobTitle#==#
+Organization#==#University of Edinburgh School of Informatics at 10 Crichton St, Edinburgh EH8 9AB UK
+Abstract#==#Abstract meaning representations (AMRs) are broad-coverage sentence-level semantic representations. AMRs represent sentences as rooted labeled directed acyclic graphs. AMR parsing is challenging partly due to the lack of annotated alignments between nodes in the graphs and words in the corresponding sentences. We introduce a neural parser which treats alignments as latent variables within a joint probabilistic model of concepts, relations and alignments. As exact inference requires marginalizing over alignments and is infeasible, we use the variational autoencoding framework and a continuous relaxation of the discrete alignments. We show that joint modeling is preferable to using a pipeline of align and parse. The parser achieves the best reported results on the standard benchmark (74.4% on LDC2016E25).
+Author{1}{Firstname}#=%=#Chunchuan
+Author{1}{Lastname}#=%=#Lyu
+Author{1}{Email}#=%=#chunchuan.lv@gmail.com
+Author{1}{Affiliation}#=%=#The University of Edinburgh
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Titov
+Author{2}{Email}#=%=#titov@uva.nl
+Author{2}{Affiliation}#=%=#University of Edinburgh / University of Amsterdam
+
+==========

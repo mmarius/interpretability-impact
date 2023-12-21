@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#938
+FinalPaperTitle#=%=#Efficient and Robust Question Answering from Minimal Context over Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sewon Min
+JobTitle#==#Student
+Organization#==#Seoul National University, Seoul, Republic of Korea
+Abstract#==#Neural models for question answering (QA) over documents have achieved
+significant performance improvements. Although effective, these models do not
+scale to large corpora due to their complex modeling of interactions between
+the document and the question. Moreover, recent work has shown that such models are sensitive to adversarial inputs. In this paper, we study the minimal context required to answer the question, and find that most questions in existing datasets can be answered with a small set of sentences. Inspired by this observation, we propose a simple sentence selector to select the minimal set of sentences to feed into the QA model. Our overall system achieves significant reductions in training (up to 15 times) and inference times (up to 13 times), with accuracy comparable to or better than the state-of-the-art on SQuAD, NewsQA, TriviaQA and SQuAD-Open. Furthermore, our experimental results and analyses show that our approach is more robust to adversarial inputs.
+Author{1}{Firstname}#=%=#Sewon
+Author{1}{Lastname}#=%=#Min
+Author{1}{Email}#=%=#shmsw25@snu.ac.kr
+Author{1}{Affiliation}#=%=#Seoul National University
+Author{2}{Firstname}#=%=#Victor
+Author{2}{Lastname}#=%=#Zhong
+Author{2}{Email}#=%=#victor@victorzhong.com
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Richard
+Author{3}{Lastname}#=%=#Socher
+Author{3}{Email}#=%=#socherr@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Caiming
+Author{4}{Lastname}#=%=#Xiong
+Author{4}{Email}#=%=#cxiong@salesforce.com
+Author{4}{Affiliation}#=%=#Salesforce Research
+
+==========

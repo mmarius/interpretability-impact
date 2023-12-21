@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1262
+FinalPaperTitle#=%=#Unsupervised Semantic Frame Induction using Triclustering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Dmitry Ustalov
+JobTitle#==#
+Organization#==#University of Mannheim, B6, 26, D-68159 Mannheim, Germany
+Abstract#==#We use dependency triples automatically extracted from a Web-scale corpus to perform unsupervised semantic frame induction. We cast the frame induction problem as a triclustering problem that is a generalization of clustering for triadic data. Our replicable benchmarks demonstrate that the proposed graph-based approach, Triframes, shows state-of-the art results on this task on a FrameNet-derived dataset and performing on par with competitive methods on a verb class clustering task.
+Author{1}{Firstname}#=%=#Dmitry
+Author{1}{Lastname}#=%=#Ustalov
+Author{1}{Email}#=%=#dmitry.ustalov@gmail.com
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Panchenko
+Author{2}{Email}#=%=#panchenko.alexander@gmail.com
+Author{2}{Affiliation}#=%=#University of Hamburg
+Author{3}{Firstname}#=%=#Andrey
+Author{3}{Lastname}#=%=#Kutuzov
+Author{3}{Email}#=%=#andreku@ifi.uio.no
+Author{3}{Affiliation}#=%=#University of Oslo
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Biemann
+Author{4}{Email}#=%=#biemann@informatik.uni-hamburg.de
+Author{4}{Affiliation}#=%=#University of Hamburg
+Author{5}{Firstname}#=%=#Simone Paolo
+Author{5}{Lastname}#=%=#Ponzetto
+Author{5}{Email}#=%=#simone@informatik.uni-mannheim.de
+Author{5}{Affiliation}#=%=#University of Mannheim
+
+==========

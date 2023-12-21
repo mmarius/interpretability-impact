@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#625
+FinalPaperTitle#=%=#Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Andrea Madotto
+JobTitle#==#
+Organization#==#The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+Abstract#==#End-to-end task-oriented dialog systems usually suffer from the challenge of
+incorporating knowledge bases. In this paper, we propose a novel yet simple
+end-to-end differentiable model called memory-to-sequence (Mem2Seq) to address
+this issue. Mem2Seq is the first neural generative model that combines the
+multi-hop attention over memories with the idea of pointer network. We
+empirically show how Mem2Seq controls each generation step, and how its
+multi-hop attention mechanism helps in learning correlations between memories.
+In addition, our model is quite general without complicated task-specific
+designs. As a result, we show that Mem2Seq can be trained faster and attain the
+state-of-the-art performance on three different task-oriented dialog datasets.
+Author{1}{Firstname}#=%=#Andrea
+Author{1}{Lastname}#=%=#Madotto
+Author{1}{Email}#=%=#eeandreamad@ust.hk
+Author{1}{Affiliation}#=%=#The Hong Kong University Of Science and Technology
+Author{2}{Firstname}#=%=#Chien-Sheng
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#jason.wu@connect.ust.hk
+Author{2}{Affiliation}#=%=#Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Pascale
+Author{3}{Lastname}#=%=#Fung
+Author{3}{Email}#=%=#pascale@ece.ust.hk
+Author{3}{Affiliation}#=%=#The Hong Kong University of Science and Technology
+
+==========

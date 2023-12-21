@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#EmotionX-DLC: Self-Attentive BiLSTM for Detecting Sequential Emotions in Dialogues
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Linkai
+JobTitle#==#
+Organization#==#Hang Seng Management College
+Abstract#==#In this paper, we propose a self-attentive bidirectional long short-term memory (SA-BiLSTM) network to predict multiple emotions for the EmotionX challenge. The BiLSTM exhibits the power of modeling the word dependencies, and extracting the most relevant features for emotion classification.  Building on top of BiLSTM, the self-attentive network can model the contextual dependencies between utterances which are helpful for classifying the ambiguous emotions.  We achieve 59.6 and 55.0 unweighted accuracy scores in the Friends and the EmotionPush test sets, respectively.
+Author{1}{Firstname}#=%=#Linkai
+Author{1}{Lastname}#=%=#Luo
+Author{1}{Email}#=%=#llk1896@gmail.com
+Author{1}{Affiliation}#=%=#Hang Seng Management College
+Author{2}{Firstname}#=%=#Haiqin
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#hqyang@ieee.org
+Author{2}{Affiliation}#=%=#Hang Seng Management College
+Author{3}{Firstname}#=%=#Francis Y. L.
+Author{3}{Lastname}#=%=#Chin
+Author{3}{Email}#=%=#francischin@hsmc.edu.hk
+Author{3}{Affiliation}#=%=#Hang Seng Management College
+
+==========

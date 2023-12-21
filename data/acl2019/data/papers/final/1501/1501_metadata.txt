@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1501
+FinalPaperTitle#=%=#An Empirical Study of Building a Strong Baseline for Constituency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Jun Suzuki
+JobTitle#==#
+Organization#==#NTT Communication Science Laboratories, 2-4 Hikaridai, Seika-cho, Soraku-gun, Kyoto, 619-0237 Japan
+Abstract#==#This paper investigates the construction of a strong baseline based on general purpose sequence-to-sequence models for constituency parsing.
+ We incorporate several techniques that were mainly developed in natural language generation tasks, e.g., machine translation and summarization, and
+ demonstrate that the sequence-to-sequence model achieves the current top-notch parsers' performance
+ (almost) without requiring any explicit task-specific knowledge or architecture of constituent parsing.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Suzuki
+Author{1}{Email}#=%=#dr.jun.suzuki@gmail.com
+Author{1}{Affiliation}#=%=#NTT CS Lab.
+Author{2}{Firstname}#=%=#Sho
+Author{2}{Lastname}#=%=#Takase
+Author{2}{Email}#=%=#takase.ecei@gmail.com
+Author{2}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{3}{Firstname}#=%=#Hidetaka
+Author{3}{Lastname}#=%=#Kamigaito
+Author{3}{Email}#=%=#kamigaitohidetaka@gmail.com
+Author{3}{Affiliation}#=%=#NTT Communication Science Laboratories, NTT Corporation
+Author{4}{Firstname}#=%=#Makoto
+Author{4}{Lastname}#=%=#Morishita
+Author{4}{Email}#=%=#makoto.anko@gmail.com
+Author{4}{Affiliation}#=%=#NTT Communication Science Laboratories
+Author{5}{Firstname}#=%=#Masaaki
+Author{5}{Lastname}#=%=#Nagata
+Author{5}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
+Author{5}{Affiliation}#=%=#+81-774-93-5235
+
+==========

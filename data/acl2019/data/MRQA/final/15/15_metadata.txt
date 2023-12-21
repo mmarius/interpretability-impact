@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Robust and Scalable Differentiable Neural Computer for Question Answering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Jörg Franke
+JobTitle#==#
+Organization#==#Karlsruhe Institute of Technology, 76131 Karlsruhe, Germany
+Abstract#==#Deep learning models are often not easily adaptable to new tasks and require task-specific adjustments. The differentiable neural computer (DNC), a memory-augmented neural network, is designed as a general problem solver which can be used in a wide range of tasks. But in reality, it is hard to apply this model to new tasks. 
+We analyze the DNC and identify possible improvements within the application of question answering. This motivates a more robust and scalable DNC (rsDNC). The objective precondition is to keep the general character of this model intact while making its application more reliable and speeding up its required training time. 
+The rsDNC is distinguished by a more robust training, a slim memory unit and a bidirectional architecture.
+We not only achieve new state-of-the-art performance on the bAbI task, but also minimize the performance variance between different initializations. 
+Furthermore, we demonstrate the simplified applicability of the rsDNC to new tasks with passable results on the CNN RC task without adaptions.
+Author{1}{Firstname}#=%=#Jörg
+Author{1}{Lastname}#=%=#Franke
+Author{1}{Email}#=%=#joerg.franke@student.kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Lastname}#=%=#Niehues
+Author{2}{Email}#=%=#jan.niehues@kit.edu
+Author{2}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{3}{Firstname}#=%=#Alex
+Author{3}{Lastname}#=%=#Waibel
+Author{3}{Email}#=%=#waibel@kit.edu
+Author{3}{Affiliation}#=%=#Karlsruhe Institute of Technology
+
+==========

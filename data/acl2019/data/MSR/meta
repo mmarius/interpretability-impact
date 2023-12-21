@@ -1,0 +1,15 @@
+abbrev MSR
+type WORKSHOP
+title First Workshop on Multilingual Surface Realisation
+url http://taln.upf.edu/pages/msr2018-ws/
+booktitle Proceedings of the First Workshop on Multilingual Surface Realisation
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Simon Mille (Pompeu Fabra University)
+chairs Anja Belz (University of Brighton)
+chairs Bernd Bohnet (Google Research)
+chairs Emily Pitler (Google Research)
+chairs Leo Wanner (Pompeu Fabra University)
+bib_url http://www.aclweb.org/anthology/W18-36%02d

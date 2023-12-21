@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Multi-task learning for historical text normalization: Size matters
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Marcel Bollmann
+JobTitle#==#
+Organization#==#
+Abstract#==#Historical text normalization suffers from small datasets that exhibit high variance, and previous work has shown that multi-task learning can be used to leverage data from related problems in order to obtain more robust models. Previous work has been limited to datasets from a specific language and a specific historical period, and it is not clear whether results generalize. It therefore remains an open problem, when historical text normalization benefits from multi-task learning. We explore the benefits of multi-task learning across 10 different datasets, representing different languages and periods. Our main finding---contrary to what has been observed for other NLP tasks---is that multi-task learning mainly works when target task data is very scarce.
+Author{1}{Firstname}#=%=#Marcel
+Author{1}{Lastname}#=%=#Bollmann
+Author{1}{Email}#=%=#marcel@di.ku.dk
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Lastname}#=%=#Søgaard
+Author{2}{Email}#=%=#soegaard@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+Author{3}{Firstname}#=%=#Joachim
+Author{3}{Lastname}#=%=#Bingel
+Author{3}{Email}#=%=#joabingel@gmail.com
+Author{3}{Affiliation}#=%=#University of Copenhagen
+
+==========

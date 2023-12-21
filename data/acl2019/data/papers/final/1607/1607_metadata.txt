@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1607
+FinalPaperTitle#=%=#Learning Cross-lingual Distributed Logical Representations for Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Yanyan Zou
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design; 8 Somapah Road, Singapore, 487372
+Abstract#==#With the development of several multilingual datasets used for semantic parsing, recent research efforts have looked into the problem of learning semantic parsers in a multilingual setup.
+However, how to improve the performance of a monolingual semantic parser for a specific language by leveraging data annotated in different languages remains a research question that is under-explored.
+In this work, we present a study to show how learning distributed representations of the logical forms from data annotated in different languages can be used for improving the performance of a monolingual semantic parser.
+We extend two existing monolingual semantic parsers to incorporate such cross-lingual distributed logical representations as features.
+Experiments show that our proposed approach is able to yield improved semantic parsing results on the standard multilingual GeoQuery dataset.
+Author{1}{Firstname}#=%=#Yanyan
+Author{1}{Lastname}#=%=#Zou
+Author{1}{Email}#=%=#yanyan_zou@mymail.sutd.edu.sg
+Author{1}{Affiliation}#=%=#SUTD
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#luwei@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

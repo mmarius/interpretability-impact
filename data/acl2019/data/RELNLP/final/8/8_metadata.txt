@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Unsupervised Source Hierarchies for Low-Resource Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Anna Currey
+JobTitle#==#
+Organization#==#
+Abstract#==#Incorporating source syntactic information into neural machine translation (NMT) has recently proven successful (Eriguchi et al., 2016; Luong et al., 2016). However, this is generally done using an outside parser to syntactically annotate the training data, making this technique difficult to use for languages or domains for which a reliable parser is not available. In this paper, we introduce an unsupervised tree-to-sequence (tree2seq) model for neural machine translation; this model is able to induce an unsupervised hierarchical structure on the source sentence based on the downstream task of neural machine translation. We adapt the Gumbel tree-LSTM of Choi et al. (2018) to NMT in order to create the encoder.
+
+We evaluate our model against sequential and supervised parsing baselines on three low- and medium-resource language pairs. For low-resource cases, the unsupervised tree2seq encoder significantly outperforms the baselines; no improvements are seen for medium-resource translation.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Currey
+Author{1}{Email}#=%=#amscurrey@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Kenneth
+Author{2}{Lastname}#=%=#Heafield
+Author{2}{Email}#=%=#softconf@kheafield.com
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

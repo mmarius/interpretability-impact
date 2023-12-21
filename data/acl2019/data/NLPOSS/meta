@@ -1,0 +1,14 @@
+abbrev NLP-OSS
+type WORKSHOP
+title Workshop for NLP Open Source Software
+url http://nlposs.github.io
+booktitle Proceedings of Workshop for NLP Open Source Software (NLP-OSS)
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Eunjeong L. Park
+chairs Masato Hagiwara
+chairs Dmitrijs Milajevs
+chairs Liling Tan
+bib_url http://www.aclweb.org/anthology/W18-25%02d

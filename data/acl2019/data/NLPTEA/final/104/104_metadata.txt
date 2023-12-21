@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#104
+FinalPaperTitle#=%=#Selecting NLP Techniques to Evaluate Learning Design Objectives in Collaborative Multi-perspective Elaboration Activities
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Aneesha Bakharia
+JobTitle#==#
+Organization#==#ITaLI, The University of Queensland, Brisbane, Australia
+Abstract#==#PerspectivesX is a multi-perspective elaboration tool designed to encourage learner submission and curation across a range of collaborative learning activities. In this paper, it is shown that the learning design objectives of collaborative learning activities can be evaluated using NLP techniques, but that careful analysis of learner impact and pedagogical intent are required in order to select appropriate techniques. In particular, this paper focuses on the NLP techniques required to deliver an instructor dashboard, personalized learner feedback and content recommendation within multi-perspective elaboration activities. Key NLP techniques considered for inclusion include summarization, topic modeling, paraphrase detection and diversified content recommendation.
+Author{1}{Firstname}#=%=#Aneesha
+Author{1}{Lastname}#=%=#Bakharia
+Author{1}{Email}#=%=#aneesha.bakharia@gmail.com
+Author{1}{Affiliation}#=%=#The University of Queensland
+
+==========

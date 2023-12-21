@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#870
+FinalPaperTitle#=%=#Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Cicero Nogueira dos Santos
+JobTitle#==#Research Staff Member
+Organization#==#IBM Research
+Abstract#==#We introduce a new approach to tackle the problem of offensive language in online social media. Our approach uses unsupervised text style transfer to translate offensive sentences into non-offensive ones. We propose a new method for training encoder-decoders using non-parallel data that combines a collaborative classifier, attention and the cycle consistency loss. Experimental results on data from Twitter and Reddit show that our method outperforms a state-of-the-art text style transfer system in two out of three quantitative metrics and produces reliable non-offensive transferred sentences.
+Author{1}{Firstname}#=%=#Cicero
+Author{1}{Lastname}#=%=#Nogueira dos Santos
+Author{1}{Email}#=%=#cicerons@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research AI
+Author{2}{Firstname}#=%=#Igor
+Author{2}{Lastname}#=%=#Melnyk
+Author{2}{Email}#=%=#igor.melnyk@ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Inkit
+Author{3}{Lastname}#=%=#Padhi
+Author{3}{Email}#=%=#inkit.padhi@gmail.com
+Author{3}{Affiliation}#=%=#IBM
+
+==========

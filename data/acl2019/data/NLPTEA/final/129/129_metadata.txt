@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#129
+FinalPaperTitle#=%=#Ling@CASS Solution to the NLP-TEA CGED Shared Task 2018
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Qinan Hu
+JobTitle#==#Researcher
+Organization#==#Institute of Linguistics, Chinese Academy of Social Sciences
+Abstract#==#In this study, we employ the sequence to sequence learning to model the task of grammar error correction. The system takes potentially erroneous sentences as inputs, and outputs correct sentences. To breakthrough the bottlenecks of very limited size of manually labeled data, we adopt a semi-supervised approach. Specifically, we adapt correct sentences written by native Chinese speakers to generate pseudo grammatical errors made by learners of Chinese as a second language. We use the pseudo data to pre-train the model, and the CGED data to fine-tune it. Being aware of the significance of precision in a grammar error correction system in real scenarios, we use ensembles to boost precision. When using inputs as simple as Chinese characters, the ensembled system achieves a precision at 86.56% in the detection of erroneous sentences, and a precision at 51.53% in the correction of errors of Selection and Missing types.
+Author{1}{Firstname}#=%=#Qinan
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#qinan.hu@qq.com
+Author{1}{Affiliation}#=%=#中国多语言多模态语料库暨大数据研究中心
+Author{2}{Firstname}#=%=#Yongwei
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhangyw@cass.org.cn
+Author{2}{Affiliation}#=%=#中国多语言多模态语料库暨大数据研究中心
+Author{3}{Firstname}#=%=#Fang
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liu_fang@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Yueguo
+Author{4}{Lastname}#=%=#Gu
+Author{4}{Email}#=%=#gyg@beiwaionline.com
+Author{4}{Affiliation}#=%=#中国多语言多模态语料库暨大数据研究中心
+
+==========

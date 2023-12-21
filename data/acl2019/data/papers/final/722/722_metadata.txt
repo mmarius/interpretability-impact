@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#722
+FinalPaperTitle#=%=#Knowledge Diffusion for Neural Dialogue Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#liushuman
+JobTitle#==#
+Organization#==#Institute of Computing Technology, Chinese Academy of Sciences
+Abstract#==#End-to-end neural dialogue generation has shown promising results recently, but
+it does not employ knowledge to guide the generation and hence tends to
+generate short, general, and meaningless responses. In this paper, we propose a
+neural knowledge diffusion (NKD) model to introduce knowledge into dialogue
+generation. This method can not only match the relevant facts for the input
+utterance but diffuse them to similar entities. With the help of facts matching
+and entity diffusion, the neural dialogue generation is augmented with the
+ability of convergent and divergent thinking over the knowledge base.
+Our empirical study on a real-world dataset prove that our model is capable of
+generating meaningful, diverse and natural responses for both factoid-questions
+and knowledge grounded chi-chats. The experiment results also show that our
+model outperforms competitive baseline models significantly.
+Author{1}{Firstname}#=%=#Shuman
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liushuman@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology
+Author{2}{Firstname}#=%=#Hongshen
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#chenhongshen@jd.com
+Author{2}{Affiliation}#=%=#JD.com
+Author{3}{Firstname}#=%=#Zhaochun
+Author{3}{Lastname}#=%=#Ren
+Author{3}{Email}#=%=#renzhaochun@jd.com
+Author{3}{Affiliation}#=%=#JD.com
+Author{4}{Firstname}#=%=#Yang
+Author{4}{Lastname}#=%=#Feng
+Author{4}{Email}#=%=#fengyang@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Qun
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#liuquncn@gmail.com
+Author{5}{Affiliation}#=%=#Dublin City University
+Author{6}{Firstname}#=%=#Dawei
+Author{6}{Lastname}#=%=#Yin
+Author{6}{Email}#=%=#yindawei@acm.org
+Author{6}{Affiliation}#=%=#JD.com
+
+==========

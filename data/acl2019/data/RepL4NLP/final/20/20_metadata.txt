@@ -1,0 +1,17 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Connecting Supervised and Unsupervised Sentence Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Gil Levi
+JobTitle#==#
+Organization#==#
+Abstract#==#Representing sentences as numerical vectors while capturing their semantic context is an important and useful intermediate step in natural language processing. Representations that are both general and discriminative can serve as a tool for tackling various NLP tasks.
+
+While common sentence representation methods are unsupervised in nature, recently, an approach for learning universal sentence representation in a supervised setting was presented in (Conneau et al.,2017). We argue that although promising results were obtained, an improvement
+can be reached by adding various unsupervised constraints that are motivated by auto-encoders and by language models. We show that by adding such constraints, superior sentence embeddings can be achieved. We compare our method with the original implementation and show improvements in several tasks.
+Author{1}{Firstname}#=%=#Gil
+Author{1}{Lastname}#=%=#Levi
+Author{1}{Email}#=%=#gil.levi100@gmail.com
+Author{1}{Affiliation}#=%=#Tel Aviv University
+
+==========

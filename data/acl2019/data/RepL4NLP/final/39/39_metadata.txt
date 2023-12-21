@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Multilingual Seq2seq Training with Similarity Loss for Cross-Lingual Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Katherine Yu
+JobTitle#==#Research Scientist
+Organization#==#Facebook, 1 Hacker Way, Menlo Park, CA
+Abstract#==#In this paper we continue experiments
+where neural machine translation training
+is used to produce joint cross-lingual
+fixed-dimensional sentence embeddings.
+In this framework we introduce a simple
+method of adding a loss to the learning objective
+which penalizes distance between
+representations of bilingually aligned sentences.
+We evaluate cross-lingual transfer
+using two approaches, cross-lingual similarity
+search on an aligned corpus (Europarl)
+and cross-lingual document classification
+on a recently published benchmark
+Reuters corpus, and we find the similarity
+loss significantly improves performance
+on both. Furthermore, we notice
+that while our Reuters results are very
+competitive, our English results are not as
+competitive, showing room for improvement
+in the current cross-lingual state-ofthe-art.
+Our results are based on a set of 6
+European languages.
+Author{1}{Firstname}#=%=#Katherine
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#yukatherin@fb.com
+Author{1}{Affiliation}#=%=#Facebook AML
+Author{2}{Firstname}#=%=#Haoran
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#aimeeli@fb.com
+Author{2}{Affiliation}#=%=#Facebook AML
+Author{3}{Firstname}#=%=#Barlas
+Author{3}{Lastname}#=%=#Oguz
+Author{3}{Email}#=%=#barlaso@fb.com
+Author{3}{Affiliation}#=%=#Facebook AML
+
+==========

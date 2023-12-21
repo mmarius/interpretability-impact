@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#NICT Self-Training Approach to Neural Machine Translation at NMT-2018
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kenji Imamura
+JobTitle#==#
+Organization#==#National Institure of Information and Communications Technology, Japan
+Abstract#==#This paper describes the NICT neural machine translation system submitted at the NMT-2018 shared task.  A characteristic of our approach is the introduction of self-training.  Since our self-training does not change the model structure, it does not influence the efficiency of translation, such as the translation speed.
+
+The experimental results showed that the translation quality improved not only in the sequence-to-sequence (seq-to-seq) models but also in the transformer models.
+Author{1}{Firstname}#=%=#Kenji
+Author{1}{Lastname}#=%=#Imamura
+Author{1}{Email}#=%=#kenji.imamura@nict.go.jp
+Author{1}{Affiliation}#=%=#National Institute of Information and Communications Technology
+Author{2}{Firstname}#=%=#Eiichiro
+Author{2}{Lastname}#=%=#Sumita
+Author{2}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{2}{Affiliation}#=%=#National Institute of Information and Communications Technology
+
+==========

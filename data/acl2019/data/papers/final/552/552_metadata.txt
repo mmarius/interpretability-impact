@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#552
+FinalPaperTitle#=%=#Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Boyuan Pan
+JobTitle#==#
+Organization#==#Zhejiang University
+Abstract#==#Natural Language Inference (NLI), also known as Recognizing Textual Entailment (RTE), is one of the most important problems in natural language processing. It requires to infer the logical relationship between two given sentences. While current approaches mostly focus on the interaction architectures of the sentences, in this paper, we propose to transfer knowledge from some important discourse markers to augment the quality of the NLI model. We observe that people usually use some discourse markers such as "so" or "but" to represent the logical relationship between two sentences. These words potentially have deep connections with the meanings of the sentences, thus can be utilized to help improve the representations of them. Moreover, we use reinforcement learning to optimize a new objective function with a reward defined by the property of the NLI datasets to make full use of the labels information. Experiments show that our method achieves the state-of-the-art performance on several large-scale datasets.
+Author{1}{Firstname}#=%=#Boyuan
+Author{1}{Lastname}#=%=#Pan
+Author{1}{Email}#=%=#panby@zju.edu.cn
+Author{1}{Affiliation}#=%=#Zhejiang University
+Author{2}{Firstname}#=%=#Yazheng
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yazheng_yang@zju.edu.cn
+Author{2}{Affiliation}#=%=#Zhejiang University
+Author{3}{Firstname}#=%=#Zhou
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#zhaohzou@zju.edu.cn
+Author{3}{Affiliation}#=%=#Zhejiang University
+Author{4}{Firstname}#=%=#Yueting
+Author{4}{Lastname}#=%=#Zhuang
+Author{4}{Email}#=%=#yzhuang@zju.edu.cn
+Author{4}{Affiliation}#=%=#Zhejiang University
+Author{5}{Firstname}#=%=#Deng
+Author{5}{Lastname}#=%=#Cai
+Author{5}{Email}#=%=#dengcai@gmail.com
+Author{5}{Affiliation}#=%=#Zhejiang University
+Author{6}{Firstname}#=%=#Xiaofei
+Author{6}{Lastname}#=%=#He
+Author{6}{Email}#=%=#xiaofeihe@gmail.com
+Author{6}{Affiliation}#=%=#Zhejiang University
+
+==========

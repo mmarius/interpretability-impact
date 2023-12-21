@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#68
+FinalPaperTitle#=%=#Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wang, Yansen
+JobTitle#==#Undergraduate
+Organization#==#Conversational AI group, AI Lab., Department of Computer Science, Tsinghua University, Beijing National Research Center for Information Science and Technology, China
+Abstract#==#Asking good questions in open-domain conversational systems is quite
+significant but rather untouched. This task, substantially different from
+traditional question generation, requires to question not only with various
+patterns but also on diverse and relevant topics. We observe that a good
+question is a natural composition of interrogatives, topic words, and ordinary
+words. Interrogatives lexicalize the pattern of questioning, topic words
+address the key information for topic transition in dialogue, and ordinary
+words play syntactical and grammatical roles in making a natural sentence. 
+We devise two typed decoders (soft typed decoder and hard typed decoder) in
+which a type distribution over the three types is estimated and the type
+distribution is used to modulate the final generation distribution. Extensive
+experiments show that the typed decoders outperform state-of-the-art baselines
+and can generate more meaningful questions.
+Author{1}{Firstname}#=%=#Yansen
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#ys-wang15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Chenyi
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liucy15@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Minlie
+Author{3}{Lastname}#=%=#Huang
+Author{3}{Email}#=%=#aihuang@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Liqiang
+Author{4}{Lastname}#=%=#Nie
+Author{4}{Email}#=%=#nieliqiang@gmail.com
+Author{4}{Affiliation}#=%=#Shandong University
+
+==========

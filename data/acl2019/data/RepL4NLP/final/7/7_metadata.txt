@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Extrofitting: Enriching Word Representation and its Vector Space with Semantic Lexicons
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hwiyeol Jo
+JobTitle#==#
+Organization#==#AI Lab, LG Eletronics
+Abstract#==#We propose post-processing method for enriching not only word representation
+but also its vector space using semantic lexicons, which we call extrofitting. The method consists of 3 steps as follows: (i) Expanding 1 or more dimension(s) on all the word vectors, filling with their representative value. (ii) Transferring semantic knowledge by averaging each representative values of synonyms and filling them in the expanded dimension(s). These two steps make representations of the synonyms close together. (iii) Projecting the vector space using Linear Discriminant Analysis, which eliminates the expanded dimension(s) with semantic knowledge. When experimenting with GloVe, we find that our method outperforms Faruqui's retrofitting on some of word similarity task. We also report further analysis on our method in respect to word vector dimensions, vocabulary size as well as other well-known pretrained word vectors (e.g., Word2Vec, Fasttext).
+Author{1}{Firstname}#=%=#Hwiyeol
+Author{1}{Lastname}#=%=#Jo
+Author{1}{Email}#=%=#hwiyeolj@gmail.com
+Author{1}{Affiliation}#=%=#LG Electronics AI Lab
+Author{2}{Firstname}#=%=#Stanley Jungkyu
+Author{2}{Lastname}#=%=#Choi
+Author{2}{Email}#=%=#stanley.choi@lge.com
+Author{2}{Affiliation}#=%=#LG Electronics AI Lab
+
+==========

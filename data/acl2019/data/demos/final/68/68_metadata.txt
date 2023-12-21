@@ -1,0 +1,90 @@
+SubmissionNumber#=%=#68
+FinalPaperTitle#=%=#DeepPavlov: Open-Source Library for Dialogue Systems
+ShortPaperTitle#=%=#DeepPavlov: Open-Source Library for Dialogue Systems
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Burtsev
+JobTitle#==#
+Organization#==#Moscow Institute of Physics and Technology, 9 Institutskiy per., Dolgoprudny, 141701, Russian Federation
+Abstract#==#Adoption of messaging communication and voice assistants has grown rapidly in the last years. This creates a demand for tools that speed up prototyping of feature-rich dialogue systems. An open-source library DeepPavlov is tailored for development of conversational agents. The library prioritises efficiency, modularity, and extensibility with the goal to make it easier to develop dialogue systems from scratch and with limited data available. It supports modular as well as end-to-end approaches to implementation of conversational agents. Conversational agent consists of skills and every skill can be decomposed into components. Components are usually models which solve typical NLP tasks such as intent classification, named entity recognition or pre-trained word vectors. Sequence-to-sequence chit-chat skill, question answering skill or task-oriented skill can be assembled from components provided in the library.
+Author{1}{Firstname}#=%=#Mikhail
+Author{1}{Lastname}#=%=#Burtsev
+Author{1}{Email}#=%=#burtcev.ms@mipt.ru
+Author{1}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{2}{Firstname}#=%=#Alexander
+Author{2}{Lastname}#=%=#Seliverstov
+Author{2}{Email}#=%=#seliverstov@ipavlov.ai
+Author{2}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{3}{Firstname}#=%=#Rafael
+Author{3}{Lastname}#=%=#Airapetyan
+Author{3}{Email}#=%=#airapetyan@ipavlov.ai
+Author{3}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{4}{Firstname}#=%=#Mikhail
+Author{4}{Lastname}#=%=#Arkhipov
+Author{4}{Email}#=%=#arkhipov@ipavlov.ai
+Author{4}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{5}{Firstname}#=%=#Dilyara
+Author{5}{Lastname}#=%=#Baymurzina
+Author{5}{Email}#=%=#dilyara.baymurzina@ipavlov.ai
+Author{5}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{6}{Firstname}#=%=#Nickolay
+Author{6}{Lastname}#=%=#Bushkov
+Author{6}{Email}#=%=#bushkov@ipavlov.ai
+Author{6}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{7}{Firstname}#=%=#Olga
+Author{7}{Lastname}#=%=#Gureenkova
+Author{7}{Email}#=%=#ol.gure@gmail.com
+Author{7}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{8}{Firstname}#=%=#Taras
+Author{8}{Lastname}#=%=#Khakhulin
+Author{8}{Email}#=%=#t.khakhulin@gmail.com
+Author{8}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{9}{Firstname}#=%=#Yuri
+Author{9}{Lastname}#=%=#Kuratov
+Author{9}{Email}#=%=#kuratov@ipavlov.ai
+Author{9}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{10}{Firstname}#=%=#Denis
+Author{10}{Lastname}#=%=#Kuznetsov
+Author{10}{Email}#=%=#kuznetsov@ipavlov.ai
+Author{10}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{11}{Firstname}#=%=#Alexey
+Author{11}{Lastname}#=%=#Litinsky
+Author{11}{Email}#=%=#litinsky@ipavlov.ai
+Author{11}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{12}{Firstname}#=%=#Varvara
+Author{12}{Lastname}#=%=#Logacheva
+Author{12}{Email}#=%=#varvara@ipavlov.ai
+Author{12}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{13}{Firstname}#=%=#Alexey
+Author{13}{Lastname}#=%=#Lymar
+Author{13}{Email}#=%=#lymar@ipavlov.ai
+Author{13}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{14}{Firstname}#=%=#Valentin
+Author{14}{Lastname}#=%=#Malykh
+Author{14}{Email}#=%=#valentin@ipavlov.ai
+Author{14}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{15}{Firstname}#=%=#Maxim
+Author{15}{Lastname}#=%=#Petrov
+Author{15}{Email}#=%=#petrov@ipavlov.ai
+Author{15}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{16}{Firstname}#=%=#Vadim
+Author{16}{Lastname}#=%=#Polulyakh
+Author{16}{Email}#=%=#polulyakh@ipavlov.ai
+Author{16}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{17}{Firstname}#=%=#Leonid
+Author{17}{Lastname}#=%=#Pugachev
+Author{17}{Email}#=%=#pugachev@ipavlov.ai
+Author{17}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{18}{Firstname}#=%=#Alexey
+Author{18}{Lastname}#=%=#Sorokin
+Author{18}{Email}#=%=#alexey.sorokin@list.ru
+Author{18}{Affiliation}#=%=#Moscow Institute of Physics and Technology  Abstract
+Author{19}{Firstname}#=%=#Maria
+Author{19}{Lastname}#=%=#Vikhreva
+Author{19}{Email}#=%=#mary.vikhreva@ipavlov.ai
+Author{19}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+Author{20}{Firstname}#=%=#Marat
+Author{20}{Lastname}#=%=#Zaynutdinov
+Author{20}{Email}#=%=#marat@ipavlov.ai
+Author{20}{Affiliation}#=%=#Moscow Institute of Physics and Technology
+
+==========

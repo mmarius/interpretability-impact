@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Phrase2VecGLM: Neural generalized language model--based semantic tagging for complex query reformulation in medical IR
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Manirupa Das
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we develop a novel, completely unsupervised, neural language model-based document ranking approach to semantic tagging of documents, using the document to be tagged as a query into the GLM to retrieve candidate phrases from top-ranked related documents, thus associating every document with novel related concepts extracted from the text. For this we extend the word embedding-based general language model due to Ganguly et al 2015, to employ phrasal embeddings, and use the semantic tags thus obtained for downstream query expansion, both directly and in feedback loop settings. Our method, evaluated using the TREC 2016 clinical decision support challenge dataset, shows statistically significant improvement not only over various baselines that use standard MeSH terms and UMLS concepts for query expansion, but also over baselines using human expert--assigned concept tags for the queries, run on top of a standard Okapi BM25--based document retrieval system.
+Author{1}{Firstname}#=%=#Manirupa
+Author{1}{Lastname}#=%=#Das
+Author{1}{Email}#=%=#manirupa@gmail.com
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Fosler-Lussier
+Author{2}{Email}#=%=#fosler@cse.ohio-state.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Simon
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#Simon.Lin@nationwidechildrens.org
+Author{3}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{4}{Firstname}#=%=#Soheil
+Author{4}{Lastname}#=%=#Moosavinasab
+Author{4}{Email}#=%=#SeyedSoheil.Moosavinasab@nationwidechildrens.org
+Author{4}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#David.Chen3@nationwidechildrens.org
+Author{5}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{6}{Firstname}#=%=#Steve
+Author{6}{Lastname}#=%=#Rust
+Author{6}{Email}#=%=#Steve.Rust@nationwidechildrens.org
+Author{6}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{7}{Firstname}#=%=#Yungui
+Author{7}{Lastname}#=%=#Huang
+Author{7}{Email}#=%=#Yungui.Huang@nationwidechildrens.org
+Author{7}{Affiliation}#=%=#Nationwide Children's Hospital
+Author{8}{Firstname}#=%=#Rajiv
+Author{8}{Lastname}#=%=#Ramnath
+Author{8}{Email}#=%=#ramnath.6@osu.edu
+Author{8}{Affiliation}#=%=#The Ohio State University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#268
+FinalPaperTitle#=%=#SNAG: Spoken Narratives and Gaze Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Preethi Vaidyanathan
+JobTitle#==#
+Organization#==#LC Technologies, Inc. 10363 democracy lane, fairfax VA 22030
+Abstract#==#Humans rely on multiple sensory modalities when examining and reasoning over images. In this paper, we describe a new multimodal dataset that consists of gaze measurements and spoken descriptions collected in parallel during an image inspection task. The task was performed by multiple participants on 100 general-domain images showing everyday objects and activities. We demonstrate the usefulness of the dataset by applying an existing visual-linguistic data fusion framework in order to label important image regions with appropriate linguistic labels.
+Author{1}{Firstname}#=%=#Preethi
+Author{1}{Lastname}#=%=#Vaidyanathan
+Author{1}{Email}#=%=#pxv1621@rit.edu
+Author{1}{Affiliation}#=%=#LC Technologies & Rochester Institute of Technology
+Author{2}{Firstname}#=%=#Emily T.
+Author{2}{Lastname}#=%=#Prud'hommeaux
+Author{2}{Email}#=%=#prudhome@bc.edu
+Author{2}{Affiliation}#=%=#Boston College
+Author{3}{Firstname}#=%=#Jeff B.
+Author{3}{Lastname}#=%=#Pelz
+Author{3}{Email}#=%=#pelz@cis.rit.edu
+Author{3}{Affiliation}#=%=#Rochester Institute of Technology
+Author{4}{Firstname}#=%=#Cecilia O.
+Author{4}{Lastname}#=%=#Alm
+Author{4}{Email}#=%=#coagla@rit.edu
+Author{4}{Affiliation}#=%=#Rochester Institute of Technology
+
+==========

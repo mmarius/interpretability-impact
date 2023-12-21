@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Towards Automation of Sense-type Identification of Verbs in OntoSenseNet
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sreekavitha
+JobTitle#==#
+Organization#==#IIIT-H
+Abstract#==#In this paper, we discuss the enrichment of a manually developed resource, OntoSenseNet for Telugu. OntoSenseNet is a sense annotated resource that marks each verb of Telugu with a primary and a secondary sense. The area of research is relatively recent but has a large scope of development. We provide an introductory work to enrich the OntoSenseNet to promote further research in Telugu. Classifiers are adopted to learn the sense relevant features of the words in the resource and also to automate the tagging of sense-types for verbs. We perform a comparative analysis of different classifiers applied on OntoSenseNet. The results of the experiment prove that automated enrichment of the resource is effective using SVM classifiers and Adaboost ensemble.
+Author{1}{Firstname}#=%=#Sreekavitha
+Author{1}{Lastname}#=%=#Parupalli
+Author{1}{Email}#=%=#parupallishreekavithaa@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Vijjini
+Author{2}{Lastname}#=%=#Anvesh Rao
+Author{2}{Email}#=%=#vijjinianvesh.rao@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{3}{Firstname}#=%=#Radhika
+Author{3}{Lastname}#=%=#Mamidi
+Author{3}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

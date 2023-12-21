@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#113
+FinalPaperTitle#=%=#Assessment of an Index for Measuring Pronunciation Difficulty
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Katsunori Kotani
+JobTitle#==#
+Organization#==#Kansai Gaidai University, 16-1 Nakamiyahigashino-cho, Hirakata, Osaka, Japan
+Abstract#==#This study assesses an index for measur-ing the pronunciation difficulty of sen-tences (henceforth, pronounceability) based on the normalized edit distance from a reference sentence to a transcrip-tion of learners’ pronunciation. Pro-nounceability should be examined when language teachers use a computer-assisted language learning system for pronunciation learning to maintain the motivation of learners. However, unlike the evaluation of learners’ pronunciation performance, previous research did not focus on pronounceability not only for English but also for Asian languages. This study found that the normalized edit distance was reliable but not valid. The lack of validity appeared to be because of an English test used for determining the proficiency of learners.
+Author{1}{Firstname}#=%=#Katsunori
+Author{1}{Lastname}#=%=#Kotani
+Author{1}{Email}#=%=#kkotani@kansaigaidai.ac.jp
+Author{1}{Affiliation}#=%=#Kansai Gaidai University
+Author{2}{Firstname}#=%=#Takehiko
+Author{2}{Lastname}#=%=#Yoshimi
+Author{2}{Email}#=%=#yoshimi.takehiko@gmail.com
+Author{2}{Affiliation}#=%=#Ryukoku University
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#545
+FinalPaperTitle#=%=#A Simple and Effective Approach to Coverage-Aware Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yanyang Li
+JobTitle#==#
+Organization#==#Northeastern University
+Abstract#==#We offer a simple and effective method to seek a better balance between model confidence and length preference for Neural Machine Translation (NMT). Unlike the popular length normalization and coverage models, our model does not require training nor reranking the limited n-best outputs. Moreover, it is robust to large beam sizes, which is not well studied in previous work. On the Chinese-English and English-German translation tasks, our approach yields +0.4~1.5 BLEU improvements over the state-of-the-art baselines.
+Author{1}{Firstname}#=%=#Yanyang
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#blamedrlee@outlook.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Tong
+Author{2}{Lastname}#=%=#Xiao
+Author{2}{Email}#=%=#xiaotong@mail.neu.edu.cn
+Author{2}{Affiliation}#=%=#Northestern University
+Author{3}{Firstname}#=%=#Yinqiao
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#li.yin.qiao.2012@hotmail.com
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Qiang
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#wangqiangneu@gmail.com
+Author{4}{Affiliation}#=%=#Northeastern University
+Author{5}{Firstname}#=%=#Changming
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Email}#=%=#changmingxu@neuq.edu.cn
+Author{5}{Affiliation}#=%=#Northeastern University
+Author{6}{Firstname}#=%=#Jingbo
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Email}#=%=#zhujingbo@mail.neu.edu.cn
+Author{6}{Affiliation}#=%=#Northeastern University
+
+==========

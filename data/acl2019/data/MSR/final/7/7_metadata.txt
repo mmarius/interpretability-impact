@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#BinLin: A Simple Method of Dependency Tree Linearization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#16
+CopyrightSigned#=%=#Yevgeniy Puzikov
+JobTitle#==#
+Organization#==#UKP Lab, Technische Universität Darmstadt
+Abstract#==#Surface Realization Shared Task 2018 is a workshop on generating sentences from lemmatized sets of dependency triples.  This paper describes the results of our participation in the challenge. We develop a data-driven pipeline system which first orders the lemmas and then conjugates the words to finish the surface realization process. Our contribution is a novel sequential method of ordering lemmas, which, despite its simplicity, achieves promising results. We demonstrate the effectiveness of the proposed approach, describe its limitations and outline ways to improve it.
+Author{1}{Firstname}#=%=#Yevgeniy
+Author{1}{Lastname}#=%=#Puzikov
+Author{1}{Email}#=%=#puzikov@ukp.informatik.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Iryna
+Author{2}{Lastname}#=%=#Gurevych
+Author{2}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{2}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+
+==========

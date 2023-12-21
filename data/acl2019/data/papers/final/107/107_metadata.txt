@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#107
+FinalPaperTitle#=%=#Universal Language Model Fine-tuning for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#Insight Research Centre, NUI Galway, Galway, Ireland
+Abstract#==#Inductive transfer learning has greatly impacted computer vision, but existing
+approaches in NLP still require task-specific modifications and training from
+scratch. We propose Universal Language Model Fine-tuning (ULMFiT), an effective
+transfer learning method that can be applied to any task in NLP, and introduce
+techniques that are key for fine-tuning a language model. Our method
+significantly outperforms the state-of-the-art on six text classification
+tasks, reducing the error by 18-24% on the majority of datasets. Furthermore,
+with only 100 labeled examples, it matches the performance of training from
+scratch on 100 times more data. We open-source our pretrained models and code.
+Author{1}{Firstname}#=%=#Jeremy
+Author{1}{Lastname}#=%=#Howard
+Author{1}{Email}#=%=#j@fast.ai
+Author{1}{Affiliation}#=%=#fast.ai
+Author{2}{Firstname}#=%=#Sebastian
+Author{2}{Lastname}#=%=#Ruder
+Author{2}{Email}#=%=#ruder.sebastian@gmail.com
+Author{2}{Affiliation}#=%=#National University of Ireland, Galway
+
+==========

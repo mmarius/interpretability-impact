@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Sven Buechel
+JobTitle#==#
+Organization#==#JULIE Lab, Friedrich-Schiller-Universität Jena, Fürstengraben 27, 07743 Jena, Germany
+Abstract#==#We introduce JOCo, a novel text corpus for NLP analytics in the field of economics, business and management. This corpus is composed of corporate annual and social responsibility reports of the top 30 US, UK and German companies in the major (DJIA, FTSE 100, DAX), middle-sized (S&P 500, FTSE 250, MDAX) and technology (NASDAQ, FTSE AIM 100, TECDAX) stock indices, respectively. Altogether, this adds up to 5,000 reports from 270 companies headquartered in three of the world’s most important economies. The corpus spans a time frame from 2000 up to 2015 and contains, in total, 282M tokens. We also feature JOCo in a small-scale experiment to demonstrate its potential for NLP-fueled studies in economics, business and management research.
+Author{1}{Firstname}#=%=#Sebastian G.M.
+Author{1}{Lastname}#=%=#Händschke
+Author{1}{Email}#=%=#sebastian.haendschke@uni-jena.de
+Author{1}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{2}{Firstname}#=%=#Sven
+Author{2}{Lastname}#=%=#Buechel
+Author{2}{Email}#=%=#sven.buechel@uni-jena.de
+Author{2}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{3}{Firstname}#=%=#Jan
+Author{3}{Lastname}#=%=#Goldenstein
+Author{3}{Email}#=%=#jan.goldenstein@uni-jena.de
+Author{3}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{4}{Firstname}#=%=#Philipp
+Author{4}{Lastname}#=%=#Poschmann
+Author{4}{Email}#=%=#philipp.poschmann@uni-jena.de
+Author{4}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{5}{Firstname}#=%=#Tinghui
+Author{5}{Lastname}#=%=#Duan
+Author{5}{Email}#=%=#tinghui.duan@uni-jena.de
+Author{5}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{6}{Firstname}#=%=#Peter
+Author{6}{Lastname}#=%=#Walgenbach
+Author{6}{Email}#=%=#peter.walgenbach@uni-jena.de
+Author{6}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+Author{7}{Firstname}#=%=#Udo
+Author{7}{Lastname}#=%=#Hahn
+Author{7}{Email}#=%=#udo.hahn@uni-jena.de
+Author{7}{Affiliation}#=%=#Friedrich-Schiller-Universität Jena
+
+==========

@@ -1,0 +1,559 @@
+
+* Monday, July 16, 2018
++ 9:00--10:00 Welcome Session \& Presidential Address
++ 10:00--10:30 Coffee Break
+
+= 10:30--12:10 Session 1A: Word Semantics 1 %chair Gerard de Melo
+187 10:30--10:55 # Probabilistic FastText for Multi-Sense Word Embeddings # Ben Athiwaratkun, Andrew Wilson and Anima Anandkumar
+1520 10:55--11:20 # A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors # Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart and Sanjeev Arora
+707 11:20--11:45 # Unsupervised Learning of Distributional Relation Vectors # Shoaib Jameel, Zied Bouraoui and Steven Schockaert
+1553 11:45--12:10 # Explicit Retrofitting of Distributional Word Vectors # Goran Glavaš and Ivan Vulić
+
+= 10:30--12:10 Session 1B: Machine Translation 1 %chair Graham Neubig
+76 10:30--10:55 # Unsupervised Neural Machine Translation with Weight Sharing # Zhen Yang, Wei Chen, Feng Wang and Bo Xu
+79 10:55--11:20 # Triangular Architecture for Rare Language Translation # Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou and Shuai Ma
+98 11:20--11:45 # Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates # Taku Kudo
+1011 11:45--12:10 # The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation # Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu and Macduff Hughes
+
+= 10:30--12:10 Session 1C: Information Extraction 1 %chair William Wang
+880 10:30--10:55 # Ultra-Fine Entity Typing # Eunsol Choi, Omer Levy, Yejin Choi and Luke Zettlemoyer
+595 10:55--11:20 # Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking # Shikhar Murty, Patrick Verga, Luke Vilnis, Irena Radovanovic and Andrew McCallum
+139 11:20--11:45 # Improving Knowledge Graph Embedding Using Simple Constraints # Boyang Ding, Quan Wang, Bin Wang and Li Guo
+1418 11:45--12:10 # Towards Understanding the Geometry of Knowledge Graph Embeddings # Chandrahas -, Aditya Sharma and Partha Talukdar
+
+= 10:30--12:10 Session 1D: Summarization %chair Dragomir Radev
+335 10:30--10:55 # A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss # Wan-Ting Hsu, Chieh-Kai Lin, Ming-Ying Lee, Kerui Min, Jing Tang and Min Sun
+451 10:55--11:20 # Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks # Aishwarya Jadhav and Vaibhav Rajan
+688 11:20--11:45 # Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization # Ziqiang Cao, Wenjie Li, Sujian Li and Furu Wei
+639 11:45--12:10 # Simple and Effective Text Simplification Using Semantic and Neural Methods # Elior Sulem, Omri Abend and Ari Rappoport
+
+= 10:30--12:10 Session 1E: Resource, Annotation %chair Vered Shwartz
+1120 10:30--10:55 # Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words # Saif Mohammad
+1158 10:55--11:20 # Comprehensive Supersense Disambiguation of English Prepositions and Possessives # Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah R. Moeller, Aviram Stern, Adi Bitan and Omri Abend
+1424 11:20--11:45 # A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature # Benjamin Nye, Junyi Jessy Li, Roma Patel, Yinfei Yang, Iain Marshall, Ani Nenkova and Byron Wallace
+1300 11:45--12:10 # Efficient Online Scalar Annotation with Bounded Support # Keisuke Sakaguchi and Benjamin Van Durme
+
+= 10:30--12:10 Session 1F: Argument Mining %chair Vincent Ng
+961 10:30--10:55 # Neural Argument Generation Augmented with Externally Retrieved Evidence # Xinyu Hua and Lu Wang
+265 10:55--11:20 # A Stylometric Inquiry into Hyperpartisan and Fake News # Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff and Benno Stein
+772 11:20--11:45 # Retrieval of the Best Counterargument without Prior Topic Knowledge # Henning Wachsmuth, Shahbaz Syed and Benno Stein
+1304/TACL 11:45--12:10 # Finding convincing arguments using scalable Bayesian preference learning # Edwin Simpson, Iryna Gurevych
++ 12:10--12:30 Short Break
+
++ 12:30--14:00 Poster Session 1A: Machine Learning
+1519 # LinkNBed: Multi-Graph Representation Learning with Entity Linkage # Rakshit Trivedi, Bunyamin Sisman, Xin Luna Dong, Christos Faloutsos, Jun Ma and Hongyuan Zha
+1592 # Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures # Luke Vilnis, Xiang Li, Shikhar Murty and Andrew McCallum
+1268 # Graph-to-Sequence Learning using Gated Graph Neural Networks # Daniel Beck, Gholamreza Haffari and Trevor Cohn
+1238 # Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context # Urvashi Khandelwal, He He, Peng Qi and Dan Jurafsky
+946 # Bridging CNNs, RNNs, and Weighted Finite-State Machines # Roy Schwartz, Sam Thomson and Noah A. Smith
+1377 # Zero-shot Learning of Classifiers from Natural Language Quantification # Shashank Srivastava, Igor Labutov and Tom Mitchell
+499 # Sentence-State LSTM for Text Representation # Yue Zhang, Qi Liu and Linfeng Song
+107 # Universal Language Model Fine-tuning for Text Classification # Jeremy Howard and Sebastian Ruder
+422 # Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement # Nina Poerner, Hinrich Schütze and Benjamin Roth
+152 # Continuous Learning in a Hierarchical Multiscale Neural Network # Thomas Wolf, Julien Chaumond and Clement Delangue
+797 # Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality # Alexandre Salle and Aline Villavicencio
+937 # Deep RNNs Encode Soft Hierarchical Syntax # Terra Blevins, Omer Levy and Luke Zettlemoyer
+898 # Word Error Rate Estimation for Speech Recognition: e-WER # Ahmed Ali and Steve Renals
+1457 # Towards Robust and Privacy-preserving Text Representations # Yitong Li, Timothy Baldwin and Trevor Cohn
+1460 # HotFlip: White-Box Adversarial Examples for Text Classification # Javid Ebrahimi, Anyi Rao, Daniel Lowd and Dejing Dou
+782 # Domain Adapted Word Embeddings for Improved Sentiment Classification # Prathusha K Sarma, Yingyu Liang and Bill Sethares
+
++ 12:30--14:00 Poster Session 1B: Semantics
+1070 # Improving Text-to-SQL Evaluation Methodology # Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan, Sesh Sadasivam, Rui Zhang and Dragomir Radev
+243 # Semantic Parsing with Syntax- and Table-Aware SQL Generation # Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu and Ming Zhou
+600 # Multitask Parsing Across Semantic Representations # Daniel Hershcovich, Omri Abend and Ari Rappoport
+964 # Character-Level Models versus Morphology in Semantic Role Labeling # Gozde Gul Sahin and Mark Steedman
+1024 # AMR Parsing as Graph Prediction with Latent Alignment # Chunchuan Lyu and Ivan Titov
+1391 # Accurate SHRG-Based Semantic Parsing # Yufei Chen, Weiwei Sun and Xiaojun Wan
+1123 # Using Intermediate Representations to Solve Math Word Problems # Danqing Huang, Jin-Ge Yao, Chin-Yew Lin, Qingyu Zhou and Jian Yin
+624 # Discourse Representation Structure Parsing # Jiangming Liu, Shay B. Cohen and Mirella Lapata
+1018 # Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms # Dinghan Shen, Guoyin Wang, Wenlin Wang, Martin Renqiang Min, Qinliang Su, Yizhe Zhang, Chunyuan Li, Ricardo Henao and Lawrence Carin
+1287 # ParaNMT-50M: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations # John Wieting and Kevin Gimpel
+1637 # Event2Mind: Commonsense Inference on Events, Intents, and Reactions # Hannah Rashkin, Maarten Sap, Emily Allaway, Noah A. Smith and Yejin Choi
+1627 # Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis # Shuhei Kurita, Daisuke Kawahara and Sadao Kurohashi
+1164 # Active learning for deep semantic parsing # Long Duong, Hadi Afshar, Dominique Estival, Glen Pink, Philip Cohen and Mark Johnson
+1584 # Learning Thematic Similarity Metric from Article Sections Using Triplet Networks # Liat Ein Dor, Yosi Mass, Alon Halfon, Elad Venezian, Ilya Shnayderman, Ranit Aharonov and Noam Slonim
+1262 # Unsupervised Semantic Frame Induction using Triclustering # Dmitry Ustalov, Alexander Panchenko, Andrey Kutuzov, Chris Biemann and Simone Paolo Ponzetto
+
++ 12:30--14:00 Poster Session 1C: Information Extraction, Text Mining
+1243 # Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures # Prafulla Kumar Choubey and Ruihong Huang
+1513 # DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction # Pengda Qin, Weiran XU and William Yang Wang
+22 # Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism # Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu and Jun Zhao
+137 # Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection # Yu Hong, Wenxuan Zhou, jingli zhang, Guodong Zhou and Qiaoming Zhu
+1094 # Context-Aware Neural Model for Temporal Information Extraction # Yuanliang Meng and Anna Rumshisky
+1139 # Temporal Event Knowledge Acquisition via Identifying Narratives # Wenlin Yao and Ruihong Huang
+1478 # Textual Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis # Laurent Vanni, Mélanie Ducoffe, Carlos Aguilar, Frederic Precioso and Damon Mayaffre
+1065/TACL #  Learning Distributed Representations of Texts and Entities from Knowledge Base # Ikuya Yamada, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji
+1318/TACL # From Characters to Time Intervals: New Paradigms for Evaluation and Neural Parsing of Time Normalizations # Egoitz Laparra, Dongfang Xu, Steven Bethard
+1337 # Identification of Alias Links among Participants in Narratives # Sangameshwar Patil, Sachin Pawar, Swapnil Hingmire, Girish Palshikar, Vasudeva Varma and Pushpak Bhattacharyya
+1624 # Named Entity Recognition With Parallel Recurrent Neural Networks # Andrej Zukov Gregoric, Yoram Bachrach and Sam Coope
+1487 # Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision # Prachi Jain, Pankaj Kumar, Mausam - and Soumen Chakrabarti
+1570 # A Walk-based Model on Entity Graphs for Relation Extraction # Fenia Christopoulou, Makoto Miwa and Sophia Ananiadou
+512 # Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction # Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto
+1160 # Automatic Extraction of Commonsense LocatedNear Knowledge # Frank F. Xu, Bill Yuchen Lin and Kenny Zhu
+
++ 12:30--14:00 Poster Session 1D: Discourse, Linguistics, Cognitive Modeling
+844 # Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach # Shafiq Joty, Muhammad Tasnim Mohiuddin and Dat Tien Nguyen
+903 # Deep Reinforcement Learning for Chinese Zero Pronoun Resolution # Qingyu Yin, Yu Zhang, Wei-Nan Zhang, Ting Liu and William Yang Wang
+1606 # Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis # Tomohide Shibata and Sadao Kurohashi
+498 # Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering # Rui Zhang, Cicero Nogueira dos Santos, Michihiro Yasunaga, Bing Xiang and Dragomir Radev
+771 # Fully Statistical Neural Belief Tracking # Nikola Mrkšić and Ivan Vulić
+1560 # Constraining MGbank: Agreement, L-Selection and Supertagging in Minimalist Grammars # John Torr
+1126 # Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power # Yang Xu, Jeremy Cole and David Reitter
+806 # Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers # Sandro Pezzelle, Shane Steinert-Threlkeld, Raffaella Bernardi and Jakub Szymanik
+
++ 12:30--14:00 Poster Session 1E: Resources and Evaluation
+186 # TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation # Alexander Fabbri, Irene Li, Prawat Trairatvorakul, Yijiao He, Weitai Ting, Robert Tung, Caitlin Westerfield and Dragomir Radev
+1626 # Give Me More Feedback: Annotating Argument Persuasiveness and Related Attributes in Student Essays # Winston Carlile, Nishant Gurrapadi, Zixuan Ke and Vincent Ng
+536 # Inherent Biases in Reference-based Evaluation for Grammatical Error Correction # Leshem Choshen and Omri Abend
+1604 # The price of debiasing automatic metrics in natural language evalaution # Arun Chaganty, Stephen Mussmann and Percy Liang
+205 # A Named Entity Recognition Shootout for German # Martin Riedl and Sebastian Padó
+220 # A dataset for identifying actionable feedback in collaborative software development # Benjamin S Meyers, Nuthan Munaiah, Emily Prud'hommeaux, Andrew Meneely, Josephine Wolff, Cecilia Ovesdotter Alm and Pradeep Murukannaiah
+268 # SNAG: Spoken Narratives and Gaze Dataset # Preethi Vaidyanathan, Emily T. Prud'hommeaux, Jeff B. Pelz and Cecilia O. Alm
+396 # Analogical Reasoning on Chinese Morphological and Semantic Relations # Shen Li, Zhe Zhao, Renfen Hu, Wensi Li, Tao Liu and Xiaoyong Du
+876 # Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions # Dongyu Zhang, Hongfei Lin, Liang Yang, Shaowu Zhang and BO XU
+1543 # Automatic Article Commenting: the Task and Dataset # Lianhui Qin, Lemao Liu, Wei Bi, Yan Wang, Xiaojiang Liu, Zhiting Hu, Hai Zhao and Shuming Shi
+1277 # Improved Evaluation Framework for Complex Plagiarism Detection # Anton Belyy, Marina Dubova and Dmitry Nekrasov
+
++ 12:30--14:00 Poster Session 1F: Summarization, Social Media
+489 # Neural Document Summarization by Jointly Learning to Score and Select Sentences # Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou and Tiejun Zhao
+1005 # Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization # Guokan Shang, Wensi Ding, Zekun Zhang, Antoine Tixier, Polykarpos Meladianos, Michalis Vazirgiannis and Jean-Pierre Lorré
+1181 # Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting # Yen-Chun Chen and Mohit Bansal
+1296 # Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation # Han Guo, Ramakanth Pasunuru and Mohit Bansal
+702 # Global Encoding for Abstractive Summarization # Junyang Lin, Xu SUN, Shuming Ma and Qi Su
+1667 # A Language Model based Evaluator for Sentence Compression # Yang Zhao, Zhiyuan Luo and Akiko Aizawa
+1661 # Computational Modeling of Review Helpfulness # Gerardo Ocampo Diaz and Vincent Ng
+638 # Mining Cross-Cultural Differences and Similarities in Social Media # Bill Yuchen Lin, Frank F. Xu, Kenny Zhu and Seung-won Hwang
+1508 # Classification of Moral Foundations in Microblog Political Discourse # Kristen Johnson and Dan Goldwasser
+1138 # Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources # Maria Glenski, Tim Weninger and Svitlana Volkova
+1364 # Content-based Popularity Prediction of Online Petitions Using a Deep Regression Model # Shivashankar Subramanian, Timothy Baldwin and Trevor Cohn
+870 # Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer # Cicero dos Santos, Igor Melnyk and Inkit Padhi
+1034 # Diachronic degradation of language models: Insights from social media # Kokil Jaidka, Niyati Chhaya and Lyle Ungar
+
+= 14:00--15:40 Session 2A: Semantic Parsing 1 %chair Jonathan Berant
+434 14:00--14:25 # Coarse-to-Fine Decoding for Neural Semantic Parsing # Li Dong and Mirella Lapata
+372 14:25--14:50 # Confidence Modeling for Neural Semantic Parsing # Li Dong, Chris Quirk and Mirella Lapata
+35 14:50--15:15 # StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing # Pengcheng Yin, Chunting Zhou, Junxian He and Graham Neubig
+83 15:15--15:40 # Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing # Bo Chen, Le Sun and Xianpei Han
+
+= 14:00--15:40 Session 2B: Multilinguality %chair Shuly Wintner
+721 14:00--14:25 # On the Limitations of Unsupervised Bilingual Dictionary Induction # Anders Søgaard, Sebastian Ruder and Ivan Vulić
+1298 14:25--14:50 # A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings # Mikel Artetxe, Gorka Labaka and Eneko Agirre
+897 14:50--15:15 # A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling # Ying Lin, Shengqi Yang, Veselin Stoyanov and Heng Ji
+593 15:15--15:40 # Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable # Viktor Hangya, Fabienne Braune, Alexander Fraser and Hinrich Schütze
+
+= 14:00--15:40 Session 2C: Question Answering 1 %chair Diane J. Litman
+1636 14:00--14:25 # Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge # Todor Mihaylov and Anette Frank
+1253 14:25--14:50 # Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds # Igor Labutov, Bishan Yang, Anusha Prakash and Amos Azaria
+542 14:50--15:15 # Simple and Effective Multi-Paragraph Reading Comprehension # Christopher Clark and Matt Gardner
+1406 15:15--15:40 # Semantically Equivalent Adversarial Rules for Debugging NLP models # Marco Tulio Ribeiro, Sameer Singh and Carlos Guestrin
+
+= 14:00--15:40 Session 2D: Generation 1 %chair Lu Wang
+1267 14:00--14:25 # Style Transfer Through Back-Translation # Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov and Alan W Black
+968 14:25--14:50 # Generating Fine-Grained Open Vocabulary Entity Type Descriptions # Rajarshi Bhowmik and Gerard de Melo
+1251 14:50--15:15 # Hierarchical Neural Story Generation # Angela Fan, Mike Lewis and Yann Dauphin
+1296/TACL 15:15--15:40 # Generating Sentences by Editing Prototypes # Kelvin Guu, Tatsunori Hashimoto, Yonatan Oren, Percy Liang
+
+= 14:00--15:40 Session 2E: Vision %chair Richard Socher
+308 14:00--14:25 # No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling # Xin Wang, Wenhu Chen, Yuan-Fang Wang and William Yang Wang
+39 14:25--14:50 # Bridging Languages through Images with Deep Partial Canonical Correlation Analysis # Guy Rotman, Ivan Vulić and Roi Reichart
+497 14:50--15:15 # Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search # Jamie Kiros, William Chan and Geoffrey Hinton
+1323 15:15--15:40 # What Action Causes This? Towards Naive Physical Action-Effect Prediction # Qiaozi Gao, Shaohua Yang, Joyce Chai and Lucy Vanderwende
+
+= 14:00--15:40 Session 2F: Sentiment %chair Yue Zhang
+565 14:00--14:25 # Transformation Networks for Target-Oriented Sentiment Classification # Xin Li, Lidong Bing, Wai Lam and Bei Shi
+1347 14:25--14:50 # Target-Sensitive Memory Networks for Aspect Sentiment Classification # Shuai Wang, Sahisnu Mazumder, Bing Liu, Mianwei Zhou and Yi Chang
+739 14:50--15:15 # Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification # Raksha Sharma, Pushpak Bhattacharyya, Sandipan Dandapat and Himanshu Sharad Bhatt
+1281 15:15--15:40 # Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach # Jingjing Xu, Xu SUN, Qi Zeng, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang and Wenjie Li
++ 15:40--16:10 Coffee Break
+
+= 16:10--17:50 Session 3A: Inference, Reasoning %chair Xiaodan Zhu
+552 16:10--16:35 # Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference # Boyuan Pan, Yazheng Yang, Zhou Zhao, Yueting Zhuang, Deng Cai and Xiaofei He
+1633 16:35--17:00 # Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module # Juan Pavez, Hector Alllende and Hector Allende-Cid
+1129 17:00--17:25 # Reasoning with Sarcasm by Reading In-Between # Yi Tay, Anh Tuan Luu, Siu Cheung Hui and Jian Su
+1234/TACL 17:25--17:50 # Representation Learning for Grounded Spatial Reasoning # Michael Janner, Karthik Narasimhan, Regina Barzilay
+
+= 16:10--17:50 Session 3B: Machine Learning 1 %chair Sujith Ravi
+1001 16:10--16:35 # Adversarial Contrastive Estimation # Avishek Bose, huan ling and Yanshuai Cao
+568 16:35--17:00 # Adaptive Scaling for Sparse Detection in Information Extraction # Hongyu Lin, Yaojie Lu, Xianpei Han and Le Sun
+168 17:00--17:25 # Strong Baselines for Neural Semi-Supervised Learning under Domain Shift # Sebastian Ruder and Barbara Plank
+235 17:25--17:50 # Fluency Boost Learning and Inference for Neural Grammatical Error Correction # Tao Ge, Furu Wei and Ming Zhou
+
+= 16:10--17:50 Session 3C: Text Mining and Applications %chair Sadao Kurohashi
+228 16:10--16:35 # A Neural Architecture for Automated ICD Coding # Pengtao Xie and Eric Xing
+581 16:35--17:00 # Domain Adaptation with Adversarial Training and Graph Embeddings # Firoj Alam, Shafiq Joty and Muhammad Imran
+1198 17:00--17:25 # TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring # Cancan Jin, Ben He, Kai Hui and Le Sun
+1266/TACL 17:25--17:50 # Measuring the Evolution of a Scientific Field through Citation Frames # David Jurgens, Srijan Kumar, Raine Hoover, Dan McFarland, and Dan Jurafsky
+
+= 16:10--17:50 Session 3D: Dialog System 1 %chair Zornitsa Kozareva
+298 16:10--16:35 # Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation # Tiancheng Zhao, Kyusong Lee and Maxine Eskenazi
+297 16:35--17:00 # Learning to Control the Specificity in Neural Response Generation # Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan, Jun Xu and Xueqi Cheng
+34 17:00--17:25 # Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network # Xiangyang Zhou, Lu Li, Daxiang Dong, Yi Liu, Ying Chen, Wayne Xin Zhao, Dianhai Yu and Hua Wu
+995 17:25--17:50 # MojiTalk: Generating Emotional Responses at Scale # Xianda Zhou and William Yang Wang
+
+= 16:10--17:50 Session 3E: Linguistics, Psycholinguistics and Cognitive Modeling %chair Kevin Cohen
+141 16:10--16:35 # Taylor's law for Human Linguistic Sequences # Tatsuru Kobayashi and Kumiko Tanaka-Ishii
+1051 16:35--17:00 # A Framework for Representing Language Acquisition in a Population Setting # Jordan Kodner and Christopher Cerezo Falco
+1382/TACL 17:00--17:25 # On the Complexity and Typology of Inflectional Morphological Systems # Ryan Cotterell, Christo Kirov, Mans Hulden, Jason Eisner
+1403/TACL 17:25--17:50 # Native Language Cognate Effects on Second Language Lexical Choice # Ella Rabinovich, Yulia Tsvetkov, Shuly Wintner
+
+= 16:10--17:50 Session 3F: Parsing 1 %chair Liang Huang
+412 16:10--16:35 # Prefix Lexicalization of Synchronous CFGs using Synchronous TAG # Logan Born and Anoop Sarkar
+977 16:35--17:00 # Straight to the Tree: Constituency Parsing with Neural Syntactic Distance # Yikang Shen, Zhouhan Lin, Athul Paul Jacob, Alessandro Sordoni, Aaron Courville and Yoshua Bengio
+1525 17:00--17:25 # Gaussian Mixture Latent Vector Grammars # Yanpeng Zhao, Liwen Zhang and Kewei Tu
+1106 17:25--17:50 # Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples # Vidur Joshi, Matthew Peters and Mark Hopkins
+
+* Tuesday, July 17, 2018
++ 9:00--10:00 Invited Talk 1: Carolyn Penstein Rosé
++ 10:00--10:30 Coffee Break
+
+= 10:30--12:10 Session 4A: Word Semantics 2 %chair Valia Kordoni
+270 10:30--10:55 # Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations # Vered Shwartz and Ido Dagan
+1244 10:55--11:20 # Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings # Maksim Tkachenko, Chong Cher Chia and Hady Lauw
+1211 11:20--11:45 # Word Embedding and WordNet Based Metaphor Identification and Interpretation # Rui Mao, Chenghua Lin and Frank Guerin
+18 11:45--12:10 # Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings # Yang Xu, Jiawei Liu, Wei Yang and Liusheng Huang
+
+= 10:30--12:10 Session 4B: Machine Translation 2 %chair Stefan Riezler
+1285 10:30--10:55 # A Stochastic Decoder for Neural Machine Translation # Philip Schulz, Wilker Aziz and Trevor Cohn
+193 10:55--11:20 # Forest-Based Neural Machine Translation # Chunpeng Ma, Akihiro Tamura, Masao Utiyama, Tiejun Zhao and Eiichiro Sumita
+857 11:20--11:45 # Context-Aware Neural Machine Translation Learns Anaphora Resolution # Elena Voita, Pavel Serdyukov, Rico Sennrich and Ivan Titov
+1234 11:45--12:10 # Document Context Neural Machine Translation with Memory Networks # Sameen Maruf and Gholamreza Haffari
+
+= 10:30--12:10 Session 4C: Information Extraction 2 %chair Kai-Wei Chang
+1621 10:30--10:55 # Which Melbourne? Augmenting Geocoding with Maps # Milan Gritta, Mohammad Taher Pilehvar and Nigel Collier
+1452 10:55--11:20 # Learning Prototypical Goal Activities for Locations # Tianyu Jiang and Ellen Riloff
+539 11:20--11:45 # Guess Me if You Can: Acronym Disambiguation for Enterprises # Yang Li, Bo Zhao, Ariel Fuxman and Fangbo Tao
+1093 11:45--12:10 # A Multi-Axis Annotation Scheme for Event Temporal Relations # Qiang Ning, Hao Wu and Dan Roth
+
+= 10:30--12:10 Session 4D: Dialog System 2 %chair Zornitsa Kozareva
+1538 10:30--10:55 # Exemplar Encoder-Decoder for Neural Conversation Generation # Gaurav Pandey, Danish Contractor, Vineet Kumar and Sachindra Joshi
+1589 10:55--11:20 # DialSQL: Dialogue Based Structured Query Generation # Izzeddin Gur, Semih Yavuz, Yu Su and Xifeng Yan
+1630 11:20--11:45 # Conversations Gone Awry: Detecting Early Signs of Conversational Failure # Justine Zhang, Jonathan Chang, Cristian Danescu-Niculescu-Mizil, Lucas Dixon, Yiqing Hua, Dario Taraborelli and Nithum Thain
+1349/TACL 11:45--12:10 # Detecting Institutional Dialog Acts in Police Traffic Stops # Vinodkumar Prabhakaran, Camilla Griffiths, Hang Su, Prateek Verma, Nelson Morgan, Jennifer Eberhardt, Dan Jurafsky
+
+= 10:30--12:10 Session 4E: Evaluation %chair Bonnie Webber
+1668 10:30--10:55 # Are BLEU and Meaning Representation in Opposition? # Ondřej Cífka and Ondřej Bojar
+674 10:55--11:20 # Automatic Metric Validation for Grammatical Error Correction # Leshem Choshen and Omri Abend
+703 11:20--11:45 # The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing # Rotem Dror, Gili Baumer, Segev Shlomov and Roi Reichart
+1241/TACL 11:45--12:10 # Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets # Rotem Dror, Gili Baumer, Marina Bogomolov and Roi Reichart
+
+= 10:30--12:10 Session 4F: Parsing 2 %chair Joakim Nivre
+1017 10:30--10:55 # Distilling Knowledge for Search-based Structured Prediction # Yijia Liu, Wanxiang Che, Huaipeng Zhao, Bing Qin and Ting Liu
+1249 10:55--11:20 # Stack-Pointer Networks for Dependency Parsing # Xuezhe Ma, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig and Eduard Hovy
+1272 11:20--11:45 # Twitter Universal Dependency Parsing for African-American and Mainstream American English # Su Lin Blodgett, Johnny Wei and Brendan O'Connor
+1175 11:45--12:10 # LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better # Adhiguna Kuncoro, Chris Dyer, John Hale, Dani Yogatama, Stephen Clark and Phil Blunsom
++ 12:10--12:30 Short Break
+
++ 12:30--14:00 Poster Session 2A: Student Research Workshop
+
++ 12:30--14:00 Poster Session 2B: Dialog and Interactive Systems, Multilinguality
+29 # Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures # Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin
+223 # An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking # Puyang Xu and Qi Hu
+293 # Global-Locally Self-Attentive Encoder for Dialogue State Tracking # Victor Zhong, Caiming Xiong and Richard Socher
+625 # Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems # Andrea Madotto, Chien-Sheng Wu and Pascale Fung
+415 # Tailored Sequence to Sequence Models to Different Conversation Scenarios # Hainan Zhang, Yanyan Lan, Jiafeng Guo, Jun Xu and Xueqi Cheng
+722 # Knowledge Diffusion for Neural Dialogue Generation # Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu and Dawei Yin
+742 # Generating Informative Responses with Controlled Sentence Function # Pei Ke, Jian Guan, Minlie Huang and xiaoyan zhu
+1439 # Sentiment Adaptive End-to-End Dialog Systems # Weiyan Shi and Zhou Yu
+1332 # Task-oriented Dialogue System for Automatic Diagnosis # Zhongyu Wei, Qianlong Liu, Baolin Peng, Huaixiao Tou, Ting Chen, Xuanjing Huang, Kam-Fai Wong and Xiangying Dai
+548 # Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce # Minghui Qiu, Liu Yang, Feng Ji, Wei Zhou, Jun Huang, Haiqing Chen, Bruce Croft and Wei Lin
+282 # Embedding Learning Through Multilingual Concept Induction # Philipp Dufter, Mengjie Zhao, Martin Schmitt, Alexander Fraser and Hinrich Schütze
+1050 # Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP # Edoardo Maria Ponti, Roi Reichart, Anna Korhonen and Ivan Vulić
+693 # Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data # Adithya Pratapa, Gayatri Bhat, Monojit Choudhury, Sunayana Sitaram, Sandipan Dandapat and Kalika Bali
+1091 # A Multi-task Approach to Learning Multilingual Representations # Karan Singla, Dogan Can and Shrikanth Narayanan
+1302 # Characterizing Departures from Linearity in Word Translation # Ndapa Nakashole and Raphael Flauger
+453 # Filtering and Mining Parallel Data in a Joint Multilingual Space # Holger Schwenk
+
++ 12:30--14:00 Poster Session 2C: Information Extraction, Text Mining
+231 # Chinese NER Using Lattice LSTM # Yue Zhang and Jie Yang
+379 # Nugget Proposal Networks for Chinese Event Detection # Hongyu Lin, Yaojie Lu, Xianpei Han and Le Sun
+792 # Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation # Madhav Nimishakavi, Manish Gupta and Partha Talukdar
+848 # Discovering Implicit Knowledge with Unary Relations # Michael Glass and Alfio Gliozzo
+668 # Improving Entity Linking by Modeling Latent Relations between Mentions # Phong Le and Ivan Titov
+1683 # Dating Documents using Graph Convolution Networks # Shikhar Vashishth, Shib Sankar Dasgupta, Swayambhu Nath Ray and Partha Talukdar
+177 # Hybrid semi-Markov CRF for Neural Sequence Labeling # Zhixiu Ye and Zhen-Hua Ling
+407 # A Study of the Importance of External Knowledge in the Named Entity Recognition Task # Dominic Seyler, Tatiana Dembelova, Luciano Del Corro, Johannes Hoffart and Gerhard Weikum
+842 # Improving Topic Quality by Promoting Named Entities in Topic Modeling # Katsiaryna Krasnashchok and Salim Jouili
+644 # Obligation and Prohibition Extraction Using Hierarchical RNNs # Ilias Chalkidis, Ion Androutsopoulos and Achilleas Michos
+
++ 12:30--14:00 Poster Session 2D: Generation
+371 # A Graph-to-Sequence Model for AMR-to-Text Generation # Linfeng Song, Yue Zhang, Zhiguo Wang and Daniel Gildea
+1562 # GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data # Bayu Distiawan Trisedya, Jianzhong Qi, Rui Zhang and Wei Wang
+1612 # Learning to Write with Cooperative Discriminators # Ari Holtzman, Jan Buys, Maxwell Forbes, Antoine Bosselut, David Golub and Yejin Choi
+1687 # A Neural Approach to Pun Generation # Zhiwei Yu, Jiwei Tan and Xiaojun Wan
+1085 # Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data # Harsh Jhamtani, Varun Gangal, Eduard Hovy, Graham Neubig and Taylor Berg-Kirkpatrick
+740 # From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction # Zihang Dai, Qizhe Xie and Eduard Hovy
+217 # Paper Abstract Writing through Editing Mechanism # Qingyun Wang, Zhihao Zhou, Lifu Huang, Spencer Whitehead, Boliang Zhang, Heng Ji and Kevin Knight
+1397 # Conditional Generators of Words Definitions # Artyom Gadetsky, Ilya Yakubovskiy and Dmitry Vetrov
+
++ 12:30--14:00 Poster Session 2E: Question Answering
+249 # DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension # Amrita Saha, Rahul Aralikatte, Mitesh M. Khapra and Karthik Sankaranarayanan
+1054 # Stochastic Answer Networks for Machine Reading Comprehension # Xiaodong Liu, Yelong Shen, Kevin Duh and Jianfeng Gao
+1469 # Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering # Wei Wang, Ming Yan and Chen Wu
+767 # Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension # Zhen Wang, Jiachen Liu, Xinyan Xiao, Yajuan Lyu and Tian Wu
+938 # Efficient and Robust Question Answering from Minimal Context over Documents # Sewon Min, Victor Zhong, Richard Socher and Caiming Xiong
+250 # Denoising Distantly Supervised Open-Domain Question Answering # Yankai Lin, Haozhe Ji, Zhiyuan Liu and Maosong Sun
+264 # Question Condensing Networks for Answer Selection in Community Question Answering # Wei Wu, Xu SUN and Houfeng WANG
+1325/TACL # Constructing Datasets for Multi-hop Reading Comprehension Across Documents # Johannes Welbl, Pontus Stenetorp, Sebastian Riedel
+646 # CNN for Text-Based Multiple Choice Question Answering # Akshay Chaturvedi, Onkar Pandit and Utpal Garain
+1616 # Narrative Modeling with Memory Chains and Semantic Supervision # Fei Liu, Trevor Cohn and Timothy Baldwin
+1470 # Injecting Relational Structural Representation in Neural Networks for Question Similarity # Antonio Uva, Daniele Bonadiman and Alessandro Moschitti
+
++ 12:30--14:00 Poster Session 2F: Machine Translation
+1044 # Towards Robust Neural Machine Translation # Yong Cheng, Zhaopeng Tu, Fandong Meng, Junjie Zhai and Yang Liu
+300 # Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings # Shaohui Kuang, Junhui Li, António Branco, Weihua Luo and Deyi Xiong
+987 # Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning # Julia Kreutzer, Joshua Uyheng and Stefan Riezler
+1349 # Accelerating Neural Transformer via an Average Attention Network # Biao Zhang, Deyi Xiong and jinsong su
+1472 # How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures # Tobias Domhan
+1338/TACL # Scheduled Multi-Task Learning: From Syntax to Translation # Eliyahu Kiperwasser and Miguel Ballesteros
+1166/TACL # Phrase Table Induction Using In-Domain Monolingual Data for Domain Adaptation in Statistical Machine Translation # Benjamin Marie, Atsushi Fujita
+1247/TACL # Learning to Remember Translation History with a Continuous Cache # Zhaopeng Tu, Yang Liu, Shuming Shi, and Tong Zhang
+1208/TACL # Modeling Past and Future for Neural Machine Translation # Zaixiang Zheng, Hao Zhou, Shujian Huang, Lili Mou, Xinyu Dai, Jiajun Chen, Zhaopeng Tu
+1248/TACL # Leveraging Orthographic Similarity for Multilingual Neural Transliteration #  Anoop Kunchukuttan, Mitesh Khapra, Gurneet Singh, Pushpak Bhattacharyya
+545 # A Simple and Effective Approach to Coverage-Aware Neural Machine Translation # Yanyang Li, Tong Xiao, Yinqiao Li, Qiang Wang, Changming Xu and Jingbo Zhu
+574 # Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation # Rui Wang, Masao Utiyama and Eiichiro Sumita
+762 # Compositional Representation of Morphologically-Rich Input for Neural Machine Translation # Duygu Ataman and Marcello Federico
+808 # Extreme Adaptation for Personalized Neural Machine Translation # Paul Michel and Graham Neubig
+825 # Multi-representation ensembles and delayed SGD updates improve syntax-based NMT # Danielle Saunders, Felix Stahlberg, Adrià de Gispert and Bill Byrne
+859 # Learning from Chunk-based Feedback in Neural Machine Translation # Pavel Petrushkov, Shahram Khadivi and Evgeny Matusov
+1235 # Bag-of-Words as Target for Neural Machine Translation # Shuming Ma, Xu SUN, Yizhong Wang and Junyang Lin
+1242 # Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation # Raphael Shu and Hideki Nakayama
+
+= 14:00--15:00 Session 5A: Semantics 1 (Short) %chair Kevin Duh
+477 14:00--14:15 # Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations # Milton King and Paul Cook
+375 14:15--14:30 # Using pseudo-senses for improving the extraction of synonyms from word embeddings # Olivier Ferret
+757 14:30--14:45 # Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora # Stephen Roller, Douwe Kiela and Maximilian Nickel
+881 14:45--15:00 # Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling # Luheng He, Kenton Lee, Omer Levy and Luke Zettlemoyer
+
+= 14:00--15:00 Session 5B: Machine Translation, Multilinguality 1 (Short) %chair Valia Kordoni
+1146 14:00--14:15 # Sparse and Constrained Attention for Neural Machine Translation # Chaitanya Malaviya, Pedro Ferreira and André F. T. Martins
+338 14:15--14:30 # Neural Hidden Markov Model for Machine Translation # Weiyue Wang, Derui Zhu, Tamer Alkhouli, Zixuan Gan and Hermann Ney
+868 14:30--14:45 # Bleaching Text: Abstract Features for Cross-lingual Gender Prediction # Rob van der Goot, Nikola Ljubešić, Ian Matroos, Malvina Nissim and Barbara Plank
+981 14:45--15:00 # Orthographic Features for Bilingual Lexicon Induction # Parker Riley and Daniel Gildea
+
+= 14:00--15:00 Session 5C: Information Extraction 1 (Short) %chair Feiyu Xu
+975 14:00--14:15 # Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking # Gourab Kundu, Avi Sil, Radu Florian and Wael Hamza
+1083 14:15--14:30 # Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER # Rudra Murthy, Anoop Kunchukuttan and Pushpak Bhattacharyya
+86 14:30--14:45 # Neural Open Information Extraction # Lei Cui, Furu Wei and Ming Zhou
+336 14:45--15:00 # Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention # Yue Zhao, Xiaolong Jin, Yuanzhuo Wang and Xueqi Cheng
+
+= 14:00--15:00 Session 5D: Dialog System, Discourse (Short) %chair Daisuke Kawahara
+102 14:00--14:15 # Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots # Yu Wu, wei wu, Zhoujun Li and Ming Zhou
+1186 14:15--14:30 # Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention # Lin Zhao and Zhe Feng
+1246 14:30--14:45 # Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing # Osman Ramadan, Paweł Budzianowski and Milica Gasic
+1058 14:45--15:00 # Modeling discourse cohesion for discourse parsing via memory network # Yanyan Jia, Yuan Ye, Yansong Feng, Yuxuan Lai, Rui Yan and Dongyan Zhao
+
+= 14:00--15:00 Session 5E: Vision, Linguistics, Resource and Evaluation (Short) %chair Gerard de Melo
+1537 14:00--14:15 # SciDTB: Discourse Dependency TreeBank for Scientific Abstracts # An Yang and Sujian Li
+94 14:15--14:30 # Predicting accuracy on large datasets from smaller pilot data # Mark Johnson, Peter Anderson, Mark Dras and Mark Steedman
+47 14:30--14:45 # The Influence of Context on Sentence Acceptability Judgements # Jean-Philippe Bernardy, Shalom Lappin and Jey Han Lau
+1549 14:45--15:00 # Do Neural Network Cross-Modal Mappings Really Bridge Modalities? # Guillem Collell and Marie-Francine Moens
+
+= 14:00--15:00 Session 5F: Parsing, Morphology (Short) %chair Emily Pitler
+1299 14:00--14:15 # Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing # Daniel Fried and Dan Klein
+1490 14:15--14:30 # Linear-time Constituency Parsing with RNNs and Dynamic Programming # Juneki Hong and Liang Huang
+1588 14:30--14:45 # Simpler but More Accurate Semantic Dependency Parsing # Timothy Dozat and Christopher D. Manning
+12 14:45--15:00 # Simplified Abugidas # Chenchen Ding, Masao Utiyama and Eiichiro Sumita
++ 15:00--15:30 Coffee Break
+
+= 15:30--17:10 Session 6A: Semantic Parsing 2 %chair Luke Zettlemoyer
+564 15:30--15:55 # Weakly Supervised Semantic Parsing with Abstract Examples # Omer Goldman, Veronica Latcinnik, Ehud Nave, Amir Globerson and Jonathan Berant
+723 15:55--16:20 # Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback # Carolin Lawrence and Stefan Riezler
+845 16:20--16:45 # AMR dependency parsing with a typed semantic algebra # Jonas Groschwitz, Matthias Lindemann, Meaghan Fowlie, Mark Johnson and Alexander Koller
+952 16:45--17:10 # Sequence-to-sequence Models for Cache Transition Systems # Xiaochang Peng, Linfeng Song, Daniel Gildea and Giorgio Satta
+
+= 15:30--17:10 Session 6B: Machine Learning 2 %chair Yi Yang
+92 15:30--15:55 # Batch IS NOT Heavy: Learning Word Representations From All Samples # Xin Xin, Fajie Yuan, Xiangnan He and Joemon M Jose
+1248 15:55--16:20 # Backpropagating through Structured Argmax using a SPIGOT # Hao Peng, Sam Thomson and Noah A. Smith
+1170 16:20--16:45 # Learning How to Actively Learn: A Deep Imitation Learning Approach # Ming Liu, Wray Buntine and Gholamreza Haffari
+1335 16:45--17:10 # Training Classifiers with Natural Language Explanations # Braden Hancock, Paroma Varma, Stephanie Wang, Martin Bringmann, Percy Liang and Christopher Ré
+
+= 15:30--17:10 Session 6C: Question Answering 2 %chair Richard Socher
+1159 15:30--15:55 # Did the Model Understand the Question? # Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan and Kedar Dhamdhere
+1003 15:55--16:20 # Harvesting Paragraph-level Question-Answer Pairs from Wikipedia # Xinya Du and Claire Cardie
+760 16:20--16:45 # Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification # Yizhong Wang, Kai Liu, Jing Liu, Wei He, Yajuan Lyu, Hua Wu, Sujian Li and Haifeng Wang
+1197/TACL 16:45--17:10 # The NarrativeQA Reading Comprehension Challenge # Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, Edward Grefenstette
+
+= 15:30--17:10 Session 6D: Generation 2 %chair Jackie Cheung
+1532 15:30--15:55 # Language Generation via DAG Transduction # Yajie Ye, Weiwei Sun and Xiaojun Wan
+1411 15:55--16:20 # A Distributional and Orthographic Aggregation Model for English Derivational Morphology # Daniel Deutsch, John Hewitt and Dan Roth
+1089 16:20--16:45 # Deep-speare: A joint neural model of poetic language, meter and rhyme # Jey Han Lau, Trevor Cohn, Timothy Baldwin, Julian Brooke and Adam Hammond
+1108 16:45--17:10 # NeuralREG: An end-to-end approach to referring expression generation # Thiago Castro Ferreira, Diego Moussallem, Ákos Kádár, Sander Wubben and Emiel Krahmer
+
+= 15:30--17:10 Session 6E: Social Media %chair David Jurgens
+616 15:30--15:55 # Stock Movement Prediction from Tweets and Historical Prices # Yumo Xu and Shay B. Cohen
+1038 15:55--16:20 # Rumor Detection on Twitter with Tree-structured Recursive Neural Networks # Jing Ma, Wei Gao and Kam-Fai Wong
+866 16:20--16:45 # Visual Attention Model for Name Tagging in Multimodal Social Media # Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang and Heng Ji
+1413 16:45--17:10 # Multimodal Named Entity Disambiguation for Noisy Social Media Posts # Seungwhan Moon, Leonardo Neves and Vitor Carvalho
+
+= 15:30--17:10 Session 6F: Information Retrieval %chair Hang Li
+1291 15:30--15:55 # Semi-supervised User Geolocation via Graph Convolutional Networks # Afshin Rahimi, Trevor Cohn and Timothy Baldwin
+1009 15:55--16:20 # Document Modeling with External Attention for Sentence Extraction # Shashi Narayan, Ronald Cardenas, Nikos Papasarantopoulos, Shay B. Cohen, Mirella Lapata, Jiangsheng Yu and Yi Chang
+1149 16:20--16:45 # Neural Models for Documents with Metadata # Dallas Card, Chenhao Tan and Noah A. Smith
+1022 16:45--17:10 # NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing # Dinghan Shen, Qinliang Su, Paidamoyo Chapfuwa, Wenlin Wang, Guoyin Wang, Ricardo Henao and Lawrence Carin
++ 17:10--17:20 Short Break
++ 17:20--18:50 ACL Business Meeting
++ 19:30--22:30 Social Event
+
+* Wednesday, July 18, 2018
++ 9:00--10:00 Invited Talk 2: Anton van den Hengel
++ 10:00--10:30 Coffee Break
+
+= 10:30--12:10 Session 7A: Semantic Parsing 3 %chair Lluís Màrquez
+1498 10:30--10:55 # Large-Scale QA-SRL Parsing # Nicholas FitzGerald, Julian Michael, Luheng He and Luke Zettlemoyer
+1673 10:55--11:20 # Syntax for Semantic Role Labeling, To Be, Or Not To Be # Shexia He, Zuchao Li, Hai Zhao and Hongxiao Bai
+1194 11:20--11:45 # Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation # Alane Suhr and Yoav Artzi
+1500 11:45--12:10 # Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding # Bingfeng Luo, Yansong Feng, Zheng Wang, Songfang Huang, Rui Yan and Dongyan Zhao
+
+= 10:30--12:10 Session 7B: Language/Document Model %chair Chris Dyer
+1547 10:30--10:55 # Token-level and sequence-level loss smoothing for RNN language models # Maha ELBAYAD, Laurent Besacier and Jakob Verbeek
+923 10:55--11:20 # Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers # Georgios Spithourakis and Sebastian Riedel
+1321 11:20--11:45 # To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness # Amulya Gupta and Zhu Zhang
+891 11:45--12:10 # What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties # Alexis Conneau, Germán Kruszewski, Guillaume Lample, Loïc Barrault and Marco Baroni
+
+= 10:30--12:10 Session 7C: Information Extraction 3 %chair Sebastian Riedel
+601 10:30--10:55 # Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning # Pengda Qin, Weiran XU and William Yang Wang
+1601 10:55--11:20 # Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder # Ryo Takahashi, Ran Tian and Kentaro Inui
+450 11:20--11:45 # Zero-Shot Transfer Learning for Event Extraction # Lifu Huang, Heng Ji, Kyunghyun Cho, Ido Dagan, Sebastian Riedel and Clare Voss
+70 11:45--12:10 # Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction # Wenya Wang and Sinno Jialin Pan
+
+= 10:30--12:10 Session 7D: Dialog System 3 %chair Bernardo Magnini
+1088 10:30--10:55 # Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning # Baolin Peng, Xiujun Li, Jianfeng Gao, Jingjing Liu and Kam-Fai Wong
+68 10:55--11:20 # Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders # Yansen Wang, Chenyi Liu, Minlie Huang and Liqiang Nie
+448 11:20--11:45 # Personalizing Dialogue Agents: I have a dog, do you have pets too? # Saizheng Zhang, Emily Dinan, Jack Urbanek, Arthur Szlam, Douwe Kiela and Jason Weston
+1151 11:45--12:10 # Efficient Large-Scale Neural Domain Classification with Personalized Attention # Young-Bum Kim, Dongchan Kim, Anjishnu Kumar and Ruhi Sarikaya
+
+= 10:30--12:10 Session 7E: Multimodal %chair Julia Hockenmaier
+1555 10:30--10:55 # Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment # Yue Gu, Kangning Yang, Shiyu Fu, Shuhong Chen, Xinyu Li and Ivan Marsic
+1563 10:55--11:20 # Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph # AmirAli Bagher Zadeh, Paul Pu Liang, Soujanya Poria, Erik Cambria and Louis-Philippe Morency
+1620 11:20--11:45 # Efficient Low-rank Multimodal Fusion With Modality-Specific Factors # Zhun Liu, Ying Shen, Varun Bharadhwaj Lakshminarasimhan, Paul Pu Liang, AmirAli Bagher Zadeh and Louis-Philippe Morency
+1282/TACL 11:45--12:10 # Whodunnit? Crime Drama as a Case for Natural Language Understanding # Lea Frermann, Shay Cohen, Mirella Lapata
+
+= 10:30--12:10 Session 7F: Discourse %chair Anette Frank
+587 10:30--10:55 # Discourse Coherence: Concurrent Explicit and Implicit Relations # Hannah Rohde, Alexander Johnson, Nathan Schneider and Bonnie Webber
+1200 10:55--11:20 # A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text # Shashank Srivastava and Nebojsa Jojic
+1095 11:20--11:45 # Joint Reasoning for Temporal and Causal Relations # Qiang Ning, Zhili Feng, Hao Wu and Dan Roth
+1615 11:45--12:10 # Modeling Naive Psychology of Characters in Simple Commonsense Stories # Hannah Rashkin, Antoine Bosselut, Maarten Sap, Kevin Knight and Yejin Choi
++ 12:10--12:30 Short Break
+
++ 12:30--14:00 Poster Session 3A: Student Research Workshop
+
++ 12:30--14:00 Poster Session 3B: Document Analysis
+84 # A Deep Relevance Model for Zero-Shot Document Filtering # Chenliang Li, Wei Zhou, Feng Ji, Yu Duan and Haiqing Chen
+374 # Disconnected Recurrent Neural Networks for Text Categorization # Baoxin Wang
+1006 # Joint Embedding of Words and Labels for Text Classification # Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao and Lawrence Carin
+491 # Neural Sparse Topical Coding # Min Peng, Qianqian Xie, Yanchun Zhang, Hua Wang, Xiuzhen Zhang, Jimin Huang and Gang Tian
+488 # Document Similarity for Texts of Varying Lengths via Hidden Topics # Hongyu Gong, Tarek Sakakini, Suma Bhat and JinJun Xiong
+253 # Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour # Sandeep Mathias, Diptesh Kanojia, Kevin Patel, Samarth Agrawal, Abhijit Mishra and Pushpak Bhattacharyya
+1076 # Multi-Input Attention for Unsupervised OCR Correction # Rui Dong and David Smith
+1343 # Building Language Models for Text with Named Entities # Md Rizwan Parvez, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang
+1372 # hyperdoc2vec: Distributed Representations of Hypertext Documents # Jialong Han, Yan Song, Wayne Xin Zhao, Shuming Shi and Haisong Zhang
+245 # Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval # Zhenghao Liu, Chenyan Xiong, Maosong Sun and Zhiyuan Liu
+1350 # Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network # Pengcheng Yang, Xu SUN, Wei Li and Shuming Ma
+57 # Automated essay scoring with string kernels and word embeddings # Madalina Cozma, Andrei Butnaru and Radu Tudor Ionescu
+1180 # Party Matters: Enhancing Legislative Embeddings with Author Attributes for Vote Prediction # Anastassia Kornilova, Daniel Argyle and Vladimir Eidelman
+211 # Dynamic and Static Topic Model for Analyzing Time-Series Document Collections # Rem Hida, Naoya Takeishi, Takehisa Yairi and Koichi Hori
+1043 # PhraseCTM: Correlated Topic Modeling on Phrases within Markov Random Fields # Weijing Huang
+410 # A Document Descriptor using Covariance of Word Vectors # Marwan Torki
+
++ 12:30--14:00 Poster Session 3C: Semantics
+673 # Neural Natural Language Inference Models Enhanced with External Knowledge # Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Diana Inkpen and Si Wei
+1127 # AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples # Dongyeop Kang, Tushar Khot, Ashish Sabharwal and Eduard Hovy
+1611 # Learning with Structured Representations for Negation Scope Extraction # Hao Li and Wei Lu
+1651 # End-Task Oriented Textual Entailment via Deep Explorations of Inter-Sentence Interactions # Wenpeng Yin, Dan Roth and Hinrich Schütze
+523 # Sense-Aware Neural Models for Pun Location in Texts # Yitao Cai, Yin Li and Xiaojun Wan
+1103 # Subword-level Word Vector Representations for Korean # Sungjoon Park, Jeongmin Byun, Sion Baek, Yongseok Cho and Alice Oh
+1279 # Incorporating Chinese Characters of Words for Lexical Sememe Prediction # Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin and Leyu Lin
+1473 # SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment # Jisun An, Haewoon Kwak and Yong-Yeol Ahn
+30 # End-to-End Reinforcement Learning for Automatic Taxonomy Induction # Yuning Mao, Xiang Ren, Jiaming Shen, Xiaotao Gu and Jiawei Han
+271 # Incorporating Glosses into Neural Word Sense Disambiguation # Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang and Zhifang Sui
+446 # A Rank-Based Similarity Metric for Word Embeddings # Enrico Santus, Hongmin Wang, Emmanuele Chersoni and Yue Zhang
+696 # Addressing Noise in Multidialectal Word Embeddings # Alexander Erdmann, Nasser Zalmout and Nizar Habash
+1527 # GNEG: Graph-Based Negative Sampling for word2vec # Zheng Zhang and Pierre Zweigenbaum
+1548 # Unsupervised Learning of Style-sensitive Word Vectors # Reina Akama, Kento Watanabe, Sho Yokoi, Sosuke Kobayashi and Kentaro Inui
+
++ 12:30--14:00 Poster Session 3D: Sentiment Analysis and Argument Mining
+421 # Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages # Jeremy Barnes, Roman Klinger and Sabine Schulte im Walde
+1365 # Learning Domain-Sensitive and Sentiment-Aware Word Embeddings # Bei Shi, Zihao Fu, Lidong Bing and Wai Lam
+577 # Cross-Domain Sentiment Classification with Target Domain Specific Information # Minlong Peng, Qi Zhang, Yu-gang Jiang and Xuanjing Huang
+871 # Aspect Based Sentiment Analysis with Gated Convolutional Networks # Wei Xue and Tao Li
+1052 # A Helping Hand: Transfer Learning for Deep Sentiment Analysis # Xin Dong and Gerard de Melo
+1456 # Cold-Start Aware User and Product Attention for Sentiment Classification # Reinald Kim Amplayo, Jihyeok Kim, Sua Sung and Seung-won Hwang
+1625 # Modeling Deliberative Argumentation Strategies on Wikipedia # Khalid Al Khatib, Henning Wachsmuth, Kevin Lang, Jakob Herpel, Matthias Hagen and Benno Stein
+1351/TACL # Bootstrap Domain-Specific Sentiment Classifiers from Unlabelled Corpora # Andrius Mudinas, Dell Zhang, and Mark Levene
+555 # Exploiting Document Knowledge for Aspect-level Sentiment Classification # Ruidan He, Wee Sun Lee, Hwee Tou Ng and Daniel Dahlmeier
+561 # Modeling Sentiment Association in Discourse for Humor Recognition # Lizhen Liu, Donghai Zhang and Wei Song
+1190 # Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction # Hu Xu, Bing Liu, Lei Shu and Philip S. Yu
+1638 # Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining # Eyal Shnarch, Carlos Alzate, Lena Dankin, Martin Gleize, Yufang Hou, Leshem Choshen, Ranit Aharonov and Noam Slonim
+
++ 12:30--14:00 Poster Session 3E: Vision, Multimodal, Grounding, Speech
+1063 # Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning # Piyush Sharma, Nan Ding, Sebastian Goodman and Radu Soricut
+1049 # Learning Translations via Images with a Massively Multilingual Image Dataset # John Hewitt, Daphne Ippolito, Brendan Callahan, Reno Kriz, Derry Tanti Wijaya and Chris Callison-Burch
+985 # On the Automatic Generation of Medical Imaging Reports # Baoyu Jing, Pengtao Xie and Eric Xing
+1245 # Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning # Hongge Chen, Huan Zhang, Pin-Yu Chen, Jinfeng Yi and Cho-Jui Hsieh
+1227 # Think Visually: Question Answering through Virtual Imagery # Ankit Goyal, Jian Wang and Jia Deng
+134 # Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game # Haichao Zhang, Haonan Yu and Wei Xu
+969 # A Purely End-to-End System for Multi-speaker Speech Recognition # Hiroshi Seki, Takaaki Hori, Shinji Watanabe, Jonathan Le Roux and John R Hershey
+1214/TACL # Learning Representations Specialized in Spatial Knowledge: Leveraging Language and Vision # Guillem Collell and Marie-Francine Moens
+686 # Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction # Onno Kampman, Elham J. Barezi, Dario Bertero and Pascale Fung
+
++ 12:30--14:00 Poster Session 3F: Morphology, Tagging, Parsing
+154 # A Structured Variational Autoencoder for Contextual Morphological Inflection # Ryan Cotterell, Jason Naradowsky, Sebastian J. Mielke and Lawrence Wolf-Sonkin
+457 # Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings # Bernd Bohnet, Ryan McDonald, Gonçalo Simões, Daniel Andor, Emily Pitler and Joshua Maynez
+1502 # Neural Factor Graph Models for Cross-lingual Morphological Tagging # Chaitanya Malaviya, Matthew R. Gormley and Graham Neubig
+1241 # Global Transition-based Non-projective Dependency Parsing # Carlos Gómez-Rodríguez, Tianze Shi and Lillian Lee
+1305 # Constituency Parsing with a Self-Attentive Encoder # Nikita Kitaev and Dan Klein
+1326 # Pre- and In-Parsing Models for Neural Empty Category Detection # Yufei Chen, Yuanyuan Zhao, Weiwei Sun and Xiaojun Wan
+967 # Composing Finite State Transducers on GPUs # Arturo Argueta and David Chiang
+49 # Supervised Treebank Conversion: Data and Approaches # Xinzhou Jiang, Zhenghua Li, Bo Zhang, Min Zhang, Sheng Li and Luo Si
+299 # Object-oriented Neural Programming (OONP) for Document Understanding # Zhengdong Lu, Xianggen Liu, Haotian Cui, Yukun Yan and Daqi Zheng
+1501 # An Empirical Study of Building a Strong Baseline for Constituency Parsing # Jun Suzuki, Sho Takase, Hidetaka Kamigaito, Makoto Morishita and Masaaki Nagata
+419 # Parser Training with Heterogeneous Treebanks # Sara Stymne, Miryam de Lhoneux, Aaron Smith and Joakim Nivre
+437 # Generalized chart constraints for efficient PCFG and TAG parsing # Stefan Grünewald, Sophie Henning and Alexander Koller
+
+= 14:00--15:00 Session 8A: Semantics 2 (Short) %chair Omri Abend
+1483 14:00--14:15 # Exploring Semantic Properties of Sentence Embeddings # Xunjie Zhu, Tingfeng Li and Gerard de Melo
+1210 14:15--14:30 # Scoring Lexical Entailment with a Supervised Directional Similarity Network # Marek Rei, Daniela Gerz and Ivan Vulić
+972 14:30--14:45 # Extracting Commonsense Properties from Embeddings with Limited Human Guidance # Yiben Yang, Larry Birnbaum, Ji-Ping Wang and Doug Downey
+406 14:45--15:00 # Breaking NLI Systems with Sentences that Require Simple Lexical Inferences # Max Glockner, Vered Shwartz and Yoav Goldberg
+
+= 14:00--15:00 Session 8B: Machine Translation, Multilinguality 2 (Short) %chair Yulia Tsvetkov
+1414 14:00--14:15 # Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation # Poorya Zaremoodi, Wray Buntine and Gholamreza Haffari
+1303 14:15--14:30 # Automatic Estimation of Simultaneous Interpreter Performance # Craig Stewart, Nikolai Vogler, Junjie Hu, Jordan Boyd-Graber and Graham Neubig
+1340 14:30--14:45 # Polyglot Semantic Role Labeling # Phoebe Mulcaire, Swabha Swayamdipta and Noah A. Smith
+1607 14:45--15:00 # Learning Cross-lingual Distributed Logical Representations for Semantic Parsing # Yanyan Zou and Wei Lu
+
+= 14:00--15:00 Session 8C: Information Extraction 2 (Short) %chair Radu Florian
+1465 14:00--14:15 # Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information # Masaki Asada, Makoto Miwa and Yutaka Sasaki
+602 14:15--14:30 # diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora # Prabal Agarwal, Jannik Strötgen, Luciano Del Corro, Johannes Hoffart and Gerhard Weikum
+1489 14:30--14:45 # Examining Temporality in Document Classification # Xiaolei Huang and Michael J. Paul
+1193 14:45--15:00 # Personalized Language Model for Query Auto-Completion # Aaron Jaech and Mari Ostendorf
+
+= 14:00--15:00 Session 8D: Generation, Summarization (Short) %chair Hiroya Takamura
+527 14:00--14:15 # Personalized Review Generation By Expanding Phrases and Attending on Aspect-Aware Representations # Jianmo Ni and Julian McAuley
+1039 14:15--14:30 # Learning Simplifications for Specific Target Audiences # Carolina Scarton and Lucia Specia
+1221 14:30--14:45 # Split and Rephrase: Better Evaluation and Stronger Baselines # Roee Aharoni and Yoav Goldberg
+1546 14:45--15:00 # Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization # Shuming Ma, Xu SUN, Junyang Lin and Houfeng WANG
+
+= 14:00--15:00 Session 8E: Machine Learning, Question Answering (Short) %chair Massimo Piccardi
+557 14:00--14:15 # Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum # Omer Levy, Kenton Lee, Nicholas FitzGerald and Luke Zettlemoyer
+815 14:15--14:30 # On the Practical Computational Power of Finite Precision RNNs for Language Recognition # Gail Weiss, Yoav Goldberg and Eran Yahav
+1551 14:30--14:45 # A Co-Matching Model for Multi-choice Reading Comprehension # Shuohang Wang, Mo Yu, Jing Jiang and Shiyu Chang
+1318 14:45--15:00 # Tackling the Story Ending Biases in The Story Cloze Test # Rishi Sharma, James Allen, Omid Bakhshandeh and Nasrin Mostafazadeh
+
+= 14:00--15:00 Session 8F: Sentiment (Short) %chair Ion Androutsopoulos
+1182 14:00--14:15 # A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification # Zeyang Lei, Yujiu Yang, Min Yang and Yi Liu
+627 14:15--14:30 # Pretraining Sentiment Classifiers with Unlabeled Dialog Data # Toru Shimizu, Nobuyuki Shimizu and Hayato Kobayashi
+761 14:30--14:45 # Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection # Hen-Hsen Huang, Chiao-Chen Chen and Hsin-Hsi Chen
+296 14:45--15:00 # Cross-Target Stance Classification with Self-Attention Networks # Chang Xu, Cecile Paris, Surya Nepal and Ross Sparks
++ 15:00--15:30 Coffee Break
+
+= 15:30--17:15 Session 9A: Best Paper Session %chair Iryna Gurevych and Yusuke Miyao
+1125 15:30--15:45 # Know What You Don’t Know: Unanswerable Questions for SQuAD # Pranav Rajpurkar, Robin Jia and Percy Liang
+1603 15:45--16:00 # Lighter' Can Still Be Dark: Modeling Comparative Color Descriptions # Olivia Winn and Smaranda Muresan
+618 16:00--16:25 # Finding syntax in human encephalography with beam search # John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan
+1247 16:25--16:50 # Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information # Sudha Rao and Hal Daumé III
+1348 16:50--17:15 # Let's do it ``again'': A First Computational Approach to Detecting Adverbial Presupposition Triggers # Andre Cianflone, Yulan Feng, Jad Kabbara and Jackie Chi Kit Cheung
++ 17:15--17:30 Short Break
++ 17:30--18:30 Lifetime Achievement Award
++ 18:30--18:45 Closing Session

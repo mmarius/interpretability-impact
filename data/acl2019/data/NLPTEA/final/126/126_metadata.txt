@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#126
+FinalPaperTitle#=%=#Detecting Simultaneously Chinese Grammar Errors Based on a BiLSTM-CRF Model
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yajun Liu
+JobTitle#==#student
+Organization#==#College of Information and Engineering, Zhengzhou University
+Abstract#==#In the process of learning and using Chinese, many learners of Chinese as foreign language(CFL) may have grammar errors due to negative migration of their native languages. This paper introduces our system that can simultaneously diagnose four types of grammatical errors including redundant (R), missing (M), selection (S), disorder (W) in NLPTEA-5 shared task. We proposed a Bidirectional LSTM CRF neural network (BiLSTM-CRF) that combines BiLSTM and CRF without hand-craft features for Chinese Grammatical Error Diagnosis (CGED). Evaluation includes three levels, which are detection level, identification level and position level. At the detection level and identification level, our system got the third recall scores, and achieved good F1 values.
+Author{1}{Firstname}#=%=#Yajun
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liuyajun_gz@163.com
+Author{1}{Affiliation}#=%=#College of Information and Engineering, Zhengzhou University
+Author{2}{Firstname}#=%=#Hongying
+Author{2}{Lastname}#=%=#Zan
+Author{2}{Email}#=%=#iehyzan@zzu.edu.cn
+Author{2}{Affiliation}#=%=#College of Information and Engineering, Zhengzhou University
+Author{3}{Firstname}#=%=#Mengjie
+Author{3}{Lastname}#=%=#Zhong
+Author{3}{Email}#=%=#1837361628@qq.com
+Author{3}{Affiliation}#=%=#College of Information and Engineering, Zhengzhou University
+Author{4}{Firstname}#=%=#Hongchao
+Author{4}{Lastname}#=%=#Ma
+Author{4}{Email}#=%=#ma-hc@foxmail.com
+Author{4}{Affiliation}#=%=#College of Information and Engineering, Zhengzhou University
+
+==========

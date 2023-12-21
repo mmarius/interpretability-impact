@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1537
+FinalPaperTitle#=%=#SciDTB: Discourse Dependency TreeBank for Scientific Abstracts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#An Yang
+JobTitle#==#
+Organization#==#Key Laboratory of Computational Linguistics, Peking University, MOE, China
+Abstract#==#Annotation corpus for discourse relations benefits NLP tasks such as machine translation and question answering. In this paper, we present SciDTB, a domain-specific discourse treebank annotated on scientific articles. Different from widely-used RST-DT and PDTB, SciDTB uses dependency trees to represent discourse structure, which is flexible and simplified to some extent but do not sacrifice structural integrity. We discuss the labeling framework, annotation workflow and some statistics about SciDTB. Furthermore, our treebank is made as a benchmark for evaluating discourse dependency parsers, on which we provide several baselines as fundamental work.
+Author{1}{Firstname}#=%=#An
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangan@pku.edu.cn
+Author{1}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University, MOE, China
+Author{2}{Firstname}#=%=#Sujian
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lisujian@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+
+==========

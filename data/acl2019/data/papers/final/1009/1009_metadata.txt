@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1009
+FinalPaperTitle#=%=#Document Modeling with External Attention for Sentence Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shashi Narayan
+JobTitle#==#
+Organization#==#University of Edinburgh
+Abstract#==#Document modeling is essential to a variety of natural language understanding tasks. We propose to use external information to improve document modeling for problems that can be framed as sentence extraction. We develop a framework composed of a hierarchical document encoder and an attention-based extractor with attention over external information. We evaluate our model on extractive document summarization (where the external information is image captions and the title of the document) and answer selection (where the external information is a question). We show that our model consistently outperforms strong baselines, in terms of both informativeness and fluency (for CNN document summarization) and achieves state-of-the-art results for answer selection on WikiQA and NewsQA.
+Author{1}{Firstname}#=%=#Shashi
+Author{1}{Lastname}#=%=#Narayan
+Author{1}{Email}#=%=#shashi.narayan@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Ronald
+Author{2}{Lastname}#=%=#Cardenas
+Author{2}{Email}#=%=#ronald.cardenas@matfyz.cz
+Author{2}{Affiliation}#=%=#Charles University
+Author{3}{Firstname}#=%=#Nikos
+Author{3}{Lastname}#=%=#Papasarantopoulos
+Author{3}{Email}#=%=#nikos.papasa@gmail.com
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Shay B.
+Author{4}{Lastname}#=%=#Cohen
+Author{4}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+Author{5}{Firstname}#=%=#Mirella
+Author{5}{Lastname}#=%=#Lapata
+Author{5}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{5}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{6}{Firstname}#=%=#Jiangsheng
+Author{6}{Lastname}#=%=#Yu
+Author{6}{Email}#=%=#Jiangsheng.Yu@huawei.com
+Author{6}{Affiliation}#=%=#Huawei Technologies
+Author{7}{Firstname}#=%=#Yi
+Author{7}{Lastname}#=%=#Chang
+Author{7}{Email}#=%=#yichang@acm.org
+Author{7}{Affiliation}#=%=#Huawei Technologies
+
+==========

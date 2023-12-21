@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1106
+FinalPaperTitle#=%=#Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Vidur Joshi
+JobTitle#==#
+Organization#==#Allen Institute for Artificial Intelligence
+Abstract#==#We revisit domain adaptation for parsers in the neural era. First we show that
+recent advances in word representations greatly diminish the need for domain
+adaptation when the target domain is syntactically similar to the source
+domain. As evidence, we train a parser on the Wall Street Journal alone that
+achieves over 90% F1 on the Brown corpus. For more syntactically distant
+domains, we provide a simple way to adapt a parser using only dozens of partial
+annotations. For instance, we increase the percentage of error-free
+geometry-domain parses in a held-out set from 45% to 73% using approximately
+five dozen training examples. In the process, we demonstrate a new
+state-of-the-art single model result  on the Wall Street Journal test set of
+94.3%. This is an absolute increase of 1.7% over the previous state-of-the-art
+of 92.6%.
+Author{1}{Firstname}#=%=#Vidur
+Author{1}{Lastname}#=%=#Joshi
+Author{1}{Email}#=%=#vidurj@allenai.org
+Author{1}{Affiliation}#=%=#Allen AI
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Lastname}#=%=#Peters
+Author{2}{Email}#=%=#matthewp@allenai.org
+Author{2}{Affiliation}#=%=#Allen AI
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Hopkins
+Author{3}{Email}#=%=#markh@allenai.org
+Author{3}{Affiliation}#=%=#Allen AI
+
+==========

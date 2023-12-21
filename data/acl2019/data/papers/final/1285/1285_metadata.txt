@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1285
+FinalPaperTitle#=%=#A Stochastic Decoder for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Wilker Ferreira Aziz
+JobTitle#==#
+Organization#==#Universiteit van Amsterdam
+Abstract#==#The process of translation is ambiguous, in that there are typically many valid translations for a given sentence. This gives rise to significant variation in parallel corpora, however, most current models of machine translation do not account for this variation, instead treating the problem as a deterministic process. To this end, we present a deep generative model of machine translation which incorporates a chain of latent variables, in order to account for local lexical and syntactic variation in parallel corpora. We provide an in-depth analysis of the pitfalls encountered in variational inference for training deep generative models.  Experiments on several different language pairs demonstrate that the model consistently improves over strong baselines.
+Author{1}{Firstname}#=%=#Philip
+Author{1}{Lastname}#=%=#Schulz
+Author{1}{Email}#=%=#phschulz@amazon.com
+Author{1}{Affiliation}#=%=#Amazon Research
+Author{2}{Firstname}#=%=#Wilker
+Author{2}{Lastname}#=%=#Aziz
+Author{2}{Email}#=%=#will.aziz@gmail.com
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Trevor
+Author{3}{Lastname}#=%=#Cohn
+Author{3}{Email}#=%=#tcohn@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+
+==========

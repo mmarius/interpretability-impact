@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Low-Resource Machine Transliteration Using Recurrent Neural Networks of Asian Languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Tan
+JobTitle#==#PhD student in Computer Science
+Organization#==#Universite du Quebec a Montreal, Montreal, Quebec, Canada
+Abstract#==#Grapheme-to-phoneme models are key components in automatic speech recognition and text-to-speech systems. With low-resource language pairs that do not have available and well-developed pronunciation lexicons, grapheme-to-phoneme models are particularly useful. These models are based on initial alignments between grapheme source and phoneme target sequences. Inspired by sequence-to-sequence recurrent neural network-based translation methods, the current research presents an approach that applies an alignment representation for input sequences and pre-trained source and target embeddings to overcome the transliteration problem for a low-resource languages pair. We participated in the NEWS 2018 shared task for the English-Vietnamese transliteration task.
+Author{1}{Firstname}#=%=#Ngoc Tan
+Author{1}{Lastname}#=%=#Le
+Author{1}{Email}#=%=#letan.dhcn@gmail.com
+Author{1}{Affiliation}#=%=#Université du Québec à Montréal
+Author{2}{Firstname}#=%=#Fatiha
+Author{2}{Lastname}#=%=#Sadat
+Author{2}{Email}#=%=#le.ngoc_tan@courrier.uqam.ca
+Author{2}{Affiliation}#=%=#Université du Québec à Montréal
+
+==========

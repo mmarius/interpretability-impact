@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners
+ShortPaperTitle#=%=#Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jun Liu
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a computer-assisted learning system, Jastudy, which is particularly designed for Chinese-speaking learners of Japanese as a second language (JSL) to learn Japanese functional expressions with suggestion of appropriate example sentences. The system automatically recognizes Japanese functional expressions using a free Japanese morphological analyzer MeCab, which is retrained on a new Conditional Random Fields (CRF) model. In order to select appropriate example sentences, we apply a pairwise-based machine learning tool, Support Vector Machine for Ranking (SVMrank) to estimate the complexity of the example sentences using Japanese–Chinese homographs as an important feature. In addition, we cluster the example sentences that contain Japanese functional expressions with two or more meanings and usages, based on part-of-speech, conjugation forms of verbs and semantic attributes, using the K-means clustering algorithm in Scikit-Learn. Experimental results demonstrate the effectiveness of our approach.
+Author{1}{Firstname}#=%=#Jun
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liu.jun.lc3@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Hiroyuki
+Author{2}{Lastname}#=%=#Shindo
+Author{2}{Email}#=%=#hshindo@outlook.com
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Firstname}#=%=#Yuji
+Author{3}{Lastname}#=%=#Matsumoto
+Author{3}{Email}#=%=#matsu@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

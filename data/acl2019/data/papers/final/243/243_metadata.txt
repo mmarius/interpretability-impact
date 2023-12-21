@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#243
+FinalPaperTitle#=%=#Semantic Parsing with Syntax- and Table-Aware SQL Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Yibo Sun
+JobTitle#==#
+Organization#==#Harbin Institue of Technology,  Harbin 150001, P. R. CHINA
+Abstract#==#We present a generative model to map natural language questions into SQL queries. Existing neural network based approaches typically generate a SQL query word-by-word, however, a large portion of the generated results is incorrect or not executable due to the mismatch between question words and table contents. Our approach addresses this problem by considering the structure of table and the syntax of SQL language. The quality of the generated SQL query is significantly improved through (1) learning to replicate content from column names, cells or SQL keywords; and (2) improving the generation of WHERE clause by leveraging the column-cell relation. Experiments are conducted on WikiSQL, a recently released dataset with the largest question- SQL pairs. Our approach significantly improves the state-of-the-art execution accuracy from 69.0% to 74.4%.
+Author{1}{Firstname}#=%=#Yibo
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Email}#=%=#ybsun@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Duyu
+Author{2}{Lastname}#=%=#Tang
+Author{2}{Email}#=%=#dytang.hit@hotmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Nan
+Author{3}{Lastname}#=%=#Duan
+Author{3}{Email}#=%=#nanduan@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia
+Author{4}{Firstname}#=%=#Jianshu
+Author{4}{Lastname}#=%=#Ji
+Author{4}{Email}#=%=#jianshuj@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft AI & Research
+Author{5}{Firstname}#=%=#Guihong
+Author{5}{Lastname}#=%=#Cao
+Author{5}{Email}#=%=#gucao@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft AI & Research
+Author{6}{Firstname}#=%=#Xiaocheng
+Author{6}{Lastname}#=%=#Feng
+Author{6}{Email}#=%=#fengxiaocheng1988@gmail.com
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology,SCIR lab
+Author{7}{Firstname}#=%=#Bing
+Author{7}{Lastname}#=%=#Qin
+Author{7}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{7}{Affiliation}#=%=#Harbin Institute of Technology
+Author{8}{Firstname}#=%=#Ting
+Author{8}{Lastname}#=%=#Liu
+Author{8}{Email}#=%=#tliu72@vip.126.com
+Author{8}{Affiliation}#=%=#Harbin Institute of Technology
+Author{9}{Firstname}#=%=#Ming
+Author{9}{Lastname}#=%=#Zhou
+Author{9}{Email}#=%=#mingzhou@microsoft.com
+Author{9}{Affiliation}#=%=#microsoft research asia
+
+==========

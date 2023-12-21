@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1625
+FinalPaperTitle#=%=#Modeling Deliberative Argumentation Strategies on Wikipedia
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Khalid
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper studies how the argumentation strategies of participants in deliberative discussions can be supported computationally. Our ultimate goal is to predict the best next deliberative move of each participant. In this paper, we present a model for deliberative discussions and we illustrate its operationalization. Previous models have been built manually based on a small set of discussions, resulting in a level of abstraction that is not suitable for move recommendation. In contrast, we derive our model statistically from several types of metadata that can be used for move description. Applied to six million discussions from Wikipedia talk pages, our approach results in a model with 13 categories along three dimensions: discourse acts, argumentative relations, and frames. On this basis, we automatically generate a corpus with about 200,000 turns, labeled for the 13 categories. We then operationalize the model with three supervised classifiers and provide evidence that the proposed categories can be predicted.
+Author{1}{Firstname}#=%=#Khalid
+Author{1}{Lastname}#=%=#Al Khatib
+Author{1}{Email}#=%=#khalid.alkhatib@uni-weimar.de
+Author{1}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{2}{Firstname}#=%=#Henning
+Author{2}{Lastname}#=%=#Wachsmuth
+Author{2}{Email}#=%=#henningw@upb.de
+Author{2}{Affiliation}#=%=#Paderborn University
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Lang
+Author{3}{Email}#=%=#kevin.lang@uni-weimar.de
+Author{3}{Affiliation}#=%=#Bauhaus-Universitat Weimar
+Author{4}{Firstname}#=%=#Jakob
+Author{4}{Lastname}#=%=#Herpel
+Author{4}{Email}#=%=#jakob.herpel@uni-weimar.de
+Author{4}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{5}{Firstname}#=%=#Matthias
+Author{5}{Lastname}#=%=#Hagen
+Author{5}{Email}#=%=#matthias.hagen@uni-weimar.de
+Author{5}{Affiliation}#=%=#Bauhaus-Universität Weimar
+Author{6}{Firstname}#=%=#Benno
+Author{6}{Lastname}#=%=#Stein
+Author{6}{Email}#=%=#benno.stein@uni-weimar.de
+Author{6}{Affiliation}#=%=#Bauhaus-Universität Weimar
+
+==========

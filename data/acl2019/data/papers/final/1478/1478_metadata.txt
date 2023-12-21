@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1478
+FinalPaperTitle#=%=#Textual Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Laurent Vanni
+JobTitle#==#
+Organization#==#CNRS - 250 Rue Albert Einstein, 06560 Valbonne - France
+Abstract#==#In this paper, we propose a new strategy, called Text Deconvolution Saliency
+(TDS), to visualize linguistic information detected by a CNN for text
+classification. We extend Deconvolution Networks to text in order to present a
+new perspective on text analysis to the linguistic community. We empirically
+demonstrated the efficiency of our Text Deconvolution Saliency on corpora from
+three different languages: English, French, and Latin. For every tested
+dataset, our Text Deconvolution Saliency automatically encodes complex
+linguistic patterns based on co-occurrences and possibly on grammatical and
+syntax analysis.
+Author{1}{Firstname}#=%=#Laurent
+Author{1}{Lastname}#=%=#Vanni
+Author{1}{Email}#=%=#laurent.vanni@unice.fr
+Author{1}{Affiliation}#=%=#CNRS - France
+Author{2}{Firstname}#=%=#Mélanie
+Author{2}{Lastname}#=%=#Ducoffe
+Author{2}{Email}#=%=#melanieducoffe@gmail.com
+Author{2}{Affiliation}#=%=#CNRS - I3S - France
+Author{3}{Firstname}#=%=#Carlos
+Author{3}{Lastname}#=%=#Aguilar
+Author{3}{Email}#=%=#Carlos.AGUILAR@unice.fr
+Author{3}{Affiliation}#=%=#UCA - France
+Author{4}{Firstname}#=%=#Frederic
+Author{4}{Lastname}#=%=#Precioso
+Author{4}{Email}#=%=#frederic.precioso@unice.fr
+Author{4}{Affiliation}#=%=#CNRS - I3S
+Author{5}{Firstname}#=%=#Damon
+Author{5}{Lastname}#=%=#Mayaffre
+Author{5}{Email}#=%=#damon.mayaffre@unice.fr
+Author{5}{Affiliation}#=%=#CNRS
+
+==========

@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#38
+FinalPaperTitle#=%=#Learning Semantic Textual Similarity from Conversations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yinfei Yang
+JobTitle#==#
+Organization#==#Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043
+Abstract#==#We present a novel approach to learn representations for sentence-level semantic similarity using conversational data. Our method trains an unsupervised model to predict conversational responses. The resulting sentence embeddings perform well on the Semantic Textual Similarity (STS) Benchmark and SemEval 2017's Community Question Answering (CQA) question similarity subtask. Performance is further improved by introducing multitask training, combining conversational response prediction and natural language inference. Extensive experiments show the proposed model achieves the best performance among all neural models on the STS Benchmark and is competitive with the state-of-the-art feature engineered and mixed systems for both tasks.
+Author{1}{Firstname}#=%=#Yinfei
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangyin7@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Steve
+Author{2}{Lastname}#=%=#Yuan
+Author{2}{Email}#=%=#steveyuan@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Cer
+Author{3}{Email}#=%=#danielcer@acm.org
+Author{3}{Affiliation}#=%=#Google Research
+Author{4}{Firstname}#=%=#Sheng-Yi
+Author{4}{Lastname}#=%=#Kong
+Author{4}{Email}#=%=#shkong@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Noah
+Author{5}{Lastname}#=%=#Constant
+Author{5}{Email}#=%=#shkong@google.com
+Author{5}{Affiliation}#=%=#Google
+Author{6}{Firstname}#=%=#Petr
+Author{6}{Lastname}#=%=#Pilar
+Author{6}{Email}#=%=#palmik@google.com
+Author{6}{Affiliation}#=%=#Google
+Author{7}{Firstname}#=%=#Heming
+Author{7}{Lastname}#=%=#Ge
+Author{7}{Email}#=%=#hemingge@google.com
+Author{7}{Affiliation}#=%=#Google
+Author{8}{Firstname}#=%=#Yun-hsuan
+Author{8}{Lastname}#=%=#Sung
+Author{8}{Email}#=%=#yhsung@google.com
+Author{8}{Affiliation}#=%=#Google
+Author{9}{Firstname}#=%=#Brian
+Author{9}{Lastname}#=%=#Strope
+Author{9}{Email}#=%=#bps@google.com
+Author{9}{Affiliation}#=%=#Google
+Author{10}{Firstname}#=%=#Ray
+Author{10}{Lastname}#=%=#Kurzweil
+Author{10}{Email}#=%=#raykurzweil@google.com
+Author{10}{Affiliation}#=%=#Google
+
+==========

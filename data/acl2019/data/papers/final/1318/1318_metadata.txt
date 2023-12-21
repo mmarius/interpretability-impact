@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1318
+FinalPaperTitle#=%=#Tackling the Story Ending Biases in The Story Cloze Test
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rishi Sharma
+JobTitle#==#
+Organization#==#Computer Studies Building, Intercampus Dr #734, Rochester, NY 14620
+Abstract#==#The Story Cloze Test (SCT) is a recent framework for evaluating story comprehension and script learning. There have been a variety of models tackling the SCT so far. Although the original goal behind the SCT was to require systems to perform deep language understanding and commonsense reasoning for successful narrative understanding, some recent models could perform significantly better than the initial baselines by leveraging
+human-authorship biases discovered in the SCT dataset. In order to shed some light on this issue, we have performed various data analysis and analyzed a variety of top performing models presented for this task. Given the statistics we have aggregated, we have designed a new crowdsourcing scheme that creates a new SCT dataset, which overcomes some of the biases. We benchmark a few models on the new dataset and show that the top-performing
+model on the original SCT dataset fails to keep up its performance. Our findings further signify the importance of benchmarking NLP systems on various evolving test sets.
+Author{1}{Firstname}#=%=#Rishi
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#rsharma441@gmail.com
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Allen
+Author{2}{Email}#=%=#james@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+Author{3}{Firstname}#=%=#Omid
+Author{3}{Lastname}#=%=#Bakhshandeh
+Author{3}{Email}#=%=#omidb@cs.rochester.edu
+Author{3}{Affiliation}#=%=#University of Rochester
+Author{4}{Firstname}#=%=#Nasrin
+Author{4}{Lastname}#=%=#Mostafazadeh
+Author{4}{Email}#=%=#nsrn.mostafazadeh@gmail.com
+Author{4}{Affiliation}#=%=#University of Rochester
+
+==========

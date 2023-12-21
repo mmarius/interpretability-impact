@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#437
+FinalPaperTitle#=%=#Generalized chart constraints for efficient PCFG and TAG parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alexander Koller
+JobTitle#==#
+Organization#==#
+Abstract#==#Chart constraints, which specify at which string positions a
+  constituent may begin or end, have been shown to speed up chart
+  parsers for PCFGs. We generalize chart constraints to more
+  expressive grammar formalisms and describe a neural tagger which
+  predicts chart constraints at very high precision. Our constraints
+  accelerate both PCFG and TAG parsing, and combine effectively with
+  other pruning techniques (coarse-to-fine and supertagging) for an
+  overall speedup of two orders of magnitude, while improving
+  accuracy.
+Author{1}{Firstname}#=%=#Stefan
+Author{1}{Lastname}#=%=#Grünewald
+Author{1}{Email}#=%=#stefang@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Sophie
+Author{2}{Lastname}#=%=#Henning
+Author{2}{Email}#=%=#shenning@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Koller
+Author{3}{Email}#=%=#koller@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+
+==========

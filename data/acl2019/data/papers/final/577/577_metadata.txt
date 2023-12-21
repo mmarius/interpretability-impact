@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#577
+FinalPaperTitle#=%=#Cross-Domain Sentiment Classification with Target Domain Specific Information
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Qi Zhang
+JobTitle#==#Associate professor
+Organization#==#School of Computer Science, Fudan University, 825 Zhangheng Road, Shanghai, China
+Abstract#==#The task of adopting a model with good performance to a target domain that is different from the source domain used for training has received considerable attention in sentiment analysis. Most existing approaches mainly focus on learning representations that are domain-invariant in both the source and target domains. Few of them pay attention to domain-specific information, which should also be informative. In this work, we propose a method to simultaneously extract domain specific and invariant representations and train a classifier on each of the representation, respectively. And we introduce a few target domain labeled data for learning domain-specific information. To effectively utilize the target domain labeled data, we train the domain invariant representation based classifier with both the source and target domain labeled data and train the domain-specific representation based classifier with only the target domain labeled data. These two classifiers then boost each other in a co-training style. Extensive sentiment analysis experiments demonstrated that the proposed method could achieve better performance than state-of-the-art methods.
+Author{1}{Firstname}#=%=#Minlong
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#16110240005@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#qz@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Yu-gang
+Author{3}{Lastname}#=%=#Jiang
+Author{3}{Email}#=%=#ygj@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Xuanjing
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+
+==========

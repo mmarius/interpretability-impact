@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#EmotionX-SmartDubai_NLP: Detecting User Emotions In Social Media Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes the working note on “EmotionX” shared task. It is hosted by SocialNLP 2018. The objective of this task is to detect the emotions, based on each speaker’s utterances that are in English. Taking this as multiclass text classification problem, we have experimented to develop a model to classify the target class. The primary challenge in this task is to detect the emotions in short messages, communicated through social media. This paper describes the participation of SmartDubai_NLP team in EmotionX shared task and our investigation to detect the emotions from utterance using Neural networks and Natural language understanding.
+Author{1}{Firstname}#=%=#Hessa
+Author{1}{Lastname}#=%=#AlBalooshi
+Author{1}{Email}#=%=#rahulvks@gmail.com
+Author{1}{Affiliation}#=%=#Smart Dubai
+Author{2}{Firstname}#=%=#Shahram
+Author{2}{Lastname}#=%=#Rahmanian
+Author{2}{Email}#=%=#rahulvks@gmail.com
+Author{2}{Affiliation}#=%=#Smart Dubai
+Author{3}{Firstname}#=%=#Rahul
+Author{3}{Lastname}#=%=#Venkatesh Kumar
+Author{3}{Email}#=%=#rahulvks@gmail.com
+Author{3}{Affiliation}#=%=#Smart Dubai
+
+==========

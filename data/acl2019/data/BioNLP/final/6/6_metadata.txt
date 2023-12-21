@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#PICO Element Detection in Medical Text via Long Short-Term Memory Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Di Jin
+JobTitle#==#Graduate
+Organization#==#1Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA
+Abstract#==#Successful evidence-based medicine (EBM) applications rely on answering clinical questions by analyzing large medical literature databases. In order to formulate a well-defined, focused clinical question, a framework called PICO is widely used, which identifies the sentences in a given medical text that belong to the four components: Participants/Problem (P), Intervention (I), Comparison (C) and Outcome (O). In this work, we present a Long Short-Term Memory (LSTM) neural network based model to automatically detect PICO elements. By jointly classifying subsequent sentences in the given text, we achieve state-of-the-art results on PICO element classification compared to several strong baseline models. We also make our curated data public as a benchmarking dataset so that the community can benefit from it.
+Author{1}{Firstname}#=%=#Di
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#jindi15@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Szolovits
+Author{2}{Email}#=%=#psz@mit.edu
+Author{2}{Affiliation}#=%=#MIT
+
+==========

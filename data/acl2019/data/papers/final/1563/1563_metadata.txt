@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1563
+FinalPaperTitle#=%=#Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Amir Zadeh
+JobTitle#==#
+Organization#==#CMU LTI
+Abstract#==#Analyzing human multimodal language is an emerging area of research in NLP.
+Intrinsically this language is multimodal (heterogeneous), sequential and
+asynchronous; it consists of the language (words), visual (expressions) and
+acoustic (paralinguistic) modalities all in the form of asynchronous
+coordinated sequences. From a resource perspective, there is a genuine need for
+large scale datasets that allow for in-depth studies of this form of language.
+In this paper we introduce CMU Multimodal Opinion Sentiment and Emotion Intensity
+(CMU-MOSEI), the largest dataset of sentiment analysis and emotion recognition to
+date. Using data from CMU-MOSEI and a novel multimodal fusion technique called the
+Dynamic Fusion Graph (DFG), we conduct experimentation to exploit how
+modalities interact with each other in human multimodal language. Unlike
+previously proposed fusion techniques, DFG is highly interpretable and achieves
+competative performance when compared to the previous state of the art.
+Author{1}{Firstname}#=%=#AmirAli
+Author{1}{Lastname}#=%=#Bagher Zadeh
+Author{1}{Email}#=%=#abagherz@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Paul Pu
+Author{2}{Lastname}#=%=#Liang
+Author{2}{Email}#=%=#pliang@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Soujanya
+Author{3}{Lastname}#=%=#Poria
+Author{3}{Email}#=%=#soujanya.poria@gmail.com
+Author{3}{Affiliation}#=%=#Nanyang Technological University
+Author{4}{Firstname}#=%=#Erik
+Author{4}{Lastname}#=%=#Cambria
+Author{4}{Email}#=%=#erik@sentic.net
+Author{4}{Affiliation}#=%=#Nanyang Technological University
+Author{5}{Firstname}#=%=#Louis-Philippe
+Author{5}{Lastname}#=%=#Morency
+Author{5}{Email}#=%=#morency@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

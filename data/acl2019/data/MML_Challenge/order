@@ -1,0 +1,22 @@
+* Friday, July 20, 2018
+= 9:00--10:30 Session 1
++ 9:00--9:10 Opening Remarks
+! 9:10--10:00 Keynote %by Bing Liu
+13 10:00--10:10  # Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities
+18 10:10--10:20  # Recognizing Emotions in Video Using Multimodal DNN Feature Fusion
+19 10:20--10:30  # Multimodal Relational Tensor Network for Sentiment and Emotion Classification
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 2
+! 11:00--11:50 Keynote %by Sharon Oviatt
+! 11:50--12:00 Advances in Multimodal Datasets %by Paul Pu Liang
+16 12:00--12:10  # Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data
+14 12:10--12:20  # Sentiment Analysis using Imperfect Views from Spoken Language and Acoustic Modalities
+12 12:20--12:30  # Polarity and Intensity: the Two Aspects of Sentiment Analysis
++ 12:30--13:30 Lunch Break
+= 13:30--15:00 Session 3
+! 13:30--14:20 Keynote %by Roland Goecke
+10 14:20--14:30  # ASR-based Features for Emotion Recognition: A Transfer Learning Approach
+11 14:30--14:40  # Seq2Seq2Sentiment: Multimodal Sequence to Sequence Models for Sentiment Analysis
+17 14:40--14:50  # DNN Multimodal Fusion Techniques for Predicting Video Sentiment
++ 14:50--15:00 Grand Challenge Results
++ 15:00--15:05 Workshop End

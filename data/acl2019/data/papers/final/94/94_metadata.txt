@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#94
+FinalPaperTitle#=%=#Predicting accuracy on large datasets from smaller pilot data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Mark Johnson
+JobTitle#==#
+Organization#==#Macquarie University
+Abstract#==#Because obtaining training data is often the most difficult part of an NLP or
+ML project, we develop methods for predicting how much data is required to
+achieve a desired test accuracy by extrapolating results from models trained on
+a small pilot training dataset.  We model how accuracy varies as a function of
+training size on subsets of the pilot data, and use that model to predict how
+much training data would be required to achieve the desired accuracy.  
+
+We introduce a new performance extrapolation task to evaluate how well
+different extrapolations predict accuracy on larger training sets. We show that
+details of hyperparameter optimisation and the extrapolation models can have
+dramatic effects in a document classification task.  We believe this is an
+important first step in developing methods for estimating the resources
+required to meet specific engineering performance targets.
+Author{1}{Firstname}#=%=#Mark
+Author{1}{Lastname}#=%=#Johnson
+Author{1}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{1}{Affiliation}#=%=#Macquarie University
+Author{2}{Firstname}#=%=#Peter
+Author{2}{Lastname}#=%=#Anderson
+Author{2}{Email}#=%=#peter.anderson@anu.edu.au
+Author{2}{Affiliation}#=%=#Australian National University
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Dras
+Author{3}{Email}#=%=#mark.dras@mq.edu.au
+Author{3}{Affiliation}#=%=#Macquarie University
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Steedman
+Author{4}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+
+==========

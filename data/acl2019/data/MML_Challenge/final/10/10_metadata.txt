@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#ASR-based Features for Emotion Recognition: A Transfer Learning Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Noé Tits
+JobTitle#==#
+Organization#==#
+Abstract#==#During the last decade, the applications of signal processing have drastically improved with deep learning. However areas of affecting computing such as emotional speech synthesis or emotion recognition from spoken language remains challenging.
+In this paper, we investigate the use of a neural Automatic Speech Recognition (ASR) as a feature extractor for emotion recognition.  We show that these features outperform the eGeMAPS feature set to predict the valence and arousal emotional dimensions, which means that the audio-to-text mapping learned by the ASR system contains information related to the emotional dimensions in spontaneous speech. We also examine the relationship between first layers (closer to speech) and last layers (closer to text) of the ASR and valence/arousal.
+Author{1}{Firstname}#=%=#Noé
+Author{1}{Lastname}#=%=#Tits
+Author{1}{Email}#=%=#noe.tits@gmail.com
+Author{1}{Affiliation}#=%=#University of Mons
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#El Haddad
+Author{2}{Email}#=%=#kevin.elhaddad@umons.ac.be
+Author{2}{Affiliation}#=%=#University of Mons
+Author{3}{Firstname}#=%=#Thierry
+Author{3}{Lastname}#=%=#Dutoit
+Author{3}{Email}#=%=#thierry.dutoit@umons.ac.be
+Author{3}{Affiliation}#=%=#University of Mons
+
+==========

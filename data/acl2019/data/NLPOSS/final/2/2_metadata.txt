@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#The ACL Anthology: Current State and Future Directions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Teichmann
+JobTitle#==#
+Organization#==#Universität des Saarlandes, Department Sprachwissenschaft und Sprachtechnology, Campus C 7.2, 66123 Saarbrücken
+Abstract#==#The Association of Computational Linguistic's Anthology is the open  source archive, and the main source for computational linguistics  and natural language processing's scientific literature.  The ACL  Anthology is currently maintained exclusively by community  volunteers and has to be available and up-to-date at all times. We  first discuss the current, open source approach used to achieve  this, and then discuss how the planned use of Docker images will  improve the Anthology's long-term stability.  This change will make  it easier for researchers to utilize Anthology data for  experimentation.  We believe the ACL community can directly benefit  from the extension-friendly architecture of the Anthology.  We end  by issuing an open challenge of reviewer matching we encourage the community to rally towards.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Gildea
+Author{1}{Email}#=%=#gildea@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Min-Yen
+Author{2}{Lastname}#=%=#Kan
+Author{2}{Email}#=%=#kanmy@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#Nitin
+Author{3}{Lastname}#=%=#Madnani
+Author{3}{Email}#=%=#nmadnani@ets.org
+Author{3}{Affiliation}#=%=#Educational Testing Service
+Author{4}{Firstname}#=%=#Christoph
+Author{4}{Lastname}#=%=#Teichmann
+Author{4}{Email}#=%=#rightlinear@googlemail.com
+Author{4}{Affiliation}#=%=#Saarland University
+Author{5}{Firstname}#=%=#Martin
+Author{5}{Lastname}#=%=#Villalba
+Author{5}{Email}#=%=#villalba@coli.uni-saarland.de
+Author{5}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

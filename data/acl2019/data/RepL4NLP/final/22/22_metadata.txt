@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Unsupervised Random Walk Sentence Embeddings: A Strong but Simple Baseline
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kawin Ethayarajh
+JobTitle#==#
+Organization#==#University of Toronto, 27 King
+Abstract#==#Using a random walk model of text generation, Arora et al. (2017) proposed a strong baseline for computing sentence embeddings: take a weighted average of word embeddings and modify with SVD. This simple method even outperforms far more complex approaches such as LSTMs on textual similarity tasks. In this paper, we first show that word vector length has a confounding effect on the probability of a sentence being generated in Arora et al.'s model. We propose a random walk model that is robust to this confound, where the probability of word generation is inversely related to the angular distance between the word and sentence embeddings. Our approach beats Arora et al.'s by up to 44.4% on textual similarity tasks and is competitive with state-of-the-art methods. Unlike Arora et al.'s method, ours requires no hyperparameter tuning, which means it can be used when there is no labelled data.
+Author{1}{Firstname}#=%=#Kawin
+Author{1}{Lastname}#=%=#Ethayarajh
+Author{1}{Email}#=%=#kawin@cs.toronto.edu
+Author{1}{Affiliation}#=%=#University of Toronto
+Author{2}{Firstname}#=%=#Graeme
+Author{2}{Lastname}#=%=#Hirst
+Author{2}{Email}#=%=#gh@cs.toronto.edu
+Author{2}{Affiliation}#=%=#University of Toronto
+
+==========

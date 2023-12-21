@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Detecting Offensive Tweets in Hindi-English Code-Switched Language
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Puneet Mathur
+JobTitle#==#
+Organization#==#Netaji Subhas Institute of Technology (NSIT), Delhi, India
+Abstract#==#The exponential rise of social media websites like Twitter, Facebook and Reddit in linguistically diverse geographical regions has led to hybridization of popular native languages with English in an effort to ease communication. The paper focuses on the classification of offensive tweets written in Hinglish language, which is a portmanteau of the Indic language Hindi with the Roman script. The paper introduces a novel tweet dataset, titled Hindi-English Offensive Tweet (HEOT) dataset, consisting of tweets in Hindi-English code switched language split into three classes: non-offensive, abusive and hate-speech. Further, we approach the problem of classification of the tweets in HEOT dataset using transfer learning wherein the proposed model employing Convolutional Neural Networks is pre-trained on tweets in English followed by retraining on Hinglish tweets.
+Author{1}{Firstname}#=%=#Puneet
+Author{1}{Lastname}#=%=#Mathur
+Author{1}{Email}#=%=#pmathur3k6@gmail.com
+Author{1}{Affiliation}#=%=#Netaji Subhas Institute of Technology
+Author{2}{Firstname}#=%=#Rajiv
+Author{2}{Lastname}#=%=#Shah
+Author{2}{Email}#=%=#rajivratn@iiitd.ac.in
+Author{2}{Affiliation}#=%=#IIIT Delhi
+Author{3}{Firstname}#=%=#Ramit
+Author{3}{Lastname}#=%=#Sawhney
+Author{3}{Email}#=%=#ramits.co@nsit.net.in
+Author{3}{Affiliation}#=%=#Netaji Subhas Institute of Technology, New Delhi, 110078, India
+Author{4}{Firstname}#=%=#Debanjan
+Author{4}{Lastname}#=%=#Mahata
+Author{4}{Email}#=%=#dxmahata@ualr.edu
+Author{4}{Affiliation}#=%=#University of Arkansas at Little Rock (UALR), Arkansas, U.S.A
+
+==========

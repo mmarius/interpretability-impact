@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#EmotionX-JTML: Detecting emotions with Attention
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Johnny Torres
+JobTitle#==#Student
+Organization#==#ESPOL University
+Abstract#==#This paper addresses the problem of automatic recognition of emotions in conversational text datasets for the EmotionX challenge.
+Emotion is a human characteristic expressed through several modalities (e.g., auditory, visual, tactile).
+Trying to detect emotions only from the text becomes a difficult task even for humans.
+This paper evaluates several neural architectures based on Attention Models, which allow extracting relevant parts of the context within a conversation to identify the emotion associated with each utterance.
+Empirical results in the validation datasets demonstrate the effectiveness of the approach compared to the reference models for some instances, and other cases show better results with simpler models.
+Author{1}{Firstname}#=%=#Johnny
+Author{1}{Lastname}#=%=#Torres
+Author{1}{Email}#=%=#johnnytorres83@gmail.com
+Author{1}{Affiliation}#=%=#ESPOL University
+
+==========

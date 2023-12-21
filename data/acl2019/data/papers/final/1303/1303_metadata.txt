@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1303
+FinalPaperTitle#=%=#Automatic Estimation of Simultaneous Interpreter Performance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Craig Stewart
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Simultaneous interpretation, translation of the spoken word in real-time, is
+both highly challenging and physically demanding. Methods to predict
+interpreter confidence and the adequacy of the interpreted message have a
+number of potential applications, such as in computer-assisted interpretation
+interfaces or pedagogical tools. We propose the task of predicting simultaneous
+interpreter performance by building on existing methodology for quality
+estimation (QE) of machine translation output. In experiments over five
+settings in three language pairs, we extend a QE pipeline to estimate
+interpreter performance (as approximated by the METEOR evaluation metric) and
+propose novel features reflecting interpretation strategy and evaluation
+measures that further improve prediction accuracy.
+Author{1}{Firstname}#=%=#Craig
+Author{1}{Lastname}#=%=#Stewart
+Author{1}{Email}#=%=#cas1@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Nikolai
+Author{2}{Lastname}#=%=#Vogler
+Author{2}{Email}#=%=#nikolaiv@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Junjie
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Email}#=%=#junjieh@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Jordan
+Author{4}{Lastname}#=%=#Boyd-Graber
+Author{4}{Email}#=%=#jbg@umiacs.umd.edu
+Author{4}{Affiliation}#=%=#University of Maryland
+Author{5}{Firstname}#=%=#Graham
+Author{5}{Lastname}#=%=#Neubig
+Author{5}{Email}#=%=#gneubig@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

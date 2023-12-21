@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1520
+FinalPaperTitle#=%=#A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Mikhail Khodak
+JobTitle#==#Student
+Organization#==#Princeton University, 35 Olden Street, Princeton, NJ 08540
+Abstract#==#Motivations like domain adaptation, transfer learning, and feature learning have fueled interest in inducing embeddings for rare or unseen words, n-grams, synsets, and other textual features. This paper introduces a la carte embedding, a simple and general alternative to the usual word2vec-based approaches for building such representations that is based upon recent theoretical results for GloVe-like embeddings. Our method relies mainly on a linear transformation that is efficiently learnable using pretrained word vectors and linear regression. This transform is applicable on the fly in the future when a new text feature or rare word is encountered, even if only a single usage example is available. We introduce a new dataset showing how the a la carte method requires fewer examples of words in context to learn high-quality embeddings and we obtain state-of-the-art results on a nonce task and some unsupervised document classification tasks.
+Author{1}{Firstname}#=%=#Mikhail
+Author{1}{Lastname}#=%=#Khodak
+Author{1}{Email}#=%=#mkhodak@princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Nikunj
+Author{2}{Lastname}#=%=#Saunshi
+Author{2}{Email}#=%=#nsaunshi@cs.princeton.edu
+Author{2}{Affiliation}#=%=#Princeton University
+Author{3}{Firstname}#=%=#Yingyu
+Author{3}{Lastname}#=%=#Liang
+Author{3}{Email}#=%=#yliang@cs.wisc.edu
+Author{3}{Affiliation}#=%=#University of Wisconsin - Madison
+Author{4}{Firstname}#=%=#Tengyu
+Author{4}{Lastname}#=%=#Ma
+Author{4}{Email}#=%=#tengyuma@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+Author{5}{Firstname}#=%=#Brandon
+Author{5}{Lastname}#=%=#Stewart
+Author{5}{Email}#=%=#bms4@princeton.edu
+Author{5}{Affiliation}#=%=#Princeton University
+Author{6}{Firstname}#=%=#Sanjeev
+Author{6}{Lastname}#=%=#Arora
+Author{6}{Email}#=%=#arora@cs.princeton.edu
+Author{6}{Affiliation}#=%=#Princeton University
+
+==========

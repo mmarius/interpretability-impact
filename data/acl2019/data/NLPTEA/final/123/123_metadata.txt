@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#123
+FinalPaperTitle#=%=#Chinese Grammatical Error Diagnosis using Statistical and Prior Knowledge driven Features with Probabilistic Ensemble Enhancement
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Ruiji Fu
+JobTitle#==#
+Organization#==#Joint Laboratory of HIT and iFLYTEK, iFLYTEK Research, Beijing, China
+Abstract#==#This paper describes our system at NLPTEA-2018 Task #1: Chinese Grammatical Error Diagnosis. Grammatical Error Diagnosis is one of the most challenging NLP tasks，which is to locate grammar errors and tell error types. Our system is built on the model of bidirectional Long Short-Term Memory with a conditional random field layer (BiLSTM-CRF) but integrates with several new features. First, richer features are considered in the BiLSTM-CRF model; second, a probabilistic ensemble approach is adopted; third, Template Matcher are used during a post-processing to bring in human knowledge. In official evaluation, our system obtains the highest F1 scores at identifying error types and locating error positions, the second highest F1 score at sentence level error detection. We also recommend error corrections for specific error types and achieve the best F1 performance among all participants.
+Author{1}{Firstname}#=%=#Ruiji
+Author{1}{Lastname}#=%=#Fu
+Author{1}{Email}#=%=#rjfu@iflytek.com
+Author{1}{Affiliation}#=%=#iFLYTEK Research
+Author{2}{Firstname}#=%=#Zhengqi
+Author{2}{Lastname}#=%=#Pei
+Author{2}{Email}#=%=#zhengqi.pei@mail.utoronto.ca
+Author{2}{Affiliation}#=%=#University of Toronto
+Author{3}{Firstname}#=%=#Jiefu
+Author{3}{Lastname}#=%=#Gong
+Author{3}{Email}#=%=#jfgong@iflytek.com
+Author{3}{Affiliation}#=%=#iFLYTEK Research
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Song
+Author{4}{Email}#=%=#wsong@cnu.edu.cn
+Author{4}{Affiliation}#=%=#Capital Normal University
+Author{5}{Firstname}#=%=#Dechuan
+Author{5}{Lastname}#=%=#Teng
+Author{5}{Email}#=%=#dcteng@ir.hit.edu.cn
+Author{5}{Affiliation}#=%=#Harbin Institute of Technology
+Author{6}{Firstname}#=%=#Wanxiang
+Author{6}{Lastname}#=%=#Che
+Author{6}{Email}#=%=#wanxiang@gmail.com
+Author{6}{Affiliation}#=%=#Harbin Institute of Technology
+Author{7}{Firstname}#=%=#Shijin
+Author{7}{Lastname}#=%=#Wang
+Author{7}{Email}#=%=#sjwang3@iflytek.com
+Author{7}{Affiliation}#=%=#iFLYTEK Research
+Author{8}{Firstname}#=%=#Guoping
+Author{8}{Lastname}#=%=#Hu
+Author{8}{Email}#=%=#gphu@iflytek.com
+Author{8}{Affiliation}#=%=#iFLYTEK Research
+Author{9}{Firstname}#=%=#Ting
+Author{9}{Lastname}#=%=#Liu
+Author{9}{Email}#=%=#tliu@ir.hit.edu.cn
+Author{9}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1243
+FinalPaperTitle#=%=#Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Prafulla Kumar Choubey
+JobTitle#==#PhD student
+Organization#==#Texas A&M University, College Station, 77840 TX, USA
+Abstract#==#This paper proposes a novel approach for event coreference resolution that models correlations between  event coreference chains and document topical structures through an Integer Linear Programming formulation. We explicitly model correlations between the main event chains of a document with topic transition sentences, inter-coreference chain correlations, event mention distributional characteristics and sub-event structure, and use them with scores obtained from a local coreference relation classifier for jointly resolving multiple event chains in a document. Our experiments across KBP 2016 and 2017 datasets suggest that each of the structures contribute to improving event coreference resolution performance.
+Author{1}{Firstname}#=%=#Prafulla Kumar
+Author{1}{Lastname}#=%=#Choubey
+Author{1}{Email}#=%=#prafulla.choubey@tamu.edu
+Author{1}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+Author{2}{Firstname}#=%=#Ruihong
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangrh@cse.tamu.edu
+Author{2}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+
+==========

@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Investigating Effective Parameters for Fine-tuning of Word Embeddings Using Only a Small Corpus
+ShortPaperTitle#=%=#Investigating Effective Parameters for Fine-tuning of Word Embeddings Using Only a Small Corpus
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Kanako Komiya
+JobTitle#==#
+Organization#==#Ibaraki University
+4-12-1 Nakanarusawa
+Hitachi Ibaraki 316-8511 Japan
+Abstract#==#Fine-tuning is a popular method to achieve better performance when only a small target corpus is available. However, it requires tuning of a number of metaparameters and thus it might carry risk of adverse effect when inappropriate metaparameters are used. Therefore, we investigate effective parameters for fine-tuning when only a small target corpus is available. In the current study, we target at improving Japanese word embeddings created from a huge corpus. First, we demonstrate that even the word embeddings created from the huge corpus are affected by domain shift. After that, we investigate effective parameters for fine-tuning of the word embeddings using a small target corpus. We used perplexity of a language model obtained from a Long Short-Term Memory network to assess the word embeddings input into the network. The experiments revealed that fine-tuning sometimes give adverse effect when only a small target corpus is used and batch size is the most important parameter for fine-tuning. In addition, we confirmed that effect of fine-tuning is higher when size of a target corpus was larger.
+Author{1}{Firstname}#=%=#Kanako
+Author{1}{Lastname}#=%=#Komiya
+Author{1}{Email}#=%=#kkomiya@mx.ibaraki.ac.jp
+Author{1}{Affiliation}#=%=#Ibaraki University
+Author{2}{Firstname}#=%=#Hiroyuki
+Author{2}{Lastname}#=%=#Shinnou
+Author{2}{Email}#=%=#hiroyuki.shinnou.0828@vc.ibaraki.ac.jp
+Author{2}{Affiliation}#=%=#Ibaraki University
+
+==========

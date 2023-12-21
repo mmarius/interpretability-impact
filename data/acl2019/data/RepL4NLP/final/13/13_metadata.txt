@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Quantum-Inspired Complex Word Embedding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Qiuchi Li
+JobTitle#==#
+Organization#==#University of Padova
+Abstract#==#A challenging task for word embeddings is to capture the emergent meaning or polarity of a combination of individual words. For example, existing approaches in word embeddings will assign high probabilities to the words "Penguin" and "Fly" if they frequently co-occur, but it fails to capture the fact that they occur in an opposite sense - Penguins do not fly. We hypothesize that humans do not associate a single polarity or sentiment to each word. The word contributes to the overall polarity of a combination of words depending upon which other words it is combined with. This is analogous to the behavior of microscopic particles which exist in all possible states at the same time and interfere with each other to give rise to new states depending upon their relative phases. We make use of the Hilbert Space representation of such particles in Quantum Mechanics where we subscribe a relative phase to each word, which is a complex number, and investigate two such quantum inspired models to derive the meaning of a combination of words. The proposed models achieve better performances than state-of-the-art non-quantum models on binary sentence classification tasks.
+Author{1}{Firstname}#=%=#Qiuchi
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#qiuchi.li@studenti.unipd.it
+Author{1}{Affiliation}#=%=#University of Padova
+Author{2}{Firstname}#=%=#Sagar
+Author{2}{Lastname}#=%=#Uprety
+Author{2}{Email}#=%=#sagar.uprety@open.ac.uk
+Author{2}{Affiliation}#=%=#Open University
+Author{3}{Firstname}#=%=#Benyou
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wabyking@163.com
+Author{3}{Affiliation}#=%=#University of Padova
+Author{4}{Firstname}#=%=#Dawei
+Author{4}{Lastname}#=%=#Song
+Author{4}{Email}#=%=#dawei.song@open.ac.uk
+Author{4}{Affiliation}#=%=#Open University
+
+==========

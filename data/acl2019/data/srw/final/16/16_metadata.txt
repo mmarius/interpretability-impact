@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Learning-based Composite Metrics for Improved Caption Evaluation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Naeha Sharif
+JobTitle#==#
+Organization#==#The University of Western Australia
+Abstract#==#The evaluation of image caption quality is a challenging task, which requires the assessment of two main aspects in a caption: adequacy and fluency. These quality aspects can be judged using a combination of several linguistic features. However, most of the current image captioning metrics focus only on specific linguistic facets, such as the lexical or semantic, and fail to meet a satisfactory level of correlation with human judgements at the sentence-level. We propose a learning-based framework to incorporate the scores of a set of lexical and semantic metrics as features, to capture the adequacy and fluency of captions at different linguistic levels. Our experimental results demonstrate that composite metrics draw upon the strengths of stand-alone measures to yield improved correlation and accuracy.
+Author{1}{Firstname}#=%=#Naeha
+Author{1}{Lastname}#=%=#Sharif
+Author{1}{Email}#=%=#22161668@student.uwa.edu.au
+Author{1}{Affiliation}#=%=#University of Western Australia
+Author{2}{Firstname}#=%=#Lyndon
+Author{2}{Lastname}#=%=#White
+Author{2}{Email}#=%=#lyndon.white@research.uwa.edu.au
+Author{2}{Affiliation}#=%=#University of Western Australia
+Author{3}{Firstname}#=%=#Mohammed
+Author{3}{Lastname}#=%=#Bennamoun
+Author{3}{Email}#=%=#mohammed.bennamoun@uwa.edu.au
+Author{3}{Affiliation}#=%=#Univeristy of Western Australia
+Author{4}{Firstname}#=%=#Syed Afaq
+Author{4}{Lastname}#=%=#Ali Shah
+Author{4}{Email}#=%=#afaq.shah@uwa.edu.au
+Author{4}{Affiliation}#=%=#University of Western Australia
+
+==========

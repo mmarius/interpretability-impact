@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#GHHT at CALCS 2018: Named Entity Recognition for Dialectal Arabic Using Neural Networks
+ShortPaperTitle#=%=#GHHT at CALCS 2018: Named Entity Recognition for Dialectal Arabic Using Neural Networks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wolfgang Maier
+JobTitle#==#
+Organization#==#Independent Researcher, Paul-Lechler-Str. 14, 72076 Tübingen, Germany.
+Abstract#==#This paper describes our system submission to the CALCS 2018 shared task on named entity recognition on code-switched data for the language variant pair of Modern Standard Arabic and Egyptian dialectal Arabic. We build a a Deep Neural Network that combines word and character-based representations in convolutional and recurrent networks with a CRF layer. The model is augmented with stacked layers of enriched information such pre-trained embeddings, Brown clusters and named entity gazetteers. Our system is ranked second among those participating in the shared task achieving an FB1 average of 70.09%.
+Author{1}{Firstname}#=%=#Mohammed
+Author{1}{Lastname}#=%=#Attia
+Author{1}{Email}#=%=#attia@google.com
+Author{1}{Affiliation}#=%=#Google Inc.
+Author{2}{Firstname}#=%=#Younes
+Author{2}{Lastname}#=%=#Samih
+Author{2}{Email}#=%=#samih@phil.hhu.de
+Author{2}{Affiliation}#=%=#University of Düsseldorf
+Author{3}{Firstname}#=%=#Wolfgang
+Author{3}{Lastname}#=%=#Maier
+Author{3}{Email}#=%=#wolfgang.maier@gmail.com
+Author{3}{Affiliation}#=%=#Independent Researcher
+
+==========

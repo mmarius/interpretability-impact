@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Sub-word information in pre-trained biomedical word representations: evaluation and hyper-parameter optimization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dieter Galea
+JobTitle#==#
+Organization#==#Imperial College London, Kensington, London SW7 2AZ
+Abstract#==#Word2vec embeddings are limited to computing vectors for in-vocabulary terms and do not take into account sub-word information. Character-based representations, such as fastText, mitigate such limitations. We optimize and compare these representations for the biomedical domain. fastText was found to consistently outperform word2vec in named entity recognition tasks for entities such as chemicals and genes. This is likely due to gained information from computed out-of-vocabulary term vectors, as well as the word compositionality of such entities. Contrastingly, performance varied on intrinsic datasets. Optimal hyper-parameters were intrinsic dataset-dependent, likely due to differences in term types distributions. This indicates embeddings should be chosen based on the task at hand. We therefore provide a number of optimized hyper-parameter sets and pre-trained word2vec and fastText models, available on https://github.com/dterg/bionlp-embed.
+Author{1}{Firstname}#=%=#Dieter
+Author{1}{Lastname}#=%=#Galea
+Author{1}{Email}#=%=#d.galea14@imperial.ac.uk
+Author{1}{Affiliation}#=%=#Imperial College London
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Laponogov
+Author{2}{Email}#=%=#i.laponogov@imperial.ac.uk
+Author{2}{Affiliation}#=%=#Imperial College London
+Author{3}{Firstname}#=%=#Kirill
+Author{3}{Lastname}#=%=#Veselkov
+Author{3}{Email}#=%=#kirill.veselkov04@imperial.ac.uk
+Author{3}{Affiliation}#=%=#Imperial College London
+
+==========

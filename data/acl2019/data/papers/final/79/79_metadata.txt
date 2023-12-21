@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#79
+FinalPaperTitle#=%=#Triangular Architecture for Rare Language Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shuo Ren
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural Machine Translation (NMT) performs poor on the low-resource language
+pair (X,Z), especially when Z is a rare language. By introducing another rich
+language Y, we propose a novel triangular training architecture (TA-NMT) to
+leverage bilingual data (Y,Z) (may be small) and (X,Y) (can be rich) to improve
+the translation performance of low-resource pairs. In this triangular
+architecture, Z is taken as the intermediate latent variable, and translation
+models of Z are jointly optimized with an unified bidirectional EM algorithm
+under the goal of maximizing the translation likelihood of (X,Y). Empirical
+results demonstrate that our method significantly improves the translation
+quality of rare languages on MultiUN and IWSLT2012 datasets, and achieves even
+better performance combining back-translation methods.
+Author{1}{Firstname}#=%=#Shuo
+Author{1}{Lastname}#=%=#Ren
+Author{1}{Email}#=%=#shuoren@buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Wenhu
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#wenhuchen@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#UCSB
+Author{3}{Firstname}#=%=#Shujie
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#shujliu@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Asia, Beijing, China
+Author{4}{Firstname}#=%=#Mu
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#muli@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#mingzhou@microsoft.com
+Author{5}{Affiliation}#=%=#microsoft research asia
+Author{6}{Firstname}#=%=#Shuai
+Author{6}{Lastname}#=%=#Ma
+Author{6}{Email}#=%=#mashuai@buaa.edu.cn
+Author{6}{Affiliation}#=%=#Beihang University
+
+==========

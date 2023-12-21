@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#114
+FinalPaperTitle#=%=#A Short Answer Grading System in Chinese by Support Vector Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we report a short answer grading system in Chinese. We build a system based on standard machine learning approaches and test it with translated corpus from two publicly available corpus in English. The experiment results show similar results on two different corpus as in English.
+Author{1}{Firstname}#=%=#Shih-Hung
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#shwu@cyut.edu.tw
+Author{1}{Affiliation}#=%=#Chaoyang University of Technology
+Author{2}{Firstname}#=%=#Wen-Feng
+Author{2}{Lastname}#=%=#Shih
+Author{2}{Email}#=%=#wu0fu491@gmail.com
+Author{2}{Affiliation}#=%=#Chaoyang University of Technology
+
+==========

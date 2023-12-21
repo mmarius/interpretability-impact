@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1626
+FinalPaperTitle#=%=#Give Me More Feedback: Annotating Argument Persuasiveness and Related Attributes in Student Essays
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Vincent Ng
+JobTitle#==#
+Organization#==#The University of Texas at Dallas 800 W. Campbell Rd., MS EC31 Richardson, TX 75080, USA
+Abstract#==#While argument persuasiveness is one of the most important dimensions of argumentative essay quality, it is relatively little studied in automated essay scoring research. Progress on scoring argument persuasiveness is hindered in part by the scarcity of annotated corpora. We present the first corpus of essays that are simultaneously annotated with argument components, argument persuasiveness scores, and attributes of argument components that impact an argument's persuasiveness. This corpus could trigger the development of novel computational models concerning argument persuasiveness that provide useful feedback to students on why their arguments are (un)persuasive in addition to how persuasive they are.
+Author{1}{Firstname}#=%=#Winston
+Author{1}{Lastname}#=%=#Carlile
+Author{1}{Email}#=%=#winston.carlile@gmail.com
+Author{1}{Affiliation}#=%=#University of Texas at Dallas
+Author{2}{Firstname}#=%=#Nishant
+Author{2}{Lastname}#=%=#Gurrapadi
+Author{2}{Email}#=%=#Nishant.Gurrapadi@utdallas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Dallas
+Author{3}{Firstname}#=%=#Zixuan
+Author{3}{Lastname}#=%=#Ke
+Author{3}{Email}#=%=#Zixuan.ke@utdallas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Dallas
+Author{4}{Firstname}#=%=#Vincent
+Author{4}{Lastname}#=%=#Ng
+Author{4}{Email}#=%=#vince@hlt.utdallas.edu
+Author{4}{Affiliation}#=%=#University of Texas at Dallas
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Sampling Informative Training Data for RNN Language Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jared Fernandez
+JobTitle#==#
+Organization#==#Northwestern University
+Abstract#==#We propose an unsupervised importance sampling approach to selecting training data for recurrent neural network (RNNs) language models. To increase the information content of the training set, our approach preferentially samples high perplexity sentences, as determined by an easily queryable n-gram language model. We experimentally evaluate the heldout perplexity of models trained with our various importance sampling distributions. We show that language models trained on data sampled using our proposed approach outperform models trained over randomly sampled subsets of both the Billion Word (Chelba et al., 2014 Wikitext-103 benchmark corpora (Merity et al., 2016).
+Author{1}{Firstname}#=%=#Jared
+Author{1}{Lastname}#=%=#Fernandez
+Author{1}{Email}#=%=#jared.fern@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Firstname}#=%=#Doug
+Author{2}{Lastname}#=%=#Downey
+Author{2}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{2}{Affiliation}#=%=#Northwestern University
+
+==========

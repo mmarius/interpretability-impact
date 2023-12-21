@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Named Entity Recognition for Hindi-English Code-Mixed Social Media Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Vinay Singh
+JobTitle#==#
+Organization#==#IIIT-Hyderabad, Hyderabad,Telangana, India
+Abstract#==#Named Entity Recognition (NER) is a major task in the field of Natural Language Processing (NLP), and also is a sub-task of Information Extraction. 
+
+The challenge of NER for tweets lie in the insufficient information available in a tweet. There has been a significant amount of work done related to entity extraction, but only for resource rich languages and domains such as newswire. 
+
+Entity extraction is, in general, a challenging task for such an informal text, and code-mixed text further complicates the process with it's unstructured and incomplete information. 
+We propose experiments with different machine learning classification algorithms with word, character and lexical features. The algorithms we experimented with are Decision tree, Long Short-Term Memory (LSTM), and Conditional Random Field (CRF). In this paper, we present a corpus for NER in Hindi-English Code-Mixed along with extensive experiments on our machine learning models which achieved the best f1-score of 0.95 with both CRF and LSTM.
+Author{1}{Firstname}#=%=#Vinay
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Email}#=%=#csvinay.d@gmail.com
+Author{1}{Affiliation}#=%=#IIIT-Hyderabad
+Author{2}{Firstname}#=%=#Deepanshu
+Author{2}{Lastname}#=%=#Vijay
+Author{2}{Email}#=%=#deepanshuvijay01995@gmail.com
+Author{2}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+Author{3}{Firstname}#=%=#Syed Sarfaraz
+Author{3}{Lastname}#=%=#Akhtar
+Author{3}{Email}#=%=#syedsarfarazakhtar@gmail.com
+Author{3}{Affiliation}#=%=#International Institute of Information Technology - Hyderabad
+Author{4}{Firstname}#=%=#Manish
+Author{4}{Lastname}#=%=#Shrivastava
+Author{4}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{4}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#NLP Web Services for Resource-Scarce Languages
+ShortPaperTitle#=%=#NLP Web Services for Resource-Scarce Languages
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#MJ Puttkammer
+JobTitle#==#
+Organization#==#North-West University
+11 Hoffman st
+Potchefstroom
+South Africa
+2531
+Abstract#==#In this paper, we present a project where existing text-based core technologies were ported to Java-based web services from various architectures. These technologies were developed over a period of eight years through various government funded projects for 10 resource-scarce languages spoken in South Africa. We describe the API and a simple web front-end capable of completing various predefined tasks.
+Author{1}{Firstname}#=%=#Martin
+Author{1}{Lastname}#=%=#Puttkammer
+Author{1}{Email}#=%=#martin.puttkammer@nwu.ac.za
+Author{1}{Affiliation}#=%=#Centre for Text Technology (North-West University)
+Author{2}{Firstname}#=%=#Roald
+Author{2}{Lastname}#=%=#Eiselen
+Author{2}{Email}#=%=#roald.eiselen@nwu.ac.za
+Author{2}{Affiliation}#=%=#South African Centre for Digital Language Resources (SADiLaR)
+Author{3}{Firstname}#=%=#Justin
+Author{3}{Lastname}#=%=#Hocking
+Author{3}{Email}#=%=#Justin.Hocking@nwu.ac.za
+Author{3}{Affiliation}#=%=#Centre for Text Technology (North-West University)
+Author{4}{Firstname}#=%=#Frederik
+Author{4}{Lastname}#=%=#Koen
+Author{4}{Email}#=%=#Frederik.Koen@nwu.ac.za
+Author{4}{Affiliation}#=%=#Centre for Text Technology (North-West University)
+
+==========

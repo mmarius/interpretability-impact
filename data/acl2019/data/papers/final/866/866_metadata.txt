@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#866
+FinalPaperTitle#=%=#Visual Attention Model for Name Tagging in Multimodal Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Di Lu
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute, Troy, NY, USA 12180
+Abstract#==#Everyday billions of multimodal posts containing both images and text are
+shared in social media sites such as Snapchat, Twitter or Instagram. This
+combination of image and text in a single message allows for more creative and
+expressive forms of communication, and has become increasingly common in such
+sites. This new paradigm brings new challenges for natural language
+understanding, as the textual component tends to be shorter, more informal, and
+often is only understood if combined with the visual context. In this paper, we
+explore the task of name tagging in multimodal social media posts. We start by
+creating two new multimodal datasets: the first based on Twitter posts and the
+second based on Snapchat captions (exclusively submitted to public and
+crowd-sourced stories). We then propose a novel model architecture based on
+Visual Attention that not only provides deeper visual understanding on the
+decisions of the model, but also significantly outperforms other
+state-of-the-art baseline methods for this task.
+Author{1}{Firstname}#=%=#Di
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Email}#=%=#lud2@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Leonardo
+Author{2}{Lastname}#=%=#Neves
+Author{2}{Email}#=%=#lneves@snapchat.com
+Author{2}{Affiliation}#=%=#Snapchat Research
+Author{3}{Firstname}#=%=#Vitor
+Author{3}{Lastname}#=%=#Carvalho
+Author{3}{Email}#=%=#vitordecarvalho@gmail.com
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Ning
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#ning.zhang@snap.com
+Author{4}{Affiliation}#=%=#Snapchat Research
+Author{5}{Firstname}#=%=#Heng
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Email}#=%=#jih@rpi.edu
+Author{5}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

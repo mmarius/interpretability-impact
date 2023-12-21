@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1470
+FinalPaperTitle#=%=#Injecting Relational Structural Representation in Neural Networks for Question Similarity
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Daniele Bonadiman
+JobTitle#==#
+Organization#==#DISI - University of Trento, Via Sommarive, 9, 38123 Povo, Trento TN, Italy
+Abstract#==#Effectively using full syntactic parsing information in Neural Networks (NNs)
+for solving relational tasks, e.g., question similarity, is still an open
+problem. In this paper, we propose to inject structural representations in NNs
+by (i) learning a model with Tree Kernels (TKs) on relatively few pairs of
+questions (few thousands) as gold standard (GS) training data is typically
+scarce, (ii) predicting labels on a very large corpus of question pairs, and
+(iii)  pre-training NNs on such large corpus. The results on Quora and SemEval
+question similarity datasets show that NNs using our approach can learn more
+accurate models, especially after fine tuning on  GS.
+Author{1}{Firstname}#=%=#Antonio
+Author{1}{Lastname}#=%=#Uva
+Author{1}{Email}#=%=#auva87@gmail.com
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Daniele
+Author{2}{Lastname}#=%=#Bonadiman
+Author{2}{Email}#=%=#bonadiman.daniele@gmail.com
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Alessandro
+Author{3}{Lastname}#=%=#Moschitti
+Author{3}{Email}#=%=#amoschitti@gmail.com
+Author{3}{Affiliation}#=%=#Amazon
+
+==========

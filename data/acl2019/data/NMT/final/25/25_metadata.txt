@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Towards one-shot learning for rare-word translation with external experts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural machine translation (NMT) has significantly improved the quality of automatic translation models. One of the main challenges in current systems is the translation of rare words. 
+
+We present a generic approach to address this weakness by having external models annotate the training data as Experts, and control the model-expert interaction with a pointer network and reinforcement learning. Our experiments using phrase-based models to simulate Experts to complement neural machine translation models show that the model can be trained to copy the annotations into the output consistently. We demonstrate the benefit of our proposed framework in outof domain translation scenarios with only lexical resources, improving more than 1.0 BLEU point in both translation directions English-Spanish and German-English.
+Author{1}{Firstname}#=%=#Ngoc-Quan
+Author{1}{Lastname}#=%=#Pham
+Author{1}{Email}#=%=#ngoc.pham@kit.edu
+Author{1}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Lastname}#=%=#Niehues
+Author{2}{Email}#=%=#jan.niehues@kit.edu
+Author{2}{Affiliation}#=%=#Karlsruhe Institute of Technology
+Author{3}{Firstname}#=%=#Alexander
+Author{3}{Lastname}#=%=#Waibel
+Author{3}{Email}#=%=#waibel@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon
+
+==========

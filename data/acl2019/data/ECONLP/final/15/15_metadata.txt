@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Implicit and Explicit Aspect Extraction in Financial Microblogs
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Thomas Gaillat
+JobTitle#==#Postdoctoral Researcher
+Organization#==#Insight Centre for Data Analytics, NUI Galway, Ireland
+Abstract#==#This paper focuses on aspect extraction which is a sub-task of Aspect-based Sentiment Analysis. The goal is to report an extraction method of financial aspects in microblog messages. Our approach uses a stock-investment taxonomy for the identification of explicit and implicit aspects. We compare supervised and unsupervised methods to assign predefined categories at message level. Results on 7 aspect classes show 0.71 accuracy, while the 32 class classification gives 0.82 accuracy for messages containing explicit aspects and 0.35 for implicit aspects.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Gaillat
+Author{1}{Email}#=%=#thomas.gaillat@insight-centre.org
+Author{1}{Affiliation}#=%=#Insight Centre for Data analytics NUI Galway
+Author{2}{Firstname}#=%=#Bernardo
+Author{2}{Lastname}#=%=#Stearns
+Author{2}{Email}#=%=#bernardo.stearn@insight-centre.org
+Author{2}{Affiliation}#=%=#Insight NUI Galway
+Author{3}{Firstname}#=%=#Gopal
+Author{3}{Lastname}#=%=#Sridhar
+Author{3}{Email}#=%=#gopal.sridhar@insight-centre.org
+Author{3}{Affiliation}#=%=#Insight NUI Galway
+Author{4}{Firstname}#=%=#Ross
+Author{4}{Lastname}#=%=#McDermott
+Author{4}{Email}#=%=#ross.mcdermott@insight-centre.org
+Author{4}{Affiliation}#=%=#Insight NUI Galway
+Author{5}{Firstname}#=%=#Manel
+Author{5}{Lastname}#=%=#Zarrouk
+Author{5}{Email}#=%=#manel.zarrouk@insight-centre.org
+Author{5}{Affiliation}#=%=#INSIGHT
+Author{6}{Firstname}#=%=#Brian
+Author{6}{Lastname}#=%=#Davis
+Author{6}{Email}#=%=#brian.davis@insight-centre.org
+Author{6}{Affiliation}#=%=#Maynooth University
+
+==========

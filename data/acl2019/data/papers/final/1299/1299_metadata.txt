@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1299
+FinalPaperTitle#=%=#Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Daniel Fried
+JobTitle#==#
+Organization#==#UC Berkeley
+Abstract#==#Dynamic oracles provide strong supervision for training constituency parsers with exploration, but must be custom defined for a given parser's transition system. We explore using a policy gradient method as a parser-agnostic alternative. In addition to directly optimizing for a tree-level metric such as F1, policy gradient has the potential to reduce exposure bias by allowing exploration during training; moreover, it does not require a dynamic oracle for supervision. On four constituency parsers in three languages, the method substantially outperforms static oracle likelihood training in almost all settings. For parsers where a dynamic oracle is available (including a novel oracle which we define for the transition system of Dyer et al., 2016), policy gradient typically recaptures a substantial fraction of the performance gain afforded by the dynamic oracle.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Fried
+Author{1}{Email}#=%=#dfried@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#Dan
+Author{2}{Lastname}#=%=#Klein
+Author{2}{Email}#=%=#klein@cs.berkeley.edu
+Author{2}{Affiliation}#=%=#UC Berkeley
+
+==========

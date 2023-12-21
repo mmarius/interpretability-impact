@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#723
+FinalPaperTitle#=%=#Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Carolin Lawrence
+JobTitle#==#
+Organization#==#Heidelberg University
+Abstract#==#Counterfactual learning from human bandit feedback describes a scenario where
+user feedback on the quality of outputs of a historic system is logged and used
+to improve a target system. We show how to apply this learning framework to
+neural semantic parsing. From a machine learning perspective, the key challenge
+lies in a proper reweighting of the estimator so as to avoid known degeneracies
+in counterfactual learning, while still being applicable to stochastic gradient
+optimization. To conduct experiments with human users, we devise an easy-to-use
+interface to collect human feedback on semantic parses. Our work is the first
+to show that semantic parsers can be improved significantly by counterfactual
+learning from logged human feedback data.
+Author{1}{Firstname}#=%=#Carolin
+Author{1}{Lastname}#=%=#Lawrence
+Author{1}{Email}#=%=#haas1@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Heidelberg University
+Author{2}{Firstname}#=%=#Stefan
+Author{2}{Lastname}#=%=#Riezler
+Author{2}{Email}#=%=#riezler@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg University
+
+==========

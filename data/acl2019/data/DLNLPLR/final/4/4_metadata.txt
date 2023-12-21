@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Multi-Task Active Learning for Neural Semantic Role Labeling on Low Resource Conversational Corpus
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Fariz Ikhwantri
+JobTitle#==#
+Organization#==#Kata.ai / PT. YesBoss Group Indonesia Graha Tirtadi Jln. Pangeran Antasari 18A Jakarta 12410, Indonesia
+Abstract#==#Most Semantic Role Labeling (SRL) approaches are supervised methods which require a significant amount of annotated corpus, and the annotation requires linguistic expertise. In this paper, we propose a Multi-Task Active Learning framework for Semantic Role Labeling with Entity Recognition (ER) as the auxiliary task to alleviate the need for extensive data and use additional information from ER to help SRL. We evaluate our approach on Indonesian conversational dataset. Our experiments show that multi-task active learning can outperform single-task active learning method and standard multi-task learning. According to our results, active learning is more efficient by using 12% less of training data compared to passive learning in both single-task and multi-task setting. We also introduce a new dataset for SRL in Indonesian conversational domain to encourage further research in this area.
+Author{1}{Firstname}#=%=#Fariz
+Author{1}{Lastname}#=%=#Ikhwantri
+Author{1}{Email}#=%=#fariz@kata.ai
+Author{1}{Affiliation}#=%=#Kata.ai
+Author{2}{Firstname}#=%=#Samuel
+Author{2}{Lastname}#=%=#Louvan
+Author{2}{Email}#=%=#slouvan@cs.stonybrook.edu
+Author{2}{Affiliation}#=%=#Stony Brook University
+Author{3}{Firstname}#=%=#Kemal
+Author{3}{Lastname}#=%=#Kurniawan
+Author{3}{Email}#=%=#kemal@kata.ai
+Author{3}{Affiliation}#=%=#Kata.ai
+Author{4}{Firstname}#=%=#Bagas
+Author{4}{Lastname}#=%=#Abisena
+Author{4}{Email}#=%=#bagas@kata.ai
+Author{4}{Affiliation}#=%=#Kata.ai
+Author{5}{Firstname}#=%=#Valdi
+Author{5}{Lastname}#=%=#Rachman
+Author{5}{Email}#=%=#valdi.rachman@gmail.com
+Author{5}{Affiliation}#=%=#Universitas Indonesia
+Author{6}{Firstname}#=%=#Alfan Farizki
+Author{6}{Lastname}#=%=#Wicaksono
+Author{6}{Email}#=%=#alfan.farizki@kaist.ac.kr
+Author{6}{Affiliation}#=%=#KAIST
+Author{7}{Firstname}#=%=#Rahmad
+Author{7}{Lastname}#=%=#Mahendra
+Author{7}{Email}#=%=#rahmad.mahendra@cs.ui.ac.id
+Author{7}{Affiliation}#=%=#Universitas Indonesia
+
+==========

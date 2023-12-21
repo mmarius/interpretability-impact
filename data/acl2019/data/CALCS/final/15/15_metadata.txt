@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Automatic Detection of Code-switching Style from Acoustics
+ShortPaperTitle#=%=#Automatic Detection of Code-switching Style from Acoustics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sai Krishna
+JobTitle#==#
+Organization#==#Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA - 15213
+United States of America
+Abstract#==#Multilingual speakers switch between languages in an non-trivial fashion displaying inter sentential, intra sentential, and congruent lexicalization based transitions. While monolingual ASR systems may be capable of recognizing a few words from a foreign language, they are usually not robust enough to handle these varied styles of code-switching. There is also a lack of large code-switched speech corpora capturing all these styles making it difficult to build code-switched speech recognition systems. We hypothesize that it may be useful for an ASR system to be able to first detect the switching style of a particular utterance from acoustics, and then use specialized language models or other adaptation techniques for decoding the speech. In this paper, we look at the first problem of detecting code-switching style from acoustics. We classify code-switched Spanish-English and Hindi-English corpora using two metrics and show that features extracted from acoustics alone can distinguish between different kinds of code-switching in these language pairs.
+Author{1}{Firstname}#=%=#SaiKrishna
+Author{1}{Lastname}#=%=#Rallabandi
+Author{1}{Email}#=%=#srallaba@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Sunayana
+Author{2}{Lastname}#=%=#Sitaram
+Author{2}{Email}#=%=#sunayana.sitaram@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research India
+Author{3}{Firstname}#=%=#Alan W.
+Author{3}{Lastname}#=%=#Black
+Author{3}{Email}#=%=#awb@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

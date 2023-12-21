@@ -1,0 +1,164 @@
+
+
+\documentclass[11pt,a4paper]{article}
+\usepackage{authblk}
+\usepackage[hyperref]{acl2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{listings, multicol}
+
+%%code
+\lstset{language=Python, basicstyle=\ttfamily\footnotesize}
+\begin{filecontents*}{override.py}
+def create_model(embeddings, labels, **kwargs):
+        return MyModel.create(embeddings, labels, **kwargs)
+
+def load_model(modelname, **kwargs):
+        return MyModel.load(modelname, **kwargs)
+
+\end{filecontents*}
+%%
+
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\aclpaperid{***} % Enter the acl Paper ID here
+
+\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Baseline: A Library for Rapid Modeling, Experimentation and Development of Deep Learning Algorithms targeting NLP} 
+
+\author[]{Daniel Pressel}
+\author[]{Sagnik Ray Choudhury}
+\author[]{Brian Lester}
+\author[]{Yanjie Zhao}
+\author[]{Matt Barta}
+\affil[]{Interactions Digital Roots}
+\affil[]{\{dpressel, schoudhury, blester, yzhao, mbarta\}@interactions.com}
+
+\renewcommand\Authands{ and }
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+ We introduce Baseline: a library for reproducible deep learning research and fast model development for NLP. The library provides easily extensible abstractions and implementations for data loading, model development, training and export of deep learning architectures. It also provides implementations for simple, high-performance, deep learning models for various NLP tasks, against which newly developed models can be compared. Deep learning experiments are hard to reproduce, Baseline provides functionalities to track them. The goal is to allow a researcher to focus on model development, delegating the repetitive tasks to the library.
+\end{abstract}
+
+
+\section{Introduction}
+\label{sec:intro}
+ 
+Deep Neural Network models (DNNs) now dominate the NLP literature. However, the immense progress comes with some issues. Often the research is not reproducible. Sometimes the code is not open source. Other times, available implementations fail to match the reported performance. When training DNNs, even simple baselines can take a lot of time and resources to reach peak performance \cite{Melis2017OnTS:17}. Additionally, a simple, canonical way to evaluate new models is lacking. Institutional pressures exist to show large relative gains in papers \cite{Armstrong2009RelativeSI:09}. As a result, new models are often compared with weak baselines.
+
+When software is provided, it is common for authors to provide the source code as a stand-alone application. These projects include data processing, data cleaning, model training, and evaluation code, yielding an error-prone and time-consuming development process. A complete library should be used to automate the mundane portions of development, allowing a researcher to focus on model improvements. Also, it should be easy to compare the results of a new model across various hyper-parameter configurations and strong baselines.
+
+%describe baseline
+To solve these problems, we have developed \textbf{Baseline}\footnote{\url{https://github.com/dpressel/baseline}}. It has three components. 
+
+\textbf{Core}: An object-oriented Python library for rapid development of deep learning algorithms. Core provides extensible base classes for common components in a deep learning architecture (data loading, model development, training, evaluation, and export) in TensorFlow and PyTorch, with experimental support for DyNet. In addition, it provides strong, deep learning baselines for four fundamental NLP tasks -- Classification, Sequence Tagging, Sequence-to-Sequence Encoder-Decoders and Language Modeling. Many NLP problems can be seen as variants of these tasks. For example, Part of Speech (POS) Tagging, Named Entity Recognition (NER) and Slot-filling are all Sequence Tagging tasks, Neural Machine Translation (NMT) is typically modeled as an Encoder-Decoder task. An end-user can easily implement a new model and delegate the rest to the library.
+
+\textbf{MEAD}: A library built on Core for fast Modeling, Experimentation And Development. MEAD contains driver programs to run experiments from JSON or YAML configuration files to completely control the reader, trainer, model, and hyper-parameters. 
+  
+\textbf{XPCTL}: A command-line interface to track experimental results and provide access to a global leaderboard. After running an experiment through MEAD, the results and the logs are committed to a database. Several commands are provided to show the best experimental results under various constraints. 
+
+The workflow for developing a deep learning model using Baseline is simple: 1.~~Map the problem to one of the existing tasks using a $<$task, dataset$>$ tuple, eg., NER on CoNLL 2003 dataset is a $<$tagger task, conll$>$ 2.~Use the existing implementations in \textbf{Core} or extend the base model class to create a new architecture; 3.~Define a configuration file in \textbf{MEAD} and run an experiment. 4.~Use \textbf{XPCTL} to compare the result with the previous experiments, commit the results to the leaderboard database and the model files to a persistent storage if desired.
+
+Additionally, the base models provided by the library can be exported from saved checkpoints directly into TensorFlow Serving\footnote{\url{https://www.tensorflow.org/serving/}} for deployment in a production environment. the framework can be run within a Docker container to reduce the installation complexity and to isolate experiment configurations and variants. It is open-sourced, actively maintained by a team of core developers and accepts public contributions. While some components from the library can be used for generic machine learning and computer vision tasks, the primary focus of Baseline is NLP: currently the data loaders, models and evaluation codes are provided for NLP tasks only.    
+
+\section{Related Work}
+\label{sec:relatedwork}
+
+%AllenNLP, Factorie, CodaLab
+Baseline is not a general toolkit for deep learning \cite{Bergstra2011TheanoAC:11, Abadi2016TensorFlowAS:16, chen2015mxnet:15, Neubig2017DyNetTD:17, Paszke2017AutomaticDI:17}. Rather, it \textit{builds on} TensorFlow \cite{Abadi2016TensorFlowAS:16}, PyTorch \cite{Paszke2017AutomaticDI:17} and DyNet \cite{DBLP:journals/corr/NeubigDGMAABCCC17:17}. Any model used in Baseline will be written in one of the supported, underlying frameworks. Popular NLP libraries such as Stanford CoreNLP \cite{Manning2014TheSC:14} or nltk \cite{Loper:2002:NNL:1118108.1118117:02} provide abstractions and implementations for different algorithms in a complete NLP architecture: from basic (tokenization) to advanced (semantic parsing) tasks. Baseline serves a complimentary purpose: the models developed here can be used in these architectures. 
+
+To the best of our knowledge, two other software efforts have similar goals: AllenNLP \cite{Gardner2017AllenNLPAD:17} and CodaLab \footnote{\url{http://codalab.org/}}. AllenNLP is most similar to our work: like Baseline, it provides data and method APIs for common NLP problems and a modular and extensible experimentation framework. The key abstractions of AllenNLP are focused on data representation and conversion. This makes the model development easy for semantic understanding tasks. In Baseline, the key abstraction is an NLP ``task'', making it very generic. Both Baseline and AllenNLP allow running experiments from JSON configuration files, but AllenNLP currently does not provide utilities to store these configurations or results in a database in order to ``track" an experiment (section \ref{sec:meadxpctl}). AllenNLP is built on PyTorch, where Baseline supports PyTorch, TensorFlow and DyNet and has a flexible design to support other frameworks over time. The development of Baseline initially began in early 2016, prior to the development of AllenNLP, and the libraries have been developed in parallel. The idea of reproducible experimentation for machine learning was introduced by CodaLab, but it does not provide abstractions and baseline implementations specific to deep learning or NLP, nor does it provide an extensible architecture with reusable components for building and exploring new deep learning models.  
+
+
+\section{Baseline: Core}
+\label{sec:baseline}
+
+The top-level module provides base classes for data loading and evaluation. The data loader reads common file formats for classification, CONLL-formatted IOB files for sequence tagging, TSV and standard parallel corpora files for Neural Machine Translation and text files for language modeling. The data is masked and padded as necessary. It is also shuffled, sorted and batched such that data vectors in each batch have similar lengths. For sequence tagging problems, the loader supports multiple user-defined features. Also, the reader supports common formats for pre-trained embeddings. The library also supports common data cleaning procedures.
+
+The top-level module provides model base classes for the four tasks mentioned previously. The lower-level modules provide at least one implementation for each task in both TensorFlow and PyTorch. For most tasks, DyNet implementations are also available. The library provides methods to calculate standard evaluation metrics including precision, recall, F1, average loss, and perplexity. It also provides high-level utility support for common architecture layers and paradigms such as attention, highway and skip connections. The default trainer supports multiple optimizers, early stopping, and various learning rate schedules.
+
+Model architecture development is a common use-case for a researcher. The library is designed to make this process extremely easy. In Baseline, a new model is known as an \textit{addon}, which is a dynamically loaded module containing user-defined code. The addon code should be written as a python file in the format \texttt{<task-name>\_<model-name>.py} and should be available to the python interpreter (the location should be in the system PYTHONPATH variable). The model should be written in one of the supported deep learning frameworks. If the task is not one of the existing ones, the \texttt{mead.Task} class has to be extended. The methods \texttt{create\_model()} and \texttt{load\_model()} have to be overridden and exposed as shown in listing \ref{code:override}. To run the code, the \texttt{model-name} has to be passed as an argument to the trainer program. The default trainer and data loaders can be overriden in a similar way.  
+
+\lstinputlisting[float=*t, label={code:override}, caption={Methods to override and expose in a user-defined model}, captionpos=b]{override.py}
+
+The following sections describe the tasks and the implemented algorithms. 
+
+\textbf{Classification}: For Classification, the input is typically a sequence of words. These words are represented with word embeddings, a composition of character embeddings, or both. Sentences are represented as a combination of word representations using pooling or the final output of an RNN. A final linear layer and softmax is used for classification \cite{DBLP:conf/emnlp/Kim14:14,journals/jmlr/CollobertWBKKK11:11}. Baseline currently supports these models and an MLP built on pre-trained word embeddings with max-over-time pooling or mean-pooling (Neural Bag of Words) \cite{kalchbrenner2014convolutional:14}. 
+
+\textbf{Sequence Tagging}: For Sequence Tagging, input words are represented similarly to the method used for Classification. State-of-the-art tagging is typically performed using bi-directional LSTMs (BLSTMs) with a Conditional Random Field (CRF) layer on top to promote global coherence \cite{Lample2016NeuralAF:16, ma-hovy:2016:P16-1:16, Peters2017SemisupervisedST:17}. Two common variants of this architecture differ primarily in the treatment of character-composition, either using a convolutional \cite{DosSantos:2014:LCR:3044805.3045095:14} or BLSTM layer \cite{Ling2015FindingFI:17}. The convolutional composition approach is simpler and faster, yet achieves performances similar to the BLSTM \cite{D17-1035:17}. Baseline implements this model and makes the CRF layer optional. It improves this model using multiple parallel convolutional filters and residual connections. It also supports multiple features such as gazetteer information. 
+
+
+\textbf{Encoder-Decoders}: Encoder-Decoder frameworks are used for Machine Translation, Image Captioning, Automatic Speech Recognition, and many other applications. Sequence-to-Sequence models are Encoder-Decoder architectures with an input sequence and an output sequence, which typically differ in length. We implement the most common version of this architecture for NLP: a stack of recurrent layers for the encoder and the decoder. We support multiple types of RNNs, including GRUs and LSTMs, as well as bidirectional encoders, multiple mechanisms of bridging the input encoder to the output decoder, and the most common types of global attention. We also provide a beam-search decoder for testing the model on standard tasks such as NMT.
+
+\textbf{Language Modeling}: Language Modeling with RNNs operate at the word level or at the character level. Most baseline implementations use word-based models following \cite{Zaremba2014RecurrentNN:14} but character-compositional models \cite{Kim2016CharacterAwareNL:16, Jzefowicz2016ExploringTL:16} may significantly reduce the number of parameters. Baseline has implementations for both word-based models and character-compositional models, closely following the model architecture of \newcite{Kim2016CharacterAwareNL:16}.
+
+\subsection{Dataset and Results}
+
+Table \ref{table:baselineresults} summarizes the TensorFlow implementation results. The PyTorch results are equivalent. Detailed results and hyper-parameter configurations are maintained in the library codebase. 
+
+For \textbf{Classification}, we use three public datasets: 2-class Stanford Sentiment Treebank (SST2) \cite{Socher2013RecursiveDM}, TREC QA \cite{DBLP:conf/sigir/VoorheesT00}, and DBpedia \cite{Auer:2007:DNW:1785162.1785216}. The \textbf{Sequence Tagger} has been tested on several problems including NER (CoNLL 2003 \cite{DBLP:conf/conll/SangM03:03}, wnut17 \cite{DBLP:conf/aclnut/DerczynskiNEL17:17} datasets), POS Tagging (Twitter dataset \cite{DBLP:conf/acl/GimpelSODMEHYFS11:11}: TwPOS) and Slot Filling (ATIS dataset \cite{ATIS:94}). The CRF layer is critical for NER but not necessary for ATIS and the Twitter POS corpus. For \textbf{Language Modeling}, our model improves on \newcite{Zaremba2014RecurrentNN:14} using pre-trained word embeddings. The state-of-the-art for Language Modeling has changed significantly since our implementation and we anticipate releasing a new baseline model in the future \cite{Yang2017BreakingTS:17}. Our \textbf{Encoder-Decoder} model is tested on English-Vietnamese Translation Task on TED tst2013 corpus \cite{cettolo2015iwslt:15}  and achieves strong results.
+
+
+\begin{table*}[]
+\centering
+\label{table:baselineresults}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Problem             & Dataset         & Algorithm   & Metric          & Score \\ \hline
+\multirow{4}{*}{Tagging}    & ConLL 2003        & CNN-BLSTM-CRF   & \multirow{4}{*}{F1}    & 90.88 \\ \cline{2-3} \cline{5-5} 
+                & wnut17          & CNN-BLSTM-CRF &              & 39.19 \\ \cline{2-3} \cline{5-5} 
+                & TwPOS          & CNN-BLSTM   &              & 88.91 \\ \cline{2-3} \cline{5-5} 
+                & ATIS           & CNN-BLSTM   &              & 96.74 \\ \hline
+\multirow{6}{*}{Classification} & \multirow{2}{*}{SST2}  & CNN      & \multirow{6}{*}{accuracy} & 87.9 \\ \cline{3-3} \cline{5-5} 
+                &             & LSTM     &              & 87.1 \\ \cline{2-3} \cline{5-5} 
+                & \multirow{2}{*}{TREC-QA} & CNN      &              & 93.2 \\ \cline{3-3} \cline{5-5} 
+                &             & LSTM     &              & 91.8 \\ \cline{2-3} \cline{5-5} 
+                & \multirow{2}{*}{DBpedia} & CNN      &              & 99.05 \\ \cline{3-3} \cline{5-5} 
+                &             & LSTM     &              & 98.95 \\ \hline
+Language Modelling       & PTB           & RNN      & perplexity        & 77.22 \\ \hline
+Encoder-Decoder      & TED tst2013       & Seq2Seq    & BLEU           & 25.21 \\ \hline
+\end{tabular}
+\caption{Results for TensorFlow implementations in Baseline}
+\end{table*}
+
+
+Apart from these base models, we provide implementations of more advanced models that can demonstrate the software architecture and provide a stepping stone for researchers developing their own models. Some of these implementations show better results than the existing state of the art. For example, using pre-trained ELMo embeddings from TensorFlow Hub \cite{peters2018deep:18}, our tagger has 42.19\% F1 for the wnut17 dataset, which is better than the last reported highest score (41.86\%) on the dataset \cite{DBLP:conf/aclnut/DerczynskiNEL17:17}. The repository \footnote{\url{https://github.com/dpressel/baseline/tree/master/python/addons}} is updated continually with the list of available implementations.      
+
+\section{MEAD and XPCTL}
+\label{sec:meadxpctl}
+
+DNNs are heavily dependent on hyper-parameter tuning, yet many papers do not report the exact hyper-parameters. This often leads to non-reproducible research. To solve this problem, we have developed \textbf{MEAD} and \textbf{XPCTL} to track hyper-parameters, model architecture, and results of a deep learning experiment.
+
+\textbf{MEAD}: MEAD provides a driver program that runs experiments from a configuration file (in JSON/YAML format). We define a problem as a $<$task, dataset$>$ tuple. For any task, the configuration file should contain 1.~The dataset name, 2.~Embedding type, 3.~Reader type, 4.~Model type, 5.~Model hyper-parameters (number of layers, convolution filter size), 6.~Training parameters (number of epochs, optimizers, optimizer specific parameters, patience for early stopping), 7. ~Pre-processing information. Reasonable default values are provided where possible. Thus, the whole experiment including hyper-parameters is uniquely identified by the sha1 hash of the configuration file. An experiment produces comprehensive logs including step-wise loss on the training data and task-specific metrics on the development and test sets. The reporting hooks support popular visualization frameworks including Tensorboard logging and Visdom. The model is persisted after each epoch, or, when early-stopping is enabled, whenever the model improves on the target development metric. The persisted model can be used to restart the training process or perform inference. 
+
+\textbf{XPCTL}: XPCTL (experiment control) can be used to track and compare the results with the previous ones by providing a command line interface to a database. The current implementation supports common databases including MongoDB, PostgreSQL and SQLite. The existing base classes can be extended to support other databases if needed. The configuration file, logs, and results can be stored in the database through a command. XPCTL also helps to maintain a leaderboard for these tasks. The results for a problem ($<$task, dataset$>$) can be sorted by any evaluation metric, filtered for particular users and limited by a number. Configuration files can be downloaded and the model files can be stored in a persistent storage location using the same utility. 
+
+The current implementation delegates the database creation and maintenance to the user. In future, we plan to maintain a global database accessible to all users. The user can also have her own local database, and push to the global leaderboard as needed. XPCTL will provide command line utilities for this purpose.
+
+\section{Exporting Models}
+\label{sec:export}
+
+DNNs can be deployed within a model serving framework such as \textbf{TensorFlow Serving}, a high-performance and highly scalable deployment architecture. All of the baseline implementations have exporters, though some customization may be required for user-defined models, for which we provide interfaces. The exporter transforms the model to include pre-processing and service-consumable output.
+
+\section{Conclusion and Future Work}
+We have presented Baseline, a library for reproducible experimentation and fast development of DNN models in NLP. Our goal is to help automate the frustrating parts of the process of model development and deployment to allow researchers to focus on innovation. The library is currently used in a production environment for various problems, attesting to the fact that it is suitable for a complete research-to-deployment pipeline. Currently, the library has implementations for many strong baseline models which we will continue to update and improve as the state-of-the-art changes. Future versions of the software will attempt to improve the development process further by assisting with automatic parameter tuning and model selection, support for more deep learning frameworks, improved visualization, and a simpler cross-platform deployment mechanism. 
+ 
+\section*{Acknowledgments}
+We thank Patrick Haffner, Nick Ruiz and John Chen for their valuable feedback. Funding for this research was provided by Interactions LLC. 
+
+\bibliography{baseline}
+\bibliographystyle{acl_natbib}
+
+\end{document}

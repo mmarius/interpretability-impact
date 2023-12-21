@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1413
+FinalPaperTitle#=%=#Multimodal Named Entity Disambiguation for Noisy Social Media Posts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Seungwhan Moon
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#We introduce the new Multimodal Named Entity Disambiguation (MNED) task for
+multimodal social media posts such as Snapchat or Instagram captions, which are
+composed of short captions with accompanying images. Social media posts bring
+significant challenges for disambiguation tasks because 1) ambiguity not only
+comes from polysemous entities, but also from inconsistent or incomplete
+notations, 2) very limited context is provided with surrounding words, and 3)
+there are many emerging entities often unseen during training. To this end, we
+build a new dataset called SnapCaptionsKB, a collection of Snapchat image
+captions submitted to public and crowd-sourced stories, with named entity
+mentions fully annotated and linked to entities in an external knowledge base.
+We then build a deep zeroshot multimodal network for MNED that 1) extracts
+contexts from both text and image, and 2) predicts correct entity in the
+knowledge graph embeddings space, allowing for zeroshot disambiguation of
+entities unseen in training set as well. The proposed model significantly
+outperforms the state-of-the-art text-only NED models, showing efficacy and
+potentials of the MNED task.
+Author{1}{Firstname}#=%=#Seungwhan
+Author{1}{Lastname}#=%=#Moon
+Author{1}{Email}#=%=#me@shanemoon.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Leonardo
+Author{2}{Lastname}#=%=#Neves
+Author{2}{Email}#=%=#lneves@snap.com
+Author{2}{Affiliation}#=%=#Snap Research
+Author{3}{Firstname}#=%=#Vitor
+Author{3}{Lastname}#=%=#Carvalho
+Author{3}{Email}#=%=#vitor_carvalho@intuit.com
+Author{3}{Affiliation}#=%=#Intuit
+
+==========

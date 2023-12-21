@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1244
+FinalPaperTitle#=%=#Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Maksim Tkachenko
+JobTitle#==#
+Organization#==#School of Information Systems, Singapore Management University, 80 Stamford Road, Singapore 178902
+Abstract#==#We explore the notion of subjectivity, and hypothesize that word embeddings learnt from input corpora of varying levels of subjectivity behave differently on natural language processing tasks such as classifying a sentence by sentiment, subjectivity, or topic. Through systematic comparative analyses, we establish this to be the case indeed. Moreover, based on the discovery of the outsized role that sentiment words play on subjectivity-sensitive tasks such as sentiment classification, we develop a novel word embedding SentiVec which is infused with sentiment information from a lexical resource, and is shown to outperform baselines on such tasks.
+Author{1}{Firstname}#=%=#Maksim
+Author{1}{Lastname}#=%=#Tkachenko
+Author{1}{Email}#=%=#maksim.tkatchenko@gmail.com
+Author{1}{Affiliation}#=%=#Singapore Management University
+Author{2}{Firstname}#=%=#Chong Cher
+Author{2}{Lastname}#=%=#Chia
+Author{2}{Email}#=%=#ccchia.2014@smu.edu.sg
+Author{2}{Affiliation}#=%=#Singapore Management University
+Author{3}{Firstname}#=%=#Hady
+Author{3}{Lastname}#=%=#Lauw
+Author{3}{Email}#=%=#hadywlauw@smu.edu.sg
+Author{3}{Affiliation}#=%=#Singapore Management University
+
+==========

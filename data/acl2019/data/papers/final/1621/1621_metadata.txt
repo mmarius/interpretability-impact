@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1621
+FinalPaperTitle#=%=#Which Melbourne? Augmenting Geocoding with Maps
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Milan Gritta
+JobTitle#==#
+Organization#==#University of Cambridge, The Old Schools, Trinity Ln, Cambridge CB2 1TN, UK
+Abstract#==#The purpose of text geolocation is to associate geographic information contained in a document with a set (or sets) of coordinates, either implicitly by using linguistic features and/or explicitly by using geographic metadata combined with heuristics. We introduce a geocoder (location mention disambiguator) that achieves state-of-the-art (SOTA) results on three diverse datasets by exploiting the implicit lexical clues. Moreover, we propose a new method for systematic encoding of geographic metadata to generate two distinct views of the same text. To that end, we introduce the Map Vector (MapVec), a sparse representation obtained by plotting prior geographic probabilities, derived from population figures, on a World Map. We then integrate the implicit (language) and explicit (map) features to significantly improve a range of metrics. We also introduce an open-source dataset for geoparsing of news events covering global disease outbreaks and epidemics to help future evaluation in geoparsing.
+Author{1}{Firstname}#=%=#Milan
+Author{1}{Lastname}#=%=#Gritta
+Author{1}{Email}#=%=#mg711@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Mohammad Taher
+Author{2}{Lastname}#=%=#Pilehvar
+Author{2}{Email}#=%=#mp792@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Nigel
+Author{3}{Lastname}#=%=#Collier
+Author{3}{Email}#=%=#nhc30@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+
+==========

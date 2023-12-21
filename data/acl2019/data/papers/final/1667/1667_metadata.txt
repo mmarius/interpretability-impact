@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1667
+FinalPaperTitle#=%=#A Language Model based Evaluator for Sentence Compression
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yang ZHAO
+JobTitle#==#
+Organization#==#The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan
+Abstract#==#We herein present a language-model-based evaluator for deletion-based sentence compression and view this task as a series of deletion-and-evaluation operations using the evaluator. More specifically, the evaluator is a syntactic neural language model that is first built by learning the syntactic and structural collocation among words. Subsequently, a series of trial-and-error deletion operations are conducted on the source sentences via a reinforcement learning framework to obtain the best target compression. An empirical study shows that the proposed model can effectively generate more readable compression, comparable or superior to several strong baselines. Furthermore, we introduce a 200-sentence test set for a large-scale dataset, setting a new baseline for the future research.
+Author{1}{Firstname}#=%=#Yang
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#zhao@is.s.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Zhiyuan
+Author{2}{Lastname}#=%=#Luo
+Author{2}{Email}#=%=#zyluo24@is.s.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#University of Tokyo
+Author{3}{Firstname}#=%=#Akiko
+Author{3}{Lastname}#=%=#Aizawa
+Author{3}{Email}#=%=#aizawa@nii.ac.jp
+Author{3}{Affiliation}#=%=#National Institute of Informatics
+
+==========

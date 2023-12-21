@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Out-of-the-box Universal Romanization Tool uroman
+ShortPaperTitle#=%=#Out-of-the-box Universal Romanization Tool uroman
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ulf Hermjakob
+JobTitle#==#
+Organization#==#USC Information Sciences Institute
+4676 Admiralty Way
+Marina del Rey, CA 90292
+United States of America
+Abstract#==#We present uroman, a tool for converting text in myriads of languages and scripts such as Chinese, Arabic and Cyrillic into a common Latin-script representation. The tool relies on Unicode data and other tables, and handles nearly all character sets, including some that are quite obscure such as Tibetan and Tifinagh. uroman converts digital numbers in various scripts to Western Arabic numerals. Romanization enables the application of string-similarity metrics to texts from different scripts without the need and complexity of an intermediate phonetic representation. The tool is freely and publicly available as a Perl script suitable for inclusion in data processing pipelines and as an interactive demo web page.
+Author{1}{Firstname}#=%=#Ulf
+Author{1}{Lastname}#=%=#Hermjakob
+Author{1}{Email}#=%=#ulf@isi.edu
+Author{1}{Affiliation}#=%=#USC Information Sciences Institute
+Author{2}{Firstname}#=%=#Jonathan
+Author{2}{Lastname}#=%=#May
+Author{2}{Email}#=%=#jonmay@gmail.com
+Author{2}{Affiliation}#=%=#USC Information Sciences Institute
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Knight
+Author{3}{Email}#=%=#knight@isi.edu
+Author{3}{Affiliation}#=%=#USC/ISI
+
+==========

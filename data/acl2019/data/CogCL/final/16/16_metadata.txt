@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Do Speakers Produce Discourse Connectives Rationally?
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Frances Yung
+JobTitle#==#
+Organization#==#Saarland University, 66123 Saarbruecken, Germany
+Abstract#==#A  number of different discourse connectives can be used to mark the same discourse relation, but it is unclear what factors affect  connective choice. 
+One recent account is the Rational Speech Acts theory, which predicts that speakers try to maximize the informativeness of an utterance such that the listener can interpret the intended meaning correctly. 
+Existing prior work uses referential language games to test the rational account of speakers' production of concrete meanings, such as identification of objects within a picture.  
+Building on the same paradigm, we design a novel Discourse Continuation Game to investigate speakers' production of abstract discourse relations.  
+Experimental results reveal that speakers significantly prefer a more informative connective, in line with predictions of the RSA model.
+Author{1}{Firstname}#=%=#Frances
+Author{1}{Lastname}#=%=#Yung
+Author{1}{Email}#=%=#frances@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Vera
+Author{2}{Lastname}#=%=#Demberg
+Author{2}{Email}#=%=#vera@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+
+==========

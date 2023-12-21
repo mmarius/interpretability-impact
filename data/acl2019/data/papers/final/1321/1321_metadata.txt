@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1321
+FinalPaperTitle#=%=#To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Amulya Gupta
+JobTitle#==#Author(PhD Student)
+Organization#==#Iowa State University, Ames, IA, USA-50014
+Abstract#==#With the recent success of Recurrent Neural Networks (RNNs) in Machine
+Translation (MT), attention mechanisms have become increasingly popular. The
+purpose of this paper is two-fold; firstly, we propose a novel attention model
+on Tree Long Short-Term Memory Networks (Tree-LSTMs), a tree-structured
+generalization of standard LSTM. Secondly, we study the interaction between
+attention and syntactic structures, by experimenting with three LSTM variants:
+bidirectional-LSTMs, Constituency Tree-LSTMs, and Dependency Tree-LSTMs. Our
+models are evaluated on two semantic relatedness tasks: semantic relatedness
+scoring for sentence pairs (SemEval 2012, Task 6 and SemEval 2014, Task 1) and
+paraphrase detection for question pairs (Quora, 2017).
+Author{1}{Firstname}#=%=#Amulya
+Author{1}{Lastname}#=%=#Gupta
+Author{1}{Email}#=%=#guptaam@iastate.edu
+Author{1}{Affiliation}#=%=#Iowa State University
+Author{2}{Firstname}#=%=#Zhu
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhuzhang@iastate.edu
+Author{2}{Affiliation}#=%=#Iowa State University
+
+==========

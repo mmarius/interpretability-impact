@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#59
+FinalPaperTitle#=%=#Automatic Spelling Correction for Resource-Scarce Languages using Deep Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Pravallika Etoori
+JobTitle#==#Student
+Organization#==#International Institute of Information Technology, Hyderabad (IIIT-H)
+Abstract#==#Spelling correction is a well-known task in Natural Language Processing (NLP). Automatic spelling correction is important for many NLP applications like web search engines, text summarization, sentiment analysis etc. Most approaches use parallel data of noisy and correct word mappings from different sources as training data for automatic spelling correction. Indic languages are resource-scarce and do not have such parallel data due to low volume of queries and non-existence of such prior implementations. In this paper, we show how to build an automatic spelling corrector for resource-scarce languages. We propose a sequence-to-sequence deep learning model which trains end-to-end. We perform experiments on synthetic datasets created for Indic languages, Hindi and Telugu, by incorporating the spelling mistakes committed at character level. A comparative evaluation shows that our model is competitive with the existing spell checking and correction techniques for Indic languages.
+Author{1}{Firstname}#=%=#Pravallika
+Author{1}{Lastname}#=%=#Etoori
+Author{1}{Email}#=%=#e.pravallika@research.iiit.ac.in
+Author{1}{Affiliation}#=%=#LTRC, KCIS, IIIT Hyderabad
+Author{2}{Firstname}#=%=#Manoj
+Author{2}{Lastname}#=%=#Chinnakotla
+Author{2}{Email}#=%=#manojc@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft, Bellevue, USA
+Author{3}{Firstname}#=%=#Radhika
+Author{3}{Lastname}#=%=#Mamidi
+Author{3}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{3}{Affiliation}#=%=#LTRC, KCIS, IIIT Hyderabad
+
+==========

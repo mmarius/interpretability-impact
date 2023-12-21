@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Affordances in Grounded Language Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Stephen McGregor
+JobTitle#==#
+Organization#==#Laboratoire Lattice, ENS, 1, rue Maurice Arnoux, 92120 Montrouge, France
+Abstract#==#We present a novel methodology involving mappings between different modes of semantic representation.  We propose distributional semantic models as a mechanism for representing the kind of world knowledge inherent in the system of abstract symbols characteristic of a sophisticated community of language users.  Then, motivated by insight from ecological psychology, we describe a model approximating affordances, by which we mean a language learner's direct perception of opportunities for action in an environment.  We present a preliminary experiment involving mapping between these two representational modalities, and propose that our methodology can become the basis for a cognitively inspired model of grounded language learning.
+Author{1}{Firstname}#=%=#Stephen
+Author{1}{Lastname}#=%=#McGregor
+Author{1}{Email}#=%=#semcgregor@hotmail.com
+Author{1}{Affiliation}#=%=#LATTICE-CNRS
+Author{2}{Firstname}#=%=#KyungTae
+Author{2}{Lastname}#=%=#Lim
+Author{2}{Email}#=%=#jujbob@gmail.com
+Author{2}{Affiliation}#=%=#LATTICE-CNRS
+
+==========

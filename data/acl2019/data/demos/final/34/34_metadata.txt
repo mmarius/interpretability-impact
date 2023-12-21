@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#34
+FinalPaperTitle#=%=#SANTO: A Web-based Annotation Tool for Ontology-driven Slot Filling
+ShortPaperTitle#=%=#SANTO: A Web-based Annotation Tool for Ontology-driven Slot Filling
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Matthias Hartung
+JobTitle#==#
+Organization#==#Bielefeld University
+Cognitive Interaction Technology Center of Excellence (CITEC)
+Semantic Computing Group
+Inspiration 1
+33619 Bielefeld
+Germany
+Abstract#==#Supervised machine learning algorithms require training data whose generation for complex relation extraction tasks tends to be difficult. Being optimized for relation extraction at sentence level, many annotation tools lack in facilitating the annotation of relational structures that are widely spread across the text. This leads to non-intuitive and cumbersome visualizations, making the annotation process unnecessarily time-consuming. We propose SANTO, an easy-to-use, domain-adaptive annotation tool specialized for complex slot filling tasks which may involve problems of cardinality and referential grounding. The web-based  architecture enables fast and clearly structured annotation for multiple users in parallel. Relational structures are formulated as templates following the conceptualization of an underlying ontology. Further, import and export procedures of standard formats enable interoperability with external sources and tools.
+Author{1}{Firstname}#=%=#Matthias
+Author{1}{Lastname}#=%=#Hartung
+Author{1}{Email}#=%=#mhartung@cit-ec.uni-bielefeld.de
+Author{1}{Affiliation}#=%=#Bielefeld University, CIT-EC, Semantic Computing Group
+Author{2}{Firstname}#=%=#Hendrik
+Author{2}{Lastname}#=%=#ter Horst
+Author{2}{Email}#=%=#hterhors@techfak.uni-bielefeld.de
+Author{2}{Affiliation}#=%=#Bielefeld University / CITEC / Semantic Computing
+Author{3}{Firstname}#=%=#Frank
+Author{3}{Lastname}#=%=#Grimm
+Author{3}{Email}#=%=#fgrimm@cit-ec.uni-bielefeld.de
+Author{3}{Affiliation}#=%=#Bielefeld University, CITEC, Semantic Computing Group
+Author{4}{Firstname}#=%=#Tim
+Author{4}{Lastname}#=%=#Diekmann
+Author{4}{Email}#=%=#tdiekmann@techfak.uni-bielefeld.de
+Author{4}{Affiliation}#=%=#Bielefeld University, CITEC, Semantic Computing Group
+Author{5}{Firstname}#=%=#Roman
+Author{5}{Lastname}#=%=#Klinger
+Author{5}{Email}#=%=#roman.klinger@ims.uni-stuttgart.de
+Author{5}{Affiliation}#=%=#University of Stuttgart
+Author{6}{Firstname}#=%=#Philipp
+Author{6}{Lastname}#=%=#Cimiano
+Author{6}{Email}#=%=#philipp@cimiano.de
+Author{6}{Affiliation}#=%=#Univ. Bielefeld
+
+==========

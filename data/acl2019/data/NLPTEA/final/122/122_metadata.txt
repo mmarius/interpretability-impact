@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#122
+FinalPaperTitle#=%=#Contextualized Character Representation for Chinese Grammatical Error Diagnosis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Jianbo Zhao
+JobTitle#==#
+Organization#==#Beijing University of Posts and Telecommunications, No.10 Xitucheng Road, Haidian District, Beijing, China
+Abstract#==#Nowadays, more and more people are learning Chinese as their second language. Establishing an automatic diagnosis system for Chinese grammatical error has become an important challenge. In this paper, we propose a Chinese grammatical error diagnosis (CGED) model with contextualized character representation. Compared to the traditional model using LSTM (Long-Short Term Memory), our model have better performance and there is no need to add too many artificial features.
+Author{1}{Firstname}#=%=#Jianbo
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#iamzjb@163.com
+Author{1}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{2}{Firstname}#=%=#Si
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lisi@bupt.edu.cn
+Author{2}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+Author{3}{Firstname}#=%=#Zhiqing
+Author{3}{Lastname}#=%=#Lin
+Author{3}{Email}#=%=#linzq@bupt.edu.cn
+Author{3}{Affiliation}#=%=#Beijing University of Posts and Telecommunications
+
+==========

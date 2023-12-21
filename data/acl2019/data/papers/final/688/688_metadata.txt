@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#688
+FinalPaperTitle#=%=#Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ziqiang Cao
+JobTitle#==#
+Organization#==#The Hong Kong Polytechnic University
+Abstract#==#Most previous seq2seq summarization systems purely depend on the source text to generate summaries, which tends to work unstably.
+Inspired by the traditional template-based summarization approaches, this paper proposes to use existing summaries as soft templates to guide the seq2seq model.
+To this end, we use a popular IR platform to Retrieve proper summaries as
+candidate templates.  
+Then, we extend the seq2seq framework to jointly conduct template Reranking and template-aware summary generation (Rewriting).
+Experiments show that, in terms of informativeness, our model significantly
+outperforms the state-of-the-art methods, and even soft templates themselves
+demonstrate high competitiveness.
+In addition, the import of high-quality external summaries improves the
+stability and readability of generated summaries.
+Author{1}{Firstname}#=%=#Ziqiang
+Author{1}{Lastname}#=%=#Cao
+Author{1}{Email}#=%=#cszqcao@comp.polyu.edu.hk
+Author{1}{Affiliation}#=%=#Hong Kong Polytechnic University
+Author{2}{Firstname}#=%=#Wenjie
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#cswjli@comp.polyu.edu.hk
+Author{2}{Affiliation}#=%=#The Hong Kong Polytechnic University
+Author{3}{Firstname}#=%=#Sujian
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lisujian@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Furu
+Author{4}{Lastname}#=%=#Wei
+Author{4}{Email}#=%=#fuwei@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

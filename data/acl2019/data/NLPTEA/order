@@ -1,0 +1,41 @@
+* Thursday, July 19, 2018
+= 09:20--09:30 Opening Remarks
+= 09:30--10:30 Invited Talk
+! 09:30--10:30 Multi-word Expressions in Second Language Learning %by Yuji Matsumoto
+= 10:30--11:00 Coffee Break
+= 11:00--12:40 Regular Paper Session
+102 11:00--11:20  # Generating Questions for Reading Comprehension using Coherence Relations
+108 11:20--11:40  # Syntactic and Lexical Approaches to Reading Comprehension
+120 11:40--12:00  # Feature Optimization for Predicting Readability of Arabic L1 and L2
+111 12:00--12:20  # A Tutorial Markov Analysis of Effective Human Tutorial Sessions
+119 12:20--12:40  # Thank ___Goodness___! A Way to Measure Style in Student Essays
+= 12:40--14:10 Lunch
+= 14:10--15:30 Shared Task Session
+132 14:10--14:30  # Overview of NLPTEA-2018 Share Task Chinese Grammatical Error Diagnosis
+123 14:30--14:45  # Chinese Grammatical Error Diagnosis using Statistical and Prior Knowledge driven Features with Probabilistic Ensemble Enhancement
+124 14:45--15:00  # A Hybrid System for Chinese Grammatical Error Diagnosis and Correction
+129 15:00--15:15  # Ling@CASS Solution to the NLP-TEA CGED Shared Task 2018
+127 15:15--15:30  # Chinese Grammatical Error Diagnosis Based on Policy Gradient LSTM Model
+= 15:30--16:00 Coffee Break
+= 16:00--17:00 Poster Session
+103   # The Importance of Recommender and Feedback Features in a Pronunciation Learning Aid
+104   # Selecting NLP Techniques to Evaluate Learning Design Objectives in Collaborative Multi-perspective Elaboration Activities
+106   # Augmenting Textual Qualitative Features in Deep Convolution Recurrent Neural Network for Automatic Essay Scoring
+107   # Joint learning of frequency and word embeddings for multilingual readability assessment
+109   # MULLE: A grammar-based Latin language learning tool to supplement the classroom setting
+112   # Textual Features Indicative of Writing Proficiency in Elementary School Spanish Documents
+113   # Assessment of an Index for Measuring Pronunciation Difficulty
+114   # A Short Answer Grading System in Chinese by Support Vector Approach
+115   # From Fidelity to Fluency: Natural Language Processing for Translator Training
+116   # Countering Position Bias in Instructor Interventions in MOOC Discussion Forums
+117   # Measuring Beginner Friendliness of Japanese Web Pages explaining Academic Concepts by Integrating Neural Image Feature and Text Features
+118   # Learning to Automatically Generate Fill-In-The-Blank Quizzes
+133   # Multilingual Short Text Responses Clustering for Mobile Educational Activities: a Preliminary Exploration
+121   # Chinese Grammatical Error Diagnosis Based on CRF and LSTM-CRF model
+122   # Contextualized Character Representation for Chinese Grammatical Error Diagnosis
+125   # CMMC-BDRC Solution to the NLP-TEA-2018 Chinese Grammatical Error Diagnosis Task
+126   # Detecting Simultaneously Chinese Grammar Errors Based on a BiLSTM-CRF Model
+128   # A Hybrid Approach Combining Statistical Knowledge with Conditional Random Fields for Chinese Grammatical Error Detection
+130   # CYUT-III Team Chinese Grammatical Error Diagnosis System Report in NLPTEA-2018 CGED Shared Task
+131   # Detecting Grammatical Errors in the NTOU CGED System by Identifying Frequent Subsentences
+= 17:00--17:10 Closing Remarks

@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#981
+FinalPaperTitle#=%=#Orthographic Features for Bilingual Lexicon Induction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Parker Riley
+JobTitle#==#
+Organization#==#
+Abstract#==#Recent embedding-based methods in bilingual lexicon induction show good
+results, but do not take advantage of orthographic features, such as edit
+distance, which can be helpful for pairs of related languages. This work
+extends embedding-based methods to incorporate these features, resulting in
+significant accuracy gains for related languages.
+Author{1}{Firstname}#=%=#Parker
+Author{1}{Lastname}#=%=#Riley
+Author{1}{Email}#=%=#priley3@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Gildea
+Author{2}{Email}#=%=#gildea@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+
+==========

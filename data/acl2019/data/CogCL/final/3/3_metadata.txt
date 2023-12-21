@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Multi-glance Reading Model for Text Understanding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Pengcheng Zhu
+JobTitle#==#Mr
+Organization#==#Tsinghua University
+Abstract#==#In recent years, a variety of recurrent neural networks have been proposed, e.g LSTM. However, existing models only read the text once, it cannot describe the situation of repeated reading in reading comprehension. In fact, when reading or analyzing a text, we may read the text several times rather than once if we couldn't well understand it. So, how to model this kind of the reading behavior? To address the issue, we propose a multi-glance mechanism (MGM) for modeling the habit of reading behavior. In the proposed framework, the actual reading process can be fully simulated, and then the obtained information can be consistent with the task.  Based on the multi-glance mechanism, we design two types of recurrent neural network models for repeated reading: Glance Cell Model (GCM) and Glance Gate Model (GGM). Visualization analysis of the GCM and the GGM demonstrates the effectiveness of multi-glance mechanisms. Experiments results on the large-scale datasets show that the proposed methods can achieve better performance.
+Author{1}{Firstname}#=%=#Pengcheng
+Author{1}{Lastname}#=%=#Zhu
+Author{1}{Email}#=%=#zhupc15@mails.tsinghua.edu.cn
+Author{1}{Affiliation}#=%=#Graduate School at Shenzhen,Tsinghua University
+Author{2}{Firstname}#=%=#Yujiu
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yang.yujiu@sz.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Graduate School at Shenzhen,Tsinghua University
+Author{3}{Firstname}#=%=#Wenqiang
+Author{3}{Lastname}#=%=#Gao
+Author{3}{Email}#=%=#gwq16@mails.tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Graduate School at Shenzhen,Tsinghua University
+Author{4}{Firstname}#=%=#Yi
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#eeyliu@gmail.com
+Author{4}{Affiliation}#=%=#Peking University Shenzhen Institute, China
+
+==========

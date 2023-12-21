@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#46
+FinalPaperTitle#=%=#A Sequence-to-Sequence Model for Semantic Role Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Angel Daza
+JobTitle#==#
+Organization#==#Heidelberg University, 69120 Heidelberg
+Abstract#==#We explore a novel approach for Semantic Role Labeling (SRL) by casting it as a sequence-to-sequence process. We employ an attention-based model enriched with a copying mechanism to ensure faithful regeneration of the input sequence, while enabling interleaved generation of argument role labels. We apply this model in a monolingual setting, performing PropBank SRL on English language data. The constrained sequence generation set-up enforced with the copying mechanism allows us to analyze the performance and special properties of the model on manually labeled data and benchmarking against state-of-the-art sequence labeling models.
+We show that our model is able to solve the SRL argument labeling task on English data, yet further structural decoding constraints will need to be added to make the model truly competitive. Our work represents the first step towards more advanced, generative SRL labeling setups.
+Author{1}{Firstname}#=%=#Angel
+Author{1}{Lastname}#=%=#Daza
+Author{1}{Email}#=%=#daza@cl.uni-heidelberg.de
+Author{1}{Affiliation}#=%=#Department of Computational Linguistics, Heidelberg University
+Author{2}{Firstname}#=%=#Anette
+Author{2}{Lastname}#=%=#Frank
+Author{2}{Email}#=%=#frank@cl.uni-heidelberg.de
+Author{2}{Affiliation}#=%=#Heidelberg Universiy
+
+==========

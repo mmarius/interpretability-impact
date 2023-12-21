@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Embedding Transfer for Low-Resource Medical Named Entity Recognition: A Case Study on Patient Mobility
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#National Institutes of Health, Bethesda, MD, USA
+Abstract#==#Functioning is gaining recognition as an important indicator of global health, but remains under-studied in medical natural language processing research. We present the first analysis of named entity recognition (NER) for descriptions of patient mobility, using a recently-developed dataset of free text electronic health records. As text corpora focused on patient functioning are scarce, we explore domain adaptation of word embeddings for use in a recurrent neural network NER system. We find that embeddings trained on a small in-domain corpus perform nearly as well as those learned from large out-of-domain corpora, and that domain adaptation techniques yield additional improvements in both precision and recall. Our analysis further identifies several significant challenges in performing NER for patient mobility, including the length and complexity of annotated entities and high linguistic variability in mobility descriptions.
+Author{1}{Firstname}#=%=#Denis
+Author{1}{Lastname}#=%=#Newman-Griffis
+Author{1}{Email}#=%=#newman-griffis.1@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Ayah
+Author{2}{Lastname}#=%=#Zirikly
+Author{2}{Email}#=%=#ayah.zirikly@gmail.com
+Author{2}{Affiliation}#=%=#National Institutes of Health
+
+==========

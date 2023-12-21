@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1350
+FinalPaperTitle#=%=#Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Pengcheng Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#As more and more academic papers are being submitted to conferences and journals, evaluating all these papers by professionals is time-consuming and can cause inequality due to the personal factors of the reviewers. In this paper, in order to assist professionals in evaluating academic papers, we propose a novel task: automatic academic paper rating (AAPR), which automatically determine whether to accept academic papers. We build a new dataset for this task and propose a novel modularized hierarchical convolutional neural network to achieve automatic academic paper rating. Evaluation results show that the proposed model outperforms the baselines by a large margin. The dataset and code are available at \url{https://github.com/lancopku/AAPR}
+Author{1}{Firstname}#=%=#Pengcheng
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yang_pc@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Xu
+Author{2}{Lastname}#=%=#SUN
+Author{2}{Email}#=%=#xusun@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#liweitj47@pku.edu.cn
+Author{3}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University
+Author{4}{Firstname}#=%=#Shuming
+Author{4}{Lastname}#=%=#Ma
+Author{4}{Email}#=%=#shumingma@pku.edu.cn
+Author{4}{Affiliation}#=%=#Department of Computer Science, School of EECS, Peking University
+
+==========

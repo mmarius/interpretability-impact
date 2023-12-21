@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Multi-task learning for interpretable cause of death classification using key phrase prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Serena Jeblee
+JobTitle#==#
+Organization#==#University of Toronto, 27 King's College Circle, Toronto, ON M5S 3H7
+Abstract#==#We introduce a multi-task learning model for cause-of-death classification of verbal autopsy narratives that jointly learns to output interpretable key phrases. Adding these key phrases outperforms the baseline model and topic modeling features.
+Author{1}{Firstname}#=%=#Serena
+Author{1}{Lastname}#=%=#Jeblee
+Author{1}{Email}#=%=#sjeblee@cs.toronto.edu
+Author{1}{Affiliation}#=%=#Department of Computer Science, University of Toronto
+Author{2}{Firstname}#=%=#Mireille
+Author{2}{Lastname}#=%=#Gomes
+Author{2}{Email}#=%=#GomesM@smh.ca
+Author{2}{Affiliation}#=%=#Centre for Global Health Research, St. Michael's Hospital, University of Toronto
+Author{3}{Firstname}#=%=#Graeme
+Author{3}{Lastname}#=%=#Hirst
+Author{3}{Email}#=%=#gh@cs.toronto.edu
+Author{3}{Affiliation}#=%=#Department of Computer Science, University of Toronto
+
+==========

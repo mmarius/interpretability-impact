@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Bridging Languages through Images with Deep Partial Canonical Correlation Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Guy Rotman
+JobTitle#==#
+Organization#==#Faculty of Industrial Engineering and Management, Technion, IIT, Haifa, Israel, 3200003
+Abstract#==#We present a deep neural network that leverages images to improve bilingual text embeddings. Relying on bilingual image tags and descriptions, our approach conditions text embedding induction on the shared visual information for both languages, producing highly correlated bilingual embeddings. In particular, we propose a novel model based on Partial Canonical Correlation Analysis (PCCA). While the original PCCA finds linear projections of two views in order to maximize their canonical correlation conditioned on a shared third variable, we introduce a non-linear Deep PCCA (DPCCA) model, and develop a new stochastic iterative algorithm for its optimization. We evaluate PCCA and DPCCA on multilingual word similarity and cross-lingual image description retrieval. Our models outperform a large variety of previous methods, despite not having access to any visual signal during test time inference.
+Author{1}{Firstname}#=%=#Guy
+Author{1}{Lastname}#=%=#Rotman
+Author{1}{Email}#=%=#grotman@campus.technion.ac.il
+Author{1}{Affiliation}#=%=#Faculty of Industrial Engineering and Management, Technion, IIT
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Vulić
+Author{2}{Email}#=%=#iv250@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Roi
+Author{3}{Lastname}#=%=#Reichart
+Author{3}{Email}#=%=#roireichart@gmail.com
+Author{3}{Affiliation}#=%=#Technion - Israel Institute of Technology
+
+==========

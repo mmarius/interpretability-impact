@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#47
+FinalPaperTitle#=%=#A Web-scale system for scientific knowledge exploration
+ShortPaperTitle#=%=#A Web-scale system for scientific knowledge exploration
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zhihong Shen
+JobTitle#==#Data scientist
+Organization#==#Microsoft Research
+One Microsoft Way, Redmond, WA 98052
+Abstract#==#To enable efficient exploration of Web-scale scientific knowledge, it is necessary to organize scientific publications into a hierarchical concept structure. In this work, we present a large-scale system to (1) identify hundreds of thousands of scientific concepts, (2) tag these identified concepts to hundreds of millions of scientific publications by leveraging both text and graph structure, and (3) build a six-level concept hierarchy with a subsumption-based model. The system builds the most comprehensive cross-domain scientific concept ontology published to date, with more than 200 thousand concepts and over one million relationships.
+Author{1}{Firstname}#=%=#Zhihong
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Email}#=%=#zhihong.shen@gmail.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Ma
+Author{2}{Email}#=%=#haoma@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Kuansan
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#kuansanw@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1088
+FinalPaperTitle#=%=#Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xiujun Li
+JobTitle#==#
+Organization#==#Microsoft Research Redmond, One Microsoft Way, Redmond, WA 98052-6399 USA
+Abstract#==#Training a task-completion dialogue agent via reinforcement learning (RL) is costly because it requires many interactions with real users. One common alternative is to use a user simulator. However, a user simulator usually lacks the language complexity of human interlocutors and the biases in its design may tend to degrade the agent. To address these issues, we present Deep Dyna-Q, which to our knowledge is the first deep RL framework that integrates planning for task-completion dialogue policy learning. We incorporate into the dialogue agent a model of the environment, referred to as the world model, to mimic real user response and generate simulated experience. During dialogue policy learning, the world model is constantly updated with real user experience to approach real user behavior, and in turn, the dialogue agent is optimized using both real experience and simulated experience. The effectiveness of our approach is demonstrated on a movie-ticket booking task in both simulated and human-in-the-loop settings.
+Author{1}{Firstname}#=%=#Baolin
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#blpeng@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Xiujun
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#xiul@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Redmond
+Author{3}{Firstname}#=%=#Jianfeng
+Author{3}{Lastname}#=%=#Gao
+Author{3}{Email}#=%=#jfgao@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research, Redmond
+Author{4}{Firstname}#=%=#Jingjing
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#jingjl@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Redmond
+Author{5}{Firstname}#=%=#Kam-Fai
+Author{5}{Lastname}#=%=#Wong
+Author{5}{Email}#=%=#kfwong@se.cuhk.edu.hk
+Author{5}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+
+==========

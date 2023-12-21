@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#DNN Multimodal Fusion Techniques for Predicting Video Sentiment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Jennifer Williams
+JobTitle#==#
+Organization#==#Informatics Forum, University of Edinburgh, UK
+Abstract#==#We present our work on sentiment prediction using the benchmark MOSI dataset from the CMU-MultimodalDataSDK. Previous work on multimodal sentiment analysis have been focused on input-level feature fusion or decision-level fusion for multimodal fusion. Here, we propose an intermediate-level feature fusion, which merges weights from each modality (audio, video, and text) during training with subsequent additional training. Moreover, we tested principle component analysis (PCA) for feature selection. We found that applying PCA increases unimodal performance, and multimodal fusion outperforms unimodal models. Our experiments show that our proposed intermediate-level feature fusion outperforms other fusion techniques, and it achieves the best performance with an overall binary accuracy of 74.0\% on video+text modalities. Our work also improves feature selection for unimodal sentiment analysis, while proposing a novel and effective multimodal fusion architecture for this task.
+Author{1}{Firstname}#=%=#Jennifer
+Author{1}{Lastname}#=%=#Williams
+Author{1}{Email}#=%=#jaw97@georgetown.edu
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Ramona
+Author{2}{Lastname}#=%=#Comanescu
+Author{2}{Email}#=%=#ramonacomanescu5@gmail.com
+Author{2}{Affiliation}#=%=#Edinburgh
+Author{3}{Firstname}#=%=#Oana
+Author{3}{Lastname}#=%=#Radu
+Author{3}{Email}#=%=#oana.radu8@gmail.com
+Author{3}{Affiliation}#=%=#Edinburgh
+Author{4}{Firstname}#=%=#Leimin
+Author{4}{Lastname}#=%=#Tian
+Author{4}{Email}#=%=#Leimin.Tian@monash.edu
+Author{4}{Affiliation}#=%=#Edinburgh
+
+==========

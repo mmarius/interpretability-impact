@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#568
+FinalPaperTitle#=%=#Adaptive Scaling for Sparse Detection in Information Extraction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hongyu Lin
+JobTitle#==#
+Organization#==#Institute of Software, Chinese Academy of Sciences, Beijing, China
+Abstract#==#This paper focuses on detection tasks in information extraction, where positive instances are sparsely distributed and models are usually evaluated using F-measure on positive classes. These characteristics often result in deficient performance of neural network based detection models. In this paper, we propose \emph{adaptive scaling}, an algorithm which can handle the positive sparsity problem and directly optimize over F-measure via dynamic cost-sensitive learning. To this end, we borrow the idea of marginal utility from economics and propose a theoretical framework for instance importance measuring without introducing any additional hyper-parameters. Experiments show that our algorithm leads to a more effective and stable training of neural network based detection models.
+Author{1}{Firstname}#=%=#Hongyu
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#sanmu_sunrise@foxmail.com
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yaojie
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#yaojie.lu@outlook.com
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#hanxianpei@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#ISCAS
+
+==========

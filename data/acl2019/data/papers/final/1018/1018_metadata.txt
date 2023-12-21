@@ -1,0 +1,60 @@
+SubmissionNumber#=%=#1018
+FinalPaperTitle#=%=#Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dinghan Shen
+JobTitle#==#
+Organization#==#Duke University (Durham, NC 27708)
+Abstract#==#Many deep learning architectures have been proposed to model the
+\emph{compositionality} in text sequences, requiring substantial number of
+parameters and expensive computations. However, there has not been a rigorous
+evaluation regarding the added value of sophisticated compositional functions.
+In this paper, we conduct a point-by-point comparative study between Simple
+Word-Embedding-based Models (SWEMs), consisting of parameter-free pooling
+operations, relative to word-embedding-based RNN/CNN models. Surprisingly,
+SWEMs exhibit comparable or even superior performance in the majority of cases
+considered. Based upon this understanding, we propose two additional pooling
+strategies over learned word embeddings: ($i$) a max-pooling operation for
+improved interpretability; and ($ii$) a hierarchical pooling operation, which
+preserves spatial ($n$-gram) information within text sequences. We present
+experiments on 17 datasets encompassing three tasks: ($i$) (long) document
+classification; ($ii$) text sequence matching; and ($iii$) short text tasks,
+including classification and tagging.
+Author{1}{Firstname}#=%=#Dinghan
+Author{1}{Lastname}#=%=#Shen
+Author{1}{Email}#=%=#dinghan.shen@duke.edu
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Guoyin
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#guoyin.wang@duke.edu
+Author{2}{Affiliation}#=%=#Duke University
+Author{3}{Firstname}#=%=#Wenlin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wenlin.wang@duke.edu
+Author{3}{Affiliation}#=%=#Duke University
+Author{4}{Firstname}#=%=#Martin
+Author{4}{Lastname}#=%=#Renqiang Min
+Author{4}{Email}#=%=#renqiang@nec-labs.com
+Author{4}{Affiliation}#=%=#NEC
+Author{5}{Firstname}#=%=#Qinliang
+Author{5}{Lastname}#=%=#Su
+Author{5}{Email}#=%=#qinliang.su@duke.edu
+Author{5}{Affiliation}#=%=#Duke University
+Author{6}{Firstname}#=%=#Yizhe
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#yizhe.zhang@duke.edu
+Author{6}{Affiliation}#=%=#Duke University
+Author{7}{Firstname}#=%=#Chunyuan
+Author{7}{Lastname}#=%=#Li
+Author{7}{Email}#=%=#chunyuan.li@duke.edu
+Author{7}{Affiliation}#=%=#Duke University
+Author{8}{Firstname}#=%=#Ricardo
+Author{8}{Lastname}#=%=#Henao
+Author{8}{Email}#=%=#ricardo.henao@duke.edu
+Author{8}{Affiliation}#=%=#Duke University
+Author{9}{Firstname}#=%=#Lawrence
+Author{9}{Lastname}#=%=#Carin
+Author{9}{Email}#=%=#lcarin@duke.edu
+Author{9}{Affiliation}#=%=#Duke University
+
+==========

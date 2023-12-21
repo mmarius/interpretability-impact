@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1279
+FinalPaperTitle#=%=#Incorporating Chinese Characters of Words for Lexical Sememe Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Huiming Jin
+JobTitle#==#
+Organization#==#Tsinghua University, 30 Shuangqing Rd, Haidian Qu, Beijing Shi, China
+Abstract#==#Sememes are minimum semantic units of concepts in human languages, such that each word sense is composed of one or multiple sememes. Words are usually manually annotated with their sememes by linguists, and form linguistic common-sense knowledge bases widely used in various NLP tasks. Recently, the lexical sememe prediction task has been introduced. It consists of automatically recommending sememes for words, which is expected to improve annotation efficiency and consistency. However, existing methods of lexical sememe prediction typically rely on the external context of words to represent the meaning, which usually fails to deal with low-frequency and out-of-vocabulary words. To address this issue for Chinese, we propose a novel framework to take advantage of both internal character information and external context information of words. We experiment on HowNet, a Chinese sememe knowledge base, and demonstrate that our framework outperforms state-of-the-art baselines by a large margin, and maintains a robust performance even for low-frequency words.
+Author{1}{Firstname}#=%=#Huiming
+Author{1}{Lastname}#=%=#Jin
+Author{1}{Email}#=%=#huiming.jin.buaa@gmail.com
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#zhuhao15@mails.tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#Zhiyuan
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#Tsinghua University
+Author{4}{Firstname}#=%=#Ruobing
+Author{4}{Lastname}#=%=#Xie
+Author{4}{Email}#=%=#xrbsnowing@163.com
+Author{4}{Affiliation}#=%=#Search Product Center, WeChat Search Application Department, Tencent, China
+Author{5}{Firstname}#=%=#Maosong
+Author{5}{Lastname}#=%=#Sun
+Author{5}{Email}#=%=#sms@tsinghua.edu.cn
+Author{5}{Affiliation}#=%=#
+Author{6}{Firstname}#=%=#Fen
+Author{6}{Lastname}#=%=#Lin
+Author{6}{Email}#=%=#felicialin@tencent.com
+Author{6}{Affiliation}#=%=#Search Product Center, WeChat Search Application Department, Tencent, China
+Author{7}{Firstname}#=%=#Leyu
+Author{7}{Lastname}#=%=#Lin
+Author{7}{Email}#=%=#goshawklin@tencent.com
+Author{7}{Affiliation}#=%=#Search Product Center, WeChat Search Application Department, Tencent, China
+
+==========

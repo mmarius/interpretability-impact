@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#371
+FinalPaperTitle#=%=#A Graph-to-Sequence Model for AMR-to-Text Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Linfeng Song
+JobTitle#==#
+Organization#==#University of Rochester
+Abstract#==#The problem of AMR-to-text generation is to recover a text representing the
+same meaning as an input AMR graph.
+The current state-of-the-art method uses a sequence-to-sequence model,
+leveraging LSTM for encoding a linearized AMR structure. 
+Although being able to model non-local semantic information, a sequence LSTM
+can lose information from the AMR graph structure, and thus facing challenges
+with large-graphs, which result in long sequences. 
+We introduce a neural graph-to-sequence model, using a novel LSTM structure
+for directly encoding graph-level semantics.
+On a standard benchmark, our model shows superior results to existing methods
+in the literature.
+Author{1}{Firstname}#=%=#Linfeng
+Author{1}{Lastname}#=%=#Song
+Author{1}{Email}#=%=#freesunshine0316@gmail.com
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Zhiguo
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#zgw.tomorrow@gmail.com
+Author{3}{Affiliation}#=%=#IBM Watson Research Center
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Gildea
+Author{4}{Email}#=%=#gildea@cs.rochester.edu
+Author{4}{Affiliation}#=%=#University of Rochester
+
+==========

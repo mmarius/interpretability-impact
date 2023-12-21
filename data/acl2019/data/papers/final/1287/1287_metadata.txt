@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#1287
+FinalPaperTitle#=%=#ParaNMT-50M: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Kevin Gimpel
+JobTitle#==#
+Organization#==#Toyota Technological Institute at Chicago, 6045 S. Kenwood Ave., Chicago, Illinois 60637
+Abstract#==#We describe ParaNMT-50M, a dataset of more than 50 million English-English sentential paraphrase pairs. We generated the pairs automatically by using neural machine translation to translate the non-English side of a large parallel corpus, following Wieting et al. (2017). Our hope
+is that ParaNMT-50M can be a valuable resource for paraphrase generation and can provide a rich source of semantic knowledge to improve downstream natural language understanding tasks. To show its utility, we use ParaNMT-50M to train paraphrastic sentence embeddings that outperform all supervised systems on every SemEval semantic textual similarity competition, in addition to showing how it can be used for paraphrase generation.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Wieting
+Author{1}{Email}#=%=#jwieting@cs.cmu.edu
+Author{1}{Affiliation}#=%=#University of Illinois; TTI-Chicago; CMU
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Gimpel
+Author{2}{Email}#=%=#kgimpel@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

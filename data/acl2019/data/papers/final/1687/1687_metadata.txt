@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1687
+FinalPaperTitle#=%=#A Neural Approach to Pun Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Xiaojun Wan
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatic pun generation is an interesting and challenging text generation
+task. Previous efforts rely on templates or laboriously manually annotated
+pun datasets, which heavily constrains the quality and diversity of
+generated puns. Since sequence-to-sequence models provide an effective
+technique for text generation, it is promising to investigate these
+models on the pun generation task. In this paper, we propose neural
+network models for homographic pun generation, and they can generate
+puns without requiring any pun data for training. We first train a
+conditional neural language model from a general text corpus, and
+then generate puns from the language model with an elaborately designed
+decoding algorithm. Automatic and human evaluations show that our
+models are able to generate homographic puns of good readability and
+quality.
+Author{1}{Firstname}#=%=#Zhiwei
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#scy4869@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Jiwei
+Author{2}{Lastname}#=%=#Tan
+Author{2}{Email}#=%=#tanjiwei@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#115
+FinalPaperTitle#=%=#From Fidelity to Fluency: Natural Language Processing for Translator Training
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Oi Yee Kwong
+JobTitle#==#
+Organization#==#The Chinese University of Hong Kong
+Abstract#==#This study explores the use of natural language processing techniques to enhance bilingual lexical access beyond simple equivalents, to enable translators to navigate along a wider cross-lingual lexical space and more examples showing different translation strategies, which is essential for them to learn to produce not only faithful but also fluent translations.
+Author{1}{Firstname}#=%=#Oi Yee
+Author{1}{Lastname}#=%=#Kwong
+Author{1}{Email}#=%=#oykwong@arts.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#The Chinese University of Hong Kong
+
+==========

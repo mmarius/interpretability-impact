@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#141
+FinalPaperTitle#=%=#Taylor's law for Human Linguistic Sequences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tatsuru Kobayashi
+JobTitle#==#
+Organization#==#Graduate School of Information Science and Technology, University of Tokyo. 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan.
+Abstract#==#Taylor’s law describes the fluctuation characteristics underlying a system in which the variance of an event within a time span grows by a power law with respect to the mean. Although Taylor’s law has been applied in many natural and social systems, its application for language has been scarce. This article describes a new way to quantify Taylor’s law in natural language and conducts Taylor analysis of over 1100 texts across 14 languages. We found that the Taylor exponents of natural language written texts exhibit almost the same value. The exponent was also compared for other language-related data, such as the child-directed speech, music, and programming languages. The results show how the Taylor exponent serves to quantify the fundamental structural complexity underlying linguistic time series. The article also shows the applicability of these findings in evaluating language models.
+Author{1}{Firstname}#=%=#Tatsuru
+Author{1}{Lastname}#=%=#Kobayashi
+Author{1}{Email}#=%=#kobayashi@cl.rcast.u-tokyo.ac.jp
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Kumiko
+Author{2}{Lastname}#=%=#Tanaka-Ishii
+Author{2}{Email}#=%=#kumiko@cl.rcast.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#The University of Tokyo
+
+==========

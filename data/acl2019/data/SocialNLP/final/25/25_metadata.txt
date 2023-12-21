@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#EmotionX-Area66: Predicting Emotions in Dialogues using Hierarchical Attention Network with Sequence Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#savita bhat
+JobTitle#==#
+Organization#==#TCS Research, Pune, India
+Abstract#==#This paper presents our system submitted to the EmotionX challenge. It is an emotion detection task on dialogues in the EmotionLines dataset. We formulate this as a hierarchical network where network learns data representation at both utterance level and dialogue level. Our model is inspired by Hierarchical Attention network (HAN) and uses pre-trained word embeddings as features. We formulate emotion detection in dialogues as a sequence labeling problem to capture the dependencies among labels. We report the performance accuracy for four emotions (anger, joy, neutral and sadness). The model achieved unweighted accuracy of 55.38\% on Friends test dataset and 56.73\% on EmotionPush test dataset. We report an improvement of 22.51\% in Friends dataset and 36.04\% in EmotionPush dataset over baseline results.
+Author{1}{Firstname}#=%=#Rohit
+Author{1}{Lastname}#=%=#Saxena
+Author{1}{Email}#=%=#rohitsaxena.er@gmail.com
+Author{1}{Affiliation}#=%=#TCS Research
+Author{2}{Firstname}#=%=#savita
+Author{2}{Lastname}#=%=#bhat
+Author{2}{Email}#=%=#savitab@gmail.com
+Author{2}{Affiliation}#=%=#TCS Research
+Author{3}{Firstname}#=%=#Niranjan
+Author{3}{Lastname}#=%=#Pedanekar
+Author{3}{Email}#=%=#n.pedanekar@tcs.com
+Author{3}{Affiliation}#=%=#TCS Research
+
+==========

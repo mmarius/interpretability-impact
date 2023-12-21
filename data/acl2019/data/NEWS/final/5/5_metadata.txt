@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#A Sequence Learning Method for Domain-Specific Entity Linking
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Emrah Inan
+JobTitle#==#Research Assistant
+Organization#==#Department of Computer Engineering, Ege University, Izmir, Turkey
+Abstract#==#Recent collective Entity Linking studies usually promote global coherence of all the mapped entities in the same document by using semantic embeddings and graph-based approaches. Although graph-based approaches are shown to achieve remarkable results, they are
+computationally expensive for general datasets. Also, semantic embeddings only indicate relatedness between entity pairs without considering sequences. In this paper, we address these problems by introducing a two-fold neural model. First, we match easy mention-entity pairs and using the domain information of this pair to filter candidate entities of closer mentions. Second, we resolve more ambiguous pairs using bidirectional Long Short-Term Memory and CRF models for the entity disambiguation. Our proposed system outperforms state-of-the-art systems on the generated domain-specific evaluation dataset.
+Author{1}{Firstname}#=%=#Emrah
+Author{1}{Lastname}#=%=#Inan
+Author{1}{Email}#=%=#emrah.inan@ege.edu.tr
+Author{1}{Affiliation}#=%=#Ege University
+Author{2}{Firstname}#=%=#Oguz
+Author{2}{Lastname}#=%=#Dikenelli
+Author{2}{Email}#=%=#oguz.dikenelli@ege.edu.tr
+Author{2}{Affiliation}#=%=#Department of Computer Engineering, Ege University
+
+==========

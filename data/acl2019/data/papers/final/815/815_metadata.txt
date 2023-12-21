@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#815
+FinalPaperTitle#=%=#On the Practical Computational Power of Finite Precision RNNs for Language Recognition
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gail Weiss
+JobTitle#==#
+Organization#==#Technion - Israel Institute of Technology
+Abstract#==#While Recurrent Neural Networks (RNNs) are famously known to be Turing complete, this relies on infinite precision in the states and unbounded computation time. We consider the case of RNNs with finite precision whose computation time is linear in the input length. Under these limitations, we show that different RNN variants have different computational power. In particular, we show that the LSTM and the Elman-RNN with ReLU activation are strictly stronger than the RNN with a squashing activation and the GRU. This is achieved because LSTMs and ReLU-RNNs can easily implement counting behavior. We show empirically that the LSTM does indeed learn to effectively use the counting mechanism.
+Author{1}{Firstname}#=%=#Gail
+Author{1}{Lastname}#=%=#Weiss
+Author{1}{Email}#=%=#gail_weiss@msn.com
+Author{1}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#yoav.goldberg@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+Author{3}{Firstname}#=%=#Eran
+Author{3}{Lastname}#=%=#Yahav
+Author{3}{Email}#=%=#yahave@cs.technion.ac.il
+Author{3}{Affiliation}#=%=#Technion - Israel Institute of Technology
+
+==========

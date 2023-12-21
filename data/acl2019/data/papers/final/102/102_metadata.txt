@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#102
+FinalPaperTitle#=%=#Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yu Wu
+JobTitle#==#
+Organization#==#Beihang University
+Abstract#==#We propose a method that can leverage unlabeled data to learn a matching model for response selection in retrieval-based chatbots. The method employs a sequence-to-sequence architecture (Seq2Seq) model as a weak annotator to judge the matching degree of unlabeled pairs, and then performs learning with both the weak signals and the unlabeled data. Experimental results on two public data sets indicate that matching models get significant improvements when they are learned with the proposed method.
+Author{1}{Firstname}#=%=#Yu
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wumark@126.com
+Author{1}{Affiliation}#=%=#Beihang
+Author{2}{Firstname}#=%=#wei
+Author{2}{Lastname}#=%=#wu
+Author{2}{Email}#=%=#wuwei@microsoft.com
+Author{2}{Affiliation}#=%=#microsoft
+Author{3}{Firstname}#=%=#Zhoujun
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lizj@buaa.edu.cn
+Author{3}{Affiliation}#=%=#Beihang
+Author{4}{Firstname}#=%=#Ming
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#mingzhou@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

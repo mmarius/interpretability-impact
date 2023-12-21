@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#EmotionX-AR: CNN-DCNN autoencoder based Emotion Classifier
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Sopan Khosla
+JobTitle#==#
+Organization#==#Adobe Research, Bangalore, India
+Abstract#==#In this paper, we model emotions in EmotionLines dataset using a convolutional-deconvolutional autoencoder (CNN-DCNN) framework. We show that adding a joint reconstruction loss improves performance. Quantitative evaluation with jointly trained network, augmented with linguistic features, reports best accuracies for emotion prediction; namely joy, sadness, anger, and neutral emotion in text.
+Author{1}{Firstname}#=%=#Sopan
+Author{1}{Lastname}#=%=#Khosla
+Author{1}{Email}#=%=#skhosla@adobe.com
+Author{1}{Affiliation}#=%=#Adobe Research
+
+==========

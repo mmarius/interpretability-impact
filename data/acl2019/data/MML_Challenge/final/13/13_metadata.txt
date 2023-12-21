@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Getting the subtext without the text: Scalable multimodal sentiment classification from visual and acoustic modalities
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In the last decade, video blogs (vlogs) have become an extremely popular method through which people express sentiment. The ubiquitousness of these videos has increased the importance of multimodal fusion models, which incorporate video and audio features with traditional text features for automatic sentiment detection. Multimodal fusion offers a unique opportunity to build models that learn from the full depth of expression available to human viewers. In the detection of sentiment in these videos, acoustic and video features provide clarity to otherwise ambiguous transcripts. In this paper, we present a multimodal fusion model that exclusively uses high-level video and audio features to analyze spoken sentences for sentiment. We discard traditional transcription features in order to minimize human intervention and to maximize the deployability of our model on at-scale real-world data. We select high-level features for our model that have been successful in non-affect domains in order to test their generalizability in the sentiment detection domain. We train and test our model on the newly released CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) dataset, obtaining an F1 score of 0.8049 on the validation set and an F1 score of 0.6325 on the held-out challenge test set.
+Author{1}{Firstname}#=%=#Nathaniel
+Author{1}{Lastname}#=%=#Blanchard
+Author{1}{Email}#=%=#nblancha@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Moreira
+Author{2}{Email}#=%=#dhenriq1@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#Aparna
+Author{3}{Lastname}#=%=#Bharati
+Author{3}{Email}#=%=#abharati@nd.edu
+Author{3}{Affiliation}#=%=#University of Notre Dame
+Author{4}{Firstname}#=%=#Walter
+Author{4}{Lastname}#=%=#Scheirer
+Author{4}{Email}#=%=#walter.scheirer@nd.edu
+Author{4}{Affiliation}#=%=#University of Notre Dame
+
+==========

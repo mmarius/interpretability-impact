@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Speeding up Context-based Sentence Representation Learning with Non-autoregressive Convolutional Decoding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Shuai Tang
+JobTitle#==#
+Organization#==#UC San Diego, 9500 Gilman Dr., La Jolla, CA, USA
+Abstract#==#We propose an asymmetric encoder-decoder structure, which keeps an RNN as the encoder and has a CNN as the decoder, and the model only explores the subsequent context information as the supervision. The asymmetry in both model architecture and training pair reduces a large amount of the training time.
+
+The contribution of our work is summarized as 
+1. We design experiments to show that an autoregressive decoder or an RNN decoder is not necessary for the encoder-decoder type of models in terms of learning sentence representations, and based on our results, we present 2 findings.
+2. The two interesting findings lead to our final model design, which has an RNN encoder and a CNN decoder, and it learns to encode the current sentence and decode the subsequent contiguous words all at once.
+3. With a suite of techniques, our model performs good on downstream tasks and can be trained efficiently on a large unlabelled corpus.
+Author{1}{Firstname}#=%=#Shuai
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Email}#=%=#shuaitang93@ucsd.edu
+Author{1}{Affiliation}#=%=#UC San Diego
+Author{2}{Firstname}#=%=#Hailin
+Author{2}{Lastname}#=%=#Jin
+Author{2}{Email}#=%=#hljin@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Chen
+Author{3}{Lastname}#=%=#Fang
+Author{3}{Email}#=%=#cfang@adobe.com
+Author{3}{Affiliation}#=%=#Adobe Research
+Author{4}{Firstname}#=%=#Zhaowen
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#zhwang@adobe.com
+Author{4}{Affiliation}#=%=#Adobe Research
+Author{5}{Firstname}#=%=#Virginia
+Author{5}{Lastname}#=%=#de Sa
+Author{5}{Email}#=%=#desa@ucsd.edu
+Author{5}{Affiliation}#=%=#UC San Diego
+
+==========

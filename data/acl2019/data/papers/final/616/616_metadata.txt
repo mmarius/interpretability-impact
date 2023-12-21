@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#616
+FinalPaperTitle#=%=#Stock Movement Prediction from Tweets and Historical Prices
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yumo Xu
+JobTitle#==#
+Organization#==#School of Informatics, University of Edinburgh, 10 Crichton Street, Edinburgh EH8 9AB
+Abstract#==#Stock movement prediction is a challenging problem: the market is highly stochastic, and we make temporally-dependent predictions from chaotic data. We treat these three complexities and present a novel deep generative model jointly exploiting text and price signals for this task. Unlike the case with discriminative or topic modeling, our model introduces recurrent, continuous latent variables for a better treatment of stochasticity, and uses neural variational inference to address the intractable posterior inference. We also provide a hybrid objective with  temporal auxiliary to flexibly capture predictive dependencies. We demonstrate the state-of-the-art performance of our proposed model on a new stock movement prediction dataset which we collected.
+Author{1}{Firstname}#=%=#Yumo
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#s1617290@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Shay B.
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+
+==========

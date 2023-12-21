@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#Automatic Detection of Cross-Disciplinary Knowledge Associations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Menasha Thilakaratne
+JobTitle#==#
+Organization#==#University of Adelaide, Adelaide, Australia
+Abstract#==#Detecting interesting, cross-disciplinary knowledge associations hidden in scientific publications can greatly assist scientists to formulate and validate scientifically sensible novel research hypotheses. This will also introduce new areas of research that can be successfully linked with their research discipline. Currently, this process is mostly performed manually by exploring the scientific publications, requiring a substantial amount of time and effort. Due to the exponential growth of scientific literature, it has become almost impossible for a scientist to keep track of all research advances. As a result, scientists tend to deal with fragments of the literature according to their specialisation. Consequently, important and hidden associations among these fragmented knowledge that can be linked to produce significant scientific discoveries remain unnoticed. This doctoral work aims to develop a novel knowledge discovery approach that suggests most promising research pathways by analysing the existing scientific literature.
+Author{1}{Firstname}#=%=#Menasha
+Author{1}{Lastname}#=%=#Thilakaratne
+Author{1}{Email}#=%=#menasha.thilakaratne@adelaide.edu.au
+Author{1}{Affiliation}#=%=#University of Adelaide
+Author{2}{Firstname}#=%=#Katrina
+Author{2}{Lastname}#=%=#Falkner
+Author{2}{Email}#=%=#katrina.falkner@adelaide.edu.au
+Author{2}{Affiliation}#=%=#University of Adelaide
+Author{3}{Firstname}#=%=#Thushari
+Author{3}{Lastname}#=%=#Atapattu
+Author{3}{Email}#=%=#thushari.atapattu@adelaide.edu.au
+Author{3}{Affiliation}#=%=#University of Adelaide
+
+==========
