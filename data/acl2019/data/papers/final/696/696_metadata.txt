@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#696
+FinalPaperTitle#=%=#Addressing Noise in Multidialectal Word Embeddings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Alexander Erdmann
+JobTitle#==#
+Organization#==#New York University Abu Dhabi
+Abstract#==#Word embeddings are crucial to many natural language processing tasks. The quality of embeddings relies on large non-noisy corpora. Arabic dialects lack large corpora and are noisy, being linguistically disparate with no standardized spelling. We make three contributions to address this noise. First, we describe simple but effective adaptations to word embedding tools to maximize the informative content leveraged in each training sentence. Second, we analyze methods for representing disparate dialects in one embedding space, either by mapping individual dialects into a shared space or learning a joint model of all dialects. Finally, we evaluate via dictionary induction, showing that two metrics not typically reported in the task enable us to analyze our contributions' effects on low and high frequency words. In addition to boosting performance between 2-53%, we specifically improve on noisy, low frequency forms without compromising accuracy on high frequency forms.
+Author{1}{Firstname}#=%=#Alexander
+Author{1}{Lastname}#=%=#Erdmann
+Author{1}{Email}#=%=#ae1541@nyu.edu
+Author{1}{Affiliation}#=%=#Ohio State University
+Author{2}{Firstname}#=%=#Nasser
+Author{2}{Lastname}#=%=#Zalmout
+Author{2}{Email}#=%=#nasser.zalmout@gmail.com
+Author{2}{Affiliation}#=%=#NYU Abu Dhabi
+Author{3}{Firstname}#=%=#Nizar
+Author{3}{Lastname}#=%=#Habash
+Author{3}{Email}#=%=#nizar.habash@nyu.edu
+Author{3}{Affiliation}#=%=#New York University Abu Dhabi
+
+==========

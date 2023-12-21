@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Marian: Cost-effective High-Quality Neural Machine Translation in C++
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marcin Junczys-Dowmunt
+JobTitle#==#
+Organization#==#Microsoft, 1 Microsoft Way, WA 98121 Redmond
+Abstract#==#This paper describes the submissions of the ``Marian'' team to the WNMT 2018 shared task. We investigate combinations of teacher-student training, low-precision matrix products, auto-tuning and other methods to optimize the Transformer model on GPU and CPU. 
+By further integrating these methods with the new averaging attention networks, a recently introduced faster Transformer variant, we create a number of high-quality, high-performance models on the GPU and CPU, dominating the Pareto frontier for this shared task.
+Author{1}{Firstname}#=%=#Marcin
+Author{1}{Lastname}#=%=#Junczys-Dowmunt
+Author{1}{Email}#=%=#marcinjd@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft
+Author{2}{Firstname}#=%=#Kenneth
+Author{2}{Lastname}#=%=#Heafield
+Author{2}{Email}#=%=#softconf@kheafield.com
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Hieu
+Author{3}{Lastname}#=%=#Hoang
+Author{3}{Email}#=%=#hieuhoang@gmail.com
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Roman
+Author{4}{Lastname}#=%=#Grundkiewicz
+Author{4}{Email}#=%=#rgrundki@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+Author{5}{Firstname}#=%=#Anthony
+Author{5}{Lastname}#=%=#Aue
+Author{5}{Email}#=%=#anthaue@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+
+==========

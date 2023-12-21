@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data
+ShortPaperTitle#=%=#DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hang Yang
+JobTitle#==#
+Organization#==#Zhongguancun East Road 95, HaidDian District, Beijing, China. 100190
+Abstract#==#We present an event extraction framework to detect event mentions and extract events
+from the document-level financial news. Up to now, methods based on supervised learning paradigm gain the highest performance in public datasets (such as ACE2005, KBP2015). These methods heavily depend on the manually labeled training data. However, in particular areas, such as financial, medical and judicial domains, there is no enough labeled data due to the high cost of data labeling process. Moreover, most of the current methods focus on extracting events from one sentence, but an event is usually expressed by multiple sentences in one document. To solve these problems, we propose a Document-level Chinese Financial Event Extraction (DCFEE) system which can automatically generate a large scaled labeled data and extract events from the whole
+document. Experimental results demonstrate the effectiveness of it
+Author{1}{Firstname}#=%=#Hang
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#hang.yang@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yubo
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#yubo.chen@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Kang
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Yang
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Email}#=%=#yang.xiao@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Email}#=%=#jzhao@nlpr.ia.ac.cn
+Author{5}{Affiliation}#=%=#Chinese Academy of Sciences
+
+==========

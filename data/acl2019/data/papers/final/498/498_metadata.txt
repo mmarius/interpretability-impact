@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#498
+FinalPaperTitle#=%=#Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rui Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Coreference resolution aims to identify in a text all mentions that refer to
+the same real world entity.
+The state-of-the-art end-to-end neural coreference model considers all text
+spans in a document as potential mentions and learns to link an antecedent for
+each possible mention.
+In this paper, we propose to improve the end-to-end coreference resolution
+system by (1) using a biaffine attention model to get antecedent scores for
+each possible mention, and (2) jointly optimizing the mention detection
+accuracy and mention clustering accuracy given the mention cluster labels.
+Our model achieves the state-of-the-art performance on the CoNLL-2012 shared
+task English test set.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#r.zhang@yale.edu
+Author{1}{Affiliation}#=%=#Yale University
+Author{2}{Firstname}#=%=#Cicero
+Author{2}{Lastname}#=%=#Nogueira dos Santos
+Author{2}{Email}#=%=#cicerons@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM
+Author{3}{Firstname}#=%=#Michihiro
+Author{3}{Lastname}#=%=#Yasunaga
+Author{3}{Email}#=%=#michihiro.yasunaga@yale.edu
+Author{3}{Affiliation}#=%=#Yale University
+Author{4}{Firstname}#=%=#Bing
+Author{4}{Lastname}#=%=#Xiang
+Author{4}{Email}#=%=#bingxia@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+Author{5}{Firstname}#=%=#Dragomir
+Author{5}{Lastname}#=%=#Radev
+Author{5}{Email}#=%=#dragomir.radev@yale.edu
+Author{5}{Affiliation}#=%=#Yale University
+
+==========

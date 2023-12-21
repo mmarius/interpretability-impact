@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#740
+FinalPaperTitle#=%=#From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zihang Dai
+JobTitle#==#PhD
+Organization#==#CMU, LTI, 5000 Forbes Avenue, PA 15213, USA
+Abstract#==#In this work, we study the credit assignment problem in reward augmented
+maximum likelihood (RAML) learning, and establish a theoretical equivalence
+between the token-level counterpart of RAML and the entropy regularized
+reinforcement learning. Inspired by the connection, we propose two sequence
+prediction algorithms, one extending RAML with fine-grained credit assignment
+and the other improving Actor-Critic with a systematic entropy regularization.
+On two benchmark datasets, we show the proposed algorithms outperform RAML and
+Actor-Critic respectively, providing new alternatives to sequence prediction.
+Author{1}{Firstname}#=%=#Zihang
+Author{1}{Lastname}#=%=#Dai
+Author{1}{Email}#=%=#zander.dai@gmail.com
+Author{1}{Affiliation}#=%=#CMU
+Author{2}{Firstname}#=%=#Qizhe
+Author{2}{Lastname}#=%=#Xie
+Author{2}{Email}#=%=#qizhex@gmail.com
+Author{2}{Affiliation}#=%=#CMU
+Author{3}{Firstname}#=%=#Eduard
+Author{3}{Lastname}#=%=#Hovy
+Author{3}{Email}#=%=#hovy@cmu.edu
+Author{3}{Affiliation}#=%=#CMU
+
+==========

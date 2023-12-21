@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#SocialNLP 2018 EmotionX Challenge Overview: Recognizing Emotions in Dialogues
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper describes an overview of the Dialogue Emotion Recognition Challenge, EmotionX, at the Sixth SocialNLP Workshop, which recognizes the emotion of each utterance in dialogues. This challenge offers the EmotionLines dataset as the experimental materials. The EmotionLines dataset contains conversations from Friends TV show transcripts (Friends) and real chatting logs (EmotionPush), where every dialogue utterance is labeled with emotions. Organizers provide baseline results. 18 teams registered in this challenge and 5 of them submitted their results successfully. The best team achieves the unweighted accuracy 62.48 and 62.5 on EmotionPush and Friends, respectively. In this paper we present the task definition, test collection, the evaluation results of the groups that participated in this challenge, and their approach.
+Author{1}{Firstname}#=%=#Chao-Chun
+Author{1}{Lastname}#=%=#Hsu
+Author{1}{Email}#=%=#joe32140@iis.sinica.edu.tw
+Author{1}{Affiliation}#=%=#Academia Sinica
+Author{2}{Firstname}#=%=#Lun-Wei
+Author{2}{Lastname}#=%=#Ku
+Author{2}{Email}#=%=#lwku@iis.sinica.edu.tw
+Author{2}{Affiliation}#=%=#Academia Sinica
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#37
+FinalPaperTitle#=%=#Limitations of Cross-Lingual Learning from Image Search
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Mareike Hartmann
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Copenhagen, Denmark
+Abstract#==#Cross-lingual representation learning is an important step in making NLP scale to all the world's languages. Previous work on bilingual lexicon induction suggests that it is possible to learn cross-lingual representations of words based on similarities between images associated with these words. However, that work focused (almost exclusively) on the translation of nouns only. Here, we investigate whether the meaning of other parts-of-speech (POS), in particular adjectives and verbs, can be learned in the same way. Our experiments across five language pairs indicate that previous work does not scale to the problem of learning cross-lingual representations beyond simple nouns.
+Author{1}{Firstname}#=%=#Mareike
+Author{1}{Lastname}#=%=#Hartmann
+Author{1}{Email}#=%=#mrkhartmann4@gmail.com
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Anders
+Author{2}{Lastname}#=%=#Søgaard
+Author{2}{Email}#=%=#soegaard@di.ku.dk
+Author{2}{Affiliation}#=%=#University of Copenhagen
+
+==========

@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1519
+FinalPaperTitle#=%=#LinkNBed: Multi-Graph Representation Learning with Entity Linkage
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rakshit Trivedi
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+Abstract#==#Knowledge graphs have emerged as an important model for studying complex multi-relational data. This has given rise to the construction of numerous large scale but incomplete knowledge graphs encoding information extracted from various resources. An effective and scalable approach to jointly learn over multiple graphs and eventually construct a unified graph is a crucial next step for the success of knowledge-based inference for many downstream applications. To this end, we propose LinkNBed, a deep relational learning framework that learns entity and relationship representations across multiple graphs. We identify entity linkage across graphs as a vital component to achieve our goal.
+We design a novel objective that leverage entity linkage and build an efficient multi-task training procedure. Experiments on link prediction and entity linkage demonstrate substantial improvements over the state-of-the-art relational learning approaches.
+Author{1}{Firstname}#=%=#Rakshit
+Author{1}{Lastname}#=%=#Trivedi
+Author{1}{Email}#=%=#rstrivedi@gatech.edu
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Bunyamin
+Author{2}{Lastname}#=%=#Sisman
+Author{2}{Email}#=%=#bunyamis@amazon.com
+Author{2}{Affiliation}#=%=#Amazon
+Author{3}{Firstname}#=%=#Xin Luna
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Email}#=%=#lunadong@amazon.com
+Author{3}{Affiliation}#=%=#Amazon
+Author{4}{Firstname}#=%=#Christos
+Author{4}{Lastname}#=%=#Faloutsos
+Author{4}{Email}#=%=#faloutso@amazon.com
+Author{4}{Affiliation}#=%=#Amazon, CMU
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Ma
+Author{5}{Email}#=%=#junmaa@amazon.com
+Author{5}{Affiliation}#=%=#Amazon
+Author{6}{Firstname}#=%=#Hongyuan
+Author{6}{Lastname}#=%=#Zha
+Author{6}{Email}#=%=#zha@cc.gatech.edu
+Author{6}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#IIT (BHU) Varanasi at MSR-SRST 2018: A Language Model Based Approach for Natural Language Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shreyansh Singh
+JobTitle#==#
+Organization#==#Indian Institute of Technology (BHU), Varanasi, India
+Abstract#==#This paper describes our submission system for the Shallow Track of Surface Realization Shared Task 2018 (SRST'18). The task was to convert genuine UD structures, from which word order information had been removed and the tokens had been lemmatized, into their correct sentential form. We divide the problem statement into two parts, word reinflection and correct word order prediction. For the first sub-problem, we use a Long Short Term Memory based Encoder-Decoder approach. For the second sub-problem, we present a Language Model (LM) based approach. We apply two different sub-approaches in the LM Based approach and the combined result of these two approaches is considered as the final output of the system.
+Author{1}{Firstname}#=%=#Shreyansh
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Email}#=%=#shreyansh.singh.cse16@iitbhu.ac.in
+Author{1}{Affiliation}#=%=#IIT (BHU) Varanasi
+Author{2}{Firstname}#=%=#Ayush
+Author{2}{Lastname}#=%=#Sharma
+Author{2}{Email}#=%=#ayush.sharma.cse16@iitbhu.ac.in
+Author{2}{Affiliation}#=%=#IIT (BHU) Varanasi
+Author{3}{Firstname}#=%=#Avi
+Author{3}{Lastname}#=%=#Chawla
+Author{3}{Email}#=%=#avi.chawla.cse16@iitbhu.ac.in
+Author{3}{Affiliation}#=%=#IIT (BHU) Varanasi
+Author{4}{Firstname}#=%=#A.K.
+Author{4}{Lastname}#=%=#Singh
+Author{4}{Email}#=%=#aksingh.cse@iitbhu.ac.in
+Author{4}{Affiliation}#=%=#IIT (BHU) Varanasi
+
+==========

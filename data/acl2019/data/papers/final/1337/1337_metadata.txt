@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#1337
+FinalPaperTitle#=%=#Identification of Alias Links among Participants in Narratives
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sangameshwar Patil
+JobTitle#==#
+Organization#==#TCS, 54-B, TRDDC, Hadapsar I.E., Pune 411013, India
+Abstract#==#Identification of distinct and independent participants (entities of interest)
+in a narrative is an important task for many NLP applications. This task
+becomes challenging because these participants are often referred to using
+multiple aliases.  In this paper, we propose an approach based on linguistic
+knowledge for identification of aliases mentioned using proper nouns, pronouns
+or noun phrases with common noun headword. We use Markov Logic Network (MLN) to
+encode the linguistic knowledge for identification of aliases. We evaluate on
+four diverse history narratives of varying complexity. Our approach performs
+better than the state-of-the-art approach as well as a combination of standard
+named entity recognition and coreference resolution techniques.
+Author{1}{Firstname}#=%=#Sangameshwar
+Author{1}{Lastname}#=%=#Patil
+Author{1}{Email}#=%=#sangameshwar.patil@tcs.com
+Author{1}{Affiliation}#=%=#TRDDC, TCS
+Author{2}{Firstname}#=%=#Sachin
+Author{2}{Lastname}#=%=#Pawar
+Author{2}{Email}#=%=#sachin7.p@tcs.com
+Author{2}{Affiliation}#=%=#Tata Consultancy Services Ltd.
+Author{3}{Firstname}#=%=#Swapnil
+Author{3}{Lastname}#=%=#Hingmire
+Author{3}{Email}#=%=#swapnil.hingmire@tcs.com
+Author{3}{Affiliation}#=%=#Systems Research Lab, Tata Research Development and Design Center, Pune, India
+Author{4}{Firstname}#=%=#Girish
+Author{4}{Lastname}#=%=#Palshikar
+Author{4}{Email}#=%=#gk.palshikar@tcs.com
+Author{4}{Affiliation}#=%=#TRDDC, TCS
+Author{5}{Firstname}#=%=#Vasudeva
+Author{5}{Lastname}#=%=#Varma
+Author{5}{Email}#=%=#vv@iiit.ac.in
+Author{5}{Affiliation}#=%=#IIIT Hyderabad
+Author{6}{Firstname}#=%=#Pushpak
+Author{6}{Lastname}#=%=#Bhattacharyya
+Author{6}{Email}#=%=#pushpakbh@gmail.com
+Author{6}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

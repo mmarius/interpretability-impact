@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1006
+FinalPaperTitle#=%=#Joint Embedding of Words and Labels for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Guoyin Wang
+JobTitle#==#
+Organization#==#Duke University
+Abstract#==#Word embeddings are effective intermediate representations for capturing semantic regularities between words, when learning the representations of text sequences. We propose to view text classification as a label-word joint embedding problem: each label is embedded in the same space with the word vectors. We introduce an attention framework that measures the compatibility of embeddings between text sequences and labels. The attention is learned on a training set of labeled samples to ensure that, given a text sequence, the relevant words are weighted higher than the irrelevant ones. Our method maintains the interpretability of word embeddings, and enjoys a built-in ability to leverage alternative sources of information, in addition to input text sequences.  Extensive results on the several large text datasets show that the proposed framework outperforms the state-of-the-art methods by a large margin, in terms of both accuracy and speed.
+Author{1}{Firstname}#=%=#Guoyin
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#guoyin.wang@duke.edu
+Author{1}{Affiliation}#=%=#Duke University
+Author{2}{Firstname}#=%=#Chunyuan
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#chunyuan.li@duke.edu
+Author{2}{Affiliation}#=%=#Duke University
+Author{3}{Firstname}#=%=#Wenlin
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wenlin.wang@duke.edu
+Author{3}{Affiliation}#=%=#Duke University
+Author{4}{Firstname}#=%=#Yizhe
+Author{4}{Lastname}#=%=#Zhang
+Author{4}{Email}#=%=#jeremy071242044@gmail.com
+Author{4}{Affiliation}#=%=#Duke University
+Author{5}{Firstname}#=%=#Dinghan
+Author{5}{Lastname}#=%=#Shen
+Author{5}{Email}#=%=#dinghan.shen@duke.edu
+Author{5}{Affiliation}#=%=#Duke University
+Author{6}{Firstname}#=%=#Xinyuan
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#xy.zhang@duke.edu
+Author{6}{Affiliation}#=%=#Duke University
+Author{7}{Firstname}#=%=#Ricardo
+Author{7}{Lastname}#=%=#Henao
+Author{7}{Email}#=%=#ricardo.henao@duke.edu
+Author{7}{Affiliation}#=%=#Duke University
+Author{8}{Firstname}#=%=#Lawrence
+Author{8}{Lastname}#=%=#Carin
+Author{8}{Email}#=%=#lcarin@duke.edu
+Author{8}{Affiliation}#=%=#Duke University
+
+==========

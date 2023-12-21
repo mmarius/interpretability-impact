@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#On Individual Neurons in Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural machine translation (NMT) models learn representations containing substantial linguistic information. However, it is not clear if such information is fully distributed or can be attributed to individual neurons. We develop a simple unsupervised method to discover important neurons in NMT and show experimentally that translation quality depends on the discovered neurons. We visualize these neurons and find that many of them capture common linguistic phenomena. We also demonstrate how to control the behavior of NMT systems by modifying individual neurons, providing a powerful tool for analyzing and improving NMT.
+
+This is a submission to the extended abstract track
+Author{1}{Firstname}#=%=#D. Anthony
+Author{1}{Lastname}#=%=#Bau
+Author{1}{Email}#=%=#abau@mit.edu
+Author{1}{Affiliation}#=%=#Massachusetts Institute of Technology
+Author{2}{Firstname}#=%=#Yonatan
+Author{2}{Lastname}#=%=#Belinkov
+Author{2}{Email}#=%=#belinkov@mit.edu
+Author{2}{Affiliation}#=%=#MIT CSAIL
+Author{3}{Firstname}#=%=#Hassan
+Author{3}{Lastname}#=%=#Sajjad
+Author{3}{Email}#=%=#hsajjad@qf.org.qa
+Author{3}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{4}{Firstname}#=%=#Nadir
+Author{4}{Lastname}#=%=#Durrani
+Author{4}{Email}#=%=#ndurrani@qf.org.qa
+Author{4}{Affiliation}#=%=#QCRI
+Author{5}{Firstname}#=%=#Fahim
+Author{5}{Lastname}#=%=#Dalvi
+Author{5}{Email}#=%=#faimaduddin@qf.org.qa
+Author{5}{Affiliation}#=%=#Qatar Computing Research Institute
+Author{6}{Firstname}#=%=#James
+Author{6}{Lastname}#=%=#Glass
+Author{6}{Email}#=%=#glass@mit.edu
+Author{6}{Affiliation}#=%=#Massachusetts Institute of Technology
+
+==========

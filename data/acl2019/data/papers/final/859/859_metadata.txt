@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#859
+FinalPaperTitle#=%=#Learning from Chunk-based Feedback in Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Shahram Khadivi
+JobTitle#==#
+Organization#==#eBay Inc., Aachen, Germany
+Abstract#==#We empirically investigate learning from partial feedback in neural machine translation
+(NMT), when partial feedback is collected by asking users to highlight a correct
+chunk of a translation. We propose a simple and effective way of utilizing such
+feedback in NMT training. We demonstrate how the common machine translation
+problem of domain mismatch between training and deployment can be reduced
+solely based on chunk-level user feedback. We conduct a series of simulation
+experiments to test the effectiveness of the proposed method. Our results show that chunk-level feedback outperforms sentence based feedback by up to 2.61% BLEU absolute.
+Author{1}{Firstname}#=%=#Pavel
+Author{1}{Lastname}#=%=#Petrushkov
+Author{1}{Email}#=%=#ppetrushkov@ebay.com
+Author{1}{Affiliation}#=%=#eBay
+Author{2}{Firstname}#=%=#Shahram
+Author{2}{Lastname}#=%=#Khadivi
+Author{2}{Email}#=%=#skhadivi@ebay.com
+Author{2}{Affiliation}#=%=#eBay
+Author{3}{Firstname}#=%=#Evgeny
+Author{3}{Lastname}#=%=#Matusov
+Author{3}{Email}#=%=#ematusov@ebay.com
+Author{3}{Affiliation}#=%=#eBay
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#477
+FinalPaperTitle#=%=#Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Milton King
+JobTitle#==#
+Organization#==#University of New Brunswick, 550 Windsor St, Fredericton, NB E3B 5A3
+Abstract#==#Verb-noun combinations (VNCs) - e.g., blow the whistle, hit the roof, and
+see stars - are a common type of English idiom that are ambiguous with
+literal usages. In this paper we propose and evaluate models for classifying
+VNC usages as idiomatic or literal, based on a variety of approaches to forming
+distributed representations. Our results show that a model based on averaging
+word embeddings performs on par with, or better than, a previously-proposed
+approach based on skip-thoughts. Idiomatic usages of VNCs are known to exhibit
+lexico-syntactic fixedness. We further incorporate this information into our
+models, demonstrating that this rich linguistic knowledge is complementary to
+the information carried by distributed representations.
+Author{1}{Firstname}#=%=#Milton
+Author{1}{Lastname}#=%=#King
+Author{1}{Email}#=%=#milton.king@unb.ca
+Author{1}{Affiliation}#=%=#University of New Brunswick
+Author{2}{Firstname}#=%=#Paul
+Author{2}{Lastname}#=%=#Cook
+Author{2}{Email}#=%=#paul.cook@unb.ca
+Author{2}{Affiliation}#=%=#University of New Brunswick
+
+==========

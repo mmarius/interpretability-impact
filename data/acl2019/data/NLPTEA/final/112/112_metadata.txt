@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#112
+FinalPaperTitle#=%=#Textual Features Indicative of Writing Proficiency in Elementary School Spanish Documents
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gemma Bel-Enguix
+JobTitle#==#Textual Features Indicative of Writing Proficiency in Elementary School Spanish Documents
+Organization#==#Universidad Nacional Autonoma de Mexico
+Abstract#==#Childhood acquisition of written language is not straightforward. Writing skills evolve differently depending on external factors, such as the conditions in which children practice their productions and the quality of their instructors' guidance. This can be challenging in low-income areas, where schools may struggle to ensure ideal acquisition conditions. Developing computational tools to support the learning process may counterweight negative environmental influences; however, few work exists on the use of information technologies to improve childhood literacy.
+
+This work centers around the computational study of Spanish word and syllable structure in documents written by 2nd and 3rd year elementary school students. The studied texts were compared against a corpus of short stories aimed at the same age group, so as to observe whether the children tend to produce similar written patterns as the ones they are expected to interpret at their literacy level. The obtained results show some significant differences between the two kinds of texts, pointing towards possible strategies for the implementation of new education software in support of written language acquisition.
+Author{1}{Firstname}#=%=#Gemma
+Author{1}{Lastname}#=%=#Bel-Enguix
+Author{1}{Email}#=%=#gbele@iingen.unam.mx
+Author{1}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{2}{Firstname}#=%=#Diana
+Author{2}{Lastname}#=%=#Dueñas Chavez
+Author{2}{Email}#=%=#dduenasc@iingen.unam.mx
+Author{2}{Affiliation}#=%=#Universidad Nacional Autónoma de México
+Author{3}{Firstname}#=%=#Arturo
+Author{3}{Lastname}#=%=#Curiel Díaz
+Author{3}{Email}#=%=#curieldaz@gmail.com
+Author{3}{Affiliation}#=%=#Universidad Veracruzana
+
+==========

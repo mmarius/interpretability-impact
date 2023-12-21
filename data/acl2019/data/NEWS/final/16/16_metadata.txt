@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Statistical Machine Transliteration Baselines for NEWS 2018
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Snigdha Singhania
+JobTitle#==#
+Organization#==#National University of Singapore
+Abstract#==#This paper reports the results of our trans-literation experiments conducted on NEWS 2018 Shared Task dataset. We focus on creating the baseline systems trained using two open-source, statistical transliteration tools, namely Sequitur and Moses. We discuss the pre-processing steps performed on this dataset for both the systems. We also provide a re-ranking system which uses top hypotheses from Sequitur and Moses to create a consolidated list of transliterations. The results obtained from each of these models can be used to present a good starting point for the participating teams.
+Author{1}{Firstname}#=%=#Snigdha
+Author{1}{Lastname}#=%=#Singhania
+Author{1}{Email}#=%=#singhaniasnigdha@gmail.com
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Minh
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#minhnb3192@gmail.com
+Author{2}{Affiliation}#=%=#National University of Singapore
+Author{3}{Firstname}#=%=#Gia H
+Author{3}{Lastname}#=%=#Ngo
+Author{3}{Email}#=%=#ngohgia@u.nus.edu
+Author{3}{Affiliation}#=%=#National University of Singapore
+Author{4}{Firstname}#=%=#Nancy
+Author{4}{Lastname}#=%=#Chen
+Author{4}{Email}#=%=#nancychen@alum.mit.edu
+Author{4}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

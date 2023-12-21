@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#A Twitter Corpus for Hindi-English Code Mixed POS Tagging
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kushagra Singh
+JobTitle#==#
+Organization#==#IIIT Delhi, India
+Abstract#==#Code-mixing is a linguistic phenomenon where multiple languages are used in the same occurrence that is increasingly common in multilingual societies. Code-mixed content on social media is also on the rise, prompting the need for tools to automatically understand such content. Automatic Parts-of-Speech (POS) tagging is an essential step in any Natural Language Processing (NLP) pipeline, but there is a lack of annotated data to train such models. In this work, we present a unique language tagged and POS-tagged dataset of code-mixed English-Hindi tweets related to five incidents in India that led to a lot of Twitter activity. Our dataset is unique in two dimensions: (i) it is larger than previous annotated datasets and (ii) it closely resembles typical real-world tweets. Additionally, we present a POS tagging model that is trained on this dataset to provide an example of how this dataset can be used. The model also shows the efficacy of our dataset in enabling the creation of code-mixed social media POS taggers.
+Author{1}{Firstname}#=%=#Kushagra
+Author{1}{Lastname}#=%=#Singh
+Author{1}{Email}#=%=#kushagra14056@iiitd.ac.in
+Author{1}{Affiliation}#=%=#IIIT Delhi
+Author{2}{Firstname}#=%=#Indira
+Author{2}{Lastname}#=%=#Sen
+Author{2}{Email}#=%=#indira15021@iiitd.ac.in
+Author{2}{Affiliation}#=%=#IIIT Delhi
+Author{3}{Firstname}#=%=#Ponnurangam
+Author{3}{Lastname}#=%=#Kumaraguru
+Author{3}{Email}#=%=#pk@iiitd.ac.in
+Author{3}{Affiliation}#=%=#IIIT Delhi
+
+==========

@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#457
+FinalPaperTitle#=%=#Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bernd Bohnet
+JobTitle#==#
+Organization#==#Google Inc.
+Abstract#==#The rise of neural networks, and particularly recurrent neural networks, has
+produced significant advances in part-of-speech tagging accuracy. One
+characteristic common among these models is the presence of rich initial word
+encodings. These encodings typically are composed of a recurrent
+character-based representation with dynamically and pre-trained word
+embeddings. However, these encodings do not consider a context wider than a
+single word and it is only through subsequent recurrent layers that word or
+sub-word information interacts. In this paper, we investigate models that use
+recurrent neural networks with sentence-level context for initial character and
+word-based representations. In particular we show that optimal results are
+obtained by integrating these context sensitive representations through
+synchronized training with a meta-model that learns to combine their states.
+Author{1}{Firstname}#=%=#Bernd
+Author{1}{Lastname}#=%=#Bohnet
+Author{1}{Email}#=%=#bohnetbd@gmail.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Ryan
+Author{2}{Lastname}#=%=#McDonald
+Author{2}{Email}#=%=#ryanmcd@gmail.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Gonçalo
+Author{3}{Lastname}#=%=#Simões
+Author{3}{Email}#=%=#gsimoes@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Andor
+Author{4}{Email}#=%=#danielandor@google.com
+Author{4}{Affiliation}#=%=#Google Inc.
+Author{5}{Firstname}#=%=#Emily
+Author{5}{Lastname}#=%=#Pitler
+Author{5}{Email}#=%=#emily.pitler@gmail.com
+Author{5}{Affiliation}#=%=#Google, Inc.
+Author{6}{Firstname}#=%=#Joshua
+Author{6}{Lastname}#=%=#Maynez
+Author{6}{Email}#=%=#joshuahm@google.com
+Author{6}{Affiliation}#=%=#Google Inc.
+
+==========

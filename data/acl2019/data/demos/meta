@@ -1,0 +1,12 @@
+abbrev Demos
+type Demo Track
+title ACL 2018 System Demonstration Track
+url https://acl2018.org/call-for-papers/sys-demos/
+booktitle Proceedings of ACL 2018, System Demonstrations
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Fei Liu (University of Central Florida)
+chairs Thamar Solorio (University of Houston)
+bib_url http://www.aclweb.org/anthology/P18-4%03d

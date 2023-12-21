@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1034
+FinalPaperTitle#=%=#Diachronic degradation of language models: Insights from social media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kokil Jaidka
+JobTitle#==#
+Organization#==#University of Pennsylvania, 3701 Market Street Philadelphia
+Abstract#==#Natural languages change over time because they evolve to the needs of their users and the socio-technological environment. This study investigates the diachronic accuracy of pre-trained language models for downstream tasks in machine learning and user profiling. It asks the question: given that the social media platform and its users remain the same, how is language changing over time? How can these differences be used to track the changes in the affect around a particular topic? To our knowledge, this is the first study to show that it is possible to measure diachronic semantic drifts within social media and within the span of a few years.
+Author{1}{Firstname}#=%=#Kokil
+Author{1}{Lastname}#=%=#Jaidka
+Author{1}{Email}#=%=#kokil.j@gmail.com
+Author{1}{Affiliation}#=%=#University of Pennsylvania
+Author{2}{Firstname}#=%=#Niyati
+Author{2}{Lastname}#=%=#Chhaya
+Author{2}{Email}#=%=#nchhaya@adobe.com
+Author{2}{Affiliation}#=%=#Adobe Research
+Author{3}{Firstname}#=%=#Lyle
+Author{3}{Lastname}#=%=#Ungar
+Author{3}{Email}#=%=#ungar@cis.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

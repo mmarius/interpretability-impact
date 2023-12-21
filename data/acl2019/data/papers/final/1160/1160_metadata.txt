@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#1160
+FinalPaperTitle#=%=#Automatic Extraction of Commonsense LocatedNear Knowledge
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Frank F. Xu
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai, China, 200240
+Abstract#==#LocatedNear relation is a kind of commonsense knowledge describing two physical
+objects that are typically found near each other in real life. In this paper, we
+study how to automatically extract such relationship through a sentence-level relation classifier and aggregating the scores of entity pairs from a large corpus. Also, we release two benchmark datasets for evaluation and future research.
+Author{1}{Firstname}#=%=#Frank F.
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#frankxu2004@gmail.com
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Bill Yuchen
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#yuchenlin1995@gmail.com
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Kenny
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#kzhu@cs.sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

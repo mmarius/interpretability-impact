@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1326
+FinalPaperTitle#=%=#Pre- and In-Parsing Models for Neural Empty Category Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yufei Chen
+JobTitle#==#
+Organization#==#Institute of Computer Science and Technology, Peking University, No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, P. R. China
+Abstract#==#Motivated by the positive impact of empty category on syntactic parsing, 
+we study neural models for pre- and in-parsing detection of empty category,
+which has not previously been investigated.
+We find several non-obvious facts: 
+  (a) BiLSTM can capture non-local contextual information which is essential
+for detecting empty categories,
+  (b) even with a BiLSTM, syntactic information is still able to enhance the
+detection, and
+  (c) automatic detection of empty categories improves parsing quality for
+overt words.
+Our neural ECD models outperform the prior state-of-the-art by significant
+margins.
+Author{1}{Firstname}#=%=#Yufei
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#yufei.chen@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computer Science & Technology, Peking University
+Author{2}{Firstname}#=%=#Yuanyuan
+Author{2}{Lastname}#=%=#Zhao
+Author{2}{Email}#=%=#zhaoyy1461@163.com
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Weiwei
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#ws@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Xiaojun
+Author{4}{Lastname}#=%=#Wan
+Author{4}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

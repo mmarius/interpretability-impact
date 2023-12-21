@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1525
+FinalPaperTitle#=%=#Gaussian Mixture Latent Vector Grammars
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yanpeng Zhao
+JobTitle#==#
+Organization#==#ShanghaiTech University; 393 Middle Huaxia Road, Pudong, Shanghai, China
+Abstract#==#We introduce Latent Vector Grammars (LVeGs), a new framework that extends latent variable grammars such that each nonterminal symbol is associated with a continuous vector space representing the set of (infinitely many) subtypes of the nonterminal.
+We show that previous models such as latent variable grammars and compositional vector grammars can be interpreted as special cases of LVeGs.
+We then present Gaussian Mixture LVeGs (GM-LVeGs), a new special case of LVeGs that uses Gaussian mixtures to formulate the weights of production rules over subtypes of nonterminals.
+A major advantage of using Gaussian mixtures is that the partition function and the expectations of subtype rules can be computed using an extension of the inside-outside algorithm, which enables efficient inference and learning.
+We apply GM-LVeGs to part-of-speech tagging and constituency parsing and show that GM-LVeGs can achieve competitive accuracies.
+Author{1}{Firstname}#=%=#Yanpeng
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#zhaoyp1@shanghaitech.edu.cn
+Author{1}{Affiliation}#=%=#ShanghaiTech University
+Author{2}{Firstname}#=%=#Liwen
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zhanglw1@shanghaitech.edu.cn
+Author{2}{Affiliation}#=%=#ShanghaiTech University
+Author{3}{Firstname}#=%=#Kewei
+Author{3}{Lastname}#=%=#Tu
+Author{3}{Email}#=%=#tukw@shanghaitech.edu.cn
+Author{3}{Affiliation}#=%=#ShanghaiTech University
+
+==========

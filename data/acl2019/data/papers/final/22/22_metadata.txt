@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#xiangrong zeng
+JobTitle#==#author
+Organization#==#National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+Abstract#==#The relational facts in sentences are often complicated. Different relational
+triplets may have overlaps in a sentence. We divided the sentences into three
+types according to triplet overlap degree, including Normal,
+EntityPairOverlap and SingleEntiyOverlap. Existing methods mainly focus on
+Normal
+class and fail to extract relational triplets precisely. In this paper, we
+propose an end-to-end model based on sequence-to-sequence learning with copy
+mechanism, which can jointly extract relational facts from sentences of any of
+these classes. We adopt two different strategies in decoding process: employing
+only one united decoder or applying multiple separated decoders. We test our
+models in two public datasets and our model outperform the baseline method
+significantly.
+Author{1}{Firstname}#=%=#Xiangrong
+Author{1}{Lastname}#=%=#Zeng
+Author{1}{Email}#=%=#xiangrong.zeng@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Daojian
+Author{2}{Lastname}#=%=#Zeng
+Author{2}{Email}#=%=#zengdj916@163.com
+Author{2}{Affiliation}#=%=#Changsha University of Science & Technology
+Author{3}{Firstname}#=%=#Shizhu
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#shizhu.he@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Kang
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{4}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Zhao
+Author{5}{Email}#=%=#junzhao123@163.com
+Author{5}{Affiliation}#=%=#NLPR, Institute of Automation, Chinese Academy of Sciences
+
+==========

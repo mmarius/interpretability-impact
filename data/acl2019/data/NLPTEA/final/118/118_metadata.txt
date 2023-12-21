@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Learning to Automatically Generate Fill-In-The-Blank Quizzes
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Edison Marrese-Taylor
+JobTitle#==#
+Organization#==#The University of Tokyo
+Abstract#==#In this paper we formalize the problem automatic fill-in-the-blank question generation using two standard NLP machine learning schemes, proposing concrete deep learning models for each. We present an empirical study based on data obtained from a language learning platform showing that both of our proposed settings offer promising results.
+Author{1}{Firstname}#=%=#Edison
+Author{1}{Lastname}#=%=#Marrese-Taylor
+Author{1}{Email}#=%=#edison_marrese@hotmail.com
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Ai
+Author{2}{Lastname}#=%=#Nakajima
+Author{2}{Email}#=%=#ainakajima@weblab.t.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#The University of Tokyo
+Author{3}{Firstname}#=%=#Yutaka
+Author{3}{Lastname}#=%=#Matsuo
+Author{3}{Email}#=%=#matsuo@weblab.t.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#University of Tokyo
+Author{4}{Firstname}#=%=#Ono
+Author{4}{Lastname}#=%=#Yuichi
+Author{4}{Email}#=%=#ono.yuichi.ga@u.tsukuba.ac.jp
+Author{4}{Affiliation}#=%=#University of Tsukuba
+
+==========

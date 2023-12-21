@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#792
+FinalPaperTitle#=%=#Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Madhav Nimishakavi
+JobTitle#==#
+Organization#==#Indian Institute of Science, Bangalore, India
+Abstract#==#Relation Schema Induction (RSI) is the problem of identifying type signatures
+of arguments of relations from unlabeled text. Most of the previous work in
+this area have focused only on binary RSI, i.e., inducing only the subject and
+object type signatures per relation. However, in practice, many relations are
+high-order, i.e., they have more than two arguments and inducing type
+signatures of all arguments is necessary. For example, in the sports domain,
+inducing a schema win(WinningPlayer, OpponentPlayer, Tournament, Location) is
+more informative than inducing just win(WinningPlayer, OpponentPlayer). We
+refer to this problem as Higher-order Relation Schema Induction (HRSI). In this
+paper, we propose Tensor Factorization with Back-off and Aggregation (TFBA), a
+novel framework for the HRSI problem. To the best of our knowledge, this is the
+first attempt at inducing higher-order relation schemata from unlabeled text.
+Using the experimental analysis on three real world datasets we show how TFBA
+helps in dealing with sparsity and induce higher-order schemata.
+Author{1}{Firstname}#=%=#Madhav
+Author{1}{Lastname}#=%=#Nimishakavi
+Author{1}{Email}#=%=#cse.madhav@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Science
+Author{2}{Firstname}#=%=#Manish
+Author{2}{Lastname}#=%=#Gupta
+Author{2}{Email}#=%=#manishg@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft
+Author{3}{Firstname}#=%=#Partha
+Author{3}{Lastname}#=%=#Talukdar
+Author{3}{Email}#=%=#ppt@iisc.ac.in
+Author{3}{Affiliation}#=%=#Indian Institute of Science
+
+==========

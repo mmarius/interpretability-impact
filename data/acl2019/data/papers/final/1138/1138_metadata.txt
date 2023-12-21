@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1138
+FinalPaperTitle#=%=#Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Maria Glenski
+JobTitle#==#
+Organization#==#University of Notre Dame, Notre Dame, IN
+Abstract#==#In the age of social news, it is important to understand the types of reactions
+that are evoked from news sources with various levels of credibility. In the
+present work we seek to better understand how users react to trusted and
+deceptive news sources across two popular, and very different, social media
+platforms. To that end, (1) we develop a model to classify user reactions into
+one of nine types, such as answer, elaboration, and question, etc, and (2) we
+measure the speed and the type of reaction for trusted and deceptive news
+sources for 10.8M Twitter posts and 6.2M Reddit comments. We show that there
+are significant differences in the speed and the type of reactions between
+trusted and deceptive news sources on Twitter, but far smaller differences on
+Reddit.
+Author{1}{Firstname}#=%=#Maria
+Author{1}{Lastname}#=%=#Glenski
+Author{1}{Email}#=%=#mglenski@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#Tim
+Author{2}{Lastname}#=%=#Weninger
+Author{2}{Email}#=%=#tweninge@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#Svitlana
+Author{3}{Lastname}#=%=#Volkova
+Author{3}{Email}#=%=#svitlana.volkova@pnnl.gov
+Author{3}{Affiliation}#=%=#Pacific Northwest National Laboratory
+
+==========

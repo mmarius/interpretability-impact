@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Word Embeddings-Based Uncertainty Detection in Financial Disclosures
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Christoph Kilian Theil
+JobTitle#==#
+Organization#==#University of Mannheim, Germany
+Abstract#==#In this paper, we use NLP techniques to detect linguistic uncertainty in financial disclosures. Leveraging general-domain and domain-specific word embedding models, we automatically expand an existing dictionary of uncertainty triggers. We furthermore examine how an expert filtering affects the quality of such an expansion. We show that the dictionary expansions significantly improve regressions on stock return volatility. Lastly, we prove that the expansions significantly boost the automatic detection of uncertain sentences.
+Author{1}{Firstname}#=%=#Christoph Kilian
+Author{1}{Lastname}#=%=#Theil
+Author{1}{Email}#=%=#christoph@informatik.uni-mannheim.de
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Sanja
+Author{2}{Lastname}#=%=#Stajner
+Author{2}{Email}#=%=#stajner.sanja@gmail.com
+Author{2}{Affiliation}#=%=#University of Mannheim
+Author{3}{Firstname}#=%=#Heiner
+Author{3}{Lastname}#=%=#Stuckenschmidt
+Author{3}{Email}#=%=#heiner@informatik.uni-mannheim.de
+Author{3}{Affiliation}#=%=#University of Mannheim
+
+==========

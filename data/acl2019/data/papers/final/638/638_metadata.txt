@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#638
+FinalPaperTitle#=%=#Mining Cross-Cultural Differences and Similarities in Social Media
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuchen Lin
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University, Dongchuan Road 800., Shanghai, China
+Abstract#==#Cross-cultural differences and similarities are common in cross-lingual natural language understanding, especially for research in social media. For instance, people of distinct cultures often hold different opinions on a single named entity. Also, understanding slang terms across languages requires knowledge of cross-cultural similarities.  In this paper, we study the problem of computing such cross-cultural differences and similarities. We present a lightweight yet effective approach, and evaluate it on two novel tasks: 1) mining cross-cultural differences of named entities and 2) finding similar terms for slang across languages.  Experimental results show that our framework substantially outperforms a number of baseline methods on both tasks. The framework could be useful for machine translation applications and research in computational social science.
+Author{1}{Firstname}#=%=#Bill Yuchen
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#yuchenlin1995@gmail.com
+Author{1}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Frank F.
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#frankxu2004@gmail.com
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Kenny
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#kzhu@cs.sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{4}{Firstname}#=%=#Seung-won
+Author{4}{Lastname}#=%=#Hwang
+Author{4}{Email}#=%=#seungwonh@yonsei.ac.kr
+Author{4}{Affiliation}#=%=#Yonsei University
+
+==========

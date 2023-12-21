@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#499
+FinalPaperTitle#=%=#Sentence-State LSTM for Text Representation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Linfeng Song
+JobTitle#==#
+Organization#==#University of Rochester
+Abstract#==#Bi-directional LSTMs are a powerful tool
+for text representation. On the other
+hand, they have been shown to suffer 
+various limitations due to their sequential 
+nature. We investigate an alternative LSTM
+structure for encoding text, which consists
+of a parallel state for each word. Recurrent 
+steps are used to perform local
+and global information exchange between
+words simultaneously, rather than incremental 
+reading of a sequence of words.
+Results on various classification and sequence 
+labelling benchmarks show that
+the proposed model has strong representation 
+power, giving highly competitive performances 
+compared to stacked BiLSTM
+models with similar parameter numbers.
+Author{1}{Firstname}#=%=#Yue
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Qi
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#leuchine@gmail.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Linfeng
+Author{3}{Lastname}#=%=#Song
+Author{3}{Email}#=%=#freesunshine0316@gmail.com
+Author{3}{Affiliation}#=%=#University of Rochester
+
+==========

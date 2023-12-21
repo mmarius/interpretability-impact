@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#51
+FinalPaperTitle#=%=#Exploring Chunk Based Templates for Generating a subset of English Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nikhilesh Bhatnagar
+JobTitle#==#
+Organization#==#International Institute of Information Technology Hyderabad
+Abstract#==#Natural Language Generation (NLG) is a research task which addresses the automatic generation of natural language text representative of an input non-linguistic collection of knowledge. In this paper, we address the task of the generation of grammatical sentences in an isolated context given a partial bag-of-words which the generated sentence must contain. We view the task as a search problem (a problem of choice) involving combinations of smaller chunk based templates extracted from a training corpus to construct a complete sentence. To achieve that, we propose a fitness function which we use in conjunction with an evolutionary algorithm as the search procedure to arrive at a potentially grammatical sentence (modeled by the fitness score) which satisfies the input constraints.
+Author{1}{Firstname}#=%=#Nikhilesh
+Author{1}{Lastname}#=%=#Bhatnagar
+Author{1}{Email}#=%=#tingc9@gmail.com
+Author{1}{Affiliation}#=%=#International Institute of Information Technology, Hyderabad
+Author{2}{Firstname}#=%=#Manish
+Author{2}{Lastname}#=%=#Shrivastava
+Author{2}{Email}#=%=#m.shrivastava@iiit.ac.in
+Author{2}{Affiliation}#=%=#International Institute of Information Technology Hyderabad
+Author{3}{Firstname}#=%=#Radhika
+Author{3}{Lastname}#=%=#Mamidi
+Author{3}{Email}#=%=#radhika.mamidi@iiit.ac.in
+Author{3}{Affiliation}#=%=#IIIT Hyderabad
+
+==========

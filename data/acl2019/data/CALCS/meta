@@ -1,0 +1,16 @@
+abbrev W18-32
+type Workshop
+title Third Workshop on Computational Approaches to Linguistic Code-Switching
+url https://code-switching.github.io/2018/
+booktitle Proceedings of the Third Workshop on Computational Approaches to Linguistic Code-Switching
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Gustavo Aguilar (University of Houston)
+chairs Fahad AlGhamdi (George Washington University)
+chairs Victor Soto (Columbia University)
+chairs Thamar Solorio (University of Houston)
+chairs Mona Diab (George Washington University)
+chairs Julia Hirschberg (Columbia University)
+bib_url http://www.aclweb.org/anthology/W18-32%02d

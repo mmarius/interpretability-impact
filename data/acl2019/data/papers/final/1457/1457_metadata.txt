@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1457
+FinalPaperTitle#=%=#Towards Robust and Privacy-preserving Text Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yitong Li
+JobTitle#==#
+Organization#==#The University of Melbourne, VIC, Australia, 3010
+Abstract#==#Written text often provides sufficient clues to identify the author, their gender, age, and other important attributes.
+Consequently, the authorship of training and evaluation corpora can have unforeseen impacts, including differing model performance for different user groups, as well as privacy implications.
+In this paper, we propose an approach to explicitly obscure important author characteristics at training time, such that representations learned are invariant to these attributes.
+Evaluating on two tasks, we show that this leads to increased privacy in the learned representations, as well as more robust models to varying evaluation conditions, including out-of-domain corpora.
+Author{1}{Firstname}#=%=#Yitong
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#yitongl4@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#Baldwin
+Author{2}{Email}#=%=#tb@ldwin.net
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#Trevor
+Author{3}{Lastname}#=%=#Cohn
+Author{3}{Email}#=%=#tcohn@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+
+==========

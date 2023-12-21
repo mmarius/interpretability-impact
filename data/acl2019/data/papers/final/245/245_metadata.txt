@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#245
+FinalPaperTitle#=%=#Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zhenghao Liu
+JobTitle#==#
+Organization#==#Tsinghua University, Beijing, China
+Abstract#==#This paper presents the Entity-Duet Neural Ranking Model (EDRM), which introduces knowledge graphs to neural search systems. EDRM represents queries and documents by their words and entity annotations. The semantics from knowledge graphs are integrated in the distributed representations of their entities, while the ranking is conducted by interaction-based neural ranking networks. The two components are learned end-to-end, making EDRM a natural combination of entity-oriented search and neural information retrieval. Our experiments on a commercial search log demonstrate the effectiveness of EDRM. Our analyses reveal that knowledge graph semantics significantly improve the generalization ability of neural ranking models.
+Author{1}{Firstname}#=%=#Zhenghao
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#liuzhenghao0819@gmail.com
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Chenyan
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#cx@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Maosong
+Author{3}{Lastname}#=%=#Sun
+Author{3}{Email}#=%=#sms@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Zhiyuan
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liuzy@tsinghua.edu.cn
+Author{4}{Affiliation}#=%=#Tsinghua University
+
+==========

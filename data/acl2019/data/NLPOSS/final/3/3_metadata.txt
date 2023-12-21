@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#AllenNLP: A Deep Semantic Natural Language Processing Platform
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Michael Schmitz
+JobTitle#==#Author and Director of Engineering
+Organization#==#Allen Institute for AI, 5157 N. Northlake Way STE 110, Seattle, WA 98103
+Abstract#==#Modern natural language processing (NLP) research requires writing code. Ideally this code would provide a precise definition of the approach, easy repeatability of results, and a basis for extending the research. However, many research codebases bury high-level parameters under implementation details, are challenging to run and debug, and are difficult enough to extend that they are more likely to be rewritten. This paper describes AllenNLP, a library for applying deep learning methods to NLP research that addresses these issues with easy-to-use command-line tools, declarative configuration-driven experiments, and modular NLP abstractions. AllenNLP has already increased the rate of research experimentation and the sharing of NLP components at the Allen Institute for Artificial Intelligence, and we are working to have the same impact across the field.
+Author{1}{Firstname}#=%=#Matt
+Author{1}{Lastname}#=%=#Gardner
+Author{1}{Email}#=%=#mattg@allenai.org
+Author{1}{Affiliation}#=%=#Allen Institute for AI
+Author{2}{Firstname}#=%=#Joel
+Author{2}{Lastname}#=%=#Grus
+Author{2}{Email}#=%=#joelg@allenai.org
+Author{2}{Affiliation}#=%=#Allen Institute for AI
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Neumann
+Author{3}{Email}#=%=#markn@allenai.org
+Author{3}{Affiliation}#=%=#Allen Institute for AI
+Author{4}{Firstname}#=%=#Oyvind
+Author{4}{Lastname}#=%=#Tafjord
+Author{4}{Email}#=%=#oyvindt@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Pradeep
+Author{5}{Lastname}#=%=#Dasigi
+Author{5}{Email}#=%=#pardeepd@allenai.org
+Author{5}{Affiliation}#=%=#Allen Institute for AI
+Author{6}{Firstname}#=%=#Nelson
+Author{6}{Lastname}#=%=#F. Liu
+Author{6}{Email}#=%=#nfliu@cs.washington.edu
+Author{6}{Affiliation}#=%=#Allen Institute for AI
+Author{7}{Firstname}#=%=#Matthew
+Author{7}{Lastname}#=%=#Peters
+Author{7}{Email}#=%=#matthewp@allenai.org
+Author{7}{Affiliation}#=%=#Allen Institute for AI
+Author{8}{Firstname}#=%=#Michael
+Author{8}{Lastname}#=%=#Schmitz
+Author{8}{Email}#=%=#michaels@allenai.org
+Author{8}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
+Author{9}{Firstname}#=%=#Luke
+Author{9}{Lastname}#=%=#Zettlemoyer
+Author{9}{Email}#=%=#lsz@cs.washington.edu
+Author{9}{Affiliation}#=%=#University of Washington
+
+==========

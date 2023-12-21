@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1548
+FinalPaperTitle#=%=#Unsupervised Learning of Style-sensitive Word Vectors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Reina Akama
+JobTitle#==#
+Organization#==#Tohoku University
+Abstract#==#This paper presents the first study aimed at capturing stylistic similarity between words in an unsupervised manner. We propose extending the continuous bag of words (CBOW) embedding model (Mikolov et al., 2013b) to learn style-sensitive word vectors using a wider context window under the assumption that the style of all the words in an utterance is consistent. In addition, we introduce a novel task to predict lexical stylistic similarity and to create a benchmark dataset for this task. Our experiment with this dataset supports our assumption and demonstrates that the proposed extensions contribute to the acquisition of style-sensitive word embeddings.
+Author{1}{Firstname}#=%=#Reina
+Author{1}{Lastname}#=%=#Akama
+Author{1}{Email}#=%=#reina.a@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Kento
+Author{2}{Lastname}#=%=#Watanabe
+Author{2}{Email}#=%=#kento.w@ecei.tohoku.ac.jp
+Author{2}{Affiliation}#=%=#Tohoku University
+Author{3}{Firstname}#=%=#Sho
+Author{3}{Lastname}#=%=#Yokoi
+Author{3}{Email}#=%=#yokoi@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University
+Author{4}{Firstname}#=%=#Sosuke
+Author{4}{Lastname}#=%=#Kobayashi
+Author{4}{Email}#=%=#sosk@preferred.jp
+Author{4}{Affiliation}#=%=#Preferred Networks, Inc.
+Author{5}{Firstname}#=%=#Kentaro
+Author{5}{Lastname}#=%=#Inui
+Author{5}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{5}{Affiliation}#=%=#Tohoku University / RIKEN AIP
+
+==========

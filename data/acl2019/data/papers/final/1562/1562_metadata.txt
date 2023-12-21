@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1562
+FinalPaperTitle#=%=#GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Bayu Distiawan Trisedya
+JobTitle#==#Student
+Organization#==#The University of Melbourne
+Abstract#==#A knowledge base is a large repository of facts that are mainly represented as RDF triples, each of which consists of a subject, a predicate (relationship), and an object. The RDF triple representation offers a simple interface for applications to access the facts. However, this representation is not in a natural language form, which is difficult for humans to understand. We address this problem by proposing a system to translate a set of RDF triples into natural sentences based on an encoder-decoder framework. To preserve as much information from RDF triples as possible, we propose a novel graph-based triple encoder. The proposed encoder encodes not only the elements of the triples but also the relationships both within a triple and between the triples. Experimental results show that the proposed encoder achieves a consistent improvement over the baseline models by up to 17.6%, 6.0%, and 16.4% in three common metrics BLEU, METEOR, and TER, respectively.
+Author{1}{Firstname}#=%=#Bayu Distiawan
+Author{1}{Lastname}#=%=#Trisedya
+Author{1}{Email}#=%=#btrisedya@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Jianzhong
+Author{2}{Lastname}#=%=#Qi
+Author{2}{Email}#=%=#jianzhong.qi@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Rui
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#rui.zhang@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#weiw@cse.unsw.edu.au
+Author{4}{Affiliation}#=%=#University of New South Wales
+
+==========

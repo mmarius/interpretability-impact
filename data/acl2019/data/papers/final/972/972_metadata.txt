@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#972
+FinalPaperTitle#=%=#Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yiben Yang
+JobTitle#==#
+Organization#==#Northwestern University, Evanston, IL, USA
+Abstract#==#Intelligent systems require common sense, but automatically extracting this
+knowledge from text can be difficult.  We propose and assess methods for
+extracting one type of commonsense knowledge, object-property comparisons,
+from pre-trained embeddings.  In experiments, we show that our approach exceeds
+the accuracy of previous work but requires substantially less hand-annotated
+knowledge.  Further, we show that an active learning approach that synthesizes
+common-sense queries can boost accuracy.
+Author{1}{Firstname}#=%=#Yiben
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yibenyang2015@u.northwestern.edu
+Author{1}{Affiliation}#=%=#Northwestern University
+Author{2}{Firstname}#=%=#Larry
+Author{2}{Lastname}#=%=#Birnbaum
+Author{2}{Email}#=%=#l-birnbaum@northwestern.edu
+Author{2}{Affiliation}#=%=#Northwestern University
+Author{3}{Firstname}#=%=#Ji-Ping
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#jzwang@northwestern.edu
+Author{3}{Affiliation}#=%=#Northwestern University
+Author{4}{Firstname}#=%=#Doug
+Author{4}{Lastname}#=%=#Downey
+Author{4}{Email}#=%=#ddowney@eecs.northwestern.edu
+Author{4}{Affiliation}#=%=#Northwestern University
+
+==========

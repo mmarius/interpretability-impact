@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Document-Level Adaptation for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Rebecca Knowles
+JobTitle#==#
+Organization#==#Johns Hopkins University, 3400 N. Charles Street, Baltimore, MD 21218
+Abstract#==#It is common practice to adapt machine translation systems to novel domains, but even a well-adapted system may be able to perform better on a particular document if it were to learn from a translator's corrections within the document itself. We focus on adaptation within a single document -- appropriate for an interactive translation scenario where a model adapts to a human translator's input over the course of a document. We propose two methods: single-sentence adaptation (which performs online adaptation one sentence at a time) and dictionary adaptation (which specifically addresses the issue of translating novel words). Combining the two models results in improvements over both approaches individually, and over baseline systems, even on short documents. On WMT news test data, we observe an improvement of +1.8 BLEU points and +23.3% novel word translation accuracy and on EMEA data (descriptions of medications) we observe an improvement of +2.7 BLEU points and +49.2% novel word translation accuracy.
+Author{1}{Firstname}#=%=#Sachith Sri Ram
+Author{1}{Lastname}#=%=#Kothur
+Author{1}{Email}#=%=#kothursachith@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Rebecca
+Author{2}{Lastname}#=%=#Knowles
+Author{2}{Email}#=%=#rknowles@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Philipp
+Author{3}{Lastname}#=%=#Koehn
+Author{3}{Email}#=%=#phi@jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

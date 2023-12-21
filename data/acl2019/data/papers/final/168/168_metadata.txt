@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#168
+FinalPaperTitle#=%=#Strong Baselines for Neural Semi-Supervised Learning under Domain Shift
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#Insight Research Centre, NUI Galway, Galway, Ireland
+Abstract#==#Novel neural models have been proposed in recent years for learning under
+domain shift. Most models, however, only evaluate on a single task, on
+proprietary datasets, or compare to weak baselines, which makes comparison of
+models difficult. In this paper, we re-evaluate classic general-purpose
+bootstrapping approaches in the context of neural networks under domain shifts
+vs. recent neural approaches and propose a novel multi-task tri-training method
+that reduces the time and space complexity of classic tri-training. Extensive
+experiments on two benchmarks for part-of-speech tagging and sentiment analysis
+are negative: while our novel method establishes a new state-of-the-art for
+sentiment analysis, it does not fare consistently the best. More importantly,
+we arrive at the somewhat surprising conclusion that classic tri-training, with
+some additions, outperforms the state-of-the-art for NLP. Hence classic
+approaches constitute an important and strong baseline.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#National University of Ireland, Galway
+Author{2}{Firstname}#=%=#Barbara
+Author{2}{Lastname}#=%=#Plank
+Author{2}{Email}#=%=#bplank@gmail.com
+Author{2}{Affiliation}#=%=#University of Groningen
+
+==========

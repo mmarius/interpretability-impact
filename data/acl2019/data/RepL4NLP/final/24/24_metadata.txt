@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#A Dense Vector Representation for Open-Domain Relation Tuples
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ade Romadhony
+JobTitle#==#
+Organization#==#Bandung Institute of Technology, Jl. Ganesa No.10 Bandung Indonesia
+Abstract#==#Open Information Extraction (Open IE), which has been extensively studied as a new paradigm on unrestricted information extraction, produces relation tuples (results) which serve as intermediate structures in several natural language processing tasks, such as question answering system. In this paper, we investigate ways to learn the vector representation of Open IE relation tuples using various approaches, ranging from simple vector composition to more advanced methods, such as recursive autoencoder (RAE). The quality of vector representation was evaluated by conducting experiments on the relation tuple similarity task. While the experiment result shows that simple linear  combination (i.e., averaging the vectors of the words participating in the tuple) outperforms any other methods, including RAE, RAE itself has its own advantage in dealing with a case, in which the similarity criterion is characterized by each element in the tuple, where the simple linear combination unable to identify.
+Author{1}{Firstname}#=%=#Ade
+Author{1}{Lastname}#=%=#Romadhony
+Author{1}{Email}#=%=#ade.romadhony@gmail.com
+Author{1}{Affiliation}#=%=#Institut Teknologi Bandung
+Author{2}{Firstname}#=%=#Alfan Farizki
+Author{2}{Lastname}#=%=#Wicaksono
+Author{2}{Email}#=%=#alfan@cs.ui.ac.id
+Author{2}{Affiliation}#=%=#Faculty of Computer Science, University of Indonesia
+Author{3}{Firstname}#=%=#Ayu
+Author{3}{Lastname}#=%=#Purwarianti
+Author{3}{Email}#=%=#ayu@informatika.org
+Author{3}{Affiliation}#=%=#Bandung Institute of Technology
+Author{4}{Firstname}#=%=#Dwi Hendratmo
+Author{4}{Lastname}#=%=#Widyantoro
+Author{4}{Email}#=%=#dwi@stei.itb.ac.id
+Author{4}{Affiliation}#=%=#Bandung Institute of Technology
+
+==========

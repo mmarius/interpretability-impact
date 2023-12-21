@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#253
+FinalPaperTitle#=%=#Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sandeep Mathias
+JobTitle#==#
+Organization#==#IIT Bombay, Powai, Mumbai - 400076.
+Abstract#==#Predicting a reader’s rating of text quality is a challenging task that involves estimating different subjective aspects of the text, like structure, clarity, etc. Such subjective aspects are better handled using cognitive information. One such source of cognitive information is gaze behaviour. In this paper, we show that gaze behaviour does indeed help in effectively predicting the rating of text quality. To do this, we first we model text quality as a function of three properties - organization, coherence and cohesion. Then, we demonstrate how capturing gaze behaviour helps in predicting each of these properties, and hence the overall quality, by reporting improvements obtained by adding gaze features to traditional textual features for score prediction. We also hypothesize that if a reader has fully understood the text, the corresponding gaze behaviour would give a better indication of the assigned rating, as opposed to partial understanding. Our experiments validate this hypothesis by showing greater agreement between the given rating and the predicted rating when the reader has a full understanding of the text.
+Author{1}{Firstname}#=%=#Sandeep
+Author{1}{Lastname}#=%=#Mathias
+Author{1}{Email}#=%=#mathiassandeep@gmail.com
+Author{1}{Affiliation}#=%=#IIT Bombay
+Author{2}{Firstname}#=%=#Diptesh
+Author{2}{Lastname}#=%=#Kanojia
+Author{2}{Email}#=%=#dipteshkanojia@gmail.com
+Author{2}{Affiliation}#=%=#Indian Institute of Technology Bombay, Mumbai
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Patel
+Author{3}{Email}#=%=#kevin.patel@cse.iitb.ac.in
+Author{3}{Affiliation}#=%=#CSE, IIT Bombay
+Author{4}{Firstname}#=%=#Samarth
+Author{4}{Lastname}#=%=#Agrawal
+Author{4}{Email}#=%=#samartha@cse.iitb.ac.in
+Author{4}{Affiliation}#=%=#Indian Institute of Technology Bombay
+Author{5}{Firstname}#=%=#Abhijit
+Author{5}{Lastname}#=%=#Mishra
+Author{5}{Email}#=%=#abhijitmishra.530@gmail.com
+Author{5}{Affiliation}#=%=#IBM Research
+Author{6}{Firstname}#=%=#Pushpak
+Author{6}{Lastname}#=%=#Bhattacharyya
+Author{6}{Email}#=%=#pushpakbh@gmail.com
+Author{6}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

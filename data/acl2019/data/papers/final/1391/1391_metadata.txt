@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1391
+FinalPaperTitle#=%=#Accurate SHRG-Based Semantic Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yufei Chen
+JobTitle#==#
+Organization#==#Institute of Computer Science and Technology, Peking University, No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, P. R. China
+Abstract#==#We demonstrate that an SHRG-based parser can produce semantic graphs much more
+accurately than previously shown, by relating synchronous production rules to
+the syntacto-semantic composition process. Our parser achieves an accuracy of
+90.35 for EDS (89.51 for DMRS) in terms of elementary dependency match, which
+is a 4.87 (5.45) point improvement over the best existing data-driven model,
+indicating, in our view, the importance of linguistically-informed derivation
+for data-driven semantic parsing. This accuracy is equivalent to that of
+English Resource Grammar guided models, suggesting that (recurrent) neural
+network models are able to effectively learn deep linguistic knowledge from
+annotations.
+Author{1}{Firstname}#=%=#Yufei
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#yufei.chen@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computer Science & Technology, Peking University
+Author{2}{Firstname}#=%=#Weiwei
+Author{2}{Lastname}#=%=#Sun
+Author{2}{Email}#=%=#ws@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Xiaojun
+Author{3}{Lastname}#=%=#Wan
+Author{3}{Email}#=%=#wanxiaojun@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+
+==========

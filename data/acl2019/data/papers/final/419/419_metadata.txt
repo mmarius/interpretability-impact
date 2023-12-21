@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#419
+FinalPaperTitle#=%=#Parser Training with Heterogeneous Treebanks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sara Stymne
+JobTitle#==#
+Organization#==#Uppsala University, Department of Linguistic and Philology, BOX 635, 75105 Uppsala
+Abstract#==#How to make the most of multiple heterogeneous treebanks when training a monolingual dependency parser is an open question. We start by investigating previously suggested, but little evaluated, strategies for exploiting multiple treebanks based on concatenating training sets, with or without fine-tuning. We go on to propose a new method based on treebank embeddings. We perform experiments for several languages and show that in many cases fine-tuning and treebank embeddings lead to substantial improvements over single treebanks or concatenation, with average gains of 2.0--3.5 LAS points. We argue that treebank embeddings should be preferred due to their conceptual simplicity, flexibility and extensibility.
+Author{1}{Firstname}#=%=#Sara
+Author{1}{Lastname}#=%=#Stymne
+Author{1}{Email}#=%=#sara.stymne@lingfil.uu.se
+Author{1}{Affiliation}#=%=#Uppsala University
+Author{2}{Firstname}#=%=#Miryam
+Author{2}{Lastname}#=%=#de Lhoneux
+Author{2}{Email}#=%=#miryam.de_lhoneux@lingfil.uu.se
+Author{2}{Affiliation}#=%=#Uppsala University
+Author{3}{Firstname}#=%=#Aaron
+Author{3}{Lastname}#=%=#Smith
+Author{3}{Email}#=%=#aaronsmith540@gmail.com
+Author{3}{Affiliation}#=%=#Uppsala University
+Author{4}{Firstname}#=%=#Joakim
+Author{4}{Lastname}#=%=#Nivre
+Author{4}{Email}#=%=#joakim.nivre@lingfil.uu.se
+Author{4}{Affiliation}#=%=#Uppsala University
+
+==========

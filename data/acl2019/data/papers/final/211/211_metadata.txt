@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#211
+FinalPaperTitle#=%=#Dynamic and Static Topic Model for Analyzing Time-Series Document Collections
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rem Hida
+JobTitle#==#
+Organization#==#
+Abstract#==#For extracting meaningful topics from texts, their structures should be
+considered properly. 
+In this paper, we aim to analyze structured time-series documents such as
+a collection of news articles and a series of scientific papers, 
+wherein topics evolve along time depending on multiple topics in
+the past and are also related to each other at each time. 
+To this end, we propose a dynamic and static topic model, 
+which simultaneously considers the dynamic structures of the temporal topic
+evolution
+and the static structures of the topic hierarchy at each time. 
+We show the results of experiments on collections of scientific papers,
+in which the proposed method outperformed conventional models. 
+Moreover, we show an example of extracted topic structures, 
+which we found helpful for analyzing research activities.
+Author{1}{Firstname}#=%=#Rem
+Author{1}{Lastname}#=%=#Hida
+Author{1}{Email}#=%=#remlaika@gmail.com
+Author{1}{Affiliation}#=%=#The University of Tokyo
+Author{2}{Firstname}#=%=#Naoya
+Author{2}{Lastname}#=%=#Takeishi
+Author{2}{Email}#=%=#takeishi@ailab.t.u-tokyo.ac.jp
+Author{2}{Affiliation}#=%=#The University of Tokyo
+Author{3}{Firstname}#=%=#Takehisa
+Author{3}{Lastname}#=%=#Yairi
+Author{3}{Email}#=%=#yairi@ailab.t.u-tokyo.ac.jp
+Author{3}{Affiliation}#=%=#The University of Tokyo
+Author{4}{Firstname}#=%=#Koichi
+Author{4}{Lastname}#=%=#Hori
+Author{4}{Email}#=%=#hori@ailab.t.u-tokyo.ac.jp
+Author{4}{Affiliation}#=%=#The University of Tokyo
+
+==========

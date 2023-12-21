@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Iterative Back-Translation for Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hoang Cong Duy Vu
+JobTitle#==#
+Organization#==#University of Melbourne, VIC, Australia
+Abstract#==#We present iterative back-translation, a method for generating increasingly better synthetic parallel data from monolingual data to train neural machine translation systems. Our proposed method is very simple yet effective and highly applicable in practice. We demonstrate improvements in neural machine translation quality in both high and low resourced scenarios, including the best reported BLEU scores for the WMT 2017 German↔English tasks.
+Author{1}{Firstname}#=%=#Vu Cong Duy
+Author{1}{Lastname}#=%=#Hoang
+Author{1}{Email}#=%=#duyvuleo@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Philipp
+Author{2}{Lastname}#=%=#Koehn
+Author{2}{Email}#=%=#phi@jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Email}#=%=#tcohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+
+==========

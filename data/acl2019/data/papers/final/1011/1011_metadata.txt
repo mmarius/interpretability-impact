@@ -1,0 +1,89 @@
+SubmissionNumber#=%=#1011
+FinalPaperTitle#=%=#The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Orhan Firat
+JobTitle#==#
+Organization#==#Google AI, Mountain View CA
+Abstract#==#The past year has witnessed rapid advances in sequence-to-sequence (seq2seq)
+modeling for Machine Translation (MT). The classic RNN-based approaches to MT
+were first out-performed by the convolutional seq2seq model, which was then
+out-performed by the more recent Transformer model. Each of these new
+approaches consists of a fundamental architecture accompanied by a set of
+modeling and training techniques that are in principle applicable to other
+seq2seq architectures. In this paper, we tease apart the new architectures and
+their accompanying techniques in two ways. First, we identify several key
+modeling and training techniques, and apply them to the RNN architecture,
+yielding a new RNMT+ model that outperforms all of the three fundamental
+architectures
+on the benchmark WMT'14 English to French and
+English to German tasks. Second, we analyze the properties of each
+fundamental seq2seq architecture and devise new hybrid architectures intended
+to combine their strengths. Our hybrid models obtain further improvements,
+outperforming the RNMT+ model on both benchmark datasets.
+Author{1}{Firstname}#=%=#Mia Xu
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#miachen@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Orhan
+Author{2}{Lastname}#=%=#Firat
+Author{2}{Email}#=%=#orhanf@google.com
+Author{2}{Affiliation}#=%=#Google Research
+Author{3}{Firstname}#=%=#Ankur
+Author{3}{Lastname}#=%=#Bapna
+Author{3}{Email}#=%=#ankurbpn@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Melvin
+Author{4}{Lastname}#=%=#Johnson
+Author{4}{Email}#=%=#melvinp@google.com
+Author{4}{Affiliation}#=%=#Google
+Author{5}{Firstname}#=%=#Wolfgang
+Author{5}{Lastname}#=%=#Macherey
+Author{5}{Email}#=%=#wmach@google.com
+Author{5}{Affiliation}#=%=#Google
+Author{6}{Firstname}#=%=#George
+Author{6}{Lastname}#=%=#Foster
+Author{6}{Email}#=%=#fosterg@google.com
+Author{6}{Affiliation}#=%=#Google
+Author{7}{Firstname}#=%=#Llion
+Author{7}{Lastname}#=%=#Jones
+Author{7}{Email}#=%=#llion@google.com
+Author{7}{Affiliation}#=%=#Google
+Author{8}{Firstname}#=%=#Mike
+Author{8}{Lastname}#=%=#Schuster
+Author{8}{Email}#=%=#schuster@google.com
+Author{8}{Affiliation}#=%=#Google
+Author{9}{Firstname}#=%=#Noam
+Author{9}{Lastname}#=%=#Shazeer
+Author{9}{Email}#=%=#noam@google.com
+Author{9}{Affiliation}#=%=#Google
+Author{10}{Firstname}#=%=#Niki
+Author{10}{Lastname}#=%=#Parmar
+Author{10}{Email}#=%=#nikip@google.com
+Author{10}{Affiliation}#=%=#Google
+Author{11}{Firstname}#=%=#Ashish
+Author{11}{Lastname}#=%=#Vaswani
+Author{11}{Email}#=%=#avaswani@google.com
+Author{11}{Affiliation}#=%=#Google
+Author{12}{Firstname}#=%=#Jakob
+Author{12}{Lastname}#=%=#Uszkoreit
+Author{12}{Email}#=%=#usz@google.com
+Author{12}{Affiliation}#=%=#Google
+Author{13}{Firstname}#=%=#Lukasz
+Author{13}{Lastname}#=%=#Kaiser
+Author{13}{Email}#=%=#lukaszkaiser@google.com
+Author{13}{Affiliation}#=%=#Google
+Author{14}{Firstname}#=%=#Zhifeng
+Author{14}{Lastname}#=%=#Chen
+Author{14}{Email}#=%=#zhifengc@google.com
+Author{14}{Affiliation}#=%=#Google
+Author{15}{Firstname}#=%=#Yonghui
+Author{15}{Lastname}#=%=#Wu
+Author{15}{Email}#=%=#yonghui@google.com
+Author{15}{Affiliation}#=%=#Google
+Author{16}{Firstname}#=%=#Macduff
+Author{16}{Lastname}#=%=#Hughes
+Author{16}{Email}#=%=#macduff@google.com
+Author{16}{Affiliation}#=%=#Google
+
+==========

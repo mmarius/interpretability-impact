@@ -1,0 +1,62 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#A Systematic Classification of Knowledge, Reasoning, and Context within the ARC Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ryan Musa
+JobTitle#==#
+Organization#==#IBM, 1101 Kitchawan Rd, Yorktown Heights, NY 10598
+Abstract#==#The recent work of Clark et al. (2018) introduces the AI2 Reasoning Challenge (ARC) and the associated ARC dataset that partitions open domain, complex science questions into easy and challenge sets. That paper includes an analysis of 100 questions with respect to the types of knowledge and reasoning required to answer them; however, it does not include clear definitions of these types, nor does it offer information about the quality of the labels.  We propose a comprehensive set of definitions of knowledge and reasoning types necessary for answering the questions in the ARC dataset.  Using ten annotators and a sophisticated annotation interface, we analyze the distribution of labels across the challenge set and statistics related to them. Additionally, we demonstrate that although naive information retrieval methods return sentences that are irrelevant to answering the query,  sufficient supporting text is often present in the (ARC) corpus. Evaluating with human-selected relevant sentences improves the performance of a neural machine comprehension model by 42 points.
+Author{1}{Firstname}#=%=#Michael
+Author{1}{Lastname}#=%=#Boratko
+Author{1}{Email}#=%=#mboratko@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts
+Author{2}{Firstname}#=%=#Harshit
+Author{2}{Lastname}#=%=#Padigela
+Author{2}{Email}#=%=#hpadigela@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts
+Author{3}{Firstname}#=%=#Divyendra
+Author{3}{Lastname}#=%=#Mikkilineni
+Author{3}{Email}#=%=#dmikkilineni@cs.umass.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts
+Author{4}{Firstname}#=%=#Pritish
+Author{4}{Lastname}#=%=#Yuvraj
+Author{4}{Email}#=%=#pyuvraj@cs.umass.edu
+Author{4}{Affiliation}#=%=#University of Massachusetts
+Author{5}{Firstname}#=%=#Rajarshi
+Author{5}{Lastname}#=%=#Das
+Author{5}{Email}#=%=#rajarshi@cs.umass.edu
+Author{5}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{6}{Firstname}#=%=#Andrew
+Author{6}{Lastname}#=%=#McCallum
+Author{6}{Email}#=%=#mccallum@cs.umass.edu
+Author{6}{Affiliation}#=%=#University of Massachusetts
+Author{7}{Firstname}#=%=#Maria
+Author{7}{Lastname}#=%=#Chang
+Author{7}{Email}#=%=#maria.chang@ibm.com
+Author{7}{Affiliation}#=%=#IBM Research
+Author{8}{Firstname}#=%=#Achille
+Author{8}{Lastname}#=%=#Fokoue-Nkoutche
+Author{8}{Email}#=%=#achille@us.ibm.com
+Author{8}{Affiliation}#=%=#IBM Research
+Author{9}{Firstname}#=%=#Pavan
+Author{9}{Lastname}#=%=#Kapanipathi
+Author{9}{Email}#=%=#kapanipa@us.ibm.com
+Author{9}{Affiliation}#=%=#IBM Research
+Author{10}{Firstname}#=%=#Nicholas
+Author{10}{Lastname}#=%=#Mattei
+Author{10}{Email}#=%=#n.mattei@ibm.com
+Author{10}{Affiliation}#=%=#IBM Research
+Author{11}{Firstname}#=%=#Ryan
+Author{11}{Lastname}#=%=#Musa
+Author{11}{Email}#=%=#ramusa@us.ibm.com
+Author{11}{Affiliation}#=%=#IBM Research
+Author{12}{Firstname}#=%=#Kartik
+Author{12}{Lastname}#=%=#Talamadupula
+Author{12}{Email}#=%=#krtalamad@us.ibm.com
+Author{12}{Affiliation}#=%=#IBM Research
+Author{13}{Firstname}#=%=#Michael
+Author{13}{Lastname}#=%=#Witbrock
+Author{13}{Email}#=%=#witbrock@us.ibm.com
+Author{13}{Affiliation}#=%=#IBM Research
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#228
+FinalPaperTitle#=%=#A Neural Architecture for Automated ICD Coding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pengtao Xie
+JobTitle#==#
+Organization#==#Petuum Inc,  2555 Small St Suite 120, Pittsburgh, PA, 15222
+Abstract#==#The International Classification of Diseases (ICD) provides a hierarchy of
+diagnostic codes for classifying diseases. Medical coding -- which assigns a
+subset of ICD codes to a patient visit -- is a mandatory process that is
+crucial for patient care and billing. Manual coding is time-consuming,
+expensive, and error prone. In this paper, we build a neural architecture for
+automated coding. It takes the diagnosis descriptions (DDs) of a patient as
+inputs and selects the most relevant ICD codes. This architecture contains four
+major ingredients: (1) tree-of-sequences LSTM encoding of code descriptions
+(CDs), (2) adversarial learning for reconciling the different writing styles of
+DDs and CDs, (3) isotonic constraints for incorporating the importance order
+among the assigned codes, and (4) attentional matching for performing
+many-to-one and one-to-many mappings from DDs to CDs. We demonstrate the
+effectiveness of the proposed methods on a clinical datasets with 59K patient
+visits.
+Author{1}{Firstname}#=%=#Pengtao
+Author{1}{Lastname}#=%=#Xie
+Author{1}{Email}#=%=#pengtaox@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Xing
+Author{2}{Email}#=%=#epxing@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

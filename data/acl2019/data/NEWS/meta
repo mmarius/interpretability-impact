@@ -1,0 +1,15 @@
+abbrev NEWS2018
+type WORKSHOP
+title The Seventh Named Entities Workshop
+url http://workshop.colips.org/news2018/index.html
+booktitle Proceedings of the Seventh Named Entities Workshop
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Nancy Chen
+chairs Rafael E. Banchs
+chairs Xiangyu Duan
+chairs Min Zhang
+chairs Haizhou Li
+bib_url http://www.aclweb.org/anthology/W18-24

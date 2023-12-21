@@ -1,0 +1,19 @@
+SubmissionNumber#=%=#1052
+FinalPaperTitle#=%=#A Helping Hand: Transfer Learning for Deep Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Gerard de Melo
+JobTitle#==#Assistant Professor
+Organization#==#Rutgers University
+Abstract#==#Deep convolutional neural networks excel at sentiment polarity classification, but tend to require substantial amounts of training data, which moreover differs quite significantly between domains.
+In this work, we present an approach to feed generic cues into the training process of such networks, leading to better generalization abilities given limited training data. We propose to induce sentiment embeddings via supervision on extrinsic data, which are then fed into the model via a dedicated memory-based component. We observe significant gains in effectiveness on a range of different datasets in seven different languages.
+Author{1}{Firstname}#=%=#Xin
+Author{1}{Lastname}#=%=#Dong
+Author{1}{Email}#=%=#xd48@scarletmail.rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Gerard
+Author{2}{Lastname}#=%=#de Melo
+Author{2}{Email}#=%=#gdm@demelo.org
+Author{2}{Affiliation}#=%=#Rutgers University
+
+==========

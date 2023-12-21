@@ -1,0 +1,237 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[draft]{hyperref}
+\usepackage{acl2017}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{tabularx,ragged2e,booktabs}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage[linesnumbered,algoruled,boxed,lined]{algorithm2e}
+\usepackage{float}
+\usepackage{framed}
+
+\newcolumntype{L}{>{\RaggedRight\arraybackslash}X}
+\aclfinalcopy % Uncomment this line for the final submission
+%\def\aclpaperid{***} %  Enter the acl Paper ID here
+
+%\setlength\titlebox{5cm}
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+\newcommand\tab[1][0.7cm]{\hspace*{#1}}
+\newcommand\BibTeX{B{\sc ib}\TeX}
+\newcommand{\todo}[1]{{\color{red}#1}}
+
+
+\title{Sentence Classification for Investment Rules Detection}
+
+\author{Youness Mansar \and Sira Ferradans \\
+  Fortia Financial Solutions   \\
+  17 av. George V, Paris \\
+  France \\
+  {\tt name.surname@fortia.fr} 
+  }
+  
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+   In the last years, compliance requirements for the banking sector have greatly augmented, making the current compliance processes difficult to maintain. Any process that allows to accelerate the identification and implementation of compliance requirements can help address this issues. The contributions of the paper are twofold: we propose a new NLP task that is the investment rule detection, and a group of methods identify them. We show that the proposed methods are highly performing and fast, thus can be deployed in production.
+\end{abstract}
+
+\section{Introduction}
+
+Compliance requirements have augmented dramatically in the last years, specially in the financial sector. Investment funds are obliged by law to publish their investment strategy at a very detailed level. If the fund does not follow precisely these rules, it will be fined by the corresponding regulatory institution. According to Thomson Reuters there were regulatory changes every 12 minutes, on average per day in 2015~\cite{regulatorychanges}. But, it takes months to implement every regulatory change, thus, any process that allows to spot regulatory changes can help accelerate this updating process. This is important since if an investment fund does not follow precisely these rules, it will be fined by the corresponding regulatory institution. In fact, in the last years, the income dedicated to fines and settlements has increased by almost 45x for the biggest EU and US banks~\cite{Kamiski16}.
+
+
+The compliance department of Depositary banks are in charge of controlling that these rules are actually followed. In order to avoid sanctions, they define a 4-eye protocol for rule identification. This protocol consists in having two or more people read and highlight the investment rules of the prospectus of each investment fund they control. Once two people have highlighted the same prospectus, a third person introduces all the rules in the system. Identifying the rules is time consuming and tedious. This process takes days for human actors, we propose a method that takes seconds thanks to the use of machine learning. Although other methods have acknowledged the importance of having the rules isolated~\cite{cashman2002systeme,beale2004system}, the current systems assume that the rules have already been identified and translated into executable code. 
+
+In this paper, we propose to detect investment rules using binary classification of sentences. In section~\ref{star}, we present the state of the art in sentence classification. In section~\ref{thedata}, we give all the details on the data and the posed problem. The proposed solutions are given in section~\ref{methods} and the obtained results in section~\ref{results}. Section~\ref{conclusion} concludes the paper and gives future work.
+\footnote{\textbf{Note:} There is a Patent Pending for the presented
+approach. It was submitted the 18 December 2017 at the
+EPO and has the number EP17306801}
+
+
+\section{Related Works}\label{star}
+
+
+
+\paragraph{Sentence Classification.} Sentence classification is a classic research area in natural language processing. Approaches previous to 2010 focus mostly on the extraction of document meaning through representative features that would be used as input to classic machine learning algorithms, such as SVM, knn, or Naive Bayes (see~\cite{khan2010review} for a review on the topic). The rise of Deep Learning techniques impacts also the sentence classification literature, appearing methods based on CNNs. More specifically, a modification of~\cite{collobert2011natural} was proposed by Kim~\cite{kim2014convolutional}, showing how a simple model together with pre-trained word representations can be highly performing. But the use of word-embeddings has been challenged for CNNs,~\cite{johnson2014effective,johnson2015semi}
+propose a semi-supervised setting that allows to learn a small text-region representation.
+Zhang et al.~\cite{zhang2015character} propose a CNN based directly on character representations, without explicitly encoding words. CNNs are highly dependent on the window size,~\cite{lai2015recurrent, visin2015renet} propose the use of Recurrent Convolutional Neural Networks to overcome this issue.  ~\cite{guggilla2016cnn} propose the use of LSTMs for classification of online user comments. In order to avoid problems due to lack of data,~\cite{liu2016recurrent} propose multitask learning using LSTMs.
+
+\paragraph{Word embeddings.}The lack of big databases with tagged data is a common problem for Deep Learning models.  Collobert \emph{et al.}~\cite{collobert2011natural} empirically proved the usefulness of using unsupervised word representations for a variety of different NLP tasks and since then, it is widely accepted that, for small and middle size databases ($<$ 10k samples), the use of word embeddings improves the final results. \emph{Word embeddings} is the name associated to a group of language model methods that map words into a vector space. Introduced by Bengio et al.~\cite{bengio2003neural}, the authors proposed a statistical language model based on shallow neural networks. The goal was to predict the following word, given the previous context in the sentence, showing a major advance with respect to n-grams. Collobert \emph{et al.}~\cite{collobert2011natural} set the neural network architecture for many current approaches. Mikolov \emph{et al.}~\cite{mikolov2013efficient} proposed a simplified model (\texttt{word2vec}) that allows to train on larger corpora. They also show how semantic relationships emerge from this training. Pennignton \emph{et al.}~\cite{pennington2014glove}, GloVe, maintain the semantic capacity of word2vec while introducing the statistical information from latent semantic analysis (LSA) showing that they can improve in semantic and syntactic tasks.
+
+
+
+\section{Rule detection in prospectus}
+In this section we present the problem of \emph{rule detection} in investment fund prospectus, and our proposal for tackling it. 
+\subsection{The data}\label{thedata}
+Investment fund prospectus are papers where the fund informs the regulatory institution and its future clients of its investment strategy, its risk management, the company structure, etc. Most of these documents are publicly available in the regulation authority web page, see for instance for French documents~\cite{amfgeco}. The investment rules that we want to identify are very precise rules which can be of different kinds, and, in general, very different from other sentences in the same text as can be observed in Table~\ref{table:data}. 
+
+\begin{table*}
+\begin{tabularx}{\textwidth}{|L|l|}
+\hline
+\textbf{Sentence} & \textbf{Tag} \\
+\hline
+The Fund will invest at least 70\% of its net assets in sub investment grade corporate debt securities with a credit rating equivalent to BB+ or lower and denominated in USD. & 1 \\
+\hline
+The SICAV may invest in OTC markets. & 1 \\
+\hline
+The Company may not invest in gold, spot commodities, or real estate & 1 \\
+\hline
+The management fee is 0.1\% & 0 \\
+\hline
+The asset manager JP Morgan assigns BNP Security Services as its depositary bank. & 0 \\
+\hline
+\end{tabularx}
+\caption{Examples of sentences in the Data base.}
+\label{table:data}
+\end{table*}
+
+\paragraph{The Gold standard database.}
+The data used in the supervised part of the model is around 3.5k annotated sentences for each language (English and French). The sentences were split into two classes, the label 1 is used for rules and 0 is used for non rules, as shown in Table~\ref{table:data}.
+
+\subsection{Proposed methods}\label{methods}
+In this subsection we detail the proposed algorithms. The task required multiple pre-processing steps that are used for data preparation before training or inference. The first step is to segment the document into a list of sentence then each sentence is tokenized into multiple elements based mostly on space and punctuation characters. Each token is then mapped to a unique id in order to produce a list of integer from each sentence which then will be fed to the regression model.
+
+\paragraph{Word embeddings.} The word vector values are initialized using the GloVe algorithm Pennignton \emph{et al.}~\cite{pennington2014glove} and then fine-tuned along with the model regression parameters during training. We used a corpus of fund prospectuses and wikipedia pages to train a domain-specific word embedding. This is justified by the fact that some words used in prospectuses are uncommon in the general use of language and thus are not included in available word vectors pre-trained on Wikipedia or common crawl alone.
+
+\subsubsection{Linear network model}
+The Linear network model in this case is a logistic regression applied to an un-weighted average of dense word vectors. The advantage of this model is that it is simple while it also takes advantage of the unsupervised pre-training of the word embeddings. This also means that is very fast and computationally cheap compared to other models presented here. In Figure~\ref{fig:model_linear}, we can see the overall architecture of the model. 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.5\textwidth]{figures/Selection_141.png}
+    \caption{Linear Network architecture}
+    \label{fig:model_linear}
+\end{figure}
+\subsubsection{Convolutional Neural Network}
+We used a CNN architecture similar to the one introduced in ~\cite{kim2014convolutional}. It consists of the following layers:
+\begin{itemize}
+\item Convolutional Layer : Three 1-dimensional convolution layers applied in parallel to the input embedding sequence. Each convolution layer uses a different filter size \{3, 4, 5\} and captures sentence information at different scales ( 3-gram, 4-gram, 5-gram ). The convolution filters learn translation-invariant representations which is useful for language because it allows for weight sharing between neurons and thus reduces significantly the number of weights compared to a fully connected layer. We use 100 filters for each layer and ReLu as a non-linearity for the convolution layers.
+\item Max-pooling : Applies a max operation across the sequence and returns an output that has the same size as the number of filters in each convolution layer.
+\item Concat Layer : Concatenates the output of each Max-pooling together.
+\item Linear Layer : Applies a linear mapping from the concat layer to the output.
+\item Sigmoid Activation : Maps the output to the [0,1] range.
+\end{itemize}
+
+In Figure~\ref{fig:model_cnn}, we can see the overall architecture of the model. 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.5\textwidth]{figures/Selection_140.png}
+    \caption{CNN architecture}
+    \label{fig:model_cnn}
+\end{figure}
+
+\subsubsection{Bi-directional Long-Short-Term-Memory}
+The Bi-LSTM model was first introduced in~\cite{graves2005framewise}. Here, we used a specific model that consists of the following Layers : 
+\begin{itemize}
+\item Forward LSTM : Sequential layer that is applied to the list of word embeddings from the first token in the sentence to the last token and outputs the lstm cell state of the last token of the sentence.
+\item Backward LSTM : Sequential layer that is applied to the list of word embeddings from the last token in the sentence to the first token and outputs the lstm cell state of the first token of the sentence.
+\item Concat Layer : Concatenates the output of each LSTM layer.
+\item Linear Layer : Applies a linear mapping from the concat layer to the output.
+\item Sigmoid Activation : Maps the output to the [0,1] range.
+\end{itemize}
+In Figure~\ref{fig:model_lstm}, we can see the overall architecture of the model. 
+\begin{figure}[h!]
+  \centering
+    \includegraphics[width=0.5\textwidth]{figures/Selection_142.png}
+    \caption{LSTM architecture}
+    \label{fig:model_lstm}
+\end{figure}
+
+\subsubsection{Implementation details}
+We used Keras ~\cite{chollet2015keras} with TensorFlow Backend throughout our experiments.\\
+We use Adadelta ~\cite{journals/corr/abs-1212-5701} Optimizer with a learning rate of 0.001 and a batch-size of 50.\\
+A Dropout ~\cite{Srivastava:2014:DSW:2627435.2670313} of 0.5 is used after the concat layer for LSTM and CNN and after
+the average layer for the Linear network model for regularization.\\
+We used Binary Cross-entropy in all the models losses.
+
+
+\subsection{Results}\label{results}
+
+We present a performance comparison of the architectures described above both in terms of accuracy/Precision/recall but also in terms of inference time as it is a also an important metric to consider when deploying a model in a production environment.
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{c|c|c|c}
+         \textbf{Model}& \textbf{Acc (std)}&\textbf{P (std)} & \textbf{R (std) }\\
+         \hline
+         Linear&88.2(1.5)&88.2(3.3)&73.5(3.5)\\
+         CNN&\textbf{93.7}(1.0)&\textbf{90.8}(2.6)&\textbf{89.7}(3.8)\\
+         Bi-LSTM&93.3(1.1)&90.5(3.0)&88.8(2.7)\\
+         \hline
+    \end{tabular}
+    \caption{French 10-fold Cross-validation results}
+    \label{tab:results-cv-fr}
+\end{table}
+
+
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{c|c|c|c}
+         \textbf{Model}& \textbf{Acc (std)}&\textbf{P (std)} & \textbf{R (std) }\\
+         \hline
+         Linear&87.7(3.5)&83.3(4.1)&60.8(1.4)\\
+         CNN&\textbf{94.3}(1.4)&\textbf{90.4}(4.2)&\textbf{85.8}(2.3)\\
+         Bi-LSTM&93.7(1.1)&88.8(1.9)&84.7(5.3)\\
+         \hline
+    \end{tabular}
+    \caption{English 10-fold Cross-validation results}
+    \label{tab:results-cv-en}
+\end{table}
+
+The convolutional model seem to yield slightly better results on average compared to the Bi-LSTM which is in line with the results presented in~\cite{guggilla2016cnn}. Both Bi-LSTM and CNN outperform the linear network model because they take into account the order of tokens in the sentence while the linear network model does not.
+
+%\textbf{Sample input-output of CNN : }
+%\begin{framed}
+%\begin{quote}
+%Non-Rule Sentence : \emph{``50\% of the net management fee payable to the %Management Company will be paid to the Investment Advisor.''} 
+
+%Score: \emph{0.0003432974}
+%\end{quote}
+%\end{framed}
+%\begin{framed}
+%\begin{quote}
+%Rule Sentence : \emph{``The Sub-fund shall not invest more than 5\% of its %net assets in ABS issued by companies located in emerging markets. ''}
+
+%Score: \emph{0.999471724}
+%\end{quote}
+
+%\end{framed}
+
+
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{c|c}
+         \textbf{Model}& \textbf{Time per sample (s)}\\
+         \hline
+         Linear&\textbf{$1.2e^{-4}$}\\
+         CNN&$3.1e^{-4}$\\
+         Bi-LSTM&$1.8e^{-3}$\\
+         \hline
+    \end{tabular}
+    \caption{Inference Time performance comparison}
+    \label{tab:results-inference-time}
+\end{table}
+
+Because of its simplicity the linear network model is the fastest out of the three and the Bi-LSTM is 6 times slower than the CNN while giving worse results.
+
+\section{Conclusions and further work}\label{conclusion}
+
+We have presented a method to detect and isolate mandatory rules in regulatory documents. The objective is to automate the detection of investment rule in prospectuses using a classifier. This helps compliance experts avoid the tedious work of reading documents that are sometimes as long as 500 pages and take days to read in order to select very few sentences.\\
+We described the frameworks used, the pre-processing steps and compared multiple classification models in terms of Accuracy/Precision/Recall and inference time. The results show that convolutional neural networks have the best trade-off between accuracy and execution time and are thus the best model for this task.
+
+
+
+\bibliography{acl2017}
+\bibliographystyle{acl_natbib}
+\end{document}

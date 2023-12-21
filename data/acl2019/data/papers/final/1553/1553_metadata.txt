@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1553
+FinalPaperTitle#=%=#Explicit Retrofitting of Distributional Word Vectors
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Goran Glavaš
+JobTitle#==#
+Organization#==#University of Mannheim
+Abstract#==#Semantic specialization of distributional word vectors, referred to as retrofitting, is a process of fine-tuning word vectors using external lexical knowledge in order to better embed some semantic relation. Existing retrofitting models integrate linguistic constraints directly into learning objectives and, consequently, specialize only the vectors of words from the constraints. In this work, in contrast, we transform external lexico-semantic relations into training examples which we use to learn an explicit retrofitting model (ER). The ER model allows us to learn a global specialization function and specialize the vectors of words unobserved in the training data as well. We report large gains over original distributional vector spaces in (1) intrinsic word similarity evaluation and on (2) two downstream tasks − lexical simplification and dialog state tracking. Finally, we also successfully specialize vector spaces of new languages (i.e., unseen in the training data) by coupling ER with shared multilingual distributional vector spaces.
+Author{1}{Firstname}#=%=#Goran
+Author{1}{Lastname}#=%=#Glavaš
+Author{1}{Email}#=%=#goran@informatik.uni-mannheim.de
+Author{1}{Affiliation}#=%=#University of Mannheim
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Vulić
+Author{2}{Email}#=%=#iv250@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+
+==========

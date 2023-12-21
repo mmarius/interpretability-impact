@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1038
+FinalPaperTitle#=%=#Rumor Detection on Twitter with Tree-structured Recursive Neural Networks
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jing Ma
+JobTitle#==#ph.D. student
+Organization#==#The Chinese University of Hong Kong, ShaTin, Hong Kong
+Abstract#==#Automatic rumor detection is technically very challenging. In this work, we try to learn discriminative features from tweets content by following their non-sequential propagation structure and generate more powerful representations for identifying different type of rumors. We propose two recursive neural models based on a bottom-up and a top-down tree-structured neural networks for rumor representation learning and classification, which naturally conform to the propagation layout of tweets. Results on two public Twitter datasets demonstrate that our recursive neural models 1) achieve much better performance than state-of-the-art approaches; 2) demonstrate superior capacity on detecting rumors at very early stage.
+Author{1}{Firstname}#=%=#Jing
+Author{1}{Lastname}#=%=#Ma
+Author{1}{Email}#=%=#majing@se.cuhk.edu.hk
+Author{1}{Affiliation}#=%=#the Chinese University of Hong Kong
+Author{2}{Firstname}#=%=#Wei
+Author{2}{Lastname}#=%=#Gao
+Author{2}{Email}#=%=#wgao.qcri@gmail.com
+Author{2}{Affiliation}#=%=#Victoria University of Wellington
+Author{3}{Firstname}#=%=#Kam-Fai
+Author{3}{Lastname}#=%=#Wong
+Author{3}{Email}#=%=#kfwong@se.cuhk.edu.hk
+Author{3}{Affiliation}#=%=#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+
+==========

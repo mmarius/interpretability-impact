@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#868
+FinalPaperTitle#=%=#Bleaching Text: Abstract Features for Cross-lingual Gender Prediction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Malvina Nissim
+JobTitle#==#
+Organization#==#University of Groningen
+Abstract#==#Gender prediction has typically focused on lexical and social network features, yielding good performance, but making systems highly language-, topic-, and platform dependent. Cross-lingual embeddings circumvent some of these limitations, but capture gender-specific style less. We propose an alternative: bleaching text, i.e., transforming lexical strings into more abstract features. This study provides evidence that such features allow for better transfer across languages. Moreover, we present a first study on the ability of humans to perform cross-lingual gender prediction. We find that human predictive power proves similar to that of our bleached models, and both perform better than lexical models.
+Author{1}{Firstname}#=%=#Rob
+Author{1}{Lastname}#=%=#van der Goot
+Author{1}{Email}#=%=#robvanderg@live.nl
+Author{1}{Affiliation}#=%=#University of Groningen
+Author{2}{Firstname}#=%=#Nikola
+Author{2}{Lastname}#=%=#Ljubešić
+Author{2}{Email}#=%=#nljubesi@ffzg.hr
+Author{2}{Affiliation}#=%=#Jožef Stefan Institute
+Author{3}{Firstname}#=%=#Ian
+Author{3}{Lastname}#=%=#Matroos
+Author{3}{Email}#=%=#i.matroos@rug.nl
+Author{3}{Affiliation}#=%=#University of Groningen
+Author{4}{Firstname}#=%=#Malvina
+Author{4}{Lastname}#=%=#Nissim
+Author{4}{Email}#=%=#m.nissim@rug.nl
+Author{4}{Affiliation}#=%=#University of Groningen
+Author{5}{Firstname}#=%=#Barbara
+Author{5}{Lastname}#=%=#Plank
+Author{5}{Email}#=%=#bplank@gmail.com
+Author{5}{Affiliation}#=%=#University of Groningen
+
+==========

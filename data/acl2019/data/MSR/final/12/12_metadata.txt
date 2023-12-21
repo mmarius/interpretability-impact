@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#The OSU Realizer for SRST '18: Neural Sequence-to-Sequence Inflection and Incremental Locality-Based Linearization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Michael White
+JobTitle#==#
+Organization#==#The Ohio State University
+Abstract#==#Surface realization is a nontrivial task as it involves taking structured data and producing grammatically and semantically correct utterances.  Many competing grammar-based and statistical models for realization still struggle with relatively simple sentences.  For our submission to the 2018 Surface Realization Shared Task, we tackle the shallow task by first generating inflected wordforms with a neural sequence-to-sequence model before incrementally linearizing them. For linearization, we use a global linear model trained using early update that makes use of features that take into account the dependency structure and dependency locality.  Using this pipeline sufficed to produce surprisingly strong results in the shared task.  In future work, we intend to pursue joint approaches to linearization and morphological inflection and incorporating a neural language model into the linearization choices.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#King
+Author{1}{Email}#=%=#king.david.lee@gmail.com
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Michael
+Author{2}{Lastname}#=%=#White
+Author{2}{Email}#=%=#mwhite@ling.osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+
+==========

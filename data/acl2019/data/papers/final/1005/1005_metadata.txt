@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1005
+FinalPaperTitle#=%=#Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Guokan Shang
+JobTitle#==#
+Organization#==#Ecole Polytechnique, Route de Saclay, 91128 Palaiseau, France
+Abstract#==#We introduce a novel graph-based framework for abstractive meeting speech summarization that is fully unsupervised and does not rely on any annotations. Our work combines the strengths of multiple recent approaches while addressing their weaknesses. Moreover, we leverage recent advances in word embeddings and graph degeneracy applied to NLP to take exterior semantic knowledge into account, and to design custom diversity and informativeness measures. Experiments on the AMI and ICSI  corpus show that our system improves on the state-of-the-art. Code and data are publicly available, and our system can be interactively tested.
+Author{1}{Firstname}#=%=#Guokan
+Author{1}{Lastname}#=%=#Shang
+Author{1}{Email}#=%=#guokan.shang@polytechnique.edu
+Author{1}{Affiliation}#=%=#École Polytechnique and Linagora
+Author{2}{Firstname}#=%=#Wensi
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Email}#=%=#wensi.ding@polytechnique.edu
+Author{2}{Affiliation}#=%=#École Polytechnique
+Author{3}{Firstname}#=%=#Zekun
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zekun.zhang@polytechnique.edu
+Author{3}{Affiliation}#=%=#École Polytechnique
+Author{4}{Firstname}#=%=#Antoine
+Author{4}{Lastname}#=%=#Tixier
+Author{4}{Email}#=%=#antoine.tixier-1@colorado.edu
+Author{4}{Affiliation}#=%=#Ecole Polytechnique, Palaiseau, France
+Author{5}{Firstname}#=%=#Polykarpos
+Author{5}{Lastname}#=%=#Meladianos
+Author{5}{Email}#=%=#pmeladianos@aueb.gr
+Author{5}{Affiliation}#=%=#AUEB
+Author{6}{Firstname}#=%=#Michalis
+Author{6}{Lastname}#=%=#Vazirgiannis
+Author{6}{Email}#=%=#mvazirg@lix.polytechnique.fr
+Author{6}{Affiliation}#=%=#Ecole Polytechnique
+Author{7}{Firstname}#=%=#Jean-Pierre
+Author{7}{Lastname}#=%=#Lorré
+Author{7}{Email}#=%=#jplorre@linagora.com
+Author{7}{Affiliation}#=%=#Linagora
+
+==========

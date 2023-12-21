@@ -1,0 +1,15 @@
+abbrev W18-34
+type WORKSHOP
+title Workshop on Deep Learning Approaches for Low-Resource NLP
+url https://sites.google.com/view/deeplo18/home
+booktitle Proceedings of the Workshop on Deep Learning Approaches for Low-Resource NLP
+month July
+year 2018
+location Melbourne
+publisher Association for Computational Linguistics
+chairs Reza Haffari (Monash University)
+chairs Colin Cherry (Google Research)
+chairs George Foster (Google Research)
+chairs Shahram Khadivi (eBay Research)
+chairs Bahar Salehi (University of Melbourne)
+bib_url http://www.aclweb.org/anthology/W18-34%02d

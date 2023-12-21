@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Language Informed Modeling of Code-Switched Text
+ShortPaperTitle#=%=#Language Informed Modeling of Code-Switched Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Khyathi Raghavi Chandu
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, Pennsylvania, United States
+Abstract#==#Code-switching (CS), the practice of alternating between two or more languages in conversations, is  pervasive in most multi-lingual communities. CS texts have a complex interplay between languages and occur in informal contexts that make them harder to collect and construct NLP tools for. We approach this problem through Language Modeling (LM) on a new Hindi-English mixed corpus containing 59,189 unique sentences collected from blogging websites. We implement and discuss different Language Models derived from a multi-layered LSTM architecture. We hypothesize that encoding language information strengthens a language model by helping to learn code-switching points. We show that our highest performing model achieves a test perplexity of 19.52 on the CS corpus that we collected and processed. On this data we demonstrate that our performance is an improvement over AWD-LSTM LM (a recent state of the art on monolingual English).
+Author{1}{Firstname}#=%=#Khyathi
+Author{1}{Lastname}#=%=#Chandu
+Author{1}{Email}#=%=#khythiraghavi@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Manzini
+Author{2}{Email}#=%=#tom.m@nzini.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Sumeet
+Author{3}{Lastname}#=%=#Singh
+Author{3}{Email}#=%=#sumeets@andrew.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Alan W.
+Author{4}{Lastname}#=%=#Black
+Author{4}{Email}#=%=#awb@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

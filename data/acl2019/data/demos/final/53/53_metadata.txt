@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#53
+FinalPaperTitle#=%=#ScoutBot: A Dialogue System for Collaborative Navigation
+ShortPaperTitle#=%=#ScoutBot: A Dialogue System for Collaborative Navigation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#U.S. Army Research Laboratory
+Adelphi, MD
+Abstract#==#ScoutBot is a dialogue interface to physical and simulated robots that supports
+collaborative exploration of environments. The demonstration will allow users to issue unconstrained spoken language commands to ScoutBot. ScoutBot will prompt for clarification if the user’s instruction needs additional input. It is trained on human-robot dialogue collected from Wizard-of-Oz experiments, where robot responses were initiated by a human wizard in previous interactions. The demonstration will show a simulated ground robot (Clearpath Jackal) in a simulated environment supported by ROS (Robot Operating System).
+Author{1}{Firstname}#=%=#Stephanie M.
+Author{1}{Lastname}#=%=#Lukin
+Author{1}{Email}#=%=#stephanie.m.lukin.civ@mail.mil
+Author{1}{Affiliation}#=%=#U.S. Army Research Laboratory
+Author{2}{Firstname}#=%=#Felix
+Author{2}{Lastname}#=%=#Gervits
+Author{2}{Email}#=%=#felix.gervits@tufts.edu
+Author{2}{Affiliation}#=%=#Tufts University
+Author{3}{Firstname}#=%=#Cory
+Author{3}{Lastname}#=%=#Hayes
+Author{3}{Email}#=%=#cory.j.hayes4.ctr@mail.mil
+Author{3}{Affiliation}#=%=#US Army Research Laboratory
+Author{4}{Firstname}#=%=#Pooja
+Author{4}{Lastname}#=%=#Moolchandani
+Author{4}{Email}#=%=#pmoolcha@usc.edu
+Author{4}{Affiliation}#=%=#University of Southern California
+Author{5}{Firstname}#=%=#Anton
+Author{5}{Lastname}#=%=#Leuski
+Author{5}{Email}#=%=#leuski@ict.usc.edu
+Author{5}{Affiliation}#=%=#USC/ICT
+Author{6}{Firstname}#=%=#John
+Author{6}{Lastname}#=%=#Rogers
+Author{6}{Email}#=%=#john.g.rogers59.civ@mail.mil
+Author{6}{Affiliation}#=%=#US Army Research Laboratory
+Author{7}{Firstname}#=%=#Carlos
+Author{7}{Lastname}#=%=#Sanchez Amaro
+Author{7}{Email}#=%=#csanchezamaro@ict.usc.edu
+Author{7}{Affiliation}#=%=#California State University, Los Angeles
+Author{8}{Firstname}#=%=#Matthew
+Author{8}{Lastname}#=%=#Marge
+Author{8}{Email}#=%=#matthew.r.marge.civ@mail.mil
+Author{8}{Affiliation}#=%=#Army Research Laboratory
+Author{9}{Firstname}#=%=#Clare
+Author{9}{Lastname}#=%=#Voss
+Author{9}{Email}#=%=#crvoss@acm.org
+Author{9}{Affiliation}#=%=#ARL
+Author{10}{Firstname}#=%=#David
+Author{10}{Lastname}#=%=#Traum
+Author{10}{Email}#=%=#traum@ict.usc.edu
+Author{10}{Affiliation}#=%=#University of Southern California Institute for Creative Technologies
+
+==========

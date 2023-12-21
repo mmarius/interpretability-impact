@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#Augmenting Textual Qualitative Features in Deep Convolution Recurrent Neural Network for Automatic Essay Scoring
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper we present a qualitatively enhanced deep convolution recurrent neural network for computing the quality of a text in an automatic essay scoring task. The novelty of the work lies in the fact that instead of considering only the word and sentence representation of a text, we try to augment the different complex linguistic, cognitive and psycological features associated within a text document along with a hierarchical convolution recurrent neural network framework.  Our preliminary investigation shows that incorporation of such qualitative feature vectors along with standard word/sentence embeddings can give us better understanding about improving the overall evaluation of the input essays.
+Author{1}{Firstname}#=%=#Tirthankar
+Author{1}{Lastname}#=%=#Dasgupta
+Author{1}{Email}#=%=#iamtirthankar@gmail.com
+Author{1}{Affiliation}#=%=#Tata Consultancy Services Ltd.
+Author{2}{Firstname}#=%=#Abir
+Author{2}{Lastname}#=%=#Naskar
+Author{2}{Email}#=%=#abir.naskar@tcs.com
+Author{2}{Affiliation}#=%=#TCS Innovation Lab
+Author{3}{Firstname}#=%=#Lipika
+Author{3}{Lastname}#=%=#Dey
+Author{3}{Email}#=%=#lipika.dey@tcs.com
+Author{3}{Affiliation}#=%=#TCS
+Author{4}{Firstname}#=%=#Rupsa
+Author{4}{Lastname}#=%=#Saha
+Author{4}{Email}#=%=#rupsa.s@tcs.com
+Author{4}{Affiliation}#=%=#TCS Innovation Labs New Delhi
+
+==========

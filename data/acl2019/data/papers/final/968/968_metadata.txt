@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#968
+FinalPaperTitle#=%=#Generating Fine-Grained Open Vocabulary Entity Type Descriptions
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Gerard de Melo
+JobTitle#==#
+Organization#==#Rutgers University
+Abstract#==#While large-scale knowledge graphs provide vast amounts of structured facts
+about entities, a short textual description can often be useful to succinctly
+characterize an entity and its type. Unfortunately, many knowledge graphs
+entities lack such textual descriptions. In this paper, we introduce a dynamic
+memory-based network that generates a short open vocabulary description of an
+entity by jointly leveraging induced fact embeddings as well as the dynamic
+context of the generated sequence of words. We demonstrate the ability of our
+architecture to discern relevant information for more accurate generation of
+type description by pitting the system against several strong baselines.
+Author{1}{Firstname}#=%=#Rajarshi
+Author{1}{Lastname}#=%=#Bhowmik
+Author{1}{Email}#=%=#rb897@cs.rutgers.edu
+Author{1}{Affiliation}#=%=#Rutgers University
+Author{2}{Firstname}#=%=#Gerard
+Author{2}{Lastname}#=%=#de Melo
+Author{2}{Email}#=%=#gdm@demelo.org
+Author{2}{Affiliation}#=%=#Rutgers University
+
+==========

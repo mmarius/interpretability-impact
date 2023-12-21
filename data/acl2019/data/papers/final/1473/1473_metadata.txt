@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1473
+FinalPaperTitle#=%=#SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jisun An
+JobTitle#==#
+Organization#==#Qatar Computing Research Institute, Hamad Bin Khalifa University, Education City, Doha, Qatar
+Abstract#==#Because word semantics can substantially change across communities and contexts, capturing domain-specific word semantics is an important challenge. 
+Here, we propose SemAxis, a simple yet powerful framework to characterize word semantics using many semantic axes in word-vector spaces beyond sentiment. We demonstrate that SemAxis can capture nuanced semantic representations in multiple online communities. We also show that, when the sentiment axis is examined, SemAxis outperforms the state-of-the-art approaches in building domain-specific sentiment lexicons.
+Author{1}{Firstname}#=%=#Jisun
+Author{1}{Lastname}#=%=#An
+Author{1}{Email}#=%=#jisun.an@acm.org
+Author{1}{Affiliation}#=%=#Qatar Computing Research Institute, Hamad Bin Khalifa University
+Author{2}{Firstname}#=%=#Haewoon
+Author{2}{Lastname}#=%=#Kwak
+Author{2}{Email}#=%=#haewoon@acm.org
+Author{2}{Affiliation}#=%=#Qatar Computing Research Institute, Hamad Bin Khalifa University
+Author{3}{Firstname}#=%=#Yong-Yeol
+Author{3}{Lastname}#=%=#Ahn
+Author{3}{Email}#=%=#yyahn@indiana.edu
+Author{3}{Affiliation}#=%=#Indiana University, Bloomington
+
+==========

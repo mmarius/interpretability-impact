@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#897
+FinalPaperTitle#=%=#A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ying Lin
+JobTitle#==#
+Organization#==#Rensselaer Polytechnic Institute
+Abstract#==#We propose a multi-lingual multi-task architecture to develop supervised models
+with a minimal amount of labeled data for sequence labeling.
+In this new architecture, we combine various transfer models using two layers
+of parameter sharing. On the first layer, we construct the  basis of the
+architecture to provide universal word representation and feature extraction
+capability for all models. On the second level, we adopt different parameter
+sharing strategies for different transfer schemes.
+This architecture proves to be particularly effective for low-resource
+settings, when there are less than 200 training sentences for the target task.
+Using Name Tagging as a target task, our approach achieved 4.3%-50.5% absolute
+F-score gains compared to the mono-lingual single-task baseline model.
+Author{1}{Firstname}#=%=#Ying
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#liny9@rpi.edu
+Author{1}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+Author{2}{Firstname}#=%=#Shengqi
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#shengqi.yang@jd.com
+Author{2}{Affiliation}#=%=#Jingdong
+Author{3}{Firstname}#=%=#Veselin
+Author{3}{Lastname}#=%=#Stoyanov
+Author{3}{Email}#=%=#vesko.st@gmail.com
+Author{3}{Affiliation}#=%=#Facebook
+Author{4}{Firstname}#=%=#Heng
+Author{4}{Lastname}#=%=#Ji
+Author{4}{Email}#=%=#jih@rpi.edu
+Author{4}{Affiliation}#=%=#Rensselaer Polytechnic Institute
+
+==========

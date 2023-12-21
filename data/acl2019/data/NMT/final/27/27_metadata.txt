@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Fast Neural Machine Translation Implementation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hieu Hoang
+JobTitle#==#Researcher
+Organization#==#University of Edinburgh
+Abstract#==#This paper describes the submissions to the efficiency track for GPUs at the Workshop for Neural Machine Translation and Generation by members of the University of Edinburgh, Adam Mickiewicz University, Tilde and University of Alicante. We focus on efficient implementation of the recurrent deep-learning model as implemented in Amun, the fast inference engine for neural machine translation. We improve the performance with an efficient mini-batching algorithm, and by fusing the softmax operation with the k-best extraction algorithm. Submissions using Amun were first, second and third fastest in the GPU efficiency track.
+Author{1}{Firstname}#=%=#Hieu
+Author{1}{Lastname}#=%=#Hoang
+Author{1}{Email}#=%=#hieuhoang@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Tomasz
+Author{2}{Lastname}#=%=#Dwojak
+Author{2}{Email}#=%=#t.dwojak@amu.edu.pl
+Author{2}{Affiliation}#=%=#$Adam Mickiewicz University
+Author{3}{Firstname}#=%=#Rihards
+Author{3}{Lastname}#=%=#Krislauks
+Author{3}{Email}#=%=#rihards.krislauks@tilde.lv
+Author{3}{Affiliation}#=%=#Tilde
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Torregrosa
+Author{4}{Email}#=%=#daniel.torregrosa.rivero@gmail.com
+Author{4}{Affiliation}#=%=#Universitat d'Alacant
+Author{5}{Firstname}#=%=#Kenneth
+Author{5}{Lastname}#=%=#Heafield
+Author{5}{Email}#=%=#softconf@kheafield.com
+Author{5}{Affiliation}#=%=#University of Edinburgh
+
+==========

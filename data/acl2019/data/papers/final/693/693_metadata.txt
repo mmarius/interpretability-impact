@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#693
+FinalPaperTitle#=%=#Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Adithya Pratapa
+JobTitle#==#
+Organization#==#Microsoft Research, Bangalore, India
+Abstract#==#Training language models for Code-mixed (CM) language is known to be a
+difficult problem because of lack of data compounded by the increased
+confusability due to the presence of more than one language. We present a
+computational technique for creation of grammatically valid artificial CM data
+based on the Equivalence Constraint Theory. We show that when training examples
+are sampled appropriately from this synthetic data and presented in certain
+order (aka training curriculum) along with monolingual and real CM data, it can
+significantly reduce the perplexity of an RNN-based language model. We also
+show that randomly generated CM data does not help in decreasing the perplexity
+of the LMs.
+Author{1}{Firstname}#=%=#Adithya
+Author{1}{Lastname}#=%=#Pratapa
+Author{1}{Email}#=%=#adithyapratapa@gmail.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Gayatri
+Author{2}{Lastname}#=%=#Bhat
+Author{2}{Email}#=%=#bhat.gaya3@gmail.com
+Author{2}{Affiliation}#=%=#Birla Institute of Technology and Science, Pilani
+Author{3}{Firstname}#=%=#Monojit
+Author{3}{Lastname}#=%=#Choudhury
+Author{3}{Email}#=%=#monojitc@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Sunayana
+Author{4}{Lastname}#=%=#Sitaram
+Author{4}{Email}#=%=#sunayana.sitaram@gmail.com
+Author{4}{Affiliation}#=%=#Microsoft Research India
+Author{5}{Firstname}#=%=#Sandipan
+Author{5}{Lastname}#=%=#Dandapat
+Author{5}{Email}#=%=#sadandap@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft
+Author{6}{Firstname}#=%=#Kalika
+Author{6}{Lastname}#=%=#Bali
+Author{6}{Email}#=%=#kalikab@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research Labs
+
+==========

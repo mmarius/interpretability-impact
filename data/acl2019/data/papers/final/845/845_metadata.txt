@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#845
+FinalPaperTitle#=%=#AMR dependency parsing with a typed semantic algebra
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Meaghan Fowlie
+JobTitle#==#
+Organization#==#Saarland University, Saarbruecken Germany
+Abstract#==#We present a semantic parser for Abstract Meaning Representations
+  which learns to parse strings into tree representations of the
+  compositional structure of an AMR graph. This allows us to use
+  standard neural techniques for supertagging and dependency tree
+  parsing, constrained by a linguistically principled type system. We
+  present two approximative decoding algorithms, which achieve
+  state-of-the-art accuracy and outperform strong baselines.
+Author{1}{Firstname}#=%=#Jonas
+Author{1}{Lastname}#=%=#Groschwitz
+Author{1}{Email}#=%=#jonasg@coli.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Lindemann
+Author{2}{Email}#=%=#mlinde@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Meaghan
+Author{3}{Lastname}#=%=#Fowlie
+Author{3}{Email}#=%=#mfowlie@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Mark
+Author{4}{Lastname}#=%=#Johnson
+Author{4}{Email}#=%=#Mark.Johnson@MQ.edu.au
+Author{4}{Affiliation}#=%=#Macquarie University
+Author{5}{Firstname}#=%=#Alexander
+Author{5}{Lastname}#=%=#Koller
+Author{5}{Email}#=%=#koller@coli.uni-saarland.de
+Author{5}{Affiliation}#=%=#Saarland University
+
+==========

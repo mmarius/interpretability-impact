@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Attention-based Semantic Priming for Slot-filling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jiewen Wu
+JobTitle#==#
+Organization#==#A*STAR, Singapore
+Abstract#==#The problem of sequence labelling in language understanding would benefit from approaches inspired by semantic priming phenomena. We propose that an attention-based RNN  architecture can be used to simulate semantic priming for sequence labelling. Specifically, we employ pre-trained word embeddings to characterize the semantic relationship between utterances and labels. We validate the approach using varying sizes of the ATIS and MEDIA datasets, and show up to 1.4-1.9% improvement in F1 score. The developed framework can enable more explainable and generalizable spoken language understanding systems.
+Author{1}{Firstname}#=%=#Jiewen
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wujw@i2r.a-star.edu.sg
+Author{1}{Affiliation}#=%=#A*STAR
+Author{2}{Firstname}#=%=#Rafael E.
+Author{2}{Lastname}#=%=#Banchs
+Author{2}{Email}#=%=#rembanchs@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Luis Fernando
+Author{3}{Lastname}#=%=#D'Haro
+Author{3}{Email}#=%=#luisdhe@i2r.a-star.edu.sg
+Author{3}{Affiliation}#=%=#Human Language Technologies - Institute for Infocomm Research
+Author{4}{Firstname}#=%=#Pavitra
+Author{4}{Lastname}#=%=#Krishnaswamy
+Author{4}{Email}#=%=#pavitrak@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#A*STAR
+Author{5}{Firstname}#=%=#Nancy
+Author{5}{Lastname}#=%=#Chen
+Author{5}{Email}#=%=#nancychen@alum.mit.edu
+Author{5}{Affiliation}#=%=#Institute for Infocomm Research
+
+==========

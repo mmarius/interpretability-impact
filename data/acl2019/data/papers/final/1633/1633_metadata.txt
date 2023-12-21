@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1633
+FinalPaperTitle#=%=#Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Juan
+JobTitle#==#
+Organization#==#
+Abstract#==#During the last years, there has been a lot of interest in achieving some kind of complex reasoning using deep neural networks. To do that, models like Memory Networks (MemNNs) have combined external memory storages and attention mechanisms. These architectures, however, lack of more complex reasoning mechanisms that could allow, for instance, relational reasoning. Relation Networks (RNs), on the other hand, have shown outstanding results in relational reasoning tasks. Unfortunately, their computational cost grows quadratically with the number of memories, something prohibitive for larger problems. To solve these issues, we introduce the Working Memory Network, a MemNN architecture with a novel working memory storage and reasoning module. Our model retains the relational reasoning abilities of the RN while reducing its computational complexity from quadratic to linear. We tested our model on the text QA dataset bAbI and the visual QA dataset NLVR. In the jointly trained bAbI-10k, we set a new state-of-the-art, achieving a mean error of less than 0.5%. Moreover, a simple ensemble of two of our models solves all 20 tasks in the joint version of the benchmark.
+Author{1}{Firstname}#=%=#Juan
+Author{1}{Lastname}#=%=#Pavez
+Author{1}{Email}#=%=#juan.pavezs@alumnos.usm.cl
+Author{1}{Affiliation}#=%=#Universidad Técnica Federico Santa María
+Author{2}{Firstname}#=%=#Hector
+Author{2}{Lastname}#=%=#Alllende
+Author{2}{Email}#=%=#hallende@inf.utfsm.cl
+Author{2}{Affiliation}#=%=#Universidad Federico Santa María
+Author{3}{Firstname}#=%=#Hector
+Author{3}{Lastname}#=%=#Allende-Cid
+Author{3}{Email}#=%=#hector.allende@pucv.cl
+Author{3}{Affiliation}#=%=#Pontificia Universidad Católica de Valparaíso
+
+==========

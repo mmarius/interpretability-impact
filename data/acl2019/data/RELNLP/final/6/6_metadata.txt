@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A neural parser as a direct classifier for head-final languages
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Hiroshi Kanayama
+JobTitle#==#
+Organization#==#IBM Research, Tokyo, Japan
+Abstract#==#This paper demonstrates a neural parser implementation suitable for consistently head-final languages such as Japanese.
+Unlike the transition- and graph-based algorithms in most state-of-the-art parsers,
+our parser directly selects the head word of a dependent from a limited number of candidates.
+This method drastically simplifies the model so that we can easily interpret the output of the neural model.
+Moreover, by exploiting grammatical knowledge to restrict possible modification types, we can control the output of the parser to reduce specific errors without adding annotated corpora.
+The neural parser performed well both on conventional Japanese corpora and the Japanese version of Universal Dependency corpus,
+and the advantages of distributed representations were observed in the comparison with the non-neural conventional model.
+Author{1}{Firstname}#=%=#Hiroshi
+Author{1}{Lastname}#=%=#Kanayama
+Author{1}{Email}#=%=#hkana@jp.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research - Tokyo
+Author{2}{Firstname}#=%=#Masayasu
+Author{2}{Lastname}#=%=#Muraoka
+Author{2}{Email}#=%=#mmuraoka@jp.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research - Tokyo
+Author{3}{Firstname}#=%=#Ryosuke
+Author{3}{Lastname}#=%=#Kohita
+Author{3}{Email}#=%=#Ryosuke.Kohita1@ibm.com
+Author{3}{Affiliation}#=%=#IBM Research - Tokyo
+
+==========

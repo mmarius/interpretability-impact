@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Systematic Error Analysis of the Stanford Question Answering Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Marc-Antoine Rondeau
+JobTitle#==#
+Organization#==#Microsoft Research, Montreal
+Abstract#==#We analyzed the outputs of multiple question
+answering (QA) models applied to
+the Stanford Question Answering Dataset
+(SQuAD) to identify the core challenges
+for QA systems on this data set. Through
+an iterative process, challenging aspects
+were hypothesized through qualitative
+analysis of the common error cases. A
+classifier was then constructed to predict
+whether SQuAD test examples were likely
+to be difficult for systems to answer based
+on features associated with the hypothesized
+aspects. The classifier’s performance
+was used to accept or reject each aspect
+as an indicator of difficulty. With this approach,
+we ensured that our hypotheses
+were systematically tested and not simply
+accepted based on our pre-existing biases.
+Our explanations are not accepted based
+on human evaluation of individual examples.
+This process also enabled us to identify
+the primary QA strategy learned by
+the models, i.e., systems determined the
+acceptable answer type for a question and
+then selected the acceptable answer span of
+that type containing the highest density of
+words present in the question within its local
+vicinity in the passage.
+Author{1}{Firstname}#=%=#Marc-Antoine
+Author{1}{Lastname}#=%=#Rondeau
+Author{1}{Email}#=%=#marondea@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#T. J.
+Author{2}{Lastname}#=%=#Hazen
+Author{2}{Email}#=%=#tj.hazen@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

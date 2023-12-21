@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#A Hybrid Learning Scheme for Chinese Word Embedding
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Weiguo Sheng
+JobTitle#==#Professor
+Organization#==#Hangzhou Normal University, Hangzhou, China
+Abstract#==#To improve word embedding, subword information has been widely employed in state-of-the-art methods. These methods can be classified to either compositional or predictive models. In this paper, we propose a hybrid learning scheme, which integrates compositional and predictive model for word embedding. Such a scheme can take advantage of both models, thus effectively learning word embedding. The proposed scheme has been applied to learn word representation on Chinese. Our results show that the proposed scheme can significantly improve the performance of word embedding in terms of analogical reasoning and is robust to the size of training data.
+Author{1}{Firstname}#=%=#Weiguo
+Author{1}{Lastname}#=%=#Sheng
+Author{1}{Email}#=%=#w.sheng@ieee.org
+Author{1}{Affiliation}#=%=#Hangzhou Normal University
+Author{2}{Firstname}#=%=#Weiguo
+Author{2}{Lastname}#=%=#Sheng
+Author{2}{Email}#=%=#w.sheng@ieee.org
+Author{2}{Affiliation}#=%=#Hangzhou Normal University
+
+==========

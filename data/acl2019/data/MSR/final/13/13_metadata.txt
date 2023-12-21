@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Generating High-Quality Surface Realizations Using Data Augmentation and Factored Sequence Models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Henry Elder
+JobTitle#==#
+Organization#==#DCU, Glasnevin, Dublin, Ireland
+Abstract#==#This work presents state of the art results in
+reconstruction of surface realizations from
+obfuscated text. We identify the lack of
+sufficient training data as the major obstacle
+to training high-performing models,
+and solve this issue by generating
+large amounts of synthetic training data.
+We also propose preprocessing techniques
+which make the structure contained in the
+input features more accessible to sequence
+models. Our models were ranked first
+on all evaluation metrics in the English
+portion of the 2018 Surface Realization
+shared task.
+Author{1}{Firstname}#=%=#Henry
+Author{1}{Lastname}#=%=#Elder
+Author{1}{Email}#=%=#henry.elder@adaptcentre.ie
+Author{1}{Affiliation}#=%=#Adapt Centre DCU
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Hokamp
+Author{2}{Email}#=%=#chris.hokamp@gmail.com
+Author{2}{Affiliation}#=%=#Dublin City University - CNGL
+
+==========

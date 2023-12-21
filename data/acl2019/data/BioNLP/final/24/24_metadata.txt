@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#24
+FinalPaperTitle#=%=#Investigating Domain-Specific Information for Neural Coreference Resolution on Biomedical Texts
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Hai-Long Trieu
+JobTitle#==#
+Organization#==#National Institute of Advanced Industrial Science and Technology
+Abstract#==#Existing biomedical coreference resolu- tion systems depend on features and/or rules based on syntactic parsers. In this pa- per, we investigate the utility of the state- of-the-art general domain neural coref- erence resolution system on biomedical texts. The system is an end-to-end sys- tem without depending on any syntactic parsers. We also investigate the domain specific features to enhance the system for biomedical texts. Experimental results on the BioNLP Protein Coreference dataset and the CRAFT corpus show that, with no parser information, the adapted sys- tem compared favorably with the systems that depend on parser information on these datasets, achieving 51.23% on the BioNLP dataset and 36.33% on the CRAFT corpus in F1 score. In-domain embeddings and domain-specific features helped improve the performance on the BioNLP dataset, but they did not on the CRAFT corpus.
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Trieu
+Author{1}{Email}#=%=#long.trieu@aist.go.jp
+Author{1}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology
+Author{2}{Firstname}#=%=#Nhung
+Author{2}{Lastname}#=%=#Nguyen
+Author{2}{Email}#=%=#nhung.nguyen@manchester.ac.uk
+Author{2}{Affiliation}#=%=#The University of Manchester
+Author{3}{Firstname}#=%=#Makoto
+Author{3}{Lastname}#=%=#Miwa
+Author{3}{Email}#=%=#makoto-miwa@toyota-ti.ac.jp
+Author{3}{Affiliation}#=%=#Toyota Technological Institute
+Author{4}{Firstname}#=%=#Sophia
+Author{4}{Lastname}#=%=#Ananiadou
+Author{4}{Email}#=%=#sophia.ananiadou@manchester.ac.uk
+Author{4}{Affiliation}#=%=#University of Manchester
+
+==========

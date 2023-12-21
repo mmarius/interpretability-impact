@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Chat Discrimination for Intelligent Conversational Agents with a Hybrid CNN-LMTGRU Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Minho Lee
+JobTitle#==#
+Organization#==#Kyungpook National University
+Abstract#==#Recently, intelligent dialog systems and smart assistants have attracted the attention of many, and development of novel dialogue agents have become a research challenge. Intelligent agents that can handle both domain-specific task-oriented and open-domain chit-chat dialogs are one of the major requirements in the current systems. In order to address this issue and to realize such smart hybrid dialogue systems, we develop a model to discriminate user utterance between task-oriented and chit-chat conversations. We introduce a hybrid of convolutional neural network (CNN) and a lateral multiple timescale gated recurrent units (LMTGRU) that can represent multiple temporal scale dependencies for the discrimination task. With the help of the combined slow and fast units of the LMTGRU, our model effectively determines whether a user will have a chit-chat conversation or a task-specific conversation with the system. We also show that the LMTGRU structure helps the model to perform well on longer text inputs. We address the lack of dataset by constructing a dataset using Twitter and Maluuba Frames data. The results of the experiments demonstrate that the proposed hybrid network outperforms the conventional models on the chat discrimination task as well as performed comparable to the baselines on various benchmark datasets.
+Author{1}{Firstname}#=%=#Dennis Singh
+Author{1}{Lastname}#=%=#Moirangthem
+Author{1}{Email}#=%=#mdennissingh@gmail.com
+Author{1}{Affiliation}#=%=#Kyungpook National University
+Author{2}{Firstname}#=%=#Minho
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#mholee@gmail.com
+Author{2}{Affiliation}#=%=#Kyungpook National University
+
+==========

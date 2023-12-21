@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Code-Switched Named Entity Recognition with Embedding Attention
+ShortPaperTitle#=%=#Code-Switched Named Entity Recognition with Embedding Attention
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Douwe Kiela
+JobTitle#==#
+Organization#==#Facebook
+Abstract#==#We describe our work for the CALCS 2018 shared task on named entity recognition on code-switched data. Our system ranked first place for MS Arabic-Egyptian named entity recognition and third place for English-Spanish.
+Author{1}{Firstname}#=%=#Changhan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#changhan@fb.com
+Author{1}{Affiliation}#=%=#Facebook
+Author{2}{Firstname}#=%=#Kyunghyun
+Author{2}{Lastname}#=%=#Cho
+Author{2}{Email}#=%=#kyunghyun.cho@nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Douwe
+Author{3}{Lastname}#=%=#Kiela
+Author{3}{Email}#=%=#douwe.kiela@cl.cam.ac.uk
+Author{3}{Affiliation}#=%=#Facebook
+
+==========

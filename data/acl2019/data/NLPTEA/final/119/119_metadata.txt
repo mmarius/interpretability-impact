@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#119
+FinalPaperTitle#=%=#Thank “Goodness”! A Way to Measure Style in Student Essays
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sandeep Mathias
+JobTitle#==#
+Organization#==#IIT Bombay, Powai, Mumbai - 400076.
+Abstract#==#Essays have two major components for scoring - content and style. In this paper, we describe a property of the essay, called goodness, and use it to predict the score given for the style of student essays. We compare our approach to solve this problem with baseline approaches, like language modeling and also a state-of-the-art deep learning system. We show that, despite being quite intuitive, our approach is very powerful in predicting the style of the essays.
+Author{1}{Firstname}#=%=#Sandeep
+Author{1}{Lastname}#=%=#Mathias
+Author{1}{Email}#=%=#mathiassandeep@gmail.com
+Author{1}{Affiliation}#=%=#IIT Bombay
+Author{2}{Firstname}#=%=#Pushpak
+Author{2}{Lastname}#=%=#Bhattacharyya
+Author{2}{Email}#=%=#pushpakbh@gmail.com
+Author{2}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

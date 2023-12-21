@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Surface Realization Shared Task 2018 (SR18): The Tilburg University Approach
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Thiago Castro Ferreira
+JobTitle#==#
+Organization#==#Tilburg University
+Abstract#==#This study describes the approach developed by the Tilburg University team to the shallow task of the Multilingual Surface Realization Shared Task 2018 (SR18). Based on (Castro Ferreira et al., 2017), the approach works by first preprocessing an input dependency tree  into an ordered linearized string, which is then realized using a statistical machine translation model. Our approach shows promising results, with BLEU scores above 50 for 5 different languages (English, French, Italian, Portuguese and Spanish) and above 35 for the Dutch language.
+Author{1}{Firstname}#=%=#Thiago
+Author{1}{Lastname}#=%=#Castro Ferreira
+Author{1}{Email}#=%=#thiago.castro.ferreira@gmail.com
+Author{1}{Affiliation}#=%=#Tilburg University
+Author{2}{Firstname}#=%=#Sander
+Author{2}{Lastname}#=%=#Wubben
+Author{2}{Email}#=%=#s.wubben@uvt.nl
+Author{2}{Affiliation}#=%=#Tilburg University
+Author{3}{Firstname}#=%=#Emiel
+Author{3}{Lastname}#=%=#Krahmer
+Author{3}{Email}#=%=#e.j.krahmer@uvt.nl
+Author{3}{Affiliation}#=%=#Tilburg University
+
+==========

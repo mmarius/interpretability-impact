@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#30
+FinalPaperTitle#=%=#End-to-End Reinforcement Learning for Automatic Taxonomy Induction
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuning Mao
+JobTitle#==#
+Organization#==#University of Illinois at Urbana-Champaign
+Abstract#==#We present a novel end-to-end reinforcement learning approach to automatic taxonomy induction from a set of terms. 
+While prior methods treat the problem as a two-phase task (\ie, detecting hypernymy pairs followed by organizing these pairs into a tree-structured hierarchy), we argue that such two-phase methods may suffer from error propagation, and cannot effectively optimize metrics that capture the holistic structure of a taxonomy.
+In our approach, the representations of term pairs are learned using multiple sources of information and used to determine \textit{which} term to select and \textit{where} to place it on the taxonomy via a policy network.
+All components are trained in an end-to-end manner with cumulative rewards, measured by a holistic tree metric over the training taxonomies.
+Experiments on two public datasets of different domains show that our approach outperforms prior state-of-the-art taxonomy induction methods up to 19.6\% on ancestor F1.
+Author{1}{Firstname}#=%=#Yuning
+Author{1}{Lastname}#=%=#Mao
+Author{1}{Email}#=%=#yuningm2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana–Champaign
+Author{2}{Firstname}#=%=#Xiang
+Author{2}{Lastname}#=%=#Ren
+Author{2}{Email}#=%=#xiangren@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Jiaming
+Author{3}{Lastname}#=%=#Shen
+Author{3}{Email}#=%=#js2@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{4}{Firstname}#=%=#Xiaotao
+Author{4}{Lastname}#=%=#Gu
+Author{4}{Email}#=%=#xiaotao2@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{5}{Firstname}#=%=#Jiawei
+Author{5}{Lastname}#=%=#Han
+Author{5}{Email}#=%=#hanj@cs.uiuc.edu
+Author{5}{Affiliation}#=%=#UIUC
+
+==========

@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Training a Neural Network in a Low-Resource Setting on Automatically Annotated Noisy Data
+ShortPaperTitle#=%=#Training a Neural Network in a Low-Resource Setting on Automatically Annotated Noisy Data
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Michael Hedderich
+JobTitle#==#
+Organization#==#Spoken Language Systems (LSV), Saarland University, Saarbrücken, Germany
+Abstract#==#Manually labeled corpora are expensive to create and often not available for low-resource languages or domains. Automatic labeling approaches are an alternative way to obtain labeled data in a quicker and cheaper way. However, these labels often contain more errors which can deteriorate a classifier's performance when trained on this data. We propose a noise layer that is added to a neural network architecture. This allows modeling the noise and train on a combination of clean and noisy data. We show that in a low-resource NER task we can improve performance by up to 35% by using additional, noisy data and handling the noise.
+Author{1}{Firstname}#=%=#Michael A.
+Author{1}{Lastname}#=%=#Hedderich
+Author{1}{Email}#=%=#mhedderich@lsv.uni-saarland.de
+Author{1}{Affiliation}#=%=#Spoken Language Systems (LSV), Saarbrücken Graduate School of Computer Science, Saarland Informatics Campus, Saarland University
+Author{2}{Firstname}#=%=#Dietrich
+Author{2}{Lastname}#=%=#Klakow
+Author{2}{Email}#=%=#dietrich.klakow@lsv.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+
+==========

@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Dependency Parsing of Code-Switching Data with Cross-Lingual Feature Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#
+CopyrightSigned#=%=#KyungTae Lim
+JobTitle#==#
+Organization#==#LATTICE, 1, rue Maurice Arnoux, 92120 Montrouge, France
+Abstract#==#This paper describes the test of a dependency parsing method which is based on bidirectional LSTM feature representations and multilingual word embedding, and evaluates the results on mono- and multilingual data. The results are similar in all cases, with a slightly better result achieved using multilingual data. The languages under investigation are Komi-Zyrian and Russian. Examination of the results by relation type shows that some language specific constructions are correctly recognized even when they appear in naturally occurring code-switching data.
+Author{1}{Firstname}#=%=#KyungTae
+Author{1}{Lastname}#=%=#Lim
+Author{1}{Email}#=%=#jujbob@gmail.com
+Author{1}{Affiliation}#=%=#LATTICE-CNRS
+Author{2}{Firstname}#=%=#Niko
+Author{2}{Lastname}#=%=#Partanen
+Author{2}{Email}#=%=#nikotapiopartanen@gmail.com
+Author{2}{Affiliation}#=%=#Lattice laboratory CNRS & École normale supérieure/PSL & Univ. Sorbonne nouvelle / USPC France
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Rießler
+Author{3}{Email}#=%=#michael.riessler@uni-bielefeld.de
+Author{3}{Affiliation}#=%=#Faculty for Linguistics and Literary Sciences University of Bielefeld
+Author{4}{Firstname}#=%=#Thierry
+Author{4}{Lastname}#=%=#Poibeau
+Author{4}{Email}#=%=#thierry.poibeau@ens.fr
+Author{4}{Affiliation}#=%=#LATTICE-CNRS
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Multimodal Relational Tensor Network for Sentiment and Emotion Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Saurav Sahay
+JobTitle#==#Research Scientist
+Organization#==#Intel Labs, 2200 Mission College Blvd, Santa Clara CA 95054
+Abstract#==#Understanding Affect from video segments has brought researchers from the language, audio and video domains together. Most of the current multimodal research in this area deals with various techniques to fuse the modalities, and mostly treat the segments of a video independently. Motivated by the work of (Zadeh et al., 2017) and (Poria et al., 2017), we present our architecture, Relational Tensor Network, where we use the inter-modal interactions within a segment (intra-segment) and also consider the sequence of segments in a video to model the inter-segment inter-modal interactions. We also generate rich representations of text and audio modalities by leveraging richer audio and linguistic context alongwith fusing fine-grained knowledge based polarity scores from text. We present the results of our model on CMU-MOSEI dataset and show that our model outperforms many baselines and state of the art methods for sentiment classification and emotion recognition.
+Author{1}{Firstname}#=%=#Saurav
+Author{1}{Lastname}#=%=#Sahay
+Author{1}{Email}#=%=#sauravsahay@gmail.com
+Author{1}{Affiliation}#=%=#Intel Labs
+Author{2}{Firstname}#=%=#Shachi H
+Author{2}{Lastname}#=%=#Kumar
+Author{2}{Email}#=%=#shachi.h.kumar@intel.com
+Author{2}{Affiliation}#=%=#Intel Labs
+Author{3}{Firstname}#=%=#Rui
+Author{3}{Lastname}#=%=#Xia
+Author{3}{Email}#=%=#rui.xia@intel.com
+Author{3}{Affiliation}#=%=#Intel Labs
+Author{4}{Firstname}#=%=#Jonathan
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#Jonathan.Huang@intel.com
+Author{4}{Affiliation}#=%=#Intel Labs
+Author{5}{Firstname}#=%=#Lama
+Author{5}{Lastname}#=%=#Nachman
+Author{5}{Email}#=%=#lama.nachman@intel.com
+Author{5}{Affiliation}#=%=#Intel Labs
+
+==========

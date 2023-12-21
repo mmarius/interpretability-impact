@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Woo Yong Choi
+JobTitle#==#
+Organization#==#orbis.ai Inc., Seongsu il ro 8 gil #5, SK V1 Tower #2006-2, Seoul, Korea
+Abstract#==#Emotion recognition has become a popular topic of interest, especially in the field of human computer interaction. Previous works involve unimodal analysis of emotion, while recent efforts focus on multimodal emotion recognition from vision and speech. In this paper, we propose a new method of learning about the hidden representations between just speech and text data using convolutional attention networks. Compared to the shallow model which employs simple concatenation of feature vectors, the proposed attention model performs much better in classifying emotion from speech and text data contained in the CMU-MOSEI dataset.
+Author{1}{Firstname}#=%=#Woo Yong
+Author{1}{Lastname}#=%=#Choi
+Author{1}{Email}#=%=#cchoi@orbisai.co
+Author{1}{Affiliation}#=%=#orbis.ai Inc.
+Author{2}{Firstname}#=%=#Kyu Ye
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#kysong@orbisai.co
+Author{2}{Affiliation}#=%=#orbis.ai Inc.
+Author{3}{Firstname}#=%=#Chan Woo
+Author{3}{Lastname}#=%=#Lee
+Author{3}{Email}#=%=#cwlee@orbisai.co
+Author{3}{Affiliation}#=%=#orbis.ai Inc.
+
+==========

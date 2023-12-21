@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#548
+FinalPaperTitle#=%=#Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Minghui Qiu
+JobTitle#==#
+Organization#==#Alibaba Group, Hangzhou, China
+Abstract#==#Building multi-turn information-seeking conversation systems is an important and challenging research topic. Although several advanced neural text matching models have been proposed for this task, they are generally not efficient for industrial applications. Furthermore, they rely on a large amount of labeled data, which may not be available in real-world applications.
+
+To alleviate these problems, we study transfer learning for multi-turn information seeking conversations in this paper. We first propose an efficient and effective multi-turn conversation model based on convolutional neural networks. After that, we extend our model to adapt the knowledge learned from a resource-rich domain to enhance the performance. Finally, we deployed our model in an industrial chatbot called AliMe Assist and observed a significant improvement over the existing online model.
+Author{1}{Firstname}#=%=#Minghui
+Author{1}{Lastname}#=%=#Qiu
+Author{1}{Email}#=%=#minghuiqiu@gmail.com
+Author{1}{Affiliation}#=%=#Alibaba Group
+Author{2}{Firstname}#=%=#Liu
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#lyang@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{3}{Firstname}#=%=#Feng
+Author{3}{Lastname}#=%=#Ji
+Author{3}{Email}#=%=#zhongxiu.jf@alibaba-inc.com
+Author{3}{Affiliation}#=%=#Alibaba Group
+Author{4}{Firstname}#=%=#Wei
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#fayi.zw@alibaba-inc.com
+Author{4}{Affiliation}#=%=#Alibaba Group
+Author{5}{Firstname}#=%=#Jun
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Email}#=%=#huangjun.hj@alibaba-inc.com
+Author{5}{Affiliation}#=%=#Alibaba Group
+Author{6}{Firstname}#=%=#Haiqing
+Author{6}{Lastname}#=%=#Chen
+Author{6}{Email}#=%=#haiqing.chenhq@alibaba-inc.com
+Author{6}{Affiliation}#=%=#Alibaba Group
+Author{7}{Firstname}#=%=#Bruce
+Author{7}{Lastname}#=%=#Croft
+Author{7}{Email}#=%=#croft@cs.umass.edu
+Author{7}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{8}{Firstname}#=%=#Wei
+Author{8}{Lastname}#=%=#Lin
+Author{8}{Email}#=%=#weilin.lw@alibaba-inc.com
+Author{8}{Affiliation}#=%=#Alibaba Group
+
+==========

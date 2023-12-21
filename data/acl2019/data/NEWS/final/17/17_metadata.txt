@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Report of NEWS 2018 Named Entity Transliteration Shared Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#19
+CopyrightSigned#=%=#Xiangyu Duan
+JobTitle#==#
+Organization#==#Soochow University, China
+Abstract#==#This report presents the results from the Named Entity Transliteration Shared Task
+conducted as part of The Seventh Named Entities Workshop (NEWS 2018) held at ACL
+2018 in Melbourne, Australia. Similar to previous editions of NEWS, the Shared Task featured 19 tasks on proper name transliteration, including 13 different languages and two different Japanese scripts. A total of 6 teams from 8 different institutions participated in the evaluation, submitting 424 runs, involving different transliteration methodologies. Four performance metrics were used to report the evaluation results. The NEWS shared task on machine transliteration has successfully achieved its objectives by providing a common ground for the research community to conduct comparative evaluations of state-of-the-art technologies
+that will benefit the future research and development in this area.
+Author{1}{Firstname}#=%=#Nancy
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#nancychen@alum.mit.edu
+Author{1}{Affiliation}#=%=#Institute for Infocomm Research
+Author{2}{Firstname}#=%=#Rafael E.
+Author{2}{Lastname}#=%=#Banchs
+Author{2}{Email}#=%=#rembanchs@i2r.a-star.edu.sg
+Author{2}{Affiliation}#=%=#Institute for Infocomm Research
+Author{3}{Firstname}#=%=#Min
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#zhangminmt@hotmail.com
+Author{3}{Affiliation}#=%=#SooChow University
+Author{4}{Firstname}#=%=#Xiangyu
+Author{4}{Lastname}#=%=#Duan
+Author{4}{Email}#=%=#xiangyuduan@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Haizhou
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#hzli@ieee.org
+Author{5}{Affiliation}#=%=#National University of Singapore
+
+==========

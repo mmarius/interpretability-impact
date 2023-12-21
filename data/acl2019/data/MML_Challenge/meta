@@ -1,0 +1,16 @@
+abbrev W18-33
+type Workshop
+title First Grand Challenge and Workshop on Human Multimodal Language (Challenge-HML)
+url http://multicomp.cs.cmu.edu/acl2018multimodalworkshop/
+booktitle Proceedings of Grand Challenge and Workshop on Human Multimodal Language (Challenge-HML)
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Amir Zadeh
+chairs Paul Pu Liang
+chairs Louis-Philippe Morency
+chairs Soujanya Poria
+chairs Erik Cambria
+chairs Stefan Scherer
+bib_url http://www.aclweb.org/anthology/W18-33

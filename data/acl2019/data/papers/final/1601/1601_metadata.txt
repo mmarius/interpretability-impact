@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1601
+FinalPaperTitle#=%=#Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Ryo Takahashi
+JobTitle#==#
+Organization#==#Tohoku University, Communication Science Laboratory, 6-6-05 Aramaki Aza Aoba, Aobaku, Sendai, Miyagi 980-8579, Japan
+Abstract#==#Embedding models for entities and relations are extremely useful for recovering missing facts in a knowledge base. Intuitively, a relation can be modeled by a matrix mapping entity vectors. However, relations reside on low dimension sub-manifolds in the parameter space of arbitrary matrices – for one reason, composition of two relations M1, M2 may match a third M3 (e.g. composition of relations currency_of_country and country_of_film usually matches currency_of_film_budget), which imposes compositional constraints to be satisfied by the parameters (i.e. M1*M2=M3). In this paper we investigate a dimension reduction technique by training relations jointly with an autoencoder, which is expected to better capture compositional constraints. We achieve state-of-the-art on Knowledge Base Completion tasks with strongly improved Mean Rank, and show that joint training with an autoencoder leads to interpretable sparse codings of relations, helps discovering compositional constraints and benefits from compositional training. Our source code is released at github.com/tianran/glimvec.
+Author{1}{Firstname}#=%=#Ryo
+Author{1}{Lastname}#=%=#Takahashi
+Author{1}{Email}#=%=#ryo.t@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Ran
+Author{2}{Lastname}#=%=#Tian
+Author{2}{Email}#=%=#robin.tianran@gmail.com
+Author{2}{Affiliation}#=%=#AI Research Center, AIST
+Author{3}{Firstname}#=%=#Kentaro
+Author{3}{Lastname}#=%=#Inui
+Author{3}{Email}#=%=#inui@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University / RIKEN AIP
+
+==========

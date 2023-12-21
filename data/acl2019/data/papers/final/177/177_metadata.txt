@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#177
+FinalPaperTitle#=%=#Hybrid semi-Markov CRF for Neural Sequence Labeling
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Zhixiu Ye
+JobTitle#==#author
+Organization#==#University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China.
+Abstract#==#This paper proposes hybrid semi-Markov conditional random fields (SCRFs) for
+neural sequence labeling in natural language processing. Based on conventional
+conditional random fields (CRFs), SCRFs have been designed for the tasks of
+assigning labels to segments by extracting features from and describing
+transitions between segments instead of words. In this paper, we improve the
+existing SCRF methods by employing word-level and segment-level information
+simultaneously. First, word-level labels are utilized to derive the segment
+scores in SCRFs. Second, a CRF output layer and an SCRF output layer are
+integrated into a unified neural network and trained jointly. Experimental
+results on CoNLL 2003 named entity recognition (NER) shared task show that our
+model achieves state-of-the-art performance when no external knowledge is used.
+Author{1}{Firstname}#=%=#Zhixiu
+Author{1}{Lastname}#=%=#Ye
+Author{1}{Email}#=%=#zxye@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Zhen-Hua
+Author{2}{Lastname}#=%=#Ling
+Author{2}{Email}#=%=#zhling@ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+
+==========

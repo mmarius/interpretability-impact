@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#961
+FinalPaperTitle#=%=#Neural Argument Generation Augmented with Externally Retrieved Evidence
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Xinyu Hua
+JobTitle#==#
+Organization#==#Northeastern University, Boston, MA, 02115
+Abstract#==#High quality arguments are essential elements for human reasoning and
+decision-making processes. However, effective argument construction is a
+challenging task for both human and machines. In this work, we study a novel
+task on automatically generating arguments of a different stance for a given
+statement. We propose an encoder-decoder style neural network-based argument
+generation model enriched with externally retrieved evidence from Wikipedia.
+Our model first generates a set of talking point phrases as intermediate
+representation, followed by a separate decoder producing the final argument
+based on both input and the keyphrases. Experiments on a large-scale dataset
+collected from Reddit show that our model constructs arguments with more
+topic-relevant content than popular sequence-to-sequence generation models
+according to automatic evaluation and human assessments.
+Author{1}{Firstname}#=%=#Xinyu
+Author{1}{Lastname}#=%=#Hua
+Author{1}{Email}#=%=#xinyuhua1994@gmail.com
+Author{1}{Affiliation}#=%=#Northeastern University
+Author{2}{Firstname}#=%=#Lu
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#luwang@ccs.neu.edu
+Author{2}{Affiliation}#=%=#Northeastern University
+
+==========

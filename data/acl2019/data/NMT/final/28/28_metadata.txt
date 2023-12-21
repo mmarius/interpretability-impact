@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#OpenNMT System Description for WNMT 2018: 800 words/sec on a single-core CPU
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Dakun Zhang
+JobTitle#==#
+Organization#==#Systran
+Abstract#==#We present a system description of the OpenNMT Neural Machine Translation entry for the WNMT 2018 evaluation. In this work, we developed a heavily optimized NMT inference model targeting a high-performance CPU system. The final system uses a combination of four techniques, all of them lead to significant speed-ups in combination: (a) sequence distillation, (b) architecture modifications, (c) precomputation, particularly of vocabulary, and (d) CPU targeted quantization. This work achieves the fastest performance of the shared task, and led to the development of new features that have been integrated to OpenNMT and available to the community.
+Author{1}{Firstname}#=%=#Jean
+Author{1}{Lastname}#=%=#Senellart
+Author{1}{Email}#=%=#senellart@systran.fr
+Author{1}{Affiliation}#=%=#SYSTRAN
+Author{2}{Firstname}#=%=#Dakun
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#dakun.zhang@systrangroup.com
+Author{2}{Affiliation}#=%=#SYSTRAN
+Author{3}{Firstname}#=%=#Bo
+Author{3}{Lastname}#=%=#WANG
+Author{3}{Email}#=%=#bo.wang@systrangroup.com
+Author{3}{Affiliation}#=%=#Systran
+Author{4}{Firstname}#=%=#Guillaume
+Author{4}{Lastname}#=%=#KLEIN
+Author{4}{Email}#=%=#guillaume.klein@systrangroup.com
+Author{4}{Affiliation}#=%=#Systran
+Author{5}{Firstname}#=%=#Jean-Pierre
+Author{5}{Lastname}#=%=#Ramatchandirin
+Author{5}{Email}#=%=#jean-pierre.ramatchandirin@systrangroup.com
+Author{5}{Affiliation}#=%=#Systran
+Author{6}{Firstname}#=%=#Josep
+Author{6}{Lastname}#=%=#Crego
+Author{6}{Email}#=%=#josep.crego@systrangroup.com
+Author{6}{Affiliation}#=%=#SYSTRAN
+Author{7}{Firstname}#=%=#Alexander
+Author{7}{Lastname}#=%=#Rush
+Author{7}{Email}#=%=#srush@seas.harvard.edu
+Author{7}{Affiliation}#=%=#Harvard
+
+==========

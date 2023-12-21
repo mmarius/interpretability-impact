@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#BioAMA: Towards an End to End BioMedical Question Answering System
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Vasu Sharma
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#In this paper, we present a novel Biomedical Question Answering system, BioAMA: "Biomedical Ask Me Anything" on task 5b of the annual BioASQ challenge. In this work, we focus on a wide variety of question types including factoid, list based, summary and yes/no type questions that generate both exact and well-formed 'ideal' answers. For summary-type questions, we combine effective IR-based techniques for retrieval and diversification of relevant snippets for a question to create an end-to-end system which achieves a ROUGE-2 score of 0.72 and a ROUGE-SU4 score of 0.71 on ideal answer questions (7%  improvement over the previous best model). Additionally, we propose a novel NLI-based framework to answer the yes/no questions. To train the NLI model, we also devise a transfer-learning technique by cross-domain projection of word embeddings. Finally, we present a two-stage approach to address the factoid and list type questions by first generating a candidate set using NER taggers and ranking them using both supervised or unsupervised techniques.
+Author{1}{Firstname}#=%=#Vasu
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#sharma.vasu55@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Nitish
+Author{2}{Lastname}#=%=#Kulkarni
+Author{2}{Email}#=%=#nitishkk@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Srividya
+Author{3}{Lastname}#=%=#Pranavi
+Author{3}{Email}#=%=#spothara@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Gabriel
+Author{4}{Lastname}#=%=#Bayomi
+Author{4}{Email}#=%=#gbk@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+Author{5}{Firstname}#=%=#Eric
+Author{5}{Lastname}#=%=#Nyberg
+Author{5}{Email}#=%=#ehn@cs.cmu.edu
+Author{5}{Affiliation}#=%=#Carnegie Mellon University
+Author{6}{Firstname}#=%=#Teruko
+Author{6}{Lastname}#=%=#Mitamura
+Author{6}{Email}#=%=#teruko@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

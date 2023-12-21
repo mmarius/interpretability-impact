@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#69
+FinalPaperTitle#=%=#RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition
+ShortPaperTitle#=%=#RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Albert Zeyer
+JobTitle#==#
+Organization#==#Human Language Technology and Pattern Recognition Group, RWTH Aachen University, Ahornstr. 55, 52056 Aachen, Germany
+Abstract#==#We compare the fast training and decoding speed of RETURNN of attention mod-
+els for translation, due to fast CUDA
+LSTM kernels, and a fast pure TensorFlow beam search decoder. We show that
+a layer-wise pretraining scheme for recurrent attention models gives over 1% BLEU
+improvement absolute and it allows to
+train deeper recurrent encoder networks.
+Promising preliminary results on max. expected BLEU training are presented. We
+are able to train state-of-the-art models
+for translation and end-to-end models for
+speech recognition and show results on
+WMT 2017 and Switchboard. The flexibility of RETURNN allows a fast research
+feedback loop to experiment with alternative architectures, and its generality allows
+to use it on a wide range of applications.
+Author{1}{Firstname}#=%=#Albert
+Author{1}{Lastname}#=%=#Zeyer
+Author{1}{Email}#=%=#zeyer@cs.rwth-aachen.de
+Author{1}{Affiliation}#=%=#Human Language Technology and Pattern Recognition Group (Chair of Computer Science 6),  Computer Science Department, RWTH Aachen University
+Author{2}{Firstname}#=%=#Tamer
+Author{2}{Lastname}#=%=#Alkhouli
+Author{2}{Email}#=%=#alkhouli@cs.rwth-aachen.de
+Author{2}{Affiliation}#=%=#RWTH Aachen University
+Author{3}{Firstname}#=%=#Hermann
+Author{3}{Lastname}#=%=#Ney
+Author{3}{Email}#=%=#ney@cs.rwth-aachen.de
+Author{3}{Affiliation}#=%=#RWTH Aachen University
+
+==========

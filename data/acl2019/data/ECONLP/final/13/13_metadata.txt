@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#13
+FinalPaperTitle#=%=#Unsupervised Word Influencer Networks from News Streams
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Ananth Balashankar
+JobTitle#==#
+Organization#==#New York University
+Abstract#==#In this paper, we propose a new unsuper-
+vised learning framework to use news events
+for predicting trends in stock prices. We
+present Word Influencer Networks (WIN), a
+graph framework to extract longitudinal tem-
+poral relationships between any pair of infor-
+mative words from news streams. Using the
+temporal occurrence of words, WIN measures
+how the appearance of one word in a news
+stream influences the emergence of another set
+of words in the future. The latent word-word
+influencer relationships in WIN are the build-
+ing blocks for causal reasoning and predic-
+tive modeling. We demonstrate the efficacy of
+WIN by using it for unsupervised extraction of
+latent features for stock price prediction and
+obtain 2 orders lower prediction error com-
+pared to a similar causal graph based method.
+WIN discovered influencer links from seem-
+ingly unrelated words from topics like poli-
+tics to finance. WIN also validated 67% of
+the causal evidence found manually in the text
+through a direct edge and the rest 33% through
+a path of length 2.
+Author{1}{Firstname}#=%=#Ananth
+Author{1}{Lastname}#=%=#Balashankar
+Author{1}{Email}#=%=#ananthbalashankar@gmail.com
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Sunandan
+Author{2}{Lastname}#=%=#Chakraborty
+Author{2}{Email}#=%=#sunandanchakraborty@gmail.com
+Author{2}{Affiliation}#=%=#Indiana University
+Author{3}{Firstname}#=%=#Lakshminarayanan
+Author{3}{Lastname}#=%=#Subramanian
+Author{3}{Email}#=%=#lakshmi@cs.nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

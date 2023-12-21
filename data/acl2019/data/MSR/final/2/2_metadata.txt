@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#AX Semantics' Submission to the Surface Realization Shared Task 2018
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Andreas Madsack
+JobTitle#==#
+Organization#==#AX Semantics GmbH; Marienstrasse 23; 70178 Stuttgart; Germany
+Abstract#==#In this paper we describe our system and experimental results on the development set of the Surface Realisation Shared Task.
+Our system is an entry for the Shallow-Task, with two different models based on deep-learning implementations for building the sentence combined with a rule-based morphology component.
+Author{1}{Firstname}#=%=#Andreas
+Author{1}{Lastname}#=%=#Madsack
+Author{1}{Email}#=%=#andreas.madsack@ax-semantics.com
+Author{1}{Affiliation}#=%=#AX Semantics
+Author{2}{Firstname}#=%=#Johanna
+Author{2}{Lastname}#=%=#Heininger
+Author{2}{Email}#=%=#johanna.heininger@ax-semantics.com
+Author{2}{Affiliation}#=%=#AX Semantics
+Author{3}{Firstname}#=%=#Nyamsuren
+Author{3}{Lastname}#=%=#Davaasambuu
+Author{3}{Email}#=%=#nyamsuren.davaasambuu@ax-semantics.com
+Author{3}{Affiliation}#=%=#AX Semantics
+Author{4}{Firstname}#=%=#Vitaliia
+Author{4}{Lastname}#=%=#Voronik
+Author{4}{Email}#=%=#Vitaliia.Voronik@ax-semantics.com
+Author{4}{Affiliation}#=%=#AX Semantics
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Käufl
+Author{5}{Email}#=%=#michael.kaeufl@ax-semantics.com
+Author{5}{Affiliation}#=%=#AX Semantics
+Author{6}{Firstname}#=%=#Robert
+Author{6}{Lastname}#=%=#Weißgraeber
+Author{6}{Email}#=%=#robert.weissgraeber@ax-semantics.com
+Author{6}{Affiliation}#=%=#CTO @ AX Semantics
+
+==========

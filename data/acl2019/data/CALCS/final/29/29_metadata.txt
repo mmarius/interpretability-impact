@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#29
+FinalPaperTitle#=%=#Multilingual Named Entity Recognition on Spanish-English Code-switched Tweets using Support Vector Machines
+ShortPaperTitle#=%=#Multilingual Named Entity Recognition on Spanish-English Code-switched Tweets using Support Vector Machines
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Samantha Kent
+JobTitle#==#
+Organization#==#Fraunhofer FKIE
+Fraunhoferstrasse 20 
+53343 Wachtberg
+Germany
+Abstract#==#This paper describes our system submission for the ACL 2018 shared task on named entity recognition (NER) in code-switched Twitter data. Our best result (F1 = 53.65) was obtained using a Support Vector Machine (SVM) with 14 features combined with rule-based post processing.
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Claeser
+Author{1}{Email}#=%=#claeser@uni-bonn.de
+Author{1}{Affiliation}#=%=#Fraunhofer FKIE
+Author{2}{Firstname}#=%=#Samantha
+Author{2}{Lastname}#=%=#Kent
+Author{2}{Email}#=%=#samantha.kent@fkie.fraunhofer.de
+Author{2}{Affiliation}#=%=#Fraunhofer FKIE
+Author{3}{Firstname}#=%=#Dennis
+Author{3}{Lastname}#=%=#Felske
+Author{3}{Email}#=%=#dennis.felske@fkie.fraunhofer.de
+Author{3}{Affiliation}#=%=#Fraunhofer FKIE
+
+==========

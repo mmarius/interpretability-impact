@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Economic Event Detection in Company-Specific News Text
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gilles Jacobs
+JobTitle#==#
+Organization#==#Language and Translation Technology Team, Ghent University, Groot-Brittanniëlaan 45, 9000 Ghent, Belgium
+Abstract#==#This paper presents a dataset and supervised classification approach for economic event detection in English news articles.
+Currently, the economic domain is lacking resources and methods for data-driven supervised event detection.
+The detection task is conceived as a sentence-level classification task for 10 different economic event types.
+Two different machine learning approaches were tested: a rich feature set Support Vector Machine (SVM) set-up and a word-vector-based long short-term memory recurrent neural network (RNN-LSTM) set-up.
+We show satisfactory results for most event types, with the linear kernel SVM outperforming the other experimental set-ups
+Author{1}{Firstname}#=%=#Gilles
+Author{1}{Lastname}#=%=#Jacobs
+Author{1}{Email}#=%=#gillesm.jacobs@ugent.be
+Author{1}{Affiliation}#=%=#LT3, UGent
+Author{2}{Firstname}#=%=#Els
+Author{2}{Lastname}#=%=#Lefever
+Author{2}{Email}#=%=#els.lefever@ugent.be
+Author{2}{Affiliation}#=%=#LT3, UGent
+Author{3}{Firstname}#=%=#Véronique
+Author{3}{Lastname}#=%=#Hoste
+Author{3}{Email}#=%=#veronique.hoste@ugent.be
+Author{3}{Affiliation}#=%=#LT3, UGent
+
+==========

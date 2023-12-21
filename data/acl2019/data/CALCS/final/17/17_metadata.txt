@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Accommodation of Conversational Code-Choice
+ShortPaperTitle#=%=#Accommodation of Conversational Code-Choice
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Anshul Bawa
+JobTitle#==#
+Organization#==#Microsoft Research Labs India
+Bangalore, India - 560001
+Abstract#==#Bilingual speakers often freely mix languages. However, in such bilingual conversations, are the language choices of the speakers coordinated? How much does one speaker's choice of language affect other speakers? In this paper, we formulate code-choice as a linguistic style, and show that speakers are indeed sensitive to and accommodating of each other's code-choice. We find that the saliency or markedness of a language in context directly affects the degree of accommodation observed. More importantly, we discover that accommodation of code-choices persists over several conversational turns. We also propose an alternative interpretation of conversational accommodation as a retrieval problem, and show that the differences in accommodation characteristics of code-choices are based on their markedness in context.
+Author{1}{Firstname}#=%=#Anshul
+Author{1}{Lastname}#=%=#Bawa
+Author{1}{Email}#=%=#t-anbaw@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Monojit
+Author{2}{Lastname}#=%=#Choudhury
+Author{2}{Email}#=%=#monojitc@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Kalika
+Author{3}{Lastname}#=%=#Bali
+Author{3}{Email}#=%=#kalikab@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft Research Labs
+
+==========

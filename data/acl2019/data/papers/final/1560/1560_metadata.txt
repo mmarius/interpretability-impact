@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#1560
+FinalPaperTitle#=%=#Constraining MGbank: Agreement, L-Selection and Supertagging in Minimalist Grammars
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#John Torr
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper reports on two strategies that have been implemented for improving the efficiency and precision of wide-coverage Minimalist Grammar (MG) parsing.  The first extends the formalism presented in Torr and Stabler~\shortcite{Torr&Stabler2016} with a mechanism for enforcing fine-grained selectional restrictions and agreements.  The second is a method for factoring computationally costly null heads out from bottom-up MG parsing; this has the additional benefit of rendering the formalism fully compatible for the first time with highly efficient Markovian supertaggers.  These techniques aided in the task of generating MGbank, the first wide-coverage corpus of Minimalist Grammar derivation trees.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Torr
+Author{1}{Email}#=%=#john.torr@cantab.net
+Author{1}{Affiliation}#=%=#University of Edinburgh
+
+==========

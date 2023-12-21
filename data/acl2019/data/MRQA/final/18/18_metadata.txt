@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#RECIPE: Applying Open Domain Question Answering to Privacy Policies
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#YAN SHAVRZSHNAIDER
+JobTitle#==#
+Organization#==#NEW YORK UNIVERSITY
+Abstract#==#We   describe   our   experiences   in   using  an  open  domain  question  answering model  (Chen  et  al.,  2017)  to  evaluate  an out-of-domain  QA  task  of  assisting  in analyzing  privacy  policies  of  companies. Specifically,  Relevant  CI  Parameters  Extractor  (RECIPE)  seeks  to  answer  questions  posed  by  the  theory  of  contextual integrity  (CI)  regarding  the  information flows described in the privacy statements. These  questions  have  a  simple  syntactic structure  and  the  answers  are  factoids  or descriptive in nature. The model achieved an F1 score of 72.33, but we noticed that combining the results of this model with a neural dependency parser based approach yields  a  significantly  higher  F1  score  of 92.35  compared  to  manual  annotations. This indicates that future work which in-corporates signals from parsing like NLP tasks more explicitly can generalize better on out-of-domain tasks.
+Author{1}{Firstname}#=%=#Yan
+Author{1}{Lastname}#=%=#Shvartzshanider
+Author{1}{Email}#=%=#ys63@nyu.edu
+Author{1}{Affiliation}#=%=#NYU
+Author{2}{Firstname}#=%=#Ananth
+Author{2}{Lastname}#=%=#Balashankar
+Author{2}{Email}#=%=#ananth@nyu.edu
+Author{2}{Affiliation}#=%=#NYU
+Author{3}{Firstname}#=%=#Thomas
+Author{3}{Lastname}#=%=#Wies
+Author{3}{Email}#=%=#wies@cs.nyu.edu
+Author{3}{Affiliation}#=%=#NYU
+Author{4}{Firstname}#=%=#Lakshminarayanan
+Author{4}{Lastname}#=%=#Subramanian
+Author{4}{Email}#=%=#lakshmi@cs.nyu.edu
+Author{4}{Affiliation}#=%=#NYU
+
+==========

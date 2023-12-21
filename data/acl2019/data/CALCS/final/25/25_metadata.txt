@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Named Entity Recognition on Code-Switched Data Using Conditional Random Fields
+ShortPaperTitle#=%=#Named Entity Recognition on Code-Switched Data Using CRFs
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Björn Gambäck
+JobTitle#==#
+Organization#==#Department of Computer Science
+Norwegian University of Science and Technology
+Trondheim, Norway
+Abstract#==#Named Entity Recognition is an important information extraction task that identifies proper names in  unstructured texts and classifies them into some pre-defined categories. Identification of named entities in code-mixed social media texts is a more difficult and challenging task as the contexts are short, ambiguous and often noisy. This work proposes a Conditional Random Fields based named entity recognition system to identify proper names in code-switched data and classify them into nine categories. The system ranked fifth among nine participant systems and achieved a 59.25% F1-score.
+Author{1}{Firstname}#=%=#Utpal Kumar
+Author{1}{Lastname}#=%=#Sikdar
+Author{1}{Email}#=%=#sikdar.utpal@gmail.com
+Author{1}{Affiliation}#=%=#Flytxt
+Author{2}{Firstname}#=%=#Biswanath
+Author{2}{Lastname}#=%=#Barik
+Author{2}{Email}#=%=#bn.barik@gmail.com
+Author{2}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+Author{3}{Firstname}#=%=#Björn
+Author{3}{Lastname}#=%=#Gambäck
+Author{3}{Email}#=%=#gamback@ntnu.no
+Author{3}{Affiliation}#=%=#Norwegian University of Science and Technology (NTNU)
+
+==========

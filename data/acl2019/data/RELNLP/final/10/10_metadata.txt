@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Syntactic Dependency Representations in Neural Relation Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#farhad nooralahzadeh
+JobTitle#==#PhD Fellow
+Organization#==#University of Oslo, Norway
+Abstract#==#We investigate the use of different syntactic dependency representations in a neural relation classification task and compare the CoNLL, Stanford Basic and Universal Dependencies schemes. We further compare with a syntax-agnostic approach and perform an error analysis in order to gain a better understanding of the results.
+Author{1}{Firstname}#=%=#Farhad
+Author{1}{Lastname}#=%=#Nooralahzadeh
+Author{1}{Email}#=%=#farhadno@ifi.uio.no
+Author{1}{Affiliation}#=%=#University of Oslo
+Author{2}{Firstname}#=%=#Lilja
+Author{2}{Lastname}#=%=#Øvrelid
+Author{2}{Email}#=%=#liljao@ifi.uio.no
+Author{2}{Affiliation}#=%=#Dept of Informatics, University of Oslo
+
+==========

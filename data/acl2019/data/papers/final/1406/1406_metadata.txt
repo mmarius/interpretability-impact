@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1406
+FinalPaperTitle#=%=#Semantically Equivalent Adversarial Rules for Debugging NLP models
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Marco Tulio Ribeiro
+JobTitle#==#
+Organization#==#University of Washington, Seattle, WA
+Abstract#==#Complex machine learning models for NLP are often brittle, making different predictions for input instances that are extremely similar semantically.
+To automatically detect this behavior for individual instances, we present semantically equivalent adversaries (SEAs) -- semantic-preserving perturbations that induce changes in the model's predictions.
+We generalize these adversaries into semantically equivalent adversarial rules (SEARs) -- simple, universal replacement rules that induce adversaries on many instances.
+We demonstrate the usefulness and flexibility of SEAs and SEARs by
+detecting bugs in black-box state-of-the-art models for three domains: machine comprehension, visual question-answering, and sentiment analysis.
+Via user studies, we demonstrate that we generate high-quality local adversaries for more instances than humans, and that SEARs induce four times as many mistakes as the bugs discovered by human experts.
+SEARs are also actionable: retraining models using data augmentation significantly reduces bugs, while maintaining accuracy.
+Author{1}{Firstname}#=%=#Marco Tulio
+Author{1}{Lastname}#=%=#Ribeiro
+Author{1}{Email}#=%=#marcotcr@gmail.com
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Sameer
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Email}#=%=#sameer@uci.edu
+Author{2}{Affiliation}#=%=#University of California, Irvine
+Author{3}{Firstname}#=%=#Carlos
+Author{3}{Lastname}#=%=#Guestrin
+Author{3}{Email}#=%=#guestrin@cs.uw.edu
+Author{3}{Affiliation}#=%=#University of Washington, Apple
+
+==========

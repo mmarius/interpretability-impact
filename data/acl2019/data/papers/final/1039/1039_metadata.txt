@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#1039
+FinalPaperTitle#=%=#Learning Simplifications for Specific Target Audiences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Carolina Scarton
+JobTitle#==#
+Organization#==#University of Sheffield, Regent Court, 211 Portobello, S1 4DP, Sheffield, UK
+Abstract#==#Text simplification (TS) is a monolingual text-to-text transformation task where an original (complex) text is transformed into a target (simpler) text. Most recent work is based on sequence-to-sequence neural models similar to those used for machine translation (MT). Different from MT, TS data comprises more elaborate transformations, such as sentence splitting. It can also contain multiple simplifications of the same original text targeting different audiences, such as school grade levels. We explore these two features of TS to build models tailored for specific grade levels. Our approach uses a standard sequence-to-sequence architecture where the original sequence is annotated with information about the target audience and/or the (predicted) type of simplification operation. We show that it outperforms state-of-the-art TS approaches (up to 3 and 12 BLEU and SARI points, respectively), including  when training data for the specific complex-simple combination of grade levels is not available, i.e. zero-shot learning.
+Author{1}{Firstname}#=%=#Carolina
+Author{1}{Lastname}#=%=#Scarton
+Author{1}{Email}#=%=#carol.scarton@gmail.com
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Lucia
+Author{2}{Lastname}#=%=#Specia
+Author{2}{Email}#=%=#l.specia@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

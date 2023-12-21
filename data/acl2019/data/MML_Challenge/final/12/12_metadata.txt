@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Polarity and Intensity: the Two Aspects of Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Leimin Tian
+JobTitle#==#
+Organization#==#School of Informatics, the University of Edinburgh, UK
+Abstract#==#Current multimodal sentiment analysis frames sentiment score prediction as a general Machine Learning task. However, what the sentiment score actually represents has often been overlooked. As a measurement of opinions and affective states, a sentiment score generally consists of two aspects: polarity and intensity. We decompose sentiment scores into these two aspects and study how they are conveyed through individual modalities and combined multimodal models in a naturalistic monologue setting. In particular, we build unimodal and multimodal multi-task learning models with sentiment score prediction as the main task and polarity and/or intensity classification as the auxiliary tasks. Our experiments show that sentiment analysis benefits from multi-task learning, and individual modalities differ when conveying the polarity and intensity aspects of sentiment.
+Author{1}{Firstname}#=%=#Leimin
+Author{1}{Lastname}#=%=#Tian
+Author{1}{Email}#=%=#s1219694@sms.ed.ac.uk
+Author{1}{Affiliation}#=%=#ILCC, School of Informatics, the University of Edinburgh
+Author{2}{Firstname}#=%=#Catherine
+Author{2}{Lastname}#=%=#Lai
+Author{2}{Email}#=%=#clai@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#CSTR, School of Informatics, the University of Edinburgh
+Author{3}{Firstname}#=%=#Johanna
+Author{3}{Lastname}#=%=#Moore
+Author{3}{Email}#=%=#j.moore@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+
+==========

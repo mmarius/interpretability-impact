@@ -1,0 +1,14 @@
+SubmissionNumber#=%=#108
+FinalPaperTitle#=%=#Syntactic and Lexical Approaches to Reading Comprehension
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Henry Lin
+JobTitle#==#
+Organization#==#Hackley School, Tarrytown, NY
+Abstract#==#Among the challenges of teaching reading comprehension in K – 12 are identifying the portions of a text that are difficult for a student, comprehending major critical ideas, and understanding context-dependent polysemous words. We present a simple, unsupervised but robust and accurate syntactic method for achieving the first objective and a modified hierarchical lexical method for the second objective. Focusing on pinpointing troublesome sentences instead of the overall readability and on concepts central to a reading, we believe these methods will greatly facilitate efforts to help students improve reading skills
+Author{1}{Firstname}#=%=#Henry
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#esotericbubba@hotmail.com
+Author{1}{Affiliation}#=%=#Hackley School
+
+==========

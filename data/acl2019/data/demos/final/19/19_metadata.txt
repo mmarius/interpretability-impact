@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation
+ShortPaperTitle#=%=#NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jinhua Du
+JobTitle#==#Research Fellow
+Organization#==#Accenture Labs Dublin, 7 Hanover Quay, Dublin, Ireland
+Abstract#==#Most of the current anti money laundering (AML) systems, using handcrafted rules, are heavily reliant on existing structured databases, which are not capable of effectively and efficiently identifying hidden and complex ML activities, especially those with dynamic and time-varying
+characteristics, resulting in a high percentage of false positives. Therefore, analysts are engaged for further investigation which significantly increases human capital cost and processing time. To alleviate these issues, this paper presents a novel framework for the next generation AML by applying and visualizing deep learning-driven natural language processing (NLP) technologies in a distributed and scalable manner to augment AML monitoring and investigation. The proposed distributed framework performs news and tweet sentiment analysis, entity recognition, relation extraction, entity linking and link analysis on different
+data sources (e.g. news articles and tweets) to provide additional evidence to human investigators for final decision-making. Each NLP module is evaluated on a task-specific data set, and the overall experiments are performed on synthetic and real-world datasets. Feedback from AML practitioners suggests that our system can reduce approximately 30% time and cost compared to their previous manual approaches of AML investigation.
+Author{1}{Firstname}#=%=#Jingguang
+Author{1}{Lastname}#=%=#Han
+Author{1}{Email}#=%=#jingguang.han@accenture.com
+Author{1}{Affiliation}#=%=#Accenture Labs
+Author{2}{Firstname}#=%=#Utsab
+Author{2}{Lastname}#=%=#Barman
+Author{2}{Email}#=%=#utsab.barman@ucd.ie
+Author{2}{Affiliation}#=%=#University College Dublin
+Author{3}{Firstname}#=%=#Jeremiah
+Author{3}{Lastname}#=%=#Hayes
+Author{3}{Email}#=%=#jeremiah.hayes@accenture.com
+Author{3}{Affiliation}#=%=#Accenture Labs Dublin
+Author{4}{Firstname}#=%=#Jinhua
+Author{4}{Lastname}#=%=#Du
+Author{4}{Email}#=%=#jinhua.du@gmail.com
+Author{4}{Affiliation}#=%=#Dublin City University
+Author{5}{Firstname}#=%=#Edward
+Author{5}{Lastname}#=%=#Burgin
+Author{5}{Email}#=%=#edward.burgin@accenture.com
+Author{5}{Affiliation}#=%=#Accenture Labs Dublin
+Author{6}{Firstname}#=%=#Dadong
+Author{6}{Lastname}#=%=#Wan
+Author{6}{Email}#=%=#dadong.wan@accenture.com
+Author{6}{Affiliation}#=%=#Accenture Labs
+
+==========

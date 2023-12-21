@@ -1,0 +1,14 @@
+abbrev BioNLP18
+type WORKSHOP
+title BioNLP 2018
+url https://aclweb.org/aclwiki/BioNLP_Workshop
+booktitle Proceedings of the BioNLP 2018 workshop
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Dina Demner-Fushman (US National Library of Medicine)
+chairs Kevin Bretonnel Cohen (University of Colorado School of Medicine, USA)
+chairs Sophia Ananiadou (National Centre for Text Mining and University of Manchester, UK)
+chairs Junichi Tsujii (National Institute of Advanced Industrial Science and Technology, Japan)
+bib_url http://www.aclweb.org/anthology/W18-23

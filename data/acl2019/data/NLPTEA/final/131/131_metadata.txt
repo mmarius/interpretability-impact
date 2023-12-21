@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#131
+FinalPaperTitle#=%=#Detecting Grammatical Errors in the NTOU CGED System by Identifying Frequent Subsentences
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Chuan-Jie Lin
+JobTitle#==#
+Organization#==#National Taiwan Ocean University
+Abstract#==#The main goal of Chinese grammatical error diagnosis task is to detect word er-rors in the sentences written by Chinese-learning students.  Our previous system would generate error-corrected sentences as candidates and their sentence likeli-hood were measured based on a large scale Chinese n-gram dataset.  This year we further tried to identify long frequent-ly-seen subsentences and label them as correct in order to avoid propose too many error candidates.  Two new methods for suggesting missing and selection er-rors were also tested.
+Author{1}{Firstname}#=%=#Chuan-Jie
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#cjlinntou@gmail.com
+Author{1}{Affiliation}#=%=#National Taiwan Ocean Universty
+Author{2}{Firstname}#=%=#Shao-Heng
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#shchen.cse@ntou.edu.tw
+Author{2}{Affiliation}#=%=#National Taiwan Ocean University
+
+==========

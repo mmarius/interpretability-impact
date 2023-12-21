@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#624
+FinalPaperTitle#=%=#Discourse Representation Structure Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiangming Liu
+JobTitle#==#
+Organization#==#Institute for Language, Cognition and Computation School of Informatics, University of Edinburgh 10 Crichton Street, Edinburgh EH8 9AB
+Abstract#==#We introduce an open-domain neural semantic parser which generates formal meaning representations in the style of Discourse Representation Theory (DRT; Kamp and Reyle 1993). We propose a method which transforms Discourse Representation Structures (DRSs) to trees and develop a structure-aware model which decomposes the decoding process into three stages: basic DRS structure prediction, condition prediction (i.e., predicates and relations), and referent prediction (i.e., variables). Experimental results on the Groningen Meaning Bank (GMB) show that our model outperforms competitive baselines by a wide margin.
+Author{1}{Firstname}#=%=#Jiangming
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#Jiangming.Liu@ed.ac.uk
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Shay B.
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#Mirella
+Author{3}{Lastname}#=%=#Lapata
+Author{3}{Email}#=%=#mlap@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#School of Informatics, University of Edinburgh
+
+==========

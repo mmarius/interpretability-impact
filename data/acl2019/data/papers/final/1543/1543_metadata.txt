@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1543
+FinalPaperTitle#=%=#Automatic Article Commenting: the Task and Dataset
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lianhui Qin
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University
+Abstract#==#Comments of online articles provide extended views and improve user engagement. Automatically making comments thus become a valuable functionality for online forums, intelligent chatbots, etc. This paper proposes the new task of automatic article commenting, and introduces a large-scale Chinese dataset with millions of real comments and a human-annotated subset characterizing the comments' varying quality. Incorporating the human bias of comment quality, we further develop automatic metrics that generalize a broad set of popular reference-based metrics and exhibit greatly improved correlations with human evaluations.
+Author{1}{Firstname}#=%=#Lianhui
+Author{1}{Lastname}#=%=#Qin
+Author{1}{Email}#=%=#qinlianhui@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science and Engineering, Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Lemao
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#lemaoliu@gmail.com
+Author{2}{Affiliation}#=%=#Tencent AI Lab
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Bi
+Author{3}{Email}#=%=#victoriabi@tencent.com
+Author{3}{Affiliation}#=%=#tencent
+Author{4}{Firstname}#=%=#Yan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#brandenwang@tencent.com
+Author{4}{Affiliation}#=%=#Tencent AI Lab
+Author{5}{Firstname}#=%=#Xiaojiang
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#kieranliu@tencent.com
+Author{5}{Affiliation}#=%=#Tencent AI Lab
+Author{6}{Firstname}#=%=#Zhiting
+Author{6}{Lastname}#=%=#Hu
+Author{6}{Email}#=%=#zhitingh@cs.cmu.edu
+Author{6}{Affiliation}#=%=#Carnegie Mellon University
+Author{7}{Firstname}#=%=#Hai
+Author{7}{Lastname}#=%=#Zhao
+Author{7}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{7}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{8}{Firstname}#=%=#Shuming
+Author{8}{Lastname}#=%=#Shi
+Author{8}{Email}#=%=#shumingshi@tencent.com
+Author{8}{Affiliation}#=%=#Tencent AI Lab
+
+==========

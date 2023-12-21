@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1439
+FinalPaperTitle#=%=#Sentiment Adaptive End-to-End Dialog Systems
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Weiyan Shi; Zhou Yu
+JobTitle#==#Data Scientist; Assistant Professor
+Organization#==#[24]7.ai, 2001 All Programmable Dr., San Jose, CA 95124; University of California, Davis, 1 Shields Ave, Davis, CA 95616
+Abstract#==#End-to-end learning framework is useful for building dialog systems for its
+simplicity in training and efficiency in model updating. However, current
+end-to-end approaches only consider user semantic inputs in learning and
+under-utilize other user information. Therefore, we propose to include user
+sentiment obtained through multimodal information (acoustic, dialogic and
+textual), in the end-to-end learning framework to make systems more
+user-adaptive and effective.
+We incorporated user sentiment information in both supervised and reinforcement
+learning settings. In both settings, adding sentiment information reduced the
+dialog length and improved the task success rate on a bus information search
+task. This work is the first attempt to incorporate multimodal user information
+in the adaptive end-to-end dialog system training framework and attained
+state-of-the-art performance.
+Author{1}{Firstname}#=%=#Weiyan
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#wyshiwyshi@gmail.com
+Author{1}{Affiliation}#=%=#[24]7.ai
+Author{2}{Firstname}#=%=#Zhou
+Author{2}{Lastname}#=%=#Yu
+Author{2}{Email}#=%=#joyu@ucdavis.edu
+Author{2}{Affiliation}#=%=#University of California, Davis
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#The University of Texas System Submission for the Code-Switching Workshop Shared Task 2018
+ShortPaperTitle#=%=#UT-Austin Shared Task
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Florian Janke
+JobTitle#==#
+Organization#==#Bilingual Annotation Tasks Force
+Abstract#==#This paper describes the system for the Named Entity Recognition Shared Task of the Third Workshop on Computational Approaches to Linguistic Code-Switching  (CALCS) submitted by the Bilingual Annotations Tasks (BATs) research group of the University of Texas. Our system uses several features to train a Conditional Random Field (CRF) model for classifying input words as Named Entities (NEs) using the Inside-Outside-Beginning (IOB) tagging scheme. We participated in the Modern Standard Arabic-Egyptian Arabic (MSA-EGY) and English-Spanish (ENG-SPA) tasks, achieving weighted average F-scores of 65.62 and 54.16 respectively. We also describe the performance of a deep neural network (NN) trained on a subset of the CRF features, which did not surpass CRF performance.
+Author{1}{Firstname}#=%=#Florian
+Author{1}{Lastname}#=%=#Janke
+Author{1}{Email}#=%=#imjaflo@gmail.com
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Tongrui
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#tli1998@utexas.edu
+Author{2}{Affiliation}#=%=#The University of Texas at Austin
+Author{3}{Firstname}#=%=#Eric
+Author{3}{Lastname}#=%=#Rincón
+Author{3}{Email}#=%=#rincon@utexas.edu
+Author{3}{Affiliation}#=%=#The University of Texas at Austin
+Author{4}{Firstname}#=%=#Gualberto
+Author{4}{Lastname}#=%=#Guzmán
+Author{4}{Email}#=%=#gualbertoguzman@utexas.edu
+Author{4}{Affiliation}#=%=#The University of Texas at Austin
+Author{5}{Firstname}#=%=#Barbara
+Author{5}{Lastname}#=%=#Bullock
+Author{5}{Email}#=%=#bbullock@austin.utexas.edu
+Author{5}{Affiliation}#=%=#The University of Texas at Austin
+Author{6}{Firstname}#=%=#Almeida Jacqueline
+Author{6}{Lastname}#=%=#Toribio
+Author{6}{Email}#=%=#toribio@austin.utexas.edu
+Author{6}{Affiliation}#=%=#The University of Texas at Austin
+
+==========

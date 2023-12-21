@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#125
+FinalPaperTitle#=%=#CMMC-BDRC Solution to the NLP-TEA-2018 Chinese Grammatical Error Diagnosis Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Yongwei Zhang
+JobTitle#==#
+Organization#==#Institute of Linguistics, Chinese Academy of Social Sciences, Beijing, China
+Abstract#==#Chinese grammatical error diagnosis is an important natural language processing (NLP) task, which is also an important application using artificial intelligence technology in language education. This paper introduces a system developed by the Chinese Multilingual & Multimodal Corpus and Big Data Research Center for the NLP-TEA shared task, named Chinese Grammar Error Diagnosis (CGED). This system regards diagnosing errors task as a sequence tagging problem, while takes correction task as a text classification problem. Finally, in the 12 teams, this system gets the highest F1 score in the detection task and the second highest F1 score in mean in the identification task, position task and the correction task.
+Author{1}{Firstname}#=%=#Zhang
+Author{1}{Lastname}#=%=#Yongwei
+Author{1}{Email}#=%=#zhangyw@cass.org.cn
+Author{1}{Affiliation}#=%=#Chinese Academy of Social Sciences
+Author{2}{Firstname}#=%=#Hu
+Author{2}{Lastname}#=%=#Qinan
+Author{2}{Email}#=%=#qinan.hu@qq.com
+Author{2}{Affiliation}#=%=#Chinese Academy of Social Sciences
+Author{3}{Firstname}#=%=#Liu
+Author{3}{Lastname}#=%=#Fang
+Author{3}{Email}#=%=#liu_fang@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Gu
+Author{4}{Lastname}#=%=#Yueguo
+Author{4}{Email}#=%=#gyg@beiwaionline.com
+Author{4}{Affiliation}#=%=#Chinese Academy of Social Sciences
+
+==========

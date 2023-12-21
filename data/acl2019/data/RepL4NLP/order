@@ -1,0 +1,41 @@
+* Friday, July 20, 2018
++ 09:30--09:45 Welcome and Opening Remarks
+= 09:45--14:45 Keynote Session
+! 09:45--10:30 Invited Talk 1 %by Yejin Choi
++ 10:30--11:00 Coffee Break
+! 11:00--11:45 Invited Talk 2 %by Trevor Cohn
+! 11:45--12:30 Invited Talk 3 %by Margaret Mitchell
++ 12:30--14:00 Lunch
+! 14:00--14:45 Invited Talk 4 %by Yoav Goldberg
+= 14:45--15:00 Outstanding Papers Spotlight Presentations
+= 15:00--16:30 Poster Session (including Coffee Break from 15:30-16:00) + Drinks Reception
+1   # Corpus Specificity in LSA and Word2vec: The Role of Out-of-Domain Documents
+3   # Hierarchical Convolutional Attention Networks for Text Classification
+7   # Extrofitting: Enriching Word Representation and its Vector Space with Semantic Lexicons
+10   # Chat Discrimination for Intelligent Conversational Agents with a Hybrid CNN-LMTGRU Network
+11   # Text Completion using Context-Integrated Dependency Parsing
+13   # Quantum-Inspired Complex Word Embedding
+14   # Natural Language Inference with Definition Embedding Considering Context On the Fly
+17   # Comparison of Representations of Named Entities for Document Classification
+18   # Speeding up Context-based Sentence Representation Learning with Non-autoregressive Convolutional Decoding
+20   # Connecting Supervised and Unsupervised Sentence Embeddings
+21   # A Hybrid Learning Scheme for Chinese Word Embedding
+22   # Unsupervised Random Walk Sentence Embeddings: A Strong but Simple Baseline
+23   # Evaluating Word Embeddings in Multi-label Classification Using Fine-Grained Name Typing
+24   # A Dense Vector Representation for Open-Domain Relation Tuples
+27   # Exploiting Common Characters in Chinese and Japanese to Learn Cross-Lingual Word Embeddings via Matrix Factorization
+29   # WordNet Embeddings
+30   # Knowledge Graph Embedding with Numeric Attributes of Entities
+32   # Injecting Lexical Contrast into Word Vectors by Guiding Vector Space Specialisation
+33   # Characters or Morphemes: How to Represent Words?
+34   # Learning Hierarchical Structures On-The-Fly with a Recurrent-Recursive Model for Sequences
+37   # Limitations of Cross-Lingual Learning from Image Search
+38   # Learning Semantic Textual Similarity from Conversations
+39   # Multilingual Seq2seq Training with Similarity Loss for Cross-Lingual Document Classification
+40   # LSTMs Exploit Linguistic Attributes of Data
+42   # Learning Distributional Token Representations from Visual Features
+44   # Jointly Embedding Entities and Text with Distant Supervision
+46   # A Sequence-to-Sequence Model for Semantic Role Labeling
+49   # Predicting Concreteness and Imageability of Words Within and Across Languages via Word Embeddings
+= 16:30--17:30 Panel Discussion
++ 17:30--17:40 Closing Remarks + Best Paper Awards Announcement

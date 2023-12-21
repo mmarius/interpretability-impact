@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#1063
+FinalPaperTitle#=%=#Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Radu Soricut
+JobTitle#==#
+Organization#==#GOOGLE LLC, 1600 Amphitheatre Parkway, Mountain View, CA
+Abstract#==#We present a new dataset of image caption annotations, Conceptual Captions, which
+contains an order of magnitude more images than the MS-COCO dataset (Lin et al.,
+2014) and represents a wider variety of both images and image caption styles. We
+achieve this by extracting and filtering image caption annotations from billions of webpages. We also present quantitative evaluations of a number of image captioning models and show that a model architecture based on Inception-ResNetv2
+(Szegedy et al., 2016) for image-feature extraction and Transformer (Vaswani et al., 2017) for sequence modeling achieves the best performance when trained on the Conceptual Captions dataset.
+Author{1}{Firstname}#=%=#Piyush
+Author{1}{Lastname}#=%=#Sharma
+Author{1}{Email}#=%=#piyushsharma@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Nan
+Author{2}{Lastname}#=%=#Ding
+Author{2}{Email}#=%=#dingnan@google.com
+Author{2}{Affiliation}#=%=#Google
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Goodman
+Author{3}{Email}#=%=#seabass@google.com
+Author{3}{Affiliation}#=%=#Google
+Author{4}{Firstname}#=%=#Radu
+Author{4}{Lastname}#=%=#Soricut
+Author{4}{Email}#=%=#radu.soricut@gmail.com
+Author{4}{Affiliation}#=%=#Google Inc
+
+==========

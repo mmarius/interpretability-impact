@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1538
+FinalPaperTitle#=%=#Exemplar Encoder-Decoder for Neural Conversation Generation
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Gaurav Pandey
+JobTitle#==#
+Organization#==#IBM Research AI, New Delhi, India
+Abstract#==#In this paper we present the Exemplar Encoder-Decoder network (EED), a novel
+conversation model that learns to utilize \textit{similar} examples from
+training data to generate responses. Similar conversation examples
+(context-response pairs) from training data are retrieved using a traditional
+TF-IDF based retrieval model and the corresponding responses are used by our
+decoder to generate the ground truth response. The contribution of each
+retrieved response is weighed by the similarity of corresponding context with
+the input context. As a result, our model learns to assign higher similarity
+scores to those retrieved contexts whose responses are crucial for generating
+the final response. 
+We present detailed experiments on two large data sets and we find that our
+method out-performs state of the art sequence to sequence generative models on
+several recently proposed evaluation metrics.
+Author{1}{Firstname}#=%=#Gaurav
+Author{1}{Lastname}#=%=#Pandey
+Author{1}{Email}#=%=#gpandey1@in.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Danish
+Author{2}{Lastname}#=%=#Contractor
+Author{2}{Email}#=%=#dcontrac@in.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+Author{3}{Firstname}#=%=#Vineet
+Author{3}{Lastname}#=%=#Kumar
+Author{3}{Email}#=%=#vineeku6@in.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research
+Author{4}{Firstname}#=%=#Sachindra
+Author{4}{Lastname}#=%=#Joshi
+Author{4}{Email}#=%=#jsachind@in.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+
+==========

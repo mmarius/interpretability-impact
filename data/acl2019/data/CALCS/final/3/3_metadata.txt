@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Phone Merging For Code-Switched Speech Recognition
+ShortPaperTitle#=%=#Phone Merging For Code-Switched Speech Recognition
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Sunit Sivasankaran
+JobTitle#==#
+Organization#==#615 Rue du Jardin-Botanique, 54600 Villers-lès-Nancy
+Abstract#==#Speakers in multilingual communities often switch between or mix multiple languages in the same conversation.   Automatic Speech Recognition (ASR) of code-switched speech faces many challenges including the influence of phones of  different languages on each other. This paper shows evidence that phone sharing between languages improves the Acoustic Model performance for Hindi-English code-switched speech. We compare baseline system built with separate phones for Hindi and English with systems where the phones were manually merged based on linguistic knowledge. Encouraged by the improved  ASR performance after manually merging the phones, we further investigate multiple data-driven methods to identify phones to be merged across  the languages. We show detailed analysis of automatic phone merging in this language pair and the impact it has on individual phone accuracies and WER. Though the best performance gain of 1.2% WER was observed with manually merged phones, we show experimentally that the manual phone merge is not optimal.
+Author{1}{Firstname}#=%=#Sunit
+Author{1}{Lastname}#=%=#Sivasankaran
+Author{1}{Email}#=%=#sunit.sivasankaran@gmail.com
+Author{1}{Affiliation}#=%=#INRIA
+Author{2}{Firstname}#=%=#Brij Mohan Lal
+Author{2}{Lastname}#=%=#Srivastava
+Author{2}{Email}#=%=#brijmohanlal.s@research.iiit.ac.in
+Author{2}{Affiliation}#=%=#Microsoft Research India
+Author{3}{Firstname}#=%=#Sunayana
+Author{3}{Lastname}#=%=#Sitaram
+Author{3}{Email}#=%=#sunayana.sitaram@gmail.com
+Author{3}{Affiliation}#=%=#Microsoft Research India
+Author{4}{Firstname}#=%=#Kalika
+Author{4}{Lastname}#=%=#Bali
+Author{4}{Email}#=%=#kalikab@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Labs
+Author{5}{Firstname}#=%=#Monojit
+Author{5}{Lastname}#=%=#Choudhury
+Author{5}{Email}#=%=#monojitc@microsoft.com
+Author{5}{Affiliation}#=%=#Microsoft Research
+
+==========

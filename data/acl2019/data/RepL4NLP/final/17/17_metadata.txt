@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Comparison of Representations of Named Entities for Document Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Lidia Pivovarova
+JobTitle#==#
+Organization#==#University of Helsinki, Helsinki, Finland
+Abstract#==#We explore representations for multi-word names in text classification tasks, on
+Reuters (RCV1) topic and sector classification. We find that: the best way to
+treat names is to split them into tokens and use each token as a separate feature; NEs have more impact on sector classification than topic classification; replacing NEs with entity types is not an effective strategy; representing tokens by different embeddings for proper names vs. common nouns does not improve results. We highlight the improvements over state-of-the-art results that our CNN models yield.
+Author{1}{Firstname}#=%=#Lidia
+Author{1}{Lastname}#=%=#Pivovarova
+Author{1}{Email}#=%=#lidia.pivovarova@gmail.com
+Author{1}{Affiliation}#=%=#University of Helsinki
+Author{2}{Firstname}#=%=#Roman
+Author{2}{Lastname}#=%=#Yangarber
+Author{2}{Email}#=%=#roman.yangarber@cs.helsinki.fi
+Author{2}{Affiliation}#=%=#University of Helsinki
+
+==========

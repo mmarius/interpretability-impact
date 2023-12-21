@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Controllable Abstractive Summarization
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Huihui Fan
+JobTitle#==#
+Organization#==#Facebook AI Research, 1 Hacker Way Menlo Park CA
+Abstract#==#Current models for document summarization disregard user preferences such as the desired length, style, the entities that the user might be interested in, or how much of the document the user has already read. We present a neural summarization model with a simple but effective mechanism to enable users to specify these high level attributes in order to control the shape of the final summaries to better suit their needs. With user input, our system can produce high quality summaries that follow user preferences. Without user input, we set the control variables automatically -- on the full text CNN-Dailymail dataset, we outperform state of the art abstractive systems (both in terms of F1-ROUGE1 
+40.38 vs. 39.53 F1-ROUGE and human evaluation.
+Author{1}{Firstname}#=%=#Angela
+Author{1}{Lastname}#=%=#Fan
+Author{1}{Email}#=%=#angelafan@fb.com
+Author{1}{Affiliation}#=%=#Facebook AI Research
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Grangier
+Author{2}{Email}#=%=#grangier@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Auli
+Author{3}{Email}#=%=#michael.auli@gmail.com
+Author{3}{Affiliation}#=%=#Facebook AI Research
+
+==========

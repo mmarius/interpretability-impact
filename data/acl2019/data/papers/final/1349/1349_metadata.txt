@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1349
+FinalPaperTitle#=%=#Accelerating Neural Transformer via an Average Attention Network
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Biao Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#With parallelizable attention networks, the
+neural Transformer is very fast to train.
+However, due to the auto-regressive architecture
+and self-attention in the decoder,
+the decoding procedure becomes slow. To
+alleviate this issue, we propose an average
+attention network as an alternative to the
+self-attention network in the decoder of
+the neural Transformer. The average attention
+network consists of two layers, with
+an average layer that models dependencies
+on previous positions and a gating layer
+that is stacked over the average layer to enhance
+the expressiveness of the proposed
+attention network. We apply this network
+on the decoder part of the neural Transformer
+to replace the original target-side
+self-attention model. With masking tricks
+and dynamic programming, our model enables
+the neural Transformer to decode
+sentences over four times faster than its
+original version with almost no loss in
+training time and translation performance.
+We conduct a series of experiments on
+WMT17 translation tasks, where on 6 different
+language pairs, we obtain robust and
+consistent speed-ups in decoding.
+Author{1}{Firstname}#=%=#Biao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zb@stu.xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#jinsong
+Author{3}{Lastname}#=%=#su
+Author{3}{Email}#=%=#jssu@xmu.edu.cn
+Author{3}{Affiliation}#=%=#Xiamen university
+
+==========

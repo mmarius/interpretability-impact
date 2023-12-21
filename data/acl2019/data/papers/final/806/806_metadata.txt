@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#806
+FinalPaperTitle#=%=#Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sandro Pezzelle
+JobTitle#==#
+Organization#==#University of Trento
+Abstract#==#We study the role of linguistic context in predicting quantifiers (‘few’, ‘all’). We collect crowdsourced data from human participants and test various models in a local (single-sentence) and a global context (multi-sentence) condition. Models significantly out-perform humans in the former setting and are only slightly better in the latter. While human performance improves with more linguistic context (especially on proportional quantifiers), model performance suffers. Models are very effective in exploiting lexical and morpho-syntactic patterns; humans are better at genuinely understanding the meaning of the (global) context.
+Author{1}{Firstname}#=%=#Sandro
+Author{1}{Lastname}#=%=#Pezzelle
+Author{1}{Email}#=%=#sandro.pezzelle@unitn.it
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Shane
+Author{2}{Lastname}#=%=#Steinert-Threlkeld
+Author{2}{Email}#=%=#S.N.M.Steinert-Threlkeld@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam
+Author{3}{Firstname}#=%=#Raffaella
+Author{3}{Lastname}#=%=#Bernardi
+Author{3}{Email}#=%=#bernardi@disi.unitn.it
+Author{3}{Affiliation}#=%=#University of Trento
+Author{4}{Firstname}#=%=#Jakub
+Author{4}{Lastname}#=%=#Szymanik
+Author{4}{Email}#=%=#J.K.Szymanik@uva.nl
+Author{4}{Affiliation}#=%=#University of Amsterdam
+
+==========

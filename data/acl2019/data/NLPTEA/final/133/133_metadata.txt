@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#133
+FinalPaperTitle#=%=#Multilingual Short Text Responses Clustering for Mobile Educational Activities: a Preliminary Exploration
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#Text clustering is a powerful technique to detect topics from document corpora, so as to provide information browsing, analysis, and organization. On the other hand, the Instant Response System (IRS) has been widely used in recent years to enhance student engagement in class and thus improve their learning effectiveness. However, the lack of functions to process short text responses from the IRS prevents the further application of IRS in classes. Therefore, this study aims to propose a proper short text clustering module for the IRS, and demonstrate our implemented techniques through real-world examples, so as to provide experiences and insights for further study. In particular, we have compared three clustering methods and the result shows that theoretically better methods need not lead to better results, as there are various factors that may affect the final performance.
+Author{1}{Firstname}#=%=#Yuen-Hsien
+Author{1}{Lastname}#=%=#Tseng
+Author{1}{Email}#=%=#samtseng@ntnu.edu.tw
+Author{1}{Affiliation}#=%=#National Taiwan Normal University
+Author{2}{Firstname}#=%=#Lung-Hao
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#lunghaolee@gmail.com
+Author{2}{Affiliation}#=%=#National Taiwan Normal University
+Author{3}{Firstname}#=%=#Yu-Ta
+Author{3}{Lastname}#=%=#Chien
+Author{3}{Email}#=%=#ytchien@ntou.edu.tw
+Author{3}{Affiliation}#=%=#National Taiwan Ocean University
+Author{4}{Firstname}#=%=#Chun-Yen
+Author{4}{Lastname}#=%=#Chang
+Author{4}{Email}#=%=#changcy@ntnu.edu.tw
+Author{4}{Affiliation}#=%=#National Taiwan Normal University
+Author{5}{Firstname}#=%=#Tsung-Yen
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#yan@ntnu.edu.tw
+Author{5}{Affiliation}#=%=#National Taiwan Normal University
+
+==========

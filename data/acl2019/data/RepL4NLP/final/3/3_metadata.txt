@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Hierarchical Convolutional Attention Networks for Text Classification
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#Shang Gao
+JobTitle#==#
+Organization#==#Oak Ridge National Laboratory, 1 Bethel Valley Rd, Oak Ridge, TN 37830
+Abstract#==#Recent work in machine translation has demonstrated that self-attention mechanisms can be used in place of recurrent neural networks to increase training speed without sacrificing model accuracy. We propose combining this approach with the benefits of convolutional filters and a hierarchical structure to create a document classification model that is both highly accurate and fast to train -- we name our method Hierarchical Convolutional Attention Networks. We demonstrate the effectiveness of this architecture by surpassing the accuracy of the current state-of-the-art on several classification tasks while being twice as fast to train.
+Author{1}{Firstname}#=%=#Shang
+Author{1}{Lastname}#=%=#Gao
+Author{1}{Email}#=%=#gaos@ornl.gov
+Author{1}{Affiliation}#=%=#Oak Ridge National Laboratory
+Author{2}{Firstname}#=%=#Arvind
+Author{2}{Lastname}#=%=#Ramanathan
+Author{2}{Email}#=%=#ramanathana@ornl.gov
+Author{2}{Affiliation}#=%=#Oak Ridge National Laboratory
+Author{3}{Firstname}#=%=#Georgia
+Author{3}{Lastname}#=%=#Tourassi
+Author{3}{Email}#=%=#tourassig@ornl.gov
+Author{3}{Affiliation}#=%=#Oak Ridge National Laboratory
+
+==========

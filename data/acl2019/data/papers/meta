@@ -1,0 +1,12 @@
+abbrev Long
+type Long Papers
+title Proceedings of the Conference, Vol 1 (Long Papers)
+url http://www.aclweb.org/anthology/P/P18/#1000
+booktitle Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+month July
+year 2018
+location Melbourne, Australia
+publisher Association for Computational Linguistics
+chairs Iryna Gurevych (TU Darmstadt)
+chairs Yusuke Miyao (National Institute of Informatics)
+bib_url http://www.aclweb.org/anthology/P18-1%03d

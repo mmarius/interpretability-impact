@@ -1,0 +1,34 @@
+* Thursday, July 19, 2018
+= 09:00--10:30 Session 1 Invited Talk and Oral Presentations # %chair1 Thamar Solorio %aff1 University of Houston
+! 9:00--9:05 Opening Remarks %by Thamar Solorio
+! 9:05--9:50 Invited Talk: Learning to Codeswitch %by Pascale Fung
+1 9:50--10:10  # Joint Part-of-Speech and Language ID Tagging for Code-Switched Data
+3 10:10--10:30  # Phone Merging For Code-Switched Speech Recognition
+= 10:30--11:00 Coffee Break
+= 11:00--12:00 Session 2 Oral Presentations # %chair1 Victor Soto %aff1 Columbia University
+4 11:00--11:20  # Improving Neural Network Performance by Injecting Background Knowledge: Detecting Code-Switching and Borrowing in Algerian Texts
+8 11:20--11:40  # Code-Mixed Question Answering Challenge: Crowd-Sourcing Data and Techniques
+19 11:40--12:00  # Transliteration Better than Translation? Answering Code-Mixed Questions over a Knowledge Base
+= 12:00--13:30 Lunch Break
+= 13:30--14:15 Session 3 Invited Talk # %chair1 Thamar Solorio %aff1 University of Houston
+! 13:30--14:15 Invited Talk: Variation in Codeswitched Language: a Psycholinguistic Approach to What, When, and Why %by Melinda Fricke
+= 14:15--15:30 Session 4 Poster Session
+9   # Language Identification and Analysis of Code-Switched Social Media Text
+12   # Code-Switching Language Modeling Using Syntax-Aware Multi-Task Learning
+14   # Predicting the Presence of a Matrix Language in Code-Switching
+15   # Automatic Detection of Code-switching Style from Acoustics
+17   # Accommodation of Conversational Code-Choice
+18   # Language Informed Modeling of Code-Switched Text
+21   # GHHT at CALCS 2018: Named Entity Recognition for Dialectal Arabic Using Neural Networks
+22   # Simple Features for Strong Performance on Named Entity Recognition in Code-Switched Twitter Data
+23   # Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition
+25   # Named Entity Recognition on Code-Switched Data Using Conditional Random Fields
+27   # The University of Texas System Submission for the Code-Switching Workshop Shared Task 2018
+28   # Tackling Code-Switched NER: Participation of CMU
+29   # Multilingual Named Entity Recognition on Spanish-English Code-Switched Tweets Using Support Vector Machines
+= 15:30--16:00 Coffee Break
+= 16:00--17:00 Session 5 Shared Task Talks # %chair1 Victor Soto %aff1 Columbia University
+30 16:00--16:10  # Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task
+24 16:10--16:30  # IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data
+26 16:30--16:50  # Code-Switched Named Entity Recognition with Embedding Attention
+! 16:50--17:00 Closing Remarks %by Victor Soto

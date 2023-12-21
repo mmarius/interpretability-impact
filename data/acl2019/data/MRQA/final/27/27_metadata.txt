@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#27
+FinalPaperTitle#=%=#Adaptations of ROUGE and BLEU to Better Evaluate Machine Reading Comprehension Task
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#An Yang
+JobTitle#==#
+Organization#==#Peking University; Baidu Inc., Beijing, China
+Abstract#==#Current evaluation metrics to question answering based machine reading comprehension (MRC) systems generally focus on the lexical overlap between candidate and reference answers, such as ROUGE and BLEU. However, bias may appear when these metrics are used for specific question types, especially questions inquiring yes-no opinions and entity lists. In this paper, we make adaptations on the metrics to better correlate $n$-gram overlap with the human judgment for answers to these two question types. Statistical analysis proves the effectiveness of our approach. Our adaptations may provide positive guidance for the development of real-scene MRC systems.
+Author{1}{Firstname}#=%=#An
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#yangan@pku.edu.cn
+Author{1}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University, MOE, China
+Author{2}{Firstname}#=%=#Kai
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#lkliukai1987@163.com
+Author{2}{Affiliation}#=%=#Baidu
+Author{3}{Firstname}#=%=#Jing
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#jliu@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Yajuan
+Author{4}{Lastname}#=%=#Lyu
+Author{4}{Email}#=%=#lvyajuan@baidu.com
+Author{4}{Affiliation}#=%=#Baidu Company
+Author{5}{Firstname}#=%=#Sujian
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#lisujian@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+
+==========

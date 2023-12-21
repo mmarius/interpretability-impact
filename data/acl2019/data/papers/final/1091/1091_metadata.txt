@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1091
+FinalPaperTitle#=%=#A Multi-task Approach to Learning Multilingual Representations
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Karan Singla
+JobTitle#==#Research Assistant
+Organization#==#University of Southern California, Los Angeles
+Abstract#==#We present a novel multi-task modeling approach to learning multilingual distributed representations of text. Our system learns word and sentence embeddings jointly by training a multilingual skip-gram model together with a cross-lingual sentence similarity model. Our architecture can transparently use both monolingual and sentence aligned bilingual corpora to learn multilingual embeddings, thus covering a vocabulary significantly larger than the vocabulary of the bilingual corpora alone. Our model shows competitive performance in a standard cross-lingual document classification task. We also show the effectiveness of our method in a limited resource scenario.
+Author{1}{Firstname}#=%=#Karan
+Author{1}{Lastname}#=%=#Singla
+Author{1}{Email}#=%=#singlak@usc.edu
+Author{1}{Affiliation}#=%=#SAIL, University of Southern California
+Author{2}{Firstname}#=%=#Dogan
+Author{2}{Lastname}#=%=#Can
+Author{2}{Email}#=%=#dogancan@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Shrikanth
+Author{3}{Lastname}#=%=#Narayanan
+Author{3}{Email}#=%=#shri@sipi.usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California
+
+==========

@@ -1,0 +1,687 @@
+
+\documentclass[11pt,a4paper]{article}
+\usepackage[hyperref]{acl2018}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{booktabs}
+\usepackage{pgfplotstable}
+\usepackage{url}
+\usepackage{lipsum}
+\usepackage{textcomp}
+
+\usepackage{xspace}
+\usepackage{multirow}
+
+\newcommand{\eqnref}[1]{Equation~\ref{#1}}
+\newcommand{\figref}[1]{Figure~\ref{#1}}
+\newcommand{\figsref}[2]{Figures~\ref{#1} and \ref{#2}}
+\newcommand{\posciteauthor}[1]{\citeauthor{#1}'s}
+\newcommand{\poscite}[1]{\citeauthor{#1}'s \citeyearpar{#1}}
+\newcommand{\secref}[1]{Section~\ref{#1}}
+\newcommand{\secsref}[2]{Sections~\ref{#1} and \ref{#2}}
+\newcommand{\sentref}[1]{(\ref{#1})}
+\newcommand{\tabref}[1]{Table~\ref{#1}}
+\newcommand{\tabsref}[2]{Tables~\ref{#1} and \ref{#2}}
+
+\newcommand{\dev}{\textsc{dev}\xspace}
+\newcommand{\test}{\textsc{test}\xspace}
+\newcommand{\skewed}{\textsc{skewed}\xspace}
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+
+\aclfinalcopy % Uncomment this line for the final submission
+\def\aclpaperid{477} %  Enter the acl Paper ID here
+
+
+\newcommand\BibTeX{B{\sc ib}\TeX}
+
+\title{Leveraging distributed representations and lexico-syntactic
+  fixedness for token-level prediction of the idiomaticity of English
+  verb--noun combinations}
+
+\author{Milton King \and Paul Cook \\
+Faculty of Computer Science, University of New Brunswick\\
+Fredericton, NB E3B 5A3 Canada\\
+\tt{milton.king@unb.ca}, \tt{paul.cook@unb.ca}}
+
+\date{}
+
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Verb--noun combinations (VNCs) --- e.g., \emph{blow the whistle},
+\emph{hit the roof}, and \emph{see stars} --- are a common type of
+English idiom that are ambiguous with literal usages. In this paper we
+propose and evaluate models for classifying VNC usages as idiomatic or
+literal, based on a variety of approaches to forming distributed
+representations. Our results show that a model
+based on averaging word embeddings performs on par with, or better
+than,
+a previously-proposed approach based on skip-thoughts. Idiomatic
+usages of VNCs are known to exhibit lexico-syntactic fixedness. We
+further incorporate this information into our models, demonstrating
+that this rich linguistic knowledge is complementary to the
+information carried by distributed representations.
+
+
+
+
+
+
+\end{abstract}
+
+\section{Introduction}
+
+
+
+
+
+Multiword expressions (MWEs) are combinations of multiple words that
+exhibit some degree of idiomaticity
+\citep{Baldwin:Kim:2009}. Verb--noun combinations (VNCs), consisting
+of a verb with a noun in its direct object position, are a common type
+of semantically-idiomatic MWE in English and cross-lingually
+\citep{Fazly2009}. Many VNCs are ambiguous between MWEs and literal
+combinations, as in the following examples of \emph{see stars}, in
+which \ref{ex:idm} is an idiomatic usage (i.e., an MWE), while
+\ref{ex:lit} is a literal combination.\footnote{These examples, and
+  idiomaticity judgements, are taken from the VNC-Tokens dataset
+  \citep{Cook2008}.}
+
+\begin{enumerate}
+\item Hereford United were \underline{seeing stars} at Gillingham
+  after letting in 2 early goals \label{ex:idm}
+
+\item Look into the night sky to \underline{see} the
+  \underline{stars} \label{ex:lit}
+\end{enumerate}
+
+\noindent
+MWE identification is the task of automatically determining which word
+combinations at the token-level form MWEs \citep{Baldwin:Kim:2009},
+and must be able to make such distinctions. This is particularly
+important for applications such as machine translation
+\citep{Sag2002}, where the appropriate meaning of word combinations in
+context must be preserved for accurate translation.
+
+
+In this paper, following prior work
+\citep[e.g.,][]{salton-ross-kelleher}, we frame token-level
+identification of VNCs as a supervised binary classification problem,
+i.e., idiomatic vs.\ literal. We consider a range of approaches to
+forming distributed representations of the context in which a VNC
+occurs, including word embeddings \citep{mikolov+:2013b}, word
+embeddings tailored to representing sentences
+\citep{kenter-borisov-derijke}, and skip-thoughts sentence embeddings
+\cite{Kiros+:2015}.  We then train a support vector machine (SVM) on
+these representations to classify unseen VNC instances. Surprisingly,
+we find that an approach based on representing sentences as the
+average of their word embeddings performs comparably to, or better
+than,
+the skip-thoughts based approach previously proposed by
+\newcite{salton-ross-kelleher}.
+
+VNCs exhibit lexico-syntactic fixedness. For example, the idiomatic
+interpretation in example \ref{ex:idm} above is typically only
+accessible when the verb \emph{see} has active voice, the determiner
+is null, and the noun \emph{star} is in plural form, as in \emph{see
+  stars} or \emph{seeing stars}.  Usages with a determiner (as in
+example \ref{ex:lit}), a singular noun (e.g., \emph{see a star}), or
+passive voice (e.g., \emph{stars were seen}) typically only have the
+literal interpretation.
+
+
+
+In this paper we further incorporate knowledge of the lexico-syntactic
+fixedness of VNCs --- automatically acquired from corpora using the
+method of \newcite{Fazly2009} --- into our various embedding-based
+approaches. Our experimental results show that this leads to
+substantial improvements, indicating that this rich linguistic
+knowledge is complementary to that available in distributed
+representations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Related work} \label{related}
+
+
+
+Much research on MWE identification has focused on specific kinds of
+MWEs \citep[e.g.,][]{Patrick2005, Uchiyama2005}, including English
+VNCs \citep[e.g.,][]{Fazly2009,salton-ross-kelleher}, although some
+recent work has considered the identification of a broad range of
+kinds of MWEs
+\citep[e.g.,][]{Schneider+:2014,Brooke+:2014,savary-EtAl:2017:MWE2017}.
+
+Work on MWE identification has leveraged rich linguistic knowledge of
+the constructions under consideration
+\citep[e.g.,][]{Fazly2009,Fothergill:Baldwin:2012}, treated literal
+and idiomatic as two senses of an expression and applied approaches
+similar to word-sense disambiguation
+\citep[e.g.,][]{Birke2006,Hashimoto:Kawahara:2008}, incorporated topic
+models \citep[e.g.,][]{Li+:2010}, and made use of distributed
+representations of words \citep{gharbieh+:2016}.
+
+
+In the most closely related work to ours,
+\newcite{salton-ross-kelleher} represent token instances of VNCs by
+embedding the sentence that they occur in using skip-thoughts
+\citep{Kiros+:2015} --- an encoder--decoder model that can be viewed
+as a sentence-level counterpart to the word2vec \citep{mikolov+:2013b}
+skip-gram model. During training the target sentence is encoded using
+a recurrent neural network, and is used to predict the previous and
+next sentences. \citeauthor{salton-ross-kelleher} then use these
+sentence embeddings, representing VNC token instances, as features in
+a supervised classifier.  We treat this skip-thoughts based approach
+as a strong baseline to compare against.
+
+
+
+
+
+
+
+
+\newcite{Fazly2009} formed a set of eleven lexico-syntactic patterns
+for VNC instances capturing the voice of the verb (active or passive),
+determiner (e.g., \emph{a}, \emph{the}), and number of the noun
+(singular or plural).  They then determine the canonical form,
+$C(v,n)$, for a given VNC as follows:\footnote{In a small number of
+  cases a VNC is found to have a small number of canonical forms, as
+  opposed to just one.}
+\begin{equation}
+C(v,n) = \{ pt_k \in P | z(v,n,pt_k) > T_z \}
+\end{equation}
+\noindent
+where $P$ is the set of patterns, $T_z$ is a predetermined threshold,
+which is set to 1, and $z(v,n,pt_k)$ is calculated as follows:
+\begin{equation}
+z(v,n,pt_k)= \frac{f(v,n,pt_k)-\overline{f}}{s}
+\end{equation}
+\noindent
+where $f(\cdot)$ is the frequency of a VNC occurring in a given
+pattern in a corpus,\footnote{\newcite{Fazly2009} used the British
+  National Corpus \citep{Burnard2000}.} and $\overline{f}$ and $s$ are
+the mean and standard deviations for all patterns for the given VNC,
+respectively.
+
+\newcite{Fazly2009} showed that idiomatic usages of a VNC tend to
+occur in that expression's canonical form, while literal usages do
+not. This approach provides a strong, linguistically-informed,
+unsupervised baseline, referred to as CForm, for predicting whether
+VNC instances are idiomatic or literal. In this paper we incorporate
+knowledge of canonical forms into embedding-based approaches to VNC
+token classification, and show that this linguistic knowledge can be
+leveraged to improve such approaches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Models}\label{models}
+
+
+We describe the models used to represent VNC token instances
+below. For each model, a linear SVM classifier is trained on these
+representations.
+
+
+\subsection{Word2vec}\label{word2vec}
+
+We trained word2vec's skip-gram model \citep{mikolov+:2013b} on a
+snapshot of Wikipedia from September 2015, which consists of
+approximately 2.6 billion tokens. We used a window size of $\pm$8 and
+300 dimensions. We ignore all words that occur less than fifteen times
+in the training corpus, and did not set a maximum vocabulary size. We
+perform negative sampling and set the number of training epochs to
+five. We used batch processing with approximately 10$k$ words in each
+batch.
+	
+
+To embed a given a sentence containing a VNC token instance, we
+average the word embeddings for each word in the sentence, including
+stopwords.\footnote{Preliminary experiments showed that models
+  performed better when stopword removal was not applied.} Prior to
+averaging, we normalize each embedding to have unit length.
+
+\subsection{Siamese CBOW}
+
+
+The Siamese CBOW model \cite{kenter-borisov-derijke} learns word
+embeddings that are better able to represent a sentence through
+averaging than conventional word embeddings such as skip-gram or
+CBOW. We use a Siamese CBOW model that was pretrained on a snapshot of
+Wikipedia from November 2012 using randomly initialized word
+embeddings.\footnote{\url{https://bitbucket.org/TomKenter/siamese-cbow}}
+Similarly to the word2vec model, to embed a given sentence containing
+a VNC instance, we average the word embeddings for each word in the
+sentence.
+
+
+
+
+
+
+\subsection{Skip-thoughts}
+
+
+We use a publicly-available skip-thoughts model, that was pre-trained
+on a corpus of
+books.\footnote{\url{https://github.com/ryankiros/skip-thoughts}} We
+represent a given sentence containing a VNC instance using the
+skip-thoughts encoder.
+Note that this approach is our re-implementation of the skip-thoughts
+based method of \newcite{salton-ross-kelleher}, and we use it as a
+strong baseline for comparison.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Data and evaluation}
+
+
+In this section, we discuss the dataset used in our experiments, and
+the evaluation of our models.
+
+\subsection{Dataset}\label{dataset}
+
+We use the VNC-Tokens dataset \citep{Cook2008} --- the same dataset
+used by \newcite{Fazly2009} and \newcite{salton-ross-kelleher} --- to
+train and evaluate our models. This dataset consists of sentences
+containing VNC usages drawn from the British National Corpus
+\citep{Burnard2000},\footnote{\url{http://www.natcorp.ox.ac.uk}} along
+with a label indicating whether the VNC is an idiomatic or literal
+usage (or whether this cannot be determined, in which case it is
+labelled ``unknown''). 
+
+
+
+VNC-Tokens is divided into \dev and \test sets that each include
+fourteen VNC types and a total of roughly six hundred instances of
+these types annotated as literal or idiomatic. Following
+\newcite{salton-ross-kelleher}, we use \dev and \test, and ignore all
+token instances annotated as ``unknown''.
+
+
+
+
+
+
+
+\newcite{Fazly2009} and \newcite{salton-ross-kelleher} structured
+their experiments differently. \citeauthor{Fazly2009} report results
+over \dev and \test separately. In this setup
+\test consists of expressions that were not seen during model
+development (done on \dev). \citeauthor{salton-ross-kelleher},
+on the other hand, merge \dev and \test, and create
+new training and testing sets, such that each expression is present in
+the training and testing data, and the ratio of idiomatic to literal
+usages of each expression in the training data is roughly equal to
+that in the testing data.
+
+
+
+We borrowed ideas from both of these approaches in structuring our
+experiments. We retain the type-level division of 
+\newcite{Fazly2009} into \dev and \test. We then divide each of
+these into training and testing sets, using the same ratios of
+idiomatic to literal usages for each expression as
+\newcite{salton-ross-kelleher}.
+This allows us to develop and tune a model on \dev, and then determine
+whether, when retrained on instances of unseen VNCs in (the training
+portion of) \test, that model is able to generalize to new VNCs
+without further tuning to the specific expressions in \test.
+
+
+
+
+
+
+
+
+\subsection{Evaluation}\label{eval}
+
+The proportion of idiomatic usages in the testing portions of both
+\dev and \test is 63\%. We therefore use accuracy to evaluate our
+models following \newcite{Fazly2009} because the classes are roughly
+balanced.  
+We randomly divide both \dev and \test into training and testing
+portions ten times, following \newcite{salton-ross-kelleher}. For each
+of the ten runs, we compute the accuracy for each expression, and then
+compute the average accuracy over the expressions. We then report
+the average accuracy over the ten runs.
+
+
+
+
+
+
+
+
+
+
+\section{Experimental results}
+
+In this section we first consider the effect of tuning the cost
+parameter of the SVM for each model on \dev, and then report results
+on \dev and \test using the tuned models.
+
+
+\begin{table}
+\setlength{\tabcolsep}{0.17em}
+\begin{center}
+\begin{tabular}{l|ccccc}
+\multirow{2}{*}{Model} & \multicolumn{5}{c}{Penalty cost}\\
+\cline{2-6}
+ &0.01 &0.1 &1 &10 &100\\
+\hline
+Word2vec     &0.619 &0.654 &0.818 &\textbf{0.830} &0.807\\
+Siamese CBOW &0.619 &0.621 &0.665 &0.729 & \textbf{0.763}\\
+Skip-thoughts &0.661& 0.784 &\textbf{0.803} &0.800 &0.798\\
+\end{tabular}
+\caption{Accuracy on \dev while tuning the penalty cost for the SVM
+  for each model. The highest accuracy for each model is shown in
+  boldface. \label{TuningAll}}
+\end{center}
+\end{table}
+
+
+
+
+
+
+
+\subsection{Parameter tuning}
+
+
+We tune the SVM for each model on \dev by carrying out a linear search
+for the penalty cost from $0.01$--$100$, increasing by a factor of ten
+each time. Results for this parameter tuning are shown in
+\tabref{TuningAll}. These results highlight the importance of choosing
+an appropriate setting for the penalty cost. For example, the accuracy
+of the word2vec model ranges from $0.619$--$0.830$ depending on the
+cost setting. In subsequent experiments, for each model, we use the
+penalty cost that achieves the highest accuracy in \tabref{TuningAll}.
+
+
+
+
+
+
+
+\begin{table}
+\setlength{\tabcolsep}{0.4em}
+\begin{center}
+\begin{tabular}{l|cc|cc}
+\multirow{2}{*}{Model}  &  \multicolumn{2}{c}{\dev}  &  \multicolumn{2}{c}{\test}\\
+\cline{2-5}
+& $-$CF & $+$CF & $-$CF & $+$CF\\
+\hline
+CForm & - & 0.721 & - & 0.749\\
+Word2vec &\textbf{0.830} &\textbf{0.854}& \textbf{0.804} &\textbf{0.852}\\
+Siamese CBOW &0.763 &0.774 & 0.717 &0.779\\
+Skip-thoughts &0.803 &0.827& 0.786 &0.842\\
+\end{tabular}
+\caption{Accuracy on \dev and \test for each model, without ($-$CF)
+  and with ($+$CF) the canonical form feature. The highest accuracy
+  for each setting on each dataset is shown in
+  boldface. \label{results}}
+\end{center}
+\end{table}
+
+
+
+
+
+
+
+\subsection{\dev and \test results}
+
+
+In \tabref{results} we report results on \dev and \test for each
+model,
+as well as the unsupervised CForm model of \newcite{Fazly2009},
+which simply labels a VNC as idiomatic if it occurs in its canonical
+form, and as literal otherwise. We further consider each model (other
+than CForm) in two setups.  $-$CF corresponds to the models as
+described in \secref{models}. $+$CF further incorporates
+lexico-syntactic knowledge of canonical forms into each model by
+concatenating the embedding representing each VNC token instance with
+a one-dimensional vector which is one if the VNC occurs in its
+canonical form, and zero otherwise.
+
+We first consider results for the $-$CF setup. On both \dev and \test,
+the accuracy achieved by each supervised model is higher than that of
+the unsupervised CForm approach, except for Siamese CBOW on \test. The
+word2vec model achieves the highest accuracy on \dev and \test of
+$0.830$ and $0.804$, respectively. The difference between the word2vec
+model and the next-best model, skip-thoughts, is significant using a
+bootstrap test \cite{Berg-Kirkpatrick+:2012} with 10$k$ repetitions
+for \dev ($p=0.006$), but not for \test ($p=0.051$). Nevertheless, it
+is remarkable that the relatively simple approach to averaging word
+embeddings used by word2vec performs as well as, or better than, the
+much more complex skip-thoughts model used by
+\newcite{salton-ross-kelleher}.\footnote{The word2vec and
+  skip-thoughts models were trained on different corpora, which could
+  contribute to the differences in results for these models. We
+  therefore carried out an additional experiment in which we trained
+  word2vec on BookCorpus, the corpus on which skip-thoughts was
+  trained. This new word2vec model achieved accuracies of 0.825 and
+  0.809, on \dev and \test, respectively, which are also higher
+  accuracies than those obtained by the skip-thoughts model.}
+
+Turning to the $+$CF setup, we observe that, for both \dev and \test,
+each model achieves higher accuracy than in the $-$CF
+setup.\footnote{In order to determine that this improvement is due to
+  the information about canonical forms carried by the additional
+  feature in the $+$CF setup, and not due to the increase in number of
+  dimensions, we performed additional experiments in which we
+  concatenated the embedding representations with a random binary
+  feature, and with a randomly chosen value between $0$ and $1$. For
+  each model, neither of these approaches outperformed that model
+  using the $+$CF setup.}  All of these differences are significant
+using a bootstrap test ($p<0.002$ in each case). In addition, each
+method outperforms the unsupervised CForm approach on both \dev and
+\test. These findings demonstrate that the linguistically-motivated,
+lexico-syntactic knowledge encoded by the canonical form feature is
+complementary to the information from a wide range of types of
+distributed representations. In the $+$CF setup, the word2vec model
+again achieves the highest accuracy on both \dev and \test of $0.854$
+and $0.852$, respectively.\footnote{In the $+$CF setup, the word2vec
+  model using embeddings that were trained on the same corpus as
+  skip-thoughts achieved accuracies of 0.846 and 0.851, on \dev and
+  \test, respectively. These are again higher accuracies than the
+  corresponding setup for the skip-thoughts model.}  The difference
+between the word2vec model and the next-best model, again
+skip-thoughts, is significant for both \dev and \test using a
+bootstrap test ($p<0.05$ in each case).
+
+ \begin{table*}
+ \begin{center}
+ \begin{tabular}{cccccccccc}
+\multirow{2}{*}{Model} &\multicolumn{3}{c}{Idiomatic} & &
+\multicolumn{3}{c}{Literal} & & \multirow{2}{*}{Ave. F} \\ 
+
+\cline{2-4} \cline{6-8} &P & R & F & &P & R & F & & \\ \hline
+
+CForm&0.766& 0.901 &0.794& & 0.668&0.587&0.576& & 0.685 \\
+
+Word2vec $-$CF &0.815&0.879&0.830&& 0.627&0.542&0.556&& 0.693\\
+
+Word2vec $+$CF& 0.830 &0.892& 0.848 & & 0.758 & 0.676 & 0.691 & & 0.770\\
+ \end{tabular}
+ \caption{Precision (P), recall (R), and F1 score (F), for the
+   idiomatic and literal classes, as well as average F1 score
+   (Ave. F), for \test.\label{posneg}}
+ \end{center}
+ \end{table*}
+
+To better understand the impact of the canonical form feature when
+combined with the word2vec model, we compute the average precision,
+recall, and F1 score for each MWE for both the positive (idiomatic)
+and negative (literal) classes, for each run on \test.\footnote{We
+  carried out the same analysis on \dev. The findings were similar.}
+For a given run, we then compute the average precision, recall, and F1
+score across all MWEs, and then the average over all ten runs. We do
+this using CForm, and the word2vec model with and without the
+canonical form feature. Results are shown in \tabref{posneg}. In line
+with the findings of \newcite{Fazly2009}, CForm achieves higher
+precision and recall on idiomatic usages than literal ones. In
+particular, the relatively low recall for the literal class indicates
+that many literal usages occur in a canonical form. Comparing the
+word2vec model with and without the canonical form feature, we see
+that, when this feature is used, there is a relatively larger increase
+in precision and recall (and F1 score) for the literal class, than for
+the idiomatic class. This indicates that, although the canonical form
+feature itself performs relatively poorly on literal usages, it
+provides information that enables the word2vec model to better
+identify literal usages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Conclusions}\label{conclusion}
+
+Determining whether a usage of a VNC is idiomatic or literal is
+important for applications such as machine translation, where it is
+vital to preserve the meanings of word combinations. 
+In this paper we proposed two approaches to the task of classifying
+VNC token instances as idiomatic or literal based on word2vec
+embeddings and Siamese CBOW. We compared these approaches against a
+linguistically-informed unsupervised baseline, and a model based on
+skip-thoughts previously applied to this task
+\citep{salton-ross-kelleher}. Our experimental results show that a
+comparatively simple approach based on averaging word embeddings
+performs at least as well as, or better than, the approach based on
+skip-thoughts. We further proposed methods to combine linguistic
+knowledge of the lexico-syntactic fixedness of VNCs --- so-called
+``canonical forms'', which can be automatically acquired from corpora
+via statistical methods --- with the embedding based approaches. Our
+findings indicate that this rich linguistic knowledge is complementary
+to that available in distributed representations.
+
+
+Alternative approaches to embedding sentences containing VNC
+instances could also be considered, for example, FastSent
+\citep{Hill+:2016}. However, all of the models we used represent the
+context of a VNC by the sentence in which it occurs. In future work we
+therefore also intend to consider approaches such as context2vec
+\citep{melamud2016context2vec} which explicitly encode the context in
+which a token occurs. Finally, one known challenge of VNC token
+classification is to develop models that are able to generalize to VNC
+types that were not seen during training \citep{gharbieh+:2016}. In
+future work we plan to explore this experimental setup.
+
+
+
+
+
+
+\bibliography{../bibtex/big}
+\bibliographystyle{acl_natbib}
+
+
+\end{document}

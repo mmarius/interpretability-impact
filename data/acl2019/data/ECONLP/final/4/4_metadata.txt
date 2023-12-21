@@ -1,0 +1,18 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Sentence Classification for Investment Rules Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sira Ferradans
+JobTitle#==#
+Organization#==#Fortia. 17 av. George V 75011, Paris, France
+Abstract#==#In the last years, compliance requirements for the banking sector have greatly augmented, making the current compliance processes difficult to maintain. Any process that allows to accelerate the identification and implementation of compliance requirements can help address this issues. The contributions of the paper are twofold: we propose a new NLP task that is the investment rule detection, and a group of methods identify them. We show that the proposed methods are highly performing and fast, thus can be deployed in production.
+Author{1}{Firstname}#=%=#Youness
+Author{1}{Lastname}#=%=#Mansar
+Author{1}{Email}#=%=#youness.mansar@fortia.fr
+Author{1}{Affiliation}#=%=#Fortia Financial Solutions
+Author{2}{Firstname}#=%=#Sira
+Author{2}{Lastname}#=%=#Ferradans
+Author{2}{Email}#=%=#sira.ferradans@fortia.fr
+Author{2}{Affiliation}#=%=#Fortia Finanacial Solutions
+
+==========

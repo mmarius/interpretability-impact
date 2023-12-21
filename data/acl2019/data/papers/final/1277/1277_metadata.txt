@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#1277
+FinalPaperTitle#=%=#Improved Evaluation Framework for Complex Plagiarism Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anton Belyy
+JobTitle#==#
+Organization#==#ITMO University, Russia
+Abstract#==#Plagiarism is a major issue in science and education. Complex plagiarism, such as plagiarism of ideas, is hard to detect, and therefore it is especially important to track improvement of methods correctly. In this paper, we study the performance of plagdet, the main measure for plagiarim detection, on manually paraphrased datasets (such as PAN Summary). We reveal its fallibility under certain conditions and propose an evaluation framework with normalization of inner terms, which is resilient to the dataset imbalance. We conclude with the experimental justification of the proposed measure. The implementation of the new framework is made publicly available as a Github repository.
+Author{1}{Firstname}#=%=#Anton
+Author{1}{Lastname}#=%=#Belyy
+Author{1}{Email}#=%=#anton.belyy@gmail.com
+Author{1}{Affiliation}#=%=#ITMO University
+Author{2}{Firstname}#=%=#Marina
+Author{2}{Lastname}#=%=#Dubova
+Author{2}{Email}#=%=#marina.dubova.97@gmail.com
+Author{2}{Affiliation}#=%=#Saint Petersburg State University
+Author{3}{Firstname}#=%=#Dmitry
+Author{3}{Lastname}#=%=#Nekrasov
+Author{3}{Email}#=%=#d04101995@mail.ru
+Author{3}{Affiliation}#=%=#ITMO University
+
+==========

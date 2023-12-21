@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Seq2Seq2Sentiment: Multimodal Sequence to Sequence Models for Sentiment Analysis
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Thomas Manzini
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Multimodal machine learning is a core research area spanning the language, visual and acoustic modalities. The central challenge in multimodal learning involves learning representations that can process and relate information from multiple modalities. In this paper, we propose two methods for unsupervised learning of joint multimodal representations using sequence to sequence (Seq2Seq) methods: a Seq2Seq Modality Translation Model and a Hierarchical Seq2Seq Modality Translation Model. We also explore multiple different variations on the multimodal inputs and outputs of these seq2seq models. Our experiments on multimodal sentiment analysis using the CMU-MOSI dataset indicate that our methods learn informative multimodal representations that outperform the baselines and achieve improved performance on multimodal sentiment analysis, specifically in the Bimodal case where our model is able to improve F1 Score by twelve points. We also discuss future directions for multimodal Seq2Seq methods.
+Author{1}{Firstname}#=%=#Hai
+Author{1}{Lastname}#=%=#Pham
+Author{1}{Email}#=%=#htpham@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Manzini
+Author{2}{Email}#=%=#tom.m@nzini.com
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Paul Pu
+Author{3}{Lastname}#=%=#Liang
+Author{3}{Email}#=%=#pliang@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Barnabas
+Author{4}{Lastname}#=%=#Poczos
+Author{4}{Email}#=%=#bapoczos@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

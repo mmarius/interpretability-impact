@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#379
+FinalPaperTitle#=%=#Nugget Proposal Networks for Chinese Event Detection
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hongyu Lin
+JobTitle#==#
+Organization#==#Institute of Software, Chinese Academy of Sciences, Beijing, China
+Abstract#==#Neural network based models commonly regard event detection as a word-wise classification task, which suffer from the mismatch problem between words and event triggers, especially in languages without natural word delimiters such as Chinese. In this paper, we propose Nugget Proposal Networks (NPNs), which can solve the word-trigger mismatch problem by directly proposing entire trigger nuggets centered at each character regardless of word boundaries. Specifically, NPNs perform event detection in a character-wise paradigm, where a hybrid representation for each character is first learned to capture both structural and semantic information from both characters and words. Then based on learned representations, trigger nuggets are proposed and categorized by exploiting character compositional structures of Chinese event triggers. Experiments on both ACE2005 and TAC KBP 2017 datasets show that NPNs significantly outperform the state-of-the-art methods.
+Author{1}{Firstname}#=%=#Hongyu
+Author{1}{Lastname}#=%=#Lin
+Author{1}{Email}#=%=#sanmu_sunrise@foxmail.com
+Author{1}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yaojie
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#yaojie.lu@outlook.com
+Author{2}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Xianpei
+Author{3}{Lastname}#=%=#Han
+Author{3}{Email}#=%=#hanxianpei@gmail.com
+Author{3}{Affiliation}#=%=#Institute of Software, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Le
+Author{4}{Lastname}#=%=#Sun
+Author{4}{Email}#=%=#lesunle@163.com
+Author{4}{Affiliation}#=%=#ISCAS
+
+==========

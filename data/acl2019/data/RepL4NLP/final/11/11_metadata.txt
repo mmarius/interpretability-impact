@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Text Completion using Context-Integrated Dependency Parsing
+ShortPaperTitle#=%=#
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#OZGE ALACAM
+JobTitle#==#
+Organization#==#University of Hamburg
+Abstract#==#Incomplete linguistic input, i.e. due to a noisy environment, is one of the challenges that a successful communication system has to deal with. In this paper, we study text completion with a data set composed of sentences with gaps where a successful completion cannot be achieved through a uni-modal (language-based) approach. We present a solution based on a context-integrating dependency parser incorporating an additional non-linguistic modality. An incompleteness in one channel is compensated by information from another one and the parser learns the association between the two modalities from a multiple level knowledge representation. We examined several model variations by adjusting the degree of influence of different modalities in the decision making on possible filler words and their exact reference to a non-linguistic context element. Our model is able to fill the gap with 95.4% word and 95.2% exact reference accuracy hence the successful prediction can be achieved not only on the word level (such as mug) but also with respect to the correct identification of its context reference (such as mug 2 among several mug instances).
+Author{1}{Firstname}#=%=#Amr Rekaby
+Author{1}{Lastname}#=%=#Salama
+Author{1}{Email}#=%=#salama@informatik.uni-hamburg.de
+Author{1}{Affiliation}#=%=#Hamburg University
+Author{2}{Firstname}#=%=#Özge
+Author{2}{Lastname}#=%=#Alacam
+Author{2}{Email}#=%=#alacam@informatik.uni-hamburg.de
+Author{2}{Affiliation}#=%=#University of Hamburg
+Author{3}{Firstname}#=%=#Wolfgang
+Author{3}{Lastname}#=%=#Menzel
+Author{3}{Email}#=%=#menzel@informatik.uni-hamburg.de
+Author{3}{Affiliation}#=%=#Hamburg University
+
+==========
