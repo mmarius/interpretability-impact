@@ -7,6 +7,7 @@ import pandas as pd
 from pandas import DataFrame
 import requests
 from tqdm import tqdm
+from typing import Optional
 
 API_KEY = "09ybTvNroM4eXDl0QwNy71O6ncKaNHSc4HIijpfa" # TODO(mm): remove when making repo public
 
@@ -32,6 +33,7 @@ class SemanticScholarPaper:
     citation_count: int = None
     influential_citation_count: int = None
     acl_doi: str = None
+    embedding: Optional[list[float]] = None
 
     # additional attributes that will be filled when building a citation graph
     citations: list = []
@@ -41,13 +43,14 @@ class SemanticScholarPaper:
     was_influenced: bool = False
     contexts: list[str] = []
 
-    def __init__(self, paper_id: str, title: str, venue: str, year: int, citation_count: int, influential_citation_count: int):
+    def __init__(self, paper_id: str, title: str, venue: str, year: int, citation_count: int, influential_citation_count: int, embedding: Optional[list[float]]=None):
         self.paper_id = paper_id
         self.title = title
         self.venue = venue
         self.year = year
         self.citation_count = citation_count
         self.influential_citation_count = influential_citation_count
+        self.embedding = embedding
 
     def add_acl_doi(self, doi: str) -> None:
         self.acl_doi = doi
@@ -151,7 +154,7 @@ def get_papers_by_keywords(keywords: str, limit: int = 100) -> dict:
 def get_paper_details(paper_id: str) -> SemanticScholarPaper:
     # get details for a single paper
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}"
-    fields = "title,venue,year,citationCount,influentialCitationCount"
+    fields = "title,venue,year,citationCount,influentialCitationCount,embedding"
     
     # query Semantic Scholar API
     response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields})
@@ -162,6 +165,7 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
 
     # Success! Convert response to dict 
     paper_dict = response.json()
+    print(paper_dict)
 
     paper = SemanticScholarPaper(
         paper_id=paper_id, 
@@ -170,6 +174,7 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
         year=paper_dict["year"],
         citation_count=paper_dict["citationCount"],
         influential_citation_count=paper_dict["influentialCitationCount"],
+        embedding=paper_dict['embedding']['vector']
     )
     return paper
 
