@@ -64,12 +64,14 @@ class SemanticScholarPaper:
         self.contexts = contexts
 
     def retrieve_citations(self, limit: int = 1000) -> None:
-        # get citing papers from semantic scholar api
         citing_papers = get_citation_details(self.paper_id, limit)
         citing_papers = [merge_into_single_dict(d) for d in citing_papers['data']]
 
-        for paper_dict in tqdm(citing_papers, desc="Collecting citations"):
-            paper = get_paper_details(paper_dict["citingPaper_paperId"])
+        paper_ids = list(map(lambda x: x["citingPaper_paperId"], citing_papers))
+        papers = bulk_get_paper_details(paper_ids)
+        indexed_papers = dict([(paper.paper_id, paper) for paper in papers])
+        for paper_dict in citing_papers:
+            paper = indexed_papers[paper_dict['citingPaper_paperId']]
             paper.add_citation_types(
                 cites_result=paper_dict["result"],
                 cites_background=paper_dict["background"],
@@ -81,22 +83,22 @@ class SemanticScholarPaper:
 
     def to_dict(self):
         return vars(self)
-    
+
     def to_df(self):
         paper_dict = self.to_dict()
         paper_dict = {k: [v] for k, v in paper_dict.items()}
         return pd.DataFrame.from_dict(paper_dict, orient="columns")
-    
+
     def citations_to_df(self):
         columns = self.citations[0].to_df().columns
         citations_dict = {k: [] for k in columns}
-        
+
         for paper in self.citations:
             for k, v in paper.to_dict().items():
                 citations_dict[k].append(v)
 
         return pd.DataFrame.from_dict(citations_dict, orient="columns")
-    
+
     def __str__(self):
         return str(self.to_dict())
 
@@ -170,6 +172,30 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
         influential_citation_count=paper_dict["influentialCitationCount"],
     )
     return paper
+
+def bulk_get_paper_details(paper_ids: list[str]) -> list[SemanticScholarPaper]:
+    # this endpoint has limit 500 papers
+    # afterward we have to implement iteration over the citations
+    url = 'https://api.semanticscholar.org/graph/v1/paper/batch'
+    fields = "title,venue,year,citationCount,influentialCitationCount"
+    response = requests.post(url,
+                             headers={"x-api-key": API_KEY},
+                             params={"fields": fields},
+                             json={"ids": paper_ids})
+
+    papers = []
+    for paper_dict in response.json():
+        paper = SemanticScholarPaper(
+            paper_id=paper_dict['paperId'],
+            title=paper_dict["title"],
+            venue=paper_dict["venue"],
+            year=paper_dict["year"],
+            citation_count=paper_dict["citationCount"],
+            influential_citation_count=paper_dict["influentialCitationCount"],
+        )
+        papers.append(paper)
+
+    return papers
 
 def get_citation_details(paper_id: str, limit: int = 1000) -> dict:
     # get papers that cite a paper 
