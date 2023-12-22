@@ -7311,3 +7311,739 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 7090,4618,PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings,"Semantics: Lexical, Sentence level, Textual Inference and Other areas",False,10.18653/v1/2022.emnlp-main.826,EMNLP2022
 7091,4621,Digging Errors in NMT: Evaluating and Understanding Model Errors from Partial Hypothesis Space,Machine Translation,False,10.18653/v1/2022.emnlp-main.827,EMNLP2022
 7092,4622,DialogConv: A Lightweight Fully Convolutional Network for Multi-view Response Selection,Dialogue and Interactive Systems,False,10.18653/v1/2022.emnlp-main.828,EMNLP2022
+7093,1443,Attending to Future Tokens for Bidirectional Sequence Generation,Machine Learning,,10.18653/v1/D19-1001,EMNLP2019
+7094,526,Attention is not not Explanation,Machine Learning,,10.18653/v1/D19-1002,EMNLP2019
+7095,1176,Practical Obstacles to Deploying Active Learning,Machine Learning,,10.18653/v1/D19-1003,EMNLP2019
+7096,1207,Transfer Learning Between Related Tasks Using Expected Label Proportions,Machine Learning,,10.18653/v1/D19-1004,EMNLP2019
+7097,TACL-1732,Insertion-based Decoding with automatically Inferred Generation Order,Machine Learning,,10.1162/tacl_a_00292,EMNLP2019
+7098,3403,Knowledge Enhanced Contextual Word Representations,Lexical Semantics,,10.18653/v1/D19-1005,EMNLP2019
+7099,208,"How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings",Lexical Semantics,,10.18653/v1/D19-1006,EMNLP2019
+7100,783,Room to Glo: A Systematic Comparison of Semantic Change Detection Approaches with Word Embeddings,Lexical Semantics,,10.18653/v1/D19-1007,EMNLP2019
+7101,3976,Correlations between Word Vector Sets,Lexical Semantics,,10.18653/v1/D19-1008,EMNLP2019
+7102,1724,Game Theory Meets Embeddings: a Unified Framework for Word Sense Disambiguation,Lexical Semantics,,10.18653/v1/D19-1009,EMNLP2019
+7103,166,Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog,Dialog and Interactive Systems,,10.18653/v1/D19-1010,EMNLP2019
+7104,554,Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots,Dialog and Interactive Systems,,10.18653/v1/D19-1011,EMNLP2019
+7105,1053,MoEL: Mixture of Empathetic Listeners,Dialog and Interactive Systems,,10.18653/v1/D19-1012,EMNLP2019
+7106,2430,Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever,Dialog and Interactive Systems,,10.18653/v1/D19-1013,EMNLP2019
+7107,3756,Building Task-Oriented Visual Dialog Systems Through Alternative Optimization Between Dialog Policy and Language Generation,Dialog and Interactive Systems,,10.18653/v1/D19-1014,EMNLP2019
+7108,2092,DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1015,EMNLP2019
+7109,1814,Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1016,EMNLP2019
+7110,3544,Interpretable Relevant Emotion Ranking with Event-Driven Attention,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1017,EMNLP2019
+7111,518,Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1018,EMNLP2019
+7112,204,Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1019,EMNLP2019
+7113,249),Leveraging Dependency Forest for Neural Medical Relation Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1020,EMNLP2019
+7114,569),Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1021,EMNLP2019
+7115,710),Improving Relation Extraction with Knowledge-attention,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1022,EMNLP2019
+7116,782),Jointly Learning Entity and Relation Representations for Entity Alignment,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1023,EMNLP2019
+7117,796),Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1024,EMNLP2019
+7118,821),Low-Resource Name Tagging Learned with Weakly Labeled Data,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1025,EMNLP2019
+7119,841),Learning Dynamic Context Augmentation for Global Entity Linking,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1026,EMNLP2019
+7120,859),Open Event Extraction from Online Text using a Generative Adversarial Network,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1027,EMNLP2019
+7121,1001),Learning to Bootstrap for Entity Set Expansion,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1028,EMNLP2019
+7122,1149),Multi-Input Multi-Output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1029,EMNLP2019
+7123,1210),Cross-lingual Structure Transfer for Relation and Event Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1030,EMNLP2019
+7124,1365),Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1031,EMNLP2019
+7125,1736),Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1032,EMNLP2019
+7126,1816),Event Detection with Trigger-Aware Lattice Neural Network,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1033,EMNLP2019
+7127,1874),A Boundary-aware Neural Model for Nested Named Entity Recognition,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1034,EMNLP2019
+7128,2024),Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1035,EMNLP2019
+7129,2439),CaRe: Open Knowledge Graph Embeddings,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1036,EMNLP2019
+7130,2793),Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1037,EMNLP2019
+7131,3014),Neural Cross-Lingual Relation Extraction Based on Bilingual Word Embedding Mapping,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1038,EMNLP2019
+7132,3059),Leveraging 2-hop Distant Supervision from Table Entity Pairs for Relation Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1039,EMNLP2019
+7133,3317),EntEval: A Holistic Evaluation Benchmark for Entity Representations,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1040,EMNLP2019
+7134,3646),Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1041,EMNLP2019
+7135,32),Hierarchical Text Classification with Reinforced Label Assignment,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1042,EMNLP2019
+7136,314),Investigating Capsule Network and Semantic Feature on Hyperplanes for Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1043,EMNLP2019
+7137,721),Label-Specific Document Representation for Multi-Label Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1044,EMNLP2019
+7138,729),Hierarchical Attention Prototypical Networks for Few-Shot Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1045,EMNLP2019
+7139,2087),Many Faces of Feature Importance: Comparing Built-in and Post-hoc Feature Importance in Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1046,EMNLP2019
+7140,2273),Enhancing Local Feature Extraction with Global Representation for Neural Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1047,EMNLP2019
+7141,3004),Latent-Variable Generative Models for Data-Efficient Text Classification,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1048,EMNLP2019
+7142,3239),PaRe: A Paper-Reviewer Matching Approach Using a Common Topic Space,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1049,EMNLP2019
+7143,2750),Linking artificial and human neural representations of language,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-1050,EMNLP2019
+7144,DEMO-30),"IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis","Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3017,EMNLP2019
+7145,DEMO-47),TellMeWhy: Learning to Explain Corrective Feedback for Second Language Learners,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3040,EMNLP2019
+7146,DEMO-50),Honkling: In-Browser Personalization for Ubiquitous Keyword Spotting,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3016,EMNLP2019
+7147,DEMO-64),Redcoat: A Collaborative Annotation Tool for Hierarchical Entity Typing,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3033,EMNLP2019
+7148,DEMO-78),SEAGLE: A Platform for Comparative Evaluation of Semantic Encoders for Information Retrieval,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3034,EMNLP2019
+7149,DEMO-80),OpenNRE: An Open and Extensible Toolkit for Neural Relation Extraction,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3029,EMNLP2019
+7150,DEMO-81),Automatic Taxonomy Induction and Expansion,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3005,EMNLP2019
+7151,DEMO-87),Applying BERT to Document Retrieval with Birch,"Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories",,10.18653/v1/D19-3004,EMNLP2019
+7152,3687,Neural Text Summarization: A Critical Evaluation,Summarization and Generation,,10.18653/v1/D19-1051,EMNLP2019
+7153,2586,Neural data-to-text generation: A comparison between pipeline and end-to-end architectures,Summarization and Generation,,10.18653/v1/D19-1052,EMNLP2019
+7154,1175,MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance,Summarization and Generation,,10.18653/v1/D19-1053,EMNLP2019
+7155,3049,Select and Attend: Towards Controllable Content Selection in Text Generation,Summarization and Generation,,10.18653/v1/D19-1054,EMNLP2019
+7156,3357,Sentence-Level Content Planning and Style Specification for Neural Text Generation,Summarization and Generation,,10.18653/v1/D19-1055,EMNLP2019
+7157,2740,Translate and Label! An Encoder-Decoder Approach for Cross-lingual Semantic Role Labeling,Sentence-level Semantics,,10.18653/v1/D19-1056,EMNLP2019
+7158,2106,Syntax-Enhanced Self-Attention-Based Semantic Role Labeling,Sentence-level Semantics,,10.18653/v1/D19-1057,EMNLP2019
+7159,2213,VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling,Sentence-level Semantics,,10.18653/v1/D19-1058,EMNLP2019
+7160,1099,Parameter-free Sentence Embedding via Orthogonal Basis,Sentence-level Semantics,,10.18653/v1/D19-1059,EMNLP2019
+7161,3807,Evaluation Benchmarks and Learning Criteria for Discourse-Aware Sentence Representations,Sentence-level Semantics,,10.18653/v1/D19-1060,EMNLP2019
+7162,3013,Extracting Possessions from Social Media: Images Complement Language,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1061,EMNLP2019
+7163,1243,Learning to Speak and Act in a Fantasy Text Adventure Game,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1062,EMNLP2019
+7164,1542,"Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning","Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1063,EMNLP2019
+7165,2247,Incorporating Visual Semantics into Sentence Representations within a Grounded Space,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1064,EMNLP2019
+7166,3024,Neural Naturalist: Generating Fine-Grained Image Comparisons,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1065,EMNLP2019
+7167,116,Fine-Grained Evaluation for Entity Linking,Information Extraction,,10.18653/v1/D19-1066,EMNLP2019
+7168,3069,Supervising Unsupervised Open Information Extraction Models,Information Extraction,,10.18653/v1/D19-1067,EMNLP2019
+7169,3259,A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers,Information Extraction,,10.18653/v1/D19-1520,EMNLP2019
+7170,1258,KnowledgeNet: A Benchmark Dataset for Knowledge Base Population,Information Extraction,,10.18653/v1/D19-1069,EMNLP2019
+7171,3308,Effective Use of Transformer Networks for Entity Tracking,Information Extraction,,10.18653/v1/D19-1070,EMNLP2019
+7172,233),Explicit Cross-lingual Pre-training for Unsupervised Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1071,EMNLP2019
+7173,410),Latent Part-of-Speech Sequences for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1072,EMNLP2019
+7174,798),Improving Back-Translation with Uncertainty-based Confidence Estimation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1073,EMNLP2019
+7175,846),Towards Linear Time Neural Machine Translation with Capsule Networks,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1074,EMNLP2019
+7176,985),Modeling Multi-mapping Relations for Precise Cross-lingual Entity Alignment,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1075,EMNLP2019
+7177,1226),Supervised and Nonlinear Alignment of Two Embedding Spaces for Dictionary Induction in Low Resourced Languages,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1076,EMNLP2019
+7178,1414),"Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT","Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1077,EMNLP2019
+7179,1427),Iterative Dual Domain Adaptation for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1078,EMNLP2019
+7180,1484),Multi-agent Learning for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1079,EMNLP2019
+7181,1869),Pivot-based Transfer Learning for Neural Machine Translation between Non-English Languages,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1080,EMNLP2019
+7182,1967),Context-Aware Monolingual Repair for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1081,EMNLP2019
+7183,2330),Multi-Granularity Self-Attention for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1082,EMNLP2019
+7184,2537),Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1083,EMNLP2019
+7185,2961),A Discriminative Neural Model for Cross-Lingual Word Alignment,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1084,EMNLP2019
+7186,3571),One Model to Learn Both: Zero Pronoun Prediction and Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1085,EMNLP2019
+7187,3601),Dynamic Past and Future for Neural Machine Translation,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1086,EMNLP2019
+7188,3770),Revisit Automatic Error Detection for Wrong and Missing Translation – A Supervised Approach,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1087,EMNLP2019
+7189,3857),Towards Understanding Neural Machine Translation with Word Importance,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1088,EMNLP2019
+7190,4056),Multilingual Neural Machine Translation with Language Clustering,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1089,EMNLP2019
+7191,1065),Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1090,EMNLP2019
+7192,2230),Pushing the Limits of Low-Resource Morphological Inflection,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1091,EMNLP2019
+7193,TACL-1654),Morphological Analysis Using a Sequence Decoder,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.1162/tacl_a_00286,EMNLP2019
+7194,205),Cross-Lingual Dependency Parsing Using Code-Mixed TreeBank,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1092,EMNLP2019
+7195,531),Hierarchical Pointer Net Parsing,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1093,EMNLP2019
+7196,719),Semi-Supervised Semantic Role Labeling with Cross-View Training,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1094,EMNLP2019
+7197,809),Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1095,EMNLP2019
+7198,863),A Lexicon-Based Graph Neural Network for Chinese NER,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1096,EMNLP2019
+7199,1556),CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1097,EMNLP2019
+7200,1794),Tree Transformer: Integrating Tree Structures into Self-Attention,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1098,EMNLP2019
+7201,2179),Semantic Role Labeling with Iterative Structure Refinement,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1099,EMNLP2019
+7202,2724),Entity Projection via Machine Translation for Cross-Lingual NER,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1100,EMNLP2019
+7203,2738),A Bayesian Approach for Sequence Tagging with Crowds,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1101,EMNLP2019
+7204,3091),A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1102,EMNLP2019
+7205,3368),Target Language-Aware Constrained Inference for Cross-lingual Dependency Parsing,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1103,EMNLP2019
+7206,3711),Look-up and Adapt: A One-shot Semantic Parser,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1104,EMNLP2019
+7207,3886),Similarity Based Auxiliary Classifier for Named Entity Recognition,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1105,EMNLP2019
+7208,4015),Variable beam search for generative neural parsing and its relevance for the analysis of neuro-imaging signal,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1106,EMNLP2019
+7209,DEMO-29),MY-AKKHARA: A Romanization-based Burmese (Myanmar) Input Method,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3027,EMNLP2019
+7210,DEMO-33),LINSPECTOR WEB: A Multilingual Probing Suite for Word Representations,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3022,EMNLP2019
+7211,DEMO-40),Joey NMT: A Minimalist NMT Toolkit for Novices,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3019,EMNLP2019
+7212,DEMO-59),"Multilingual, Multi-scale and Multi-layer Visualization of Intermediate Representations","Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3026,EMNLP2019
+7213,DEMO-65),A System for Diacritizing Four Varieties of Arabic,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3037,EMNLP2019
+7214,DEMO-75),What’s Wrong with Hebrew NLP? And How to Make it Right,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3044,EMNLP2019
+7215,DEMO-100),INMT: Interactive Neural Machine Translation Prediction,"Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-3018,EMNLP2019
+7216,1092,Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets,Machine Learning,,10.18653/v1/D19-1107,EMNLP2019
+7217,1128,Robust Text Classifier on Test-Time Budgets,Machine Learning,,10.18653/v1/D19-1108,EMNLP2019
+7218,3289,Commonsense Knowledge Mining from Pretrained Models,Machine Learning,,10.18653/v1/D19-1109,EMNLP2019
+7219,3428,RNN Architecture Learning with Sparse Regularization,Machine Learning,,10.18653/v1/D19-1110,EMNLP2019
+7220,75,Analytical Methods for Interpretable Ultradense Word Embeddings,Semantics,,10.18653/v1/D19-1111,EMNLP2019
+7221,3142,Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks,Semantics,,10.18653/v1/D19-1112,EMNLP2019
+7222,3045,Retrofitting Contextualized Word Embeddings with Paraphrases,Semantics,,10.18653/v1/D19-1113,EMNLP2019
+7223,3508,Incorporating Contextual and Syntactic Structures Improves Semantic Similarity Modeling,Semantics,,10.18653/v1/D19-1114,EMNLP2019
+7224,3399,Neural Linguistic Steganography,"Discourse, Summarization, and Generation",,10.18653/v1/D19-1115,EMNLP2019
+7225,3018,The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization,"Discourse, Summarization, and Generation",,10.18653/v1/D19-1116,EMNLP2019
+7226,1918,Attention Optimization for Abstractive Document Summarization,"Discourse, Summarization, and Generation",,10.18653/v1/D19-1117,EMNLP2019
+7227,2020,Rewarding Coreference Resolvers for Being Consistent with World Knowledge,"Discourse, Summarization, and Generation",,10.18653/v1/D19-1118,EMNLP2019
+7228,740,An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction,Text Mining and NLP Applications,,10.18653/v1/D19-1119,EMNLP2019
+7229,1257,A Multilingual Topic Model for Learning Weighted Topic Links Across Corpora with Low Comparability,Text Mining and NLP Applications,,10.18653/v1/D19-1120,EMNLP2019
+7230,3730,Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study,Text Mining and NLP Applications,,10.18653/v1/D19-1121,EMNLP2019
+7231,2903,Towards Extracting Medical Family History from Natural Language Interactions: A New Dataset and Baselines,Text Mining and NLP Applications,,10.18653/v1/D19-1122,EMNLP2019
+7232,242),Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1123,EMNLP2019
+7233,622),Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1124,EMNLP2019
+7234,1011),Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1125,EMNLP2019
+7235,1289),A Progressive Model to Enable Continual Learning for Semantic Slot Filling,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1126,EMNLP2019
+7236,1447),CASA-NLU: Context-Aware Self-Attentive Natural Language Understanding for Task-Oriented Chatbots,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1127,EMNLP2019
+7237,2050),Sampling Matters! An Empirical Study of Negative Sampling Strategies for Learning of Matching Models in Retrieval-based Dialogue Systems,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1128,EMNLP2019
+7238,2329),Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1129,EMNLP2019
+7239,2650),Modeling Multi-Action Policy for Task-Oriented Dialogues,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1130,EMNLP2019
+7240,3471),An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1131,EMNLP2019
+7241,3528),Automatically Learning Data Augmentation Policies for Dialogue Tasks,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1132,EMNLP2019
+7242,351),uniblock: Scoring and Filtering Corpus with Unicode Block Information,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1133,EMNLP2019
+7243,533),Multilingual word translation using auxiliary languages,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1134,EMNLP2019
+7244,801),Towards Better Modeling Hierarchical Structure for Self-Attention with Ordered Neurons,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1135,EMNLP2019
+7245,1284),Vecalign: Improved Sentence Alignment in Linear Time and Space,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1136,EMNLP2019
+7246,1603),Simpler and Faster Learning of Adaptive Policies for Simultaneous Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1137,EMNLP2019
+7247,1889),Adversarial Learning with Contextual Embeddings for Zero-resource Cross-lingual Classification and NER,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1138,EMNLP2019
+7248,2114),Recurrent Positional Embedding for Neural Machine Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1139,EMNLP2019
+7249,2413),Machine Translation for Machines: the Sentiment Classification Use Case,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1140,EMNLP2019
+7250,2552),Investigating the Effectiveness of BPE: The Power of Shorter Sequences,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1141,EMNLP2019
+7251,3022),HABLex: Human Annotated Bilingual Lexicons for Experiments in Machine Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1142,EMNLP2019
+7252,3336),Handling Syntactic Divergence in Low-resource Machine Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1143,EMNLP2019
+7253,3487),Speculative Beam Search for Simultaneous Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1144,EMNLP2019
+7254,3548),Self-Attention with Structural Position Representations,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1145,EMNLP2019
+7255,3590),Exploiting Multilingualism through Multistage Fine-Tuning for Low-Resource Neural Machine Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1146,EMNLP2019
+7256,3716),Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1147,EMNLP2019
+7257,4061),A Regularization-based Framework for Bilingual Grammar Induction,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1148,EMNLP2019
+7258,4083),Encoders Help You Disambiguate Word Senses in Neural Machine Translation,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1149,EMNLP2019
+7259,2376),Korean Morphological Analysis with Tied Sequence-to-Sequence Multi-Task Model,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1150,EMNLP2019
+7260,3733),Efficient Convolutional Neural Networks for Diacritic Restoration,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1151,EMNLP2019
+7261,459),Improving Generative Visual Dialog by Answering Diverse Questions,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1152,EMNLP2019
+7262,790),Cross-lingual Transfer Learning with Data Selection for Large-Scale Spoken Language Understanding,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1153,EMNLP2019
+7263,2786),Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1154,EMNLP2019
+7264,3263),Decoupled Box Proposal and Featurization with Ultrafine-Grained Semantic Labels Improve Image Captioning and Visual Question Answering,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1155,EMNLP2019
+7265,3293),"REO-Relevance, Extraness, Omission: A Fine-grained Evaluation for Image Captioning","Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1156,EMNLP2019
+7266,3398),WSLLN:Weakly Supervised Natural Language Localization Networks,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1157,EMNLP2019
+7267,3748),Grounding learning of modifier dynamics: An application to color naming,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1158,EMNLP2019
+7268,3830),Robust Navigation with Language Pretraining and Stochastic Sampling,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1159,EMNLP2019
+7269,413),Towards Making a Dependency Parser See,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1160,EMNLP2019
+7270,1234),Unsupervised Labeled Parsing with Deep Inside-Outside Recursive Autoencoders,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1161,EMNLP2019
+7271,3171),Dependency Parsing for Spoken Dialog Systems,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1162,EMNLP2019
+7272,3240),Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog,"Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1163,EMNLP2019
+7273,2416,Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation,Neural Machine Translation,,10.18653/v1/D19-1164,EMNLP2019
+7274,3252,"Simple, Scalable Adaptation for Neural Machine Translation",Neural Machine Translation,,10.18653/v1/D19-1165,EMNLP2019
+7275,3177,Controlling Text Complexity in Neural Machine Translation,Neural Machine Translation,,10.18653/v1/D19-1166,EMNLP2019
+7276,1388,Investigating Multilingual NMT Representations at Scale,Neural Machine Translation,,10.18653/v1/D19-1167,EMNLP2019
+7277,1423,Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation,Neural Machine Translation,,10.18653/v1/D19-1168,EMNLP2019
+7278,8,Cross-Lingual Machine Reading Comprehension,Question Answering,,10.18653/v1/D19-1169,EMNLP2019
+7279,582,A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning,Question Answering,,10.18653/v1/D19-1170,EMNLP2019
+7280,880,Neural Duplicate Question Detection without Labeled Training Data,Question Answering,,10.18653/v1/D19-1171,EMNLP2019
+7281,889,Asking Clarification Questions in Knowledge-Based Question Answering,Question Answering,,10.18653/v1/D19-1172,EMNLP2019
+7282,1646,Multi-View Domain Adapted Sentence Embeddings for Low-Resource Unsupervised Duplicate Question Detection,Question Answering,,10.18653/v1/D19-1173,EMNLP2019
+7283,172,Multi-label Categorization of Accounts of Sexism using a Neural Framework,Social Media and Computational Social Science,,10.18653/v1/D19-1174,EMNLP2019
+7284,1462,The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets,Social Media and Computational Social Science,,10.18653/v1/D19-1175,EMNLP2019
+7285,2950,Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts,Social Media and Computational Social Science,,10.18653/v1/D19-1176,EMNLP2019
+7286,694,Reinforced Product Metadata Selection for Helpfulness Assessment of Customer Reviews,Social Media and Computational Social Science,,10.18653/v1/D19-1177,EMNLP2019
+7287,3557,Learning Invariant Representations of Social Media Users,Social Media and Computational Social Science,,10.18653/v1/D19-1178,EMNLP2019
+7288,3793,"(Male, Bachelor) and (Female, Ph.D) have different connotations: Parallelly Annotated Stylistic Language Dataset with Multiple Personas",Text Mining and NLP Applications,,10.18653/v1/D19-1179,EMNLP2019
+7289,244,Movie Plot Analysis via Turning Point Identification,Text Mining and NLP Applications,,10.18653/v1/D19-1180,EMNLP2019
+7290,2488,Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention,Text Mining and NLP Applications,,10.18653/v1/D19-1181,EMNLP2019
+7291,1903,Deep Ordinal Regression for Pledge Specificity Prediction,Text Mining and NLP Applications,,10.18653/v1/D19-1182,EMNLP2019
+7292,TACL-1677,"Enabling Robust Grammatical Error Correction in New Domains: Datasets, Metrics, and Analyses",Text Mining and NLP Applications,,,EMNLP2019
+7293,9),Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1183,EMNLP2019
+7294,64),Multi-Granularity Representations of Dialog,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1184,EMNLP2019
+7295,111),Are You for Real? Detecting Identity Fraud via Dialogue Interactions,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1185,EMNLP2019
+7296,124),Hierarchy Response Learning for Neural Conversation Generation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1186,EMNLP2019
+7297,138),Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1187,EMNLP2019
+7298,298),Adaptive Parameterization for Neural Dialogue Generation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1188,EMNLP2019
+7299,316),Towards Knowledge-Based Recommender Dialog System,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1189,EMNLP2019
+7300,419),Structuring Latent Spaces for Stylized Response Generation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1190,EMNLP2019
+7301,537),Improving Open-Domain Dialogue Systems via Multi-Turn Incomplete Utterance Restoration,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1191,EMNLP2019
+7302,771),Unsupervised Context Rewriting for Open Domain Conversation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1192,EMNLP2019
+7303,866),Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1193,EMNLP2019
+7304,1432),DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1194,EMNLP2019
+7305,1550),Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1195,EMNLP2019
+7306,1842),Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1196,EMNLP2019
+7307,1931),Low-Resource Response Generation with Template Prior,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1197,EMNLP2019
+7308,2039),A Discrete CVAE for Response Generation on Short-Text Conversation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1198,EMNLP2019
+7309,2495),Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1199,EMNLP2019
+7310,2594),A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1200,EMNLP2019
+7311,2685),Modeling Personalization in Continuous Space for Response Generation via Augmented Wasserstein Autoencoders,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1201,EMNLP2019
+7312,3513),Variational Hierarchical User-based Conversation Model,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1202,EMNLP2019
+7313,3727),Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1203,EMNLP2019
+7314,3881),CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1204,EMNLP2019
+7315,3954),A Practical Dialogue-Act-Driven Conversation Model for Multi-Turn Response Selection,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1205,EMNLP2019
+7316,4003),How to Build User Simulators to Train RL-based Dialog Systems,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1206,EMNLP2019
+7317,TACL-1676),Graph Convolutional Network with Sequential Attention for Goal-Oriented Dialogue Systems,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.1162/tacl_a_00284,EMNLP2019
+7318,294),Low-Rank HOCA: Efficient High-Order Cross-Modal Attention for Video Captioning,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1207,EMNLP2019
+7319,370),Image Captioning with Very Scarce Supervised Data: Adversarial Semi-Supervised Learning Approach,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1208,EMNLP2019
+7320,401),Dual Attention Networks for Visual Reference Resolution in Visual Dialog,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1209,EMNLP2019
+7321,942),"Unsupervised Discovery of Multimodal Links in Multi-image, Multi-sentence Documents","Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1210,EMNLP2019
+7322,996),UR-FUNNY: A Multimodal Language Dataset for Understanding Humor,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1211,EMNLP2019
+7323,1923),Partners in Crime: Multi-view Sequential Inference for Movie Understanding,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1212,EMNLP2019
+7324,2097),Guiding the Flowing of Semantics: Interpretable Video Captioning via POS Tag,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1213,EMNLP2019
+7325,2414),A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1214,EMNLP2019
+7326,2718),Talk2Car: Taking Control of Your Self-Driving Car,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1215,EMNLP2019
+7327,2739),Fact-Checking Meets Fauxtography: Verifying Claims About Images,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1216,EMNLP2019
+7328,2766),Video Dialog via Progressive Inference and Cross-Transformer,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1217,EMNLP2019
+7329,2884),Executing Instructions in Situated Collaborative Interactions,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1218,EMNLP2019
+7330,3099),Fusion of Detected Objects in Text for Visual Question Answering,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1219,EMNLP2019
+7331,3260),TIGEr: Text-to-Image Grounding for Image Caption Evaluation,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1220,EMNLP2019
+7332,DEMO-38),EGG: a toolkit for research on Emergence of lanGuage in Games,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3010,EMNLP2019
+7333,DEMO-43),Chameleon: A Language Model Adaptation Toolkit for Automatic Speech Recognition of Conversational Speech,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3007,EMNLP2019
+7334,DEMO-60),PyOpenDial: A Python-based Domain-Independent Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3032,EMNLP2019
+7335,DEMO-67),PolyResponse: A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3031,EMNLP2019
+7336,DEMO-71),LIDA: Lightweight Interactive Dialogue Annotator,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3021,EMNLP2019
+7337,DEMO-88),Entity resolution for noisy ASR transcripts,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3011,EMNLP2019
+7338,DEMO-103),Gunrock: A Social Bot for Complex and Engaging Long Conversations,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3014,EMNLP2019
+7339,DEMO-115),HARE: a Flexible Highlighting Annotator for Ranking and Exploration,"Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-3015,EMNLP2019
+7340,1515,Universal Adversarial Triggers for Attacking and Analyzing NLP,Machine Learning,,10.18653/v1/D19-1221,EMNLP2019
+7341,2756,To Annotate or Not? Predicting Performance Drop under Domain Shift,Machine Learning,,10.18653/v1/D19-1222,EMNLP2019
+7342,2900,Adaptively Sparse Transformers,Machine Learning,,10.18653/v1/D19-1223,EMNLP2019
+7343,3277,Show Your Work:  Improved Reporting of Experimental Results,Machine Learning,,,EMNLP2019
+7344,3999,A Deep Factorization of Style and Structure in Fonts,Machine Learning,,10.18653/v1/D19-1225,EMNLP2019
+7345,1735,Cross-lingual Semantic Specialization via Lexical Relation Induction,Lexical Semantics,,10.18653/v1/D19-1226,EMNLP2019
+7346,2670,Modelling the interplay of metaphor and emotion through multitask learning,Lexical Semantics,,10.18653/v1/D19-1227,EMNLP2019
+7347,3460,How well do NLI models capture verb veridicality?,Lexical Semantics,,10.18653/v1/D19-1228,EMNLP2019
+7348,3515,Modeling Color Terminology Across Thousands of Languages,Lexical Semantics,,10.18653/v1/D19-1229,EMNLP2019
+7349,1314,Negative Focus Detection via Contextual Attention Mechanism,Lexical Semantics,,10.18653/v1/D19-1230,EMNLP2019
+7350,1792,A Unified Neural Coherence Model,Discourse and Pragmatics,,10.18653/v1/D19-1231,EMNLP2019
+7351,2642,Topic-Guided Coherence Modeling for Sentence Ordering by Preserving Global and Local Information,Discourse and Pragmatics,,10.18653/v1/D19-1232,EMNLP2019
+7352,4060,Neural Generative Rhetorical Structure Parsing,Discourse and Pragmatics,,10.18653/v1/D19-1233,EMNLP2019
+7353,2453,Weak Supervision for Learning Discourse Structure,Discourse and Pragmatics,,10.18653/v1/D19-1234,EMNLP2019
+7354,2625,Predicting Discourse Structure using Distant Supervision from Sentiment,Discourse and Pragmatics,,10.18653/v1/D19-1235,EMNLP2019
+7355,2233,The Myth of Double-Blind Review Revisited: ACL vs. EMNLP,Text Mining and NLP Applications,,10.18653/v1/D19-1236,EMNLP2019
+7356,2653,Uncover Sexual Harassment Patterns from Personal Stories by Joint Key Element Extraction and Categorization,Text Mining and NLP Applications,,10.18653/v1/D19-1237,EMNLP2019
+7357,2864,Identifying Predictive Causal Factors from News Streams,Text Mining and NLP Applications,,10.18653/v1/D19-1238,EMNLP2019
+7358,3011,Training Data Augmentation for Detecting Adverse Drug Reactions in User-Generated Content,Text Mining and NLP Applications,,10.18653/v1/D19-1239,EMNLP2019
+7359,3160,Deep Reinforcement Learning-based Text Anonymization against Private-Attribute Inference,Text Mining and NLP Applications,,10.18653/v1/D19-1240,EMNLP2019
+7360,56),Tree-structured Decoding for Solving Math Word Problems,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1241,EMNLP2019
+7361,86),PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1242,EMNLP2019
+7362,107),Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1243,EMNLP2019
+7363,179),Finding Generalizable Evidence by Learning to Convince Q&A Models,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1244,EMNLP2019
+7364,468),Ranking and Sampling in Open-Domain Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1245,EMNLP2019
+7365,618),A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1246,EMNLP2019
+7366,807),Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1247,EMNLP2019
+7367,924),Multi-Task Learning for Conversational Question Answering over a Large-Scale Knowledge Base,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1248,EMNLP2019
+7368,1930),BiPaR: A Bilingual Parallel Dataset for Multilingual and Cross-lingual Reading Comprehension on Novels,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1249,EMNLP2019
+7369,2085),Language Models as Knowledge Bases?,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1250,EMNLP2019
+7370,2237),NumNet: Machine Reading Comprehension with Numerical Reasoning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1251,EMNLP2019
+7371,2277),Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1252,EMNLP2019
+7372,2390),Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1253,EMNLP2019
+7373,2764),Adversarial Domain Adaptation for Machine Reading Comprehension,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1254,EMNLP2019
+7374,2820),Incorporating External Knowledge into Machine Reading for Generative Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1255,EMNLP2019
+7375,2825),Answering questions by learning to rank - Learning to rank by answering questions,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1256,EMNLP2019
+7376,2940),Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1257,EMNLP2019
+7377,2945),Revealing the Importance of Semantic Retrieval for Machine Reading at Scale,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1258,EMNLP2019
+7378,2978),PubMedQA: A Dataset for Biomedical Research Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1259,EMNLP2019
+7379,3164),Quick and (not so) Dirty: Unsupervised Selection of Justification Sentences for Multi-hop Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1260,EMNLP2019
+7380,3417),Answering Complex Open-domain Questions Through Iterative Query Generation,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1261,EMNLP2019
+7381,3489),NL2pSQL: Generating Pseudo-SQL Queries from Under-Specified Natural Language Questions,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1262,EMNLP2019
+7382,4004),Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1263,EMNLP2019
+7383,147),Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1264,EMNLP2019
+7384,493),Learning to Update Knowledge Graphs by Reading News,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1265,EMNLP2019
+7385,709),DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1266,EMNLP2019
+7386,829),Original Semantics-Oriented Attention and Deep Fusion Network for Sentence Matching,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1267,EMNLP2019
+7387,972),Representation Learning with Ordered Relation Paths for Knowledge Graph Completion,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1268,EMNLP2019
+7388,1018),Collaborative Policy Learning for Open Knowledge Graph Reasoning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1269,EMNLP2019
+7389,1444),Modeling Event Background for If-Then Commonsense Reasoning Using Context-aware Variational Autoencoder,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1270,EMNLP2019
+7390,2257),Asynchronous Deep Interaction Network for Natural Language Inference,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1271,EMNLP2019
+7391,2830),Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1272,EMNLP2019
+7392,3550),Query-focused Scenario Construction,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1273,EMNLP2019
+7393,3819),Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-1274,EMNLP2019
+7394,DEMO-57),EUSP: An Easy-to-Use Semantic Parsing PlatForm,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-3012,EMNLP2019
+7395,DEMO-66),ParaQG: A System for Generating Questions and Answers from Paragraphs,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-3030,EMNLP2019
+7396,DEMO-37),CFO: A Framework for Building Production NLP Systems,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-3006,EMNLP2019
+7397,DEMO-48),ABSApp: A Portable Weakly-Supervised Aspect-Based Sentiment Extraction System,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-3001,EMNLP2019
+7398,DEMO-86),Memory Grounded Conversational Reasoning,"Question Answering, Textual Inference and Other Areas of Semantics",,10.18653/v1/D19-3025,EMNLP2019
+7399,4063,Designing and Interpreting Probes with Control Tasks,"Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1275,EMNLP2019
+7400,1357,Specializing Word Embeddings (for Parsing) by Information Bottleneck,"Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1276,EMNLP2019
+7401,2799,Deep Contextualized Word Embeddings in Transition-Based and Graph-Based Dependency Parsing - A Tale of Two Parsers Revisited,"Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1277,EMNLP2019
+7402,2863,Semantic graph parsing with recurrent neural network DAG grammars,"Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1278,EMNLP2019
+7403,1221,"75 Languages, 1 Model: Parsing Universal Dependencies Universally","Tagging, Chunking, Syntax and Parsing",,10.18653/v1/D19-1279,EMNLP2019
+7404,1367,Interactive Language Learning by Question Answering,Question Answering,,10.18653/v1/D19-1280,EMNLP2019
+7405,3238,What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering,Question Answering,,10.18653/v1/D19-1281,EMNLP2019
+7406,436,KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning,Question Answering,,10.18653/v1/D19-1282,EMNLP2019
+7407,3518,Learning with Limited Data for Multilingual Reading Comprehension,Question Answering,,10.18653/v1/D19-1283,EMNLP2019
+7408,3778,A Discrete Hard EM Approach for Weakly Supervised Question Answering,Question Answering,,10.18653/v1/D19-1284,EMNLP2019
+7409,2585,Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",,10.18653/v1/D19-1285,EMNLP2019
+7410,3650,Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",,10.18653/v1/D19-1286,EMNLP2019
+7411,3929,Representation of Constituents in Neural Language Models: Coordination Phrase as a Case Study,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",,10.18653/v1/D19-1287,EMNLP2019
+7412,1745,Towards Zero-shot Language Modeling,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",,10.18653/v1/D19-1288,EMNLP2019
+7413,TACL-1710,Neural Network Acceptability Judgments,"Linguistic Theories, Cognitive Modeling and Psycholinguistics",,10.1162/tacl_a_00290,EMNLP2019
+7414,2089,What Gets Echoed? Understanding the “Pointers” in Explanations of Persuasive Arguments,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1289,EMNLP2019
+7415,2267,Modeling Frames in Argumentation,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1290,EMNLP2019
+7416,3321,AMPERSAND: Argument Mining for PERSuAsive oNline Discussions,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1291,EMNLP2019
+7417,427,Evaluating adversarial attacks against multiple fact verification systems,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1292,EMNLP2019
+7418,564,Nonsense!: Quality Control via Two-Step Reason Selection for Annotating Local Acceptability and Related Attributes in News Editorials,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1293,EMNLP2019
+7419,723,Evaluating Pronominal Anaphora in Machine Translation: An Evaluation Measure and a Test Suite,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1294,EMNLP2019
+7420,2916,A Regularization Approach for Incorporating Event Knowledge and Coreference Relations into Neural Discourse Parsing,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1295,EMNLP2019
+7421,3994,Weakly Supervised Multilingual Causality Extraction from Wikipedia,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1296,EMNLP2019
+7422,210,Attribute-aware Sequence Network for Review Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1297,EMNLP2019
+7423,268,Extractive Summarization of Long Documents by Combining Global and Local Context,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1298,EMNLP2019
+7424,313,Enhancing Neural Data-To-Text Generation Models with External Background Knowledge,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1299,EMNLP2019
+7425,346,Reading Like HER: Human Reading Inspired Extractive Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1300,EMNLP2019
+7426,361,Contrastive Attention Mechanism for Abstractive Sentence Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1301,EMNLP2019
+7427,703,NCLS: Neural Cross-Lingual Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1302,EMNLP2019
+7428,749,Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1303,EMNLP2019
+7429,845,Concept Pointer Network for Abstractive Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1304,EMNLP2019
+7430,1139,Surface Realisation Using Full Delexicalisation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1305,EMNLP2019
+7431,1169,IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1306,EMNLP2019
+7432,1191,Better Rewards Yield Better Summaries: Learning to Summarise Without References,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1307,EMNLP2019
+7433,1369,Mixture Content Selection for Diverse Sequence Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1308,EMNLP2019
+7434,1375,An End-to-End Generative Architecture for Paraphrase Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1309,EMNLP2019
+7435,1726,"Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time)","Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1310,EMNLP2019
+7436,1779,Subtopic-driven Multi-Document Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1311,EMNLP2019
+7437,1805,Referring Expression Generation Using Entity Profiles,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1312,EMNLP2019
+7438,1834,Exploring Diverse Expressions for Paraphrase Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1313,EMNLP2019
+7439,1852,Enhancing AMR-to-Text Generation with Dual Graph Representations,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1314,EMNLP2019
+7440,1881,Keeping Consistency of Sentence Generation and Document Classification with Multi-Task Learning,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1315,EMNLP2019
+7441,2031,Toward a Task of Feedback Comment Generation for Writing Learning,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1316,EMNLP2019
+7442,2033,Improving Question Generation With to the Point Context,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1317,EMNLP2019
+7443,2121,Deep Copycat Networks for Text-to-Text Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1318,EMNLP2019
+7444,2412,Towards Controllable and Personalized Review Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1319,EMNLP2019
+7445,2604,Answers Unite! Unsupervised Metrics for Reinforced Summarization Models,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1320,EMNLP2019
+7446,2746,Long and Diverse Text Generation with Planning-based Hierarchical Variational Model,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1321,EMNLP2019
+7447,2932,"Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer","Discourse and Pragmatics, Summarization and Generation",,,EMNLP2019
+7448,3275,An Entity-Driven Framework for Abstractive Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1323,EMNLP2019
+7449,3334,Neural Extractive Text Summarization with Syntactic Compression,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1324,EMNLP2019
+7450,3511,Domain Adaptive Text Style Transfer,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1325,EMNLP2019
+7451,3754,Let’s Ask Again: Refine Network for Automatic Question Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1326,EMNLP2019
+7452,3846,Earlier Isn’t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-1327,EMNLP2019
+7453,DEMO-5),VizSeq: a visual analysis toolkit for text generation tasks,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-3043,EMNLP2019
+7454,DEMO-36),FAMULUS: Interactive Annotation and Feedback Generation for Teaching Diagnostic Reasoning,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-3013,EMNLP2019
+7455,DEMO-74),A Summarization System for Scientific Documents,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-3036,EMNLP2019
+7456,DEMO-94),EASSE: Easier Automatic Sentence Simplification Evaluation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-3009,EMNLP2019
+7457,DEMO-109),ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation,"Discourse and Pragmatics, Summarization and Generation",,10.18653/v1/D19-3003,EMNLP2019
+7458,1131,Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction,Machine Translation and Multilinguality,,10.18653/v1/D19-1328,EMNLP2019
+7459,1266,Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set,Machine Translation and Multilinguality,,10.18653/v1/D19-1329,EMNLP2019
+7460,1478,Synchronously Generating Two Languages with Interactive Decoding,Machine Translation and Multilinguality,,10.18653/v1/D19-1330,EMNLP2019
+7461,1868,On NMT Search Errors and Model Errors: Cat Got Your Tongue?,Machine Translation and Multilinguality,,10.18653/v1/D19-1331,EMNLP2019
+7462,2533,Going on a vacation takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding,Reasoning and Question Answering,,,EMNLP2019
+7463,2798,QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization,Reasoning and Question Answering,,10.18653/v1/D19-1333,EMNLP2019
+7464,329,Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations,Reasoning and Question Answering,,10.18653/v1/D19-1334,EMNLP2019
+7465,586,How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG,Reasoning and Question Answering,,10.18653/v1/D19-1335,EMNLP2019
+7466,267,Pun-GAN: Generative Adversarial Network for Pun Generation,Generation,,10.18653/v1/D19-1336,EMNLP2019
+7467,3820,Multi-Task Learning with Language Modeling for Question Generation,Generation,,10.18653/v1/D19-1337,EMNLP2019
+7468,3506,Autoregressive Text Generation Beyond Feedback Loops,Generation,,10.18653/v1/D19-1338,EMNLP2019
+7469,3874,The Woman Worked as a Babysitter: On Biases in Language Generation,Generation,,10.18653/v1/D19-1339,EMNLP2019
+7470,2984,On the Importance of Delexicalization for Fact Verification,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1340,EMNLP2019
+7471,3338,Towards Debiasing Fact Verification Models,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1341,EMNLP2019
+7472,911,Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1342,EMNLP2019
+7473,1395,Investigating Dynamic Routing in Tree-Structured LSTM for Sentiment Analysis,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1343,EMNLP2019
+7474,542),A Label Informative Wide & Deep Classifier for Patents and Papers,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1344,EMNLP2019
+7475,573),Text Level Graph Neural Network for Text Classification,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1345,EMNLP2019
+7476,875),Semantic Relatedness Based Re-ranker for Text Spotting,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1346,EMNLP2019
+7477,1306),Delta-training: Simple Semi-Supervised Text Classification using Pretrained Word Embeddings,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1347,EMNLP2019
+7478,1342),Visual Detection with Context for Document Layout Analysis,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1348,EMNLP2019
+7479,1562),Evaluating Topic Quality with Posterior Variability,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1349,EMNLP2019
+7480,2494),Neural Topic Model with Reinforcement Learning,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1350,EMNLP2019
+7481,2705),Modelling Stopping Criteria for Search Results using Poisson Processes,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1351,EMNLP2019
+7482,3533),Cross-Domain Modeling of Sentence-Level Evidence for Document Retrieval,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1352,EMNLP2019
+7483,4151),The Challenges of Optimizing Machine Translation for Low Resource Cross-Language Information Retrieval,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1353,EMNLP2019
+7484,170),Rotate King to get Queen: Word Relationships as Orthogonal Transformations in Embedding Space,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1354,EMNLP2019
+7485,362),GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1355,EMNLP2019
+7486,670),Leveraging Adjective-Noun Phrasing Knowledge for Comparison Relation Prediction in Text-to-SQL,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1356,EMNLP2019
+7487,1461),Bridging the Defined and the Defining: Exploiting Implicit Lexical Semantic Relations in Definition Modeling,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1357,EMNLP2019
+7488,1615),Don’t Just Scratch the Surface: Enhancing Word Representations for Korean with Hanja,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1358,EMNLP2019
+7489,2219),SyntagNet: Challenging Supervised Word Sense Disambiguation with Lexical-Semantic Combinations,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1359,EMNLP2019
+7490,2419),Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1360,EMNLP2019
+7491,327),Fine-tune BERT with Sparse Self-Attention Mechanism,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1361,EMNLP2019
+7492,806),Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1362,EMNLP2019
+7493,819),A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1363,EMNLP2019
+7494,1063),Out-of-Domain Detection for Low-Resource Text Classification Tasks,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1364,EMNLP2019
+7495,1877),Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1365,EMNLP2019
+7496,1925),Multiple Text Style Transfer by using Word-level Conditional Generative Adversarial Network with Two-Phase Training,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1366,EMNLP2019
+7497,2104),Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1367,EMNLP2019
+7498,2696),Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1368,EMNLP2019
+7499,2741),Single Training Dimension Selection for Word Embedding with PCA,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1369,EMNLP2019
+7500,3040),A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1370,EMNLP2019
+7501,3265),Humor Detection: A Transformer Gets the Last Laugh,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1372,EMNLP2019
+7502,3585),Combining Global Sparse Gradients with Local Gradients in Distributed Neural Network Training,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1373,EMNLP2019
+7503,3631),Small and Practical BERT Models for Sequence Labeling,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1374,EMNLP2019
+7504,3776),Data Augmentation with Atomic Templates for Spoken Language Understanding,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1375,EMNLP2019
+7505,4026),PaLM: A Hybrid Parser and Language Model,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1376,EMNLP2019
+7506,1593),A Pilot Study for Chinese SQL Semantic Parsing,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1377,EMNLP2019
+7507,1616),Global Reasoning over Database Structures for Text-to-SQL Parsing,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1378,EMNLP2019
+7508,1712),Transductive Learning of Neural Language Models for Syntactic and Semantic Analysis,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1379,EMNLP2019
+7509,2287),Efficient Sentence Embedding using Discrete Cosine Transform,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1380,EMNLP2019
+7510,2393),A Search-based Neural Model for Biomedical Nested and Overlapping Event Detection,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1381,EMNLP2019
+7511,3233),PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1382,EMNLP2019
+7512,3887),Pretrained Language Models for Sequential Sentence Classification,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1383,EMNLP2019
+7513,2402),Emergent Linguistic Phenomena in Multi-Agent Communication Games,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1384,EMNLP2019
+7514,1526),TalkDown: A Corpus for Condescension Detection in Context,"Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning",,10.18653/v1/D19-1385,EMNLP2019
+7515,1178,Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization,Summarization,,10.18653/v1/D19-1386,EMNLP2019
+7516,392,Text Summarization with Pretrained Encoders,Summarization,,10.18653/v1/D19-1387,EMNLP2019
+7517,609,How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing,Summarization,,10.18653/v1/D19-1388,EMNLP2019
+7518,3219,BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle,Summarization,,10.18653/v1/D19-1389,EMNLP2019
+7519,3043,Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator,Summarization,,10.18653/v1/D19-1390,EMNLP2019
+7520,2676,Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs,Sentence-level Semantics,,10.18653/v1/D19-1391,EMNLP2019
+7521,263,Broad-Coverage Semantic Parsing as Transduction,Sentence-level Semantics,,10.18653/v1/D19-1392,EMNLP2019
+7522,1544,Core Semantic First: A Top-down Approach for AMR Parsing,Sentence-level Semantics,,10.18653/v1/D19-1393,EMNLP2019
+7523,2904,"Don’t paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing",Sentence-level Semantics,,10.18653/v1/D19-1394,EMNLP2019
+7524,TACL-1742,Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond,Sentence-level Semantics,,10.1162/tacl_a_00288,EMNLP2019
+7525,337,Improving Distantly-Supervised Relation Extraction with Joint Label Embedding,Information Extraction,,10.18653/v1/D19-1395,EMNLP2019
+7526,566,Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network,Information Extraction,,10.18653/v1/D19-1396,EMNLP2019
+7527,1057,Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction,Information Extraction,,10.18653/v1/D19-1397,EMNLP2019
+7528,1640,Easy First Relation Extraction with Information Redundancy,Information Extraction,,10.18653/v1/D19-1398,EMNLP2019
+7529,2509,Dependency-Guided LSTM-CRF for Named Entity Recognition,Information Extraction,,10.18653/v1/D19-1399,EMNLP2019
+7530,1036,Cross-Cultural Transfer Learning for Text Classification,Information Retrieval and Document Analysis,,10.18653/v1/D19-1400,EMNLP2019
+7531,1190,Combining Unsupervised Pre-training and Annotator Rationales to Improve Low-shot Text Classification,Information Retrieval and Document Analysis,,10.18653/v1/D19-1401,EMNLP2019
+7532,3202,ProSeqo: Projection Sequence Networks for On-Device Text Classification,Information Retrieval and Document Analysis,,10.18653/v1/D19-1402,EMNLP2019
+7533,3562,Induction Networks for Few-Shot Text Classification,Information Retrieval and Document Analysis,,10.18653/v1/D19-1403,EMNLP2019
+7534,2899,"Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach",Information Retrieval and Document Analysis,,10.18653/v1/D19-1404,EMNLP2019
+7535,6),A Logic-Driven Framework for Consistency of Neural Models,Machine Learning,,10.18653/v1/D19-1405,EMNLP2019
+7536,109),"Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites",Machine Learning,,10.18653/v1/D19-1406,EMNLP2019
+7537,161),Implicit Deep Latent Variable Models for Text Generation,Machine Learning,,10.18653/v1/D19-1407,EMNLP2019
+7538,200),Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach,Machine Learning,,10.18653/v1/D19-1408,EMNLP2019
+7539,247),Judge the Judges: A Large-Scale Evaluation Study of Neural Language Models for Online Review Generation,Machine Learning,,10.18653/v1/D19-1409,EMNLP2019
+7540,373),Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,Machine Learning,,10.18653/v1/D19-1410,EMNLP2019
+7541,399),Learning Only from Relevant Keywords and Unlabeled Documents,Machine Learning,,10.18653/v1/D19-1411,EMNLP2019
+7542,592),Denoising based Sequence-to-Sequence Pre-training for Text Generation,Machine Learning,,10.18653/v1/D19-1412,EMNLP2019
+7543,686),Dialog Intent Induction with Deep Multi-View Clustering,Machine Learning,,10.18653/v1/D19-1413,EMNLP2019
+7544,718),Nearly-Unsupervised Hashcode Representations for Biomedical Relation Extraction,Machine Learning,,10.18653/v1/D19-1414,EMNLP2019
+7545,888),Auditing Deep Learning processes through Kernel-based Explanatory Models,Machine Learning,,10.18653/v1/D19-1415,EMNLP2019
+7546,1060),Enhancing Variational Autoencoders with Mutual Information Neural Estimation for Text Generation,Machine Learning,,10.18653/v1/D19-1416,EMNLP2019
+7547,1286),Sampling Bias in Deep Active Classification: An Empirical Study,Machine Learning,,10.18653/v1/D19-1417,EMNLP2019
+7548,1321),Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases,Machine Learning,,10.18653/v1/D19-1418,EMNLP2019
+7549,1360),Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation,Machine Learning,,10.18653/v1/D19-1419,EMNLP2019
+7550,1422),Rethinking Cooperative Rationalization: Introspective Extraction and Complement Control,Machine Learning,,10.18653/v1/D19-1420,EMNLP2019
+7551,1435),Experimenting with Power Divergences for Language Modeling,Machine Learning,,10.18653/v1/D19-1421,EMNLP2019
+7552,1590),Hierarchically-Refined Label Attention Network for Sequence Labeling,Machine Learning,,10.18653/v1/D19-1422,EMNLP2019
+7553,1709),Certified Robustness to Adversarial Word Substitutions,Machine Learning,,10.18653/v1/D19-1423,EMNLP2019
+7554,1846),Visualizing and Understanding the Effectiveness of BERT,Machine Learning,,10.18653/v1/D19-1424,EMNLP2019
+7555,2147),Topics to Avoid: Demoting Latent Confounds in Text Classification,Machine Learning,,10.18653/v1/D19-1425,EMNLP2019
+7556,2168),Learning to Ask for Conversational Machine Learning,Machine Learning,,10.18653/v1/D19-1426,EMNLP2019
+7557,2270),"Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training",Machine Learning,,10.18653/v1/D19-1427,EMNLP2019
+7558,2394),Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs,Machine Learning,,10.18653/v1/D19-1428,EMNLP2019
+7559,2441),Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation,Machine Learning,,10.18653/v1/D19-1429,EMNLP2019
+7560,2477),Exploiting Monolingual Data at Scale for Neural Machine Translation,Machine Learning,,10.18653/v1/D19-1430,EMNLP2019
+7561,2554),Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs,Machine Learning,,10.18653/v1/D19-1431,EMNLP2019
+7562,2660),Distributionally Robust Language Modeling,Machine Learning,,10.18653/v1/D19-1432,EMNLP2019
+7563,2686),Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling,Machine Learning,,10.18653/v1/D19-1433,EMNLP2019
+7564,2706),Learning Latent Parameters without Human Response Patterns: Item Response Theory with Artificial Crowds,Machine Learning,,10.18653/v1/D19-1434,EMNLP2019
+7565,2716),Parallel Iterative Edit Models for Local Sequence Transduction,Machine Learning,,10.18653/v1/D19-1435,EMNLP2019
+7566,2882),ARAML: A Stable Adversarial Training Framework for Text Generation,Machine Learning,,10.18653/v1/D19-1436,EMNLP2019
+7567,2905),FlowSeq:  Non-Autoregressive Conditional Sequence Generation with Generative Flow,Machine Learning,,,EMNLP2019
+7568,3039),Compositional Generalization for Primitive Substitutions,Machine Learning,,10.18653/v1/D19-1438,EMNLP2019
+7569,3089),WikiCREM: A Large Unsupervised Corpus for Coreference Resolution,Machine Learning,,10.18653/v1/D19-1439,EMNLP2019
+7570,3146),Identifying and Explaining Discriminative Attributes,Machine Learning,,10.18653/v1/D19-1440,EMNLP2019
+7571,3194),Patient Knowledge Distillation for BERT Model Compression,Machine Learning,,10.18653/v1/D19-1441,EMNLP2019
+7572,3254),Neural Gaussian Copula for Variational Autoencoder,Machine Learning,,10.18653/v1/D19-1442,EMNLP2019
+7573,3261),Transformer Dissection: An Unified Understanding for Transformer’s Attention via the Lens of Kernel,Machine Learning,,10.18653/v1/D19-1443,EMNLP2019
+7574,3478),Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification,Machine Learning,,10.18653/v1/D19-1444,EMNLP2019
+7575,3494),Revealing the Dark Secrets of BERT,Machine Learning,,10.18653/v1/D19-1445,EMNLP2019
+7576,4149),Machine Translation With Weakly Paired Documents,Machine Learning,,10.18653/v1/D19-1446,EMNLP2019
+7577,2201),Countering Language Drift via Visual Grounding,Machine Learning,,10.18653/v1/D19-1447,EMNLP2019
+7578,2415),The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives,Machine Learning,,10.18653/v1/D19-1448,EMNLP2019
+7579,DEMO-41),NeuronBlocks: Building Your NLP DNN Models Like Playing Lego,Machine Learning,,10.18653/v1/D19-3028,EMNLP2019
+7580,DEMO-42),Controlling Sequence-to-Sequence Models - A Demonstration on Neural-based Acrostic Generator,Machine Learning,,10.18653/v1/D19-3008,EMNLP2019
+7581,DEMO-44),AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models,Machine Learning,,10.18653/v1/D19-3002,EMNLP2019
+7582,DEMO-54),UER: An Open-Source Toolkit for Pre-training Models,Machine Learning,,10.18653/v1/D19-3041,EMNLP2019
+7583,DEMO-85),MedCATTrainer: A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation,Machine Learning,,10.18653/v1/D19-3024,EMNLP2019
+7584,2459,Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?,Machine Translation and Multilinguality,,10.18653/v1/D19-1449,EMNLP2019
+7585,2491,Weakly-Supervised Concept-based Adversarial Learning for Cross-lingual Word Embeddings,Machine Translation and Multilinguality,,10.18653/v1/D19-1450,EMNLP2019
+7586,3541,Aligning Cross-Lingual Entities with Multi-Aspect Information,Machine Translation and Multilinguality,,10.18653/v1/D19-1451,EMNLP2019
+7587,2498,Contrastive Language Adaptation for Cross-Lingual Stance Detection,Machine Translation and Multilinguality,,10.18653/v1/D19-1452,EMNLP2019
+7588,422,Jointly Learning to Align and Translate with Transformer Models,Machine Translation and Multilinguality,,10.18653/v1/D19-1453,EMNLP2019
+7589,1334,Social IQa: Commonsense Reasoning about Social Interactions,Reasoning,,10.18653/v1/D19-1454,EMNLP2019
+7590,2866,Self-Assembling Modular Networks for Interpretable Multi-Hop Reasoning,Reasoning,,10.18653/v1/D19-1455,EMNLP2019
+7591,1413,Posing Fair Generalization Tasks for Natural Language Inference,Reasoning,,10.18653/v1/D19-1456,EMNLP2019
+7592,3279,Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text,Reasoning,,10.18653/v1/D19-1457,EMNLP2019
+7593,3183,CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text,Reasoning,,10.18653/v1/D19-1458,EMNLP2019
+7594,510,Taskmaster-1: Toward a Realistic and Diverse Dialog Dataset,Dialog and Interactive Systems,,10.18653/v1/D19-1459,EMNLP2019
+7595,1564,Multi-Domain Goal-Oriented Dialogues (MultiDoGO): Strategies toward Curating and Annotating Large Scale Dialogue Data,Dialog and Interactive Systems,,10.18653/v1/D19-1460,EMNLP2019
+7596,1186,Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack,Dialog and Interactive Systems,,10.18653/v1/D19-1461,EMNLP2019
+7597,1853,GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue,Dialog and Interactive Systems,,10.18653/v1/D19-1462,EMNLP2019
+7598,496,Task-Oriented Conversation Generation Using Heterogeneous Memory Networks,Dialog and Interactive Systems,,10.18653/v1/D19-1463,EMNLP2019
+7599,381,Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1464,EMNLP2019
+7600,1988,Coupling Global and Local Context for Unsupervised Aspect Extraction,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1465,EMNLP2019
+7601,65,Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1466,EMNLP2019
+7602,1995,CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1467,EMNLP2019
+7603,3207,Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training,Sentiment Analysis and Argument Mining,,10.18653/v1/D19-1468,EMNLP2019
+7604,52),Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1469,EMNLP2019
+7605,705),Neural Conversation Recommendation with Online Interaction Modeling,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1470,EMNLP2019
+7606,720),Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1471,EMNLP2019
+7607,965),Text-based inference of moral sentiment change,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1472,EMNLP2019
+7608,1439),Detecting Causal Language Use in Science Findings,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1473,EMNLP2019
+7609,1468),Multilingual and Multi-Aspect Hate Speech Analysis,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1474,EMNLP2019
+7610,1969),MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1475,EMNLP2019
+7611,2006),A Deep Neural Information Fusion Architecture for Textual Network Embeddings,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1476,EMNLP2019
+7612,2186),You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1477,EMNLP2019
+7613,2606),Adaptive Ensembling: Unsupervised Domain Adaptation for Political Document Analysis,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1478,EMNLP2019
+7614,2693),A Hierarchical Location Prediction Neural Network for Twitter User Geolocation,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1480,EMNLP2019
+7615,2828),Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1481,EMNLP2019
+7616,3391),A Benchmark Dataset for Learning to Intervene in Online Hate Speech,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1482,EMNLP2019
+7617,3461),Detecting and Reducing Bias in a High Stakes Domain,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1483,EMNLP2019
+7618,3566),CodeSwitch-Reddit: Exploration of Written Multilingual Discourse in Online Discussion Forums,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1484,EMNLP2019
+7619,3592),Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1485,EMNLP2019
+7620,TACL-1639),Measuring Online Debaters’ Persuasive Skill from Text over Time,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.1162/tacl_a_00281,EMNLP2019
+7621,142),Reconstructing Capsule Networks for Zero-shot Intent Classification,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1486,EMNLP2019
+7622,239),Domain Adaptation for Person-Job Fit with Transferable Deep Global Match Network,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1487,EMNLP2019
+7623,299),Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1488,EMNLP2019
+7624,438),Comparing and Developing Tools to Measure the Readability of Domain-Specific Texts,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1489,EMNLP2019
+7625,473),News2vec: News Network Embedding with Subnode Information,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1490,EMNLP2019
+7626,732),Recursive Context-Aware Lexical Simplification,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1491,EMNLP2019
+7627,1103),Leveraging Medical Literature for Section Prediction in Electronic Health Records,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1492,EMNLP2019
+7628,1459),Neural News Recommendation with Heterogeneous User Behavior,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1493,EMNLP2019
+7629,1470),Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1494,EMNLP2019
+7630,1551),Event Representation Learning Enhanced with External Commonsense Knowledge,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1495,EMNLP2019
+7631,1572),Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1496,EMNLP2019
+7632,1661),A Neural Citation Count Prediction Model based on Peer Review Text,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1497,EMNLP2019
+7633,2044),Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1498,EMNLP2019
+7634,2052),Semi-supervised Text Style Transfer: Cross Projection in Latent Space,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1499,EMNLP2019
+7635,2129),Question Answering for Privacy Policies: Combining Computational and Legal Perspectives,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1500,EMNLP2019
+7636,2381),Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1501,EMNLP2019
+7637,2389),Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1502,EMNLP2019
+7638,2942),"Learning to Infer Entities, Properties and their Relations from Clinical Conversations","Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1503,EMNLP2019
+7639,3072),Practical Correlated Topic Modeling and Analysis via the Rectified Anchor Word Algorithm,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1504,EMNLP2019
+7640,3128),Modeling the Relationship between User Comments and Edits in Document Revision,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1505,EMNLP2019
+7641,3218),PRADO: Projection Attention Networks for Document Classification On-Device,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1506,EMNLP2019
+7642,3873),Subword Language Model for Query Auto-Completion,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1507,EMNLP2019
+7643,4069),Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-1508,EMNLP2019
+7644,DEMO-39),TEASPN: Framework and Protocol for Integrated Writing Assistance Environments,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3039,EMNLP2019
+7645,DEMO-89),Journalist-in-the-Loop: Continuous Learning as a Service for Rumour Analysis,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3020,EMNLP2019
+7646,DEMO-98),MAssistant: A Personal Knowledge Assistant for MOOC Learners,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3023,EMNLP2019
+7647,DEMO-105),A Stylometry Toolkit for Latin Literature,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3035,EMNLP2019
+7648,DEMO-114),Tanbih: Get To Know What You Are Reading,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3038,EMNLP2019
+7649,DEMO-112),Visualizing Trends of Key Roles in News Articles,"Social Media and Computational Social Science, Text Mining and NLP Applications",,10.18653/v1/D19-3042,EMNLP2019
+7650,3328,Counterfactual Story Reasoning and Generation,Generation,,10.18653/v1/D19-1509,EMNLP2019
+7651,2395,"Encode, Tag, Realize: High-Precision Text Editing",Generation,,10.18653/v1/D19-1510,EMNLP2019
+7652,128,Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation,Generation,,10.18653/v1/D19-1511,EMNLP2019
+7653,1947,"Read, Attend and Comment: A Deep Architecture for Automatic News Comment Generation",Generation,,10.18653/v1/D19-1512,EMNLP2019
+7654,2822,A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features,Generation,,10.18653/v1/D19-1513,EMNLP2019
+7655,3048,LXMERT: Learning Cross-Modality Encoder Representations from Transformers,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1514,EMNLP2019
+7656,3765,Phrase Grounding by Soft-Label Chain Conditional Random Field,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1515,EMNLP2019
+7657,549,What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1516,EMNLP2019
+7658,122,YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1517,EMNLP2019
+7659,167,DEBUG: A Dense Bottom-Up Grounding Approach for Natural Language Video Localization,"Speech, Vision, Robotics, Multimodal and Grounding",,10.18653/v1/D19-1518,EMNLP2019
+7660,2712,CrossWeigh: Training Named Entity Tagger from Imperfect Annotations,Information Extraction,,10.18653/v1/D19-1519,EMNLP2019
+7661,1723,Neural Cross-Lingual Event Detection with Minimal Parallel Resources,Information Extraction,,10.18653/v1/D19-1068,EMNLP2019
+7662,1119,Open Domain Web Keyphrase Extraction Beyond Language Modeling,Information Extraction,,10.18653/v1/D19-1521,EMNLP2019
+7663,990,TuckER: Tensor Factorization for Knowledge Graph Completion,Information Extraction,,10.18653/v1/D19-1522,EMNLP2019
+7664,TACL-1712,Weakly Supervised Domain Detection,Information Extraction,,10.1162/tacl_a_00287,EMNLP2019
+7665,425,Human-grounded Evaluations of Explanation Methods for Text Classification,Information Retrieval and Document Analysis,,10.18653/v1/D19-1523,EMNLP2019
+7666,793,A Context-based Framework for Modeling the Role and Function of On-line Resource Citations in Scientific Literature,Information Retrieval and Document Analysis,,10.18653/v1/D19-1524,EMNLP2019
+7667,28,Adversarial Reprogramming of Text Classification Neural Networks,Information Retrieval and Document Analysis,,10.18653/v1/D19-1525,EMNLP2019
+7668,1676,Document Hashing with Mixture-Prior Generative Models,Information Retrieval and Document Analysis,,10.18653/v1/D19-1526,EMNLP2019
+7669,3421,On Efficient Retrieval of Top Similarity Vectors,Information Retrieval and Document Analysis,,10.18653/v1/D19-1527,EMNLP2019
+7670,623),Multiplex Word Embeddings for Selectional Preference Acquisition,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1528,EMNLP2019
+7671,700),MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1529,EMNLP2019
+7672,1220),It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1530,EMNLP2019
+7673,1741),Examining Gender Bias in Languages with Grammatical Gender,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1531,EMNLP2019
+7674,3071),Weakly Supervised Cross-lingual Semantic Relation Classification via Knowledge Distillation,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1532,EMNLP2019
+7675,3702),Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1533,EMNLP2019
+7676,3972),Do NLP Models Know Numbers? Probing Numeracy in Embeddings,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1534,EMNLP2019
+7677,552),A Split-and-Recombine Approach for Follow-up Query Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1535,EMNLP2019
+7678,1086),Text2Math: End-to-end Parsing Text into Math Expressions,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1536,EMNLP2019
+7679,1287),Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1537,EMNLP2019
+7680,1351),Syntax-aware Multilingual Semantic Role Labeling,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1538,EMNLP2019
+7681,1446),Cloze-driven Pretraining of Self-attention Networks,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1539,EMNLP2019
+7682,1558),Bridging the Gap between Relevance Matching and Semantic Matching for Short Text Similarity Modeling,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1540,EMNLP2019
+7683,1836),A Syntax-aware Multi-task Learning Framework for Chinese Semantic Role Labeling,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1541,EMNLP2019
+7684,2060),Transfer Fine-Tuning: A BERT Case Study,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1542,EMNLP2019
+7685,2231),Data-Anonymous Encoding for Text-to-SQL Generation,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1543,EMNLP2019
+7686,2993),Capturing Argument Interaction in Semantic Role Labeling with Capsule Networks,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1544,EMNLP2019
+7687,3121),Learning Programmatic Idioms for Scalable Semantic Parsing,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1545,EMNLP2019
+7688,3451),JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1546,EMNLP2019
+7689,3527),Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1547,EMNLP2019
+7690,3835),Modeling Graph Structure in Transformer for Better AMR-to-Text Generation,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1548,EMNLP2019
+7691,72),Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1549,EMNLP2019
+7692,281),Learning Explicit and Implicit Structures for Targeted Sentiment Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1550,EMNLP2019
+7693,317),Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1551,EMNLP2019
+7694,402),Emotion Detection with Neural Personal Discrimination,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1552,EMNLP2019
+7695,475),Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1553,EMNLP2019
+7696,891),LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1554,EMNLP2019
+7697,896),Leveraging Structural and Semantic Correspondence for Attribute-Oriented Aspect Sentiment Discovery,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1555,EMNLP2019
+7698,936),From the Token to the Review: A Hierarchical Multimodal approach to Opinion Mining,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1556,EMNLP2019
+7699,1477),Shallow Domain Adaptive Embeddings for Sentiment Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1557,EMNLP2019
+7700,1691),Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1558,EMNLP2019
+7701,1705),A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1559,EMNLP2019
+7702,1713),Human-Like Decision Making: Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1560,EMNLP2019
+7703,1840),A Dataset of General-Purpose Rebuttal,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1561,EMNLP2019
+7704,1992),Rethinking Attribute Representation and Injection for Sentiment Classification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1562,EMNLP2019
+7705,2236),A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1563,EMNLP2019
+7706,2447),Automatic Argument Quality Assessment - New Datasets and Methods,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1564,EMNLP2019
+7707,2493),Fine-Grained Analysis of Propaganda in News Article,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1565,EMNLP2019
+7708,2707),Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1566,EMNLP2019
+7709,3182),Sequential Learning of Convolutional Features for Effective Text Classification,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1567,EMNLP2019
+7710,3909),The Role of Pragmatic and Discourse Context in Determining Argument Impact,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1568,EMNLP2019
+7711,4182),Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree,"Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics",,10.18653/v1/D19-1569,EMNLP2019
+7712,2192,Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization,Machine Translation and Multilinguality,,10.18653/v1/D19-1570,EMNLP2019
+7713,2869,Simple and Effective Noisy Channel Modeling for Neural Machine Translation,Machine Translation and Multilinguality,,10.18653/v1/D19-1571,EMNLP2019
+7714,745,MultiFiT: Efficient Multi-lingual Language Model Fine-tuning,Machine Translation and Multilinguality,,10.18653/v1/D19-1572,EMNLP2019
+7715,1064,Hint-Based Training for Non-Autoregressive Machine Translation,Machine Translation and Multilinguality,,10.18653/v1/D19-1573,EMNLP2019
+7716,3860,Working Hard or Hardly Working: Challenges of Integrating Typology into Neural Dependency Parsers,"Syntax, Parsing, and Linguistic Theories",,10.18653/v1/D19-1574,EMNLP2019
+7717,1832,Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing,"Syntax, Parsing, and Linguistic Theories",,10.18653/v1/D19-1575,EMNLP2019
+7718,3883,Multilingual Grammar Induction with Continuous Language Identification,"Syntax, Parsing, and Linguistic Theories",,10.18653/v1/D19-1576,EMNLP2019
+7719,2637,Quantifying the Semantic Core of Gender Systems,"Syntax, Parsing, and Linguistic Theories",,10.18653/v1/D19-1577,EMNLP2019
+7720,3447,Perturbation Sensitivity Analysis to Detect Unintended Model Biases,Sentiment and Social Media,,10.18653/v1/D19-1578,EMNLP2019
+7721,3519,Automatically Inferring Gender Associations from Language,Sentiment and Social Media,,10.18653/v1/D19-1579,EMNLP2019
+7722,3715,Reporting the Unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes,Sentiment and Social Media,,10.18653/v1/D19-1580,EMNLP2019
+7723,3493,Minimally Supervised Learning of Affective Events Using Discourse Relations,Sentiment and Social Media,,10.18653/v1/D19-1581,EMNLP2019
+7724,835,Event Detection with Multi-Order Graph Convolution and Aggregated Attention,Information Extraction,,10.18653/v1/D19-1582,EMNLP2019
+7725,1285,Coverage of Information Extraction from Sentences and Paragraphs,Information Extraction,,10.18653/v1/D19-1583,EMNLP2019
+7726,2354,HMEAE: Hierarchical Modular Event Argument Extraction,Information Extraction,,10.18653/v1/D19-1584,EMNLP2019
+7727,3930,"Entity, Relation, and Event Extraction with Contextualized Span Representations",Information Extraction,,10.18653/v1/D19-1585,EMNLP2019
+7728,982),Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1586,EMNLP2019
+7729,1701),Split or Merge: Which is Better for Unsupervised RST Parsing?,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1587,EMNLP2019
+7730,3731),BERT for Coreference Resolution: Baselines and Analysis,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1588,EMNLP2019
+7731,3815),Linguistic Versus Latent Relations for Modeling Coherent Flow in Paragraphs,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1589,EMNLP2019
+7732,4125),Event Causality Recognition Exploiting Multiple Annotators’ Judgments and Background Knowledge,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1590,EMNLP2019
+7733,1181),What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Neurons,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1591,EMNLP2019
+7734,1227),Quantity doesn’t buy quality syntax with neural language models,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1592,EMNLP2019
+7735,2000),Higher-order Comparisons of Sentence Encoder Representations,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1593,EMNLP2019
+7736,2379),Text Genre and Training Data Size in Human-like Parsing,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1594,EMNLP2019
+7737,2535),Feature2Vec: Distributional semantic modelling of human property knowledge,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1595,EMNLP2019
+7738,424),Sunny and Dark Outside?! Improving Answer Consistency in VQA through Entailed Question Generation,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1596,EMNLP2019
+7739,961),GeoSQA: A Benchmark for Scenario-based Question Answering in the Geography Domain at High School Level,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1597,EMNLP2019
+7740,1069),Revisiting the Evaluation of Theory of Mind through Question Answering,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1598,EMNLP2019
+7741,1319),Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1599,EMNLP2019
+7742,2131),A Span-Extraction Dataset for Chinese Machine Reading Comprehension,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1600,EMNLP2019
+7743,2177),MICRON: Multigranular Interaction for Contextualizing RepresentatiON in Non-factoid Question Answering,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1601,EMNLP2019
+7744,2229),Machine Reading Comprehension Using Structural Knowledge Graph-aware Network,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1602,EMNLP2019
+7745,2851),Answering Conversational Questions on Structured Data without Logical Forms,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1603,EMNLP2019
+7746,2859),Improving Answer Selection and Answer Triggering using Hard Negatives,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1604,EMNLP2019
+7747,3163),Can You Unpack That? Learning to Rewrite Questions-in-Context,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1605,EMNLP2019
+7748,3203),Quoref: A Reading Comprehension Dataset with Questions Requiring Coreferential Reasoning,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1606,EMNLP2019
+7749,3303),Zero-shot Reading Comprehension by Cross-lingual Transfer Learning with Multi-lingual Language Representation Model,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1607,EMNLP2019
+7750,3355),QuaRTz: An Open-Domain Dataset of Qualitative Relationship Questions,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1608,EMNLP2019
+7751,3470),Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1609,EMNLP2019
+7752,4067),A Gated Self-attention Memory Network for Answer Selection,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1610,EMNLP2019
+7753,91),Polly Want a Cracker: Analyzing Performance of Parroting on Paraphrase Generation Datasets,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1611,EMNLP2019
+7754,482),Query-focused Sentence Compression in Linear Time,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1612,EMNLP2019
+7755,1255),Generating Personalized Recipes from Historical User Preferences,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1613,EMNLP2019
+7756,1644),Generating Highly Relevant Questions,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1614,EMNLP2019
+7757,1674),Improving Neural Story Generation by Targeted Common Sense Grounding,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1615,EMNLP2019
+7758,1963),Abstract Text Summarization: A Low Resource Challenge,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1616,EMNLP2019
+7759,2083),Generating Modern Poetry Automatically in Finnish,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1617,EMNLP2019
+7760,2422),SUM-QE: a BERT-based Summary Quality Estimation Model,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1618,EMNLP2019
+7761,2870),An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1619,EMNLP2019
+7762,3236),Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1620,EMNLP2019
+7763,3950),Learning Rhyming Constraints using Structured Adversaries,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1621,EMNLP2019
+7764,4105),Question-type Driven Question Generation,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1622,EMNLP2019
+7765,4107),Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1623,EMNLP2019
+7766,285),Clause-Wise and Recursive Decoding for Complex and Cross-Domain Text-to-SQL Generation,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1624,EMNLP2019
+7767,1774),Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1625,EMNLP2019
+7768,2244),Aggregating Bidirectional Encoder Representations Using MatchLSTM for Sequence Matching,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1626,EMNLP2019
+7769,2765),What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language De?nition,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,,EMNLP2019
+7770,3058),Pre-Training BERT on Domain Resources for Short Answer Grading,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1628,EMNLP2019
+7771,3276),WIQA: A dataset for “What if…” reasoning over procedural text,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,,EMNLP2019
+7772,3606),Evaluating BERT for natural language inference: A case study on the CommitmentBank,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1630,EMNLP2019
+7773,3974),Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs,"Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation",,10.18653/v1/D19-1631,EMNLP2019
+7774,3349,The FLORES Evaluation Datasets for Low-Resource Machine Translation: NepaliñEnglish and SinhalañEnglish,Machine Translation and Multilinguality,,,EMNLP2019
+7775,1204,Mask-Predict: Parallel Decoding of Conditional Masked Language Models,Machine Translation and Multilinguality,,10.18653/v1/D19-1633,EMNLP2019
+7776,777,Learning to Copy for Automatic Post-Editing,Machine Translation and Multilinguality,,10.18653/v1/D19-1634,EMNLP2019
+7777,1912,Exploring Human Gender Stereotypes with Word Association Test,Lexical Semantics,,10.18653/v1/D19-1635,EMNLP2019
+7778,TACL-1729,Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition,Lexical Semantics,,10.1162/tacl_a_00277,EMNLP2019
+7779,TACL-1648,"Where’s My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution",Lexical Semantics,,,EMNLP2019
+7780,2725,A Modular Architecture for Unsupervised Sarcasm Generation,Generation,,10.18653/v1/D19-1636,EMNLP2019
+7781,2534,Generating Classical Chinese Poems from Vernacular Chinese,Generation,,10.18653/v1/D19-1637,EMNLP2019
+7782,724,Set to Ordered Text: Generating Discharge Instructions from Medical Billing Codes,Generation,,10.18653/v1/D19-1638,EMNLP2019
+7783,451,Constraint-based Learning of Phonological Processes,"Phonology, Word Segmentation, and Parsing",,10.18653/v1/D19-1639,EMNLP2019
+7784,1340,Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation,"Phonology, Word Segmentation, and Parsing",,10.18653/v1/D19-1640,EMNLP2019
+7785,TACL-1582,A Generative Model for Punctuation in Dependency Trees,"Phonology, Word Segmentation, and Parsing",,10.1162/tacl_a_00273,EMNLP2019
+7786,189),An Attentive Fine-Grained Entity Typing Model with Latent Type Representation,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1641,EMNLP2019
+7787,193),An Improved Neural Baseline for Temporal Relation Extraction,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1642,EMNLP2019
+7788,822),Improving Fine-grained Entity Typing with Entity Linking,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1643,EMNLP2019
+7789,1222),Combining Spans into Entities: A Neural Two-Stage Approach for Recognizing Discontiguous Entities,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1644,EMNLP2019
+7790,1686),Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1645,EMNLP2019
+7791,1760),Gazetteer-Enhanced Attentive Neural Networks for Named Entity Recognition,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1646,EMNLP2019
+7792,1782),A Buster Keaton of Linguistics: First Automated Approaches for the Extraction of Vossian Antonomasia,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,,EMNLP2019
+7793,1799),Multi-Task Learning for Chemical Named Entity Recognition with Chemical Compound Paraphrasing,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1648,EMNLP2019
+7794,2697),FewRel 2.0: Towards More Challenging Few-Shot Relation Classification,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1649,EMNLP2019
+7795,2992),ner and pos when nothing is capitalized,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1650,EMNLP2019
+7796,4099),CaRB: A Crowdsourced Benchmark for Open IE,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1651,EMNLP2019
+7797,4158),Weakly Supervised Attention Networks for Entity Recognition,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1652,EMNLP2019
+7798,19),Revealing and Predicting Online Persuasion Strategy with Elementary Units,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1653,EMNLP2019
+7799,849),A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1654,EMNLP2019
+7800,1157),Learning with Noisy Labels for Sentence-level Sentiment Classification,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1655,EMNLP2019
+7801,1347),DENS: A Dataset for Multi-class Emotion Analysis,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1656,EMNLP2019
+7802,3016),Multi-Task Stance Detection with Sentiment and Stance Lexicons,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1657,EMNLP2019
+7803,3085),A Robust Self-Learning Framework for Cross-Lingual Text Classification,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1658,EMNLP2019
+7804,3869),Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1659,EMNLP2019
+7805,80),Label Embedding using Hierarchical Structure of Labels for Twitter Classification,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1660,EMNLP2019
+7806,393),Interpretable Word Embeddings via Informative Priors,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1661,EMNLP2019
+7807,2101),Adversarial Removal of Demographic Attributes Revisited,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1662,EMNLP2019
+7808,2170),A deep-learning framework to detect sarcasm targets,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1663,EMNLP2019
+7809,2759),In Plain Sight: Media Bias Through the Lens of Factual Reporting,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1664,EMNLP2019
+7810,3333),Incorporating Label Dependencies in Multilabel Stance Detection,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1665,EMNLP2019
+7811,3345),Investigating Sports Commentator Bias within a Large Corpus of American Football Broadcasts,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1666,EMNLP2019
+7812,759),Charge-Based Prison Term Prediction with Deep Gating Network,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1667,EMNLP2019
+7813,1020),Restoring ancient text using deep learning: a case study on Greek epigraphy,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1668,EMNLP2019
+7814,1068),Embedding Lexical Features via Tensor Decomposition for Small Sample Humor Recognition,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1669,EMNLP2019
+7815,1192),EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1670,EMNLP2019
+7816,1581),Neural News Recommendation with Multi-Head Self-Attention,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1671,EMNLP2019
+7817,1611),What Matters for Neural Cross-Lingual Named Entity Recognition: An Empirical Analysis,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1672,EMNLP2019
+7818,1737),Telling the Whole Story: A Manually Annotated Chinese Dataset for the Analysis of Humor in Jokes,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1673,EMNLP2019
+7819,1763),Generating Natural Anagrams: Towards Language Generation Under Hard Combinatorial Constraints,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1674,EMNLP2019
+7820,2013),STANCY: Stance Classification Based on Consistency Cues,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1675,EMNLP2019
+7821,2551),Cross-lingual intent classification in a low resource industrial setting,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1676,EMNLP2019
+7822,2839),SoftRegex: Generating Regex from Natural Language Descriptions using Softened Regex Equivalence,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1677,EMNLP2019
+7823,2907),Using Clinical Notes with Time Series Data for ICU Management,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1678,EMNLP2019
+7824,3639),Spelling-Aware Construction of Macaronic Texts for Teaching Foreign-Language Vocabulary,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1679,EMNLP2019
+7825,3718),Towards Machine Reading for Interventions from Humanitarian-Assistance Program Literature,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1680,EMNLP2019
+7826,4014),RUN through the Streets: A New Dataset and Baseline Models for Realistic Urban Navigation,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1681,EMNLP2019
+7827,162),Context-Aware Conversation Thread Detection in Multi-Party Chat,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1682,EMNLP2019
+7828,3115),SciBERT: A Pretrained Language Model for Scientific Text,"Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining",,10.18653/v1/D19-1371,EMNLP2019
