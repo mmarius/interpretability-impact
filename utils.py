@@ -165,7 +165,6 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
 
     # Success! Convert response to dict 
     paper_dict = response.json()
-    print(paper_dict)
 
     paper = SemanticScholarPaper(
         paper_id=paper_id, 
@@ -178,29 +177,40 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
     )
     return paper
 
-def bulk_get_paper_details(paper_ids: list[str]) -> list[SemanticScholarPaper]:
-    # this endpoint has limit 500 papers
-    # afterward we have to implement iteration over the citations
-    url = 'https://api.semanticscholar.org/graph/v1/paper/batch'
-    fields = "title,venue,year,citationCount,influentialCitationCount"
-    response = requests.post(url,
-                             headers={"x-api-key": API_KEY},
-                             params={"fields": fields},
-                             json={"ids": paper_ids})
 
-    papers = []
-    for paper_dict in response.json():
-        paper = SemanticScholarPaper(
-            paper_id=paper_dict['paperId'],
-            title=paper_dict["title"],
-            venue=paper_dict["venue"],
-            year=paper_dict["year"],
-            citation_count=paper_dict["citationCount"],
-            influential_citation_count=paper_dict["influentialCitationCount"],
-        )
-        papers.append(paper)
+def chunk_list(lst, chunk_size):
+    """Yield successive chunk_size chunks from lst."""
+    for i in range(0, len(lst), chunk_size):
+        yield lst[i:i + chunk_size]
 
-    return papers
+def bulk_get_paper_details(paper_ids: list[str], include_embedding=False) -> list[SemanticScholarPaper]:
+    chunk_size = 500  # API limit
+    all_papers = []
+
+    for chunk in chunk_list(paper_ids, chunk_size):
+        url = 'https://api.semanticscholar.org/graph/v1/paper/batch'
+        fields = "title,venue,year,citationCount,influentialCitationCount"
+        if include_embedding:
+            fields += ',embedding'
+
+        response = requests.post(url,
+                                 headers={"x-api-key": API_KEY},
+                                 params={"fields": fields},
+                                 json={"ids": chunk})
+
+        for paper_dict in response.json():
+            paper = SemanticScholarPaper(
+                paper_id=paper_dict['paperId'],
+                title=paper_dict["title"],
+                venue=paper_dict["venue"],
+                year=paper_dict["year"],
+                citation_count=paper_dict["citationCount"],
+                influential_citation_count=paper_dict["influentialCitationCount"],
+                embedding=paper_dict.get('embedding', {}).get('vector')
+            )
+            all_papers.append(paper)
+
+    return all_papers
 
 def get_citation_details(paper_id: str, limit: int = 1000) -> dict:
     # get papers that cite a paper 
