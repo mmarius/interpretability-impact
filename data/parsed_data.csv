@@ -9941,3 +9941,68 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 9720,tacl.1759,Phonotactic Complexity and Its Trade-offs,"Phonology, Morphology and Word Segmentation",False,10.1162/tacl_a_00296,ACL2020
 9721,tacl.1834,Acoustic-Prosodic and Lexical Cues to Deception and Trust: Deciphering How People Detect Lies,Speech and Multimodality,False,10.1162/tacl_a_00311,ACL2020
 9722,tacl.1766,Efficient Contextual Representation Learning With Continuous Outputs,Machine Learning for NLP,False,10.1162/tacl_a_00289,ACL2020
+9723,9765,Attention Flows are Shapley Value Explanations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.8,ACL2021
+9724,9577,Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.568,ACL2021
+9725,10000,More Identifiable yet Equally Performant Transformers for Text Classification,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.94,ACL2021
+9726,9447,Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.91,ACL2021
+9727,10506,What Context Features Can Transformer Language Models Use?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.70,ACL2021
+9728,10307,Prompting Contrastive Explanations for Commonsense Reasoning Tasks,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.366,ACL2021
+9729,9615,How Reliable are Model Diagnostics?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.155,ACL2021
+9730,9612,Could you give me a hint ? Generating inference graphs for defeasible reasoning,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.456,ACL2021
+9731,10200,Learning Faithful Representations of Causal Graphs,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.69,ACL2021
+9732,10312,Putting words into the system's mouth: A targeted attack on neural machine translation using monolingual data poisoning,Interpretability and Analysis of Models for NLP,True,,ACL2021
+9733,9604,On the Interaction of Belief Bias and Explanations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.259,ACL2021
+9734,9681,John praised Mary because _he_? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.429,ACL2021
+9735,10479,Language Model Evaluation Beyond Perplexity,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.414,ACL2021
+9736,9827,Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.144,ACL2021
+9737,10240,Comparing Test Sets with Item Response Theory,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.92,ACL2021
+9738,9535,Examining the Inductive Bias of Neural Language Models with Artificial Languages,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.38,ACL2021
+9739,10527,Is Sparse Attention more Interpretable?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.17,ACL2021
+9740,10189,Reservoir Transformers,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.331,ACL2021
+9741,10049,Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.418,ACL2021
+9742,9433,What if This Modified That? Syntactic Interventions with Counterfactual Embeddings,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.76,ACL2021
+9743,10114,Do Explanations Help Users Detect Errors in Open-Domain QA? An Evaluation of Spoken vs. Visual Explanations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.95,ACL2021
+9744,9851,Do Language Models Perform Generalizable Commonsense Inference?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.322,ACL2021
+9745,10241,How transfer learning impacts linguistic knowledge in deep NLP models?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.438,ACL2021
+9746,9484,On the Lack of Robust Interpretability of Neural Text Classifiers,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.327,ACL2021
+9747,10338,Alignment Rationale for Natural Language Inference,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.417,ACL2021
+9748,9822,Learning to Explain: Generating Stable Explanations Fast,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.415,ACL2021
+9749,9670,Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.37,ACL2021
+9750,9470,When Do You Need Billions of Words of Pretraining Data?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.90,ACL2021
+9751,9394,How does Attention Affect the Model?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.22,ACL2021
+9752,10462,Explaining NLP Models via Minimal Contrastive Editing (MiCE),Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.336,ACL2021
+9753,9732,Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.146,ACL2021
+9754,9914,Defending Pre-trained Language Models from Adversarial Word Substitution Without Performance Sacrifice,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.287,ACL2021
+9755,9571,BERT Busters: Outlier Dimensions that Disrupt Transformers,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.300,ACL2021
+9756,10100,Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.40,ACL2021
+9757,9413,Are Rotten Apples Edible? Challenging Commonsense Inference Ability with Exceptions,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.181,ACL2021
+9758,10276,The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.18,ACL2021
+9759,9978,Attending via both Fine-tuning and Compressing,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.189,ACL2021
+9760,9745,"On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers",Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.363,ACL2021
+9761,10440,Implicit Representations of Meaning in Neural Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.143,ACL2021
+9762,9845,Out of Order: How important is the sequential order of words in a sentence in Natural Language Understanding tasks?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.98,ACL2021
+9763,10061,Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.100,ACL2021
+9764,9748,Bird’s Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.145,ACL2021
+9765,9966,Introducing Orthogonal Constraint in Structural Probes,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.36,ACL2021
+9766,10384,StereoSet: Measuring stereotypical bias in pretrained language models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.416,ACL2021
+9767,9512,Poisoning Knowledge Graph Embeddings via Relation Inference Patterns,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.147,ACL2021
+9768,10313,Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.93,ACL2021
+9769,9904,Language Models Use Monotonicity to Assess NPI Licensing,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.439,ACL2021
+9770,10315,{PROST}: {P}hysical Reasoning about Objects through Space and Time,Interpretability and Analysis of Models for NLP,True,,ACL2021
+9771,9389,Are Larger Pretrained Language Models Uniformly Better? Comparing Performance at the Instance Level,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.334,ACL2021
+9772,9453,How well do you know your summarization datasets?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.303,ACL2021
+9773,9480,On the Interplay Between Fine-tuning and Composition in Transformers,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.201,ACL2021
+9774,9549,Relative Importance in Sentence Processing,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.19,ACL2021
+9775,9514,Effective Attention Sheds Light On Interpretability,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.361,ACL2021
+9776,9820,Can the Transformer Learn Nested Recursion with Symbol Masking?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.67,ACL2021
+9777,10165,Explaining Contextualization in Language Models using Visual Analytics,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.39,ACL2021
+9778,9821,Positional Artefacts Propagate Through Masked Language Model Embeddings,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.413,ACL2021
+9779,9690,Biomedical Interpretable Entity Representations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.311,ACL2021
+9780,10191,Assessing the Syntactic Capabilities of Transformer-based Multilingual Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.333,ACL2021
+9781,10132,Parameter Selection: Why We Should Pay More Attention to It,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.104,ACL2021
+9782,10293,Rationalization through Concepts,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.68,ACL2021
+9783,9758,Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-short.43,ACL2021
+9784,9880,Inspecting the concept knowledge graph encoded by modern language models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.263,ACL2021
+9785,9436,Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.71,ACL2021
+9786,9767,Perceptual Models of Machine-Edited Text,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.findings-acl.342,ACL2021
+9787,10269,"On Sample Based Explanation Methods for NLP: Faithfulness, Efficiency and Semantic Evaluation",Interpretability and Analysis of Models for NLP,True,10.18653/v1/2021.acl-long.419,ACL2021
