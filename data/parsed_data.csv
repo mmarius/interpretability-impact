@@ -9125,3 +9125,819 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 8904,3567,Designing an Automatic Agent for Repeated Language based Persuasion Games,Dialogue and Interactive Systems,False,,ACL2022
 8905,3607,TopiOCQA: Open-domain Conversational Question Answering with Topic Switching,Dialogue and Interactive Systems,False,10.1162/tacl_a_00471,ACL2022
 8906,18410,Novelty Detection: A Perspective from Natural Language Processing,NLP Applications,False,10.1162/coli_a_00429,ACL2022
+8907,main.8,Large Scale Multi-Actor Generative Dialog Modeling,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.8,ACL2020
+8908,main.52,CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.52,ACL2020
+8909,main.46,Emergence of Syntax Needs Minimal Supervision,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.18653/v1/2020.acl-main.46,ACL2020
+8910,main.359,Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.359,ACL2020
+8911,main.417,ParaCrawl: Web-Scale Acquisition of Parallel Corpora,Resources and Evaluation,False,10.18653/v1/2020.acl-main.417,ACL2020
+8912,main.371,From Arguments to Key Points: Towards Automatic Argument Summarization,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.371,ACL2020
+8913,main.365,Analysing Lexical Semantic Change with Contextualised Word Representations,Semantics: Lexical,False,10.18653/v1/2020.acl-main.365,ACL2020
+8914,main.403,Analyzing Political Parody in Social Media,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.403,ACL2020
+8915,main.91,Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases,Question Answering,False,10.18653/v1/2020.acl-main.91,ACL2020
+8916,main.85,Contextualized Sparse Representations for Real-Time Open-Domain Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.85,ACL2020
+8917,main.629,Transition-based Semantic Dependency Parsing with Pointer Networks,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.629,ACL2020
+8918,main.173,On Faithfulness and Factuality in Abstractive Summarization,Summarization,False,10.18653/v1/2020.acl-main.173,ACL2020
+8919,main.615,Generalized Entropy Regularization or: There's Nothing Special about Label Smoothing,Machine Learning for NLP,False,,ACL2020
+8920,main.601,Low-Resource Generation of Multi-hop Reasoning Questions,Question Answering,False,10.18653/v1/2020.acl-main.601,ACL2020
+8921,main.167,GPT-too: A Language-Model-First Approach for AMR-to-Text Generation,Generation,False,10.18653/v1/2020.acl-main.167,ACL2020
+8922,main.198,Stolen Probability: A Structural Weakness of Neural Language Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.198,ACL2020
+8923,main.749,Hierarchical Entity Typing via Multi-level Learning to Rank,Information Extraction,False,10.18653/v1/2020.acl-main.749,ACL2020
+8924,main.761,DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,NLP Applications,False,10.18653/v1/2020.acl-main.761,ACL2020
+8925,main.775,"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches","Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.775,ACL2020
+8926,main.239,Low Resource Sequence Tagging using Sentence Reconstruction,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.239,ACL2020
+8927,main.563,A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.563,ACL2020
+8928,main.205,Efficient Strategies for Hierarchical Text Classification: External Knowledge and Auxiliary Tasks,NLP Applications,False,10.18653/v1/2020.acl-main.205,ACL2020
+8929,main.211,Interactive Machine Comprehension with Information Seeking Agents,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.211,ACL2020
+8930,main.577,Named Entity Recognition as Dependency Parsing,Information Extraction,False,10.18653/v1/2020.acl-main.577,ACL2020
+8931,main.588,Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.588,ACL2020
+8932,main.589,Differentiable Window for Dynamic Local Attention,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.589,ACL2020
+8933,main.210,INFOTABS: Inference on Tables as Semi-structured Data,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.210,ACL2020
+8934,main.576,MIE: A Medical Information Extractor towards Medical Dialogues,Information Extraction,False,10.18653/v1/2020.acl-main.576,ACL2020
+8935,main.562,To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,Theme,False,10.18653/v1/2020.acl-main.562,ACL2020
+8936,main.204,DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference,NLP Applications,False,10.18653/v1/2020.acl-main.204,ACL2020
+8937,main.238,Knowledge Graph Embedding Compression,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.238,ACL2020
+8938,main.774,Uncertain Natural Language Inference,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.774,ACL2020
+8939,main.760,Clinical Concept Linking with Contextualized Neural Representations,NLP Applications,False,10.18653/v1/2020.acl-main.760,ACL2020
+8940,main.748,A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,Information Extraction,False,10.18653/v1/2020.acl-main.748,ACL2020
+8941,main.199,Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.199,ACL2020
+8942,main.600,Harvesting and Refining Question-Answer Pairs for Unsupervised QA,Question Answering,False,10.18653/v1/2020.acl-main.600,ACL2020
+8943,main.166,Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.166,ACL2020
+8944,main.172,Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization,Summarization,False,10.18653/v1/2020.acl-main.172,ACL2020
+8945,main.614,Learning Robust Models for e-Commerce Product Search,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.614,ACL2020
+8946,main.628,Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.628,ACL2020
+8947,main.84,A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,Question Answering,False,10.18653/v1/2020.acl-main.84,ACL2020
+8948,main.90,Learning to Identify Follow-Up Questions in Conversational Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.90,ACL2020
+8949,main.364,Adaptive Compression of Word Embeddings,Semantics: Lexical,False,10.18653/v1/2020.acl-main.364,ACL2020
+8950,main.402,Towards Emotion-aided Multi-modal Dialogue Act Classification,Speech and Multimodality,False,10.18653/v1/2020.acl-main.402,ACL2020
+8951,main.416,Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing,Resources and Evaluation,False,10.18653/v1/2020.acl-main.416,ACL2020
+8952,main.370,Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.370,ACL2020
+8953,main.358,SEEK: Segmented Embedding of Knowledge Graphs,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.358,ACL2020
+8954,main.47,Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.18653/v1/2020.acl-main.47,ACL2020
+8955,main.9,PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.9,ACL2020
+8956,main.53,Efficient Dialogue State Tracking by Selectively Overwriting Memory,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.53,ACL2020
+8957,main.45,Dice Loss for Data-imbalanced NLP Tasks,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.18653/v1/2020.acl-main.45,ACL2020
+8958,main.51,"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.51,ACL2020
+8959,main.428,Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.428,ACL2020
+8960,main.400,Multimodal Transformer for Multimodal Machine Translation,Speech and Multimodality,False,10.18653/v1/2020.acl-main.400,ACL2020
+8961,main.79,Interpreting Twitter User Geolocation,NLP Applications,False,10.18653/v1/2020.acl-main.79,ACL2020
+8962,main.366,Autoencoding Keyword Correlation Graph for Document Clustering,Semantics: Lexical,False,10.18653/v1/2020.acl-main.366,ACL2020
+8963,main.372,GoEmotions: A Dataset of Fine-Grained Emotions,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.372,ACL2020
+8964,main.414,Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.414,ACL2020
+8965,main.399,Target Inference in Argument Conclusion Generation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.399,ACL2020
+8966,main.86,Dynamic Sampling Strategies for Multi-Task Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.86,ACL2020
+8967,main.92,A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers,Resources and Evaluation,False,10.18653/v1/2020.acl-main.92,ACL2020
+8968,main.158,A Systematic Assessment of Syntactic Generalization in Neural Language Models,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.158,ACL2020
+8969,main.164,Automatic Detection of Generated Text is Easiest when Humans are Fooled,Generation,False,10.18653/v1/2020.acl-main.164,ACL2020
+8970,main.602,R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason,Question Answering,False,10.18653/v1/2020.acl-main.602,ACL2020
+8971,main.616,Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.616,ACL2020
+8972,main.170,BPE-Dropout: Simple and Effective Subword Regularization,Machine Translation,False,10.18653/v1/2020.acl-main.170,ACL2020
+8973,main.776,Revisiting Higher-Order Dependency Parsers,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.776,ACL2020
+8974,main.762,Let Me Choose: From Verbal Context to Font Selection,NLP Applications,False,10.18653/v1/2020.acl-main.762,ACL2020
+8975,main.548,Neural Mixed Counting Models for Dispersed Topic Discovery,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.548,ACL2020
+8976,main.574,Handling Rare Entities for Neural Sequence Labeling,Information Extraction,False,10.18653/v1/2020.acl-main.574,ACL2020
+8977,main.212,Syntactic Data Augmentation Increases Robustness to Inference Heuristics,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.212,ACL2020
+8978,main.206,Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,NLP Applications,False,10.18653/v1/2020.acl-main.206,ACL2020
+8979,main.560,The State and Fate of Linguistic Diversity and Inclusion in the NLP World,Theme,False,10.18653/v1/2020.acl-main.560,ACL2020
+8980,main.207,SPECTER: Document-level Representation Learning using Citation-informed Transformers,NLP Applications,False,10.18653/v1/2020.acl-main.207,ACL2020
+8981,main.561,The Unstoppable Rise of Computational Linguistics in Deep Learning,Theme,False,10.18653/v1/2020.acl-main.561,ACL2020
+8982,main.575,Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.575,ACL2020
+8983,main.213,Improved Speech Representations with Multi-Target Autoregressive Predictive Coding,Speech and Multimodality,False,10.18653/v1/2020.acl-main.213,ACL2020
+8984,main.549,Reasoning Over Semantic-Level Graph for Fact Checking,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.549,ACL2020
+8985,main.763,Multi-Label and Multilingual News Framing Analysis,NLP Applications,False,10.18653/v1/2020.acl-main.763,ACL2020
+8986,main.777,SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.777,ACL2020
+8987,main.617,Low-Dimensional Hyperbolic Knowledge Graph Embeddings,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.617,ACL2020
+8988,main.171,Improving Non-autoregressive Neural Machine Translation with Monolingual Data,Machine Translation,False,10.18653/v1/2020.acl-main.171,ACL2020
+8989,main.165,Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,Machine Translation,False,10.18653/v1/2020.acl-main.165,ACL2020
+8990,main.603,Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.603,ACL2020
+8991,main.159,Inflecting When There's No Majority: Limitations of Encoder-Decoder Neural Networks as Cognitive Models for German Plurals,Cognitive Modeling and Psycholinguistics,False,,ACL2020
+8992,main.93,Improving Image Captioning Evaluation by Considering Inter References Variance,Resources and Evaluation,False,10.18653/v1/2020.acl-main.93,ACL2020
+8993,main.87,Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.87,ACL2020
+8994,main.398,TaPas: Weakly Supervised Table Parsing via Pre-training,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.398,ACL2020
+8995,main.373,"He said ""who's gonna take care of your children when you are at ACL?"": Reported Sexist Acts are Not Sexist","Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,ACL2020
+8996,main.415,A Corpus for Large-Scale Phonetic Typology,Resources and Evaluation,False,10.18653/v1/2020.acl-main.415,ACL2020
+8997,main.401,"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",Speech and Multimodality,False,10.18653/v1/2020.acl-main.401,ACL2020
+8998,main.367,Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,Semantics: Lexical,False,10.18653/v1/2020.acl-main.367,ACL2020
+8999,main.78,Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,NLP Applications,False,10.18653/v1/2020.acl-main.78,ACL2020
+9000,main.50,Predicting the Topical Stance and Political Leaning of Media using Tweets,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.50,ACL2020
+9001,main.429,How does BERT's attention change when you fine-tune? An analysis methodology and a case study in negation scope,Interpretability and Analysis of Models for NLP,True,,ACL2020
+9002,main.44,A Three-Parameter Rank-Frequency Relation in Natural Languages,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.18653/v1/2020.acl-main.44,ACL2020
+9003,main.363,An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,Resources and Evaluation,False,10.18653/v1/2020.acl-main.363,ACL2020
+9004,main.405,When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.405,ACL2020
+9005,main.411,DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.411,ACL2020
+9006,main.68,Rigid Formats Controlled Text Generation,Generation,False,10.18653/v1/2020.acl-main.68,ACL2020
+9007,main.377,"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis","Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.377,ACL2020
+9008,main.40,Multiscale Collaborative Deep Models for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.40,ACL2020
+9009,main.439,Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.439,ACL2020
+9010,main.54,End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.54,ACL2020
+9011,main.83,A Frame-based Sentence Representation for Machine Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.83,ACL2020
+9012,main.388,Tchebycheff Procedure for Multi-task Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.388,ACL2020
+9013,main.97,DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.97,ACL2020
+9014,main.607,Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.607,ACL2020
+9015,main.161,Suspense in Short Stories is Predicted By Uncertainty Reduction over Neural Story Representation,Cognitive Modeling and Psycholinguistics,False,,ACL2020
+9016,main.175,Unsupervised Opinion Summarization with Noising and Denoising,Summarization,False,10.18653/v1/2020.acl-main.175,ACL2020
+9017,main.613,Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.613,ACL2020
+9018,main.149,It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information,Machine Translation,False,,ACL2020
+9019,main.773,Towards Robustifying NLI Models Against Lexical Dataset Biases,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.773,ACL2020
+9020,main.767,Smart To-Do: Automatic Generation of To-Do Items from Emails,NLP Applications,False,10.18653/v1/2020.acl-main.767,ACL2020
+9021,main.217,Phone Features Improve Speech Translation,Speech and Multimodality,False,10.18653/v1/2020.acl-main.217,ACL2020
+9022,main.571,Bipartite Flat-Graph Network for Nested Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.571,ACL2020
+9023,main.565,Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.565,ACL2020
+9024,main.203,A Girl Has A Name: Detecting Authorship Obfuscation,NLP Applications,False,10.18653/v1/2020.acl-main.203,ACL2020
+9025,main.559,Language (Re)modelling: Towards Embodied Language Understanding,Theme,False,10.18653/v1/2020.acl-main.559,ACL2020
+9026,main.558,Are we Estimating or Guesstimating Translation Quality?,Theme,False,10.18653/v1/2020.acl-main.558,ACL2020
+9027,main.564,Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.564,ACL2020
+9028,main.202,XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.202,ACL2020
+9029,main.216,Multimodal and Multiresolution Speech Recognition with Transformers,Speech and Multimodality,False,10.18653/v1/2020.acl-main.216,ACL2020
+9030,main.570,"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",Information Extraction,False,10.18653/v1/2020.acl-main.570,ACL2020
+9031,main.766,Should All Cross-Lingual Embeddings Speak English?,NLP Applications,False,10.18653/v1/2020.acl-main.766,ACL2020
+9032,main.772,QuASE: Question-Answer Driven Sentence Encoding,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.772,ACL2020
+9033,main.148,Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,Machine Translation,False,10.18653/v1/2020.acl-main.148,ACL2020
+9034,main.174,Screenplay Summarization Using Latent Narrative Structure,Summarization,False,10.18653/v1/2020.acl-main.174,ACL2020
+9035,main.612,Improving Entity Linking through Semantic Reinforced Entity Embeddings,Information Extraction,False,10.18653/v1/2020.acl-main.612,ACL2020
+9036,main.606,Semantic Parsing for English as a Second Language,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.606,ACL2020
+9037,main.160,Overestimation of Syntactic Representation in Neural Language Models,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.160,ACL2020
+9038,main.96,"Code-Switching Patterns Can Be an Effective Route to Improve Performance of Downstream NLP Applications: A Case Study of Humour, Sarcasm and Hate Speech Detection",Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.96,ACL2020
+9039,main.389,Modeling Word Formation in English–German Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.389,ACL2020
+9040,main.82,Spelling Error Correction with Soft-Masked BERT,NLP Applications,False,10.18653/v1/2020.acl-main.82,ACL2020
+9041,main.55,Evaluating Dialogue Generation Systems via Response Selection,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.55,ACL2020
+9042,main.41,Norm-Based Curriculum Learning for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.41,ACL2020
+9043,main.438,Learning Constraints for Structured Prediction Using Rectifier Networks,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.438,ACL2020
+9044,main.410,Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,Question Answering,False,10.18653/v1/2020.acl-main.410,ACL2020
+9045,main.376,Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.376,ACL2020
+9046,main.69,Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,Generation,False,10.18653/v1/2020.acl-main.69,ACL2020
+9047,main.362,Graph-to-Tree Learning for Solving Math Word Problems,Question Answering,False,10.18653/v1/2020.acl-main.362,ACL2020
+9048,main.404,Masking Actor Information Leads to Fairer Political Claims Detection,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.404,ACL2020
+9049,main.374,SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.374,ACL2020
+9050,main.412,Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,Question Answering,False,10.18653/v1/2020.acl-main.412,ACL2020
+9051,main.406,"“Who said it, and Why?” Provenance for Natural Language Claims",Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.406,ACL2020
+9052,main.360,Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture,Machine Translation,False,10.18653/v1/2020.acl-main.360,ACL2020
+9053,main.57,Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.57,ACL2020
+9054,main.348,Meta-Transfer Learning for Code-Switched Speech Recognition,Speech and Multimodality,False,10.18653/v1/2020.acl-main.348,ACL2020
+9055,main.43,A Formal Hierarchy of RNN Architectures,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.18653/v1/2020.acl-main.43,ACL2020
+9056,main.94,Revisiting the Context Window for Cross-lingual Word Embeddings,Resources and Evaluation,False,10.18653/v1/2020.acl-main.94,ACL2020
+9057,main.80,Modeling Code-Switch Languages Using Bilingual Parallel Corpus,NLP Applications,False,10.18653/v1/2020.acl-main.80,ACL2020
+9058,main.610,A Two-Stage Masked LM Method for Term Set Expansion,Information Extraction,False,10.18653/v1/2020.acl-main.610,ACL2020
+9059,main.176,A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer’s Type,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.176,ACL2020
+9060,main.162,You Don't Have Time to Read This: An Exploration of Document Reading Time Prediction,Cognitive Modeling and Psycholinguistics,False,,ACL2020
+9061,main.604,RikiNet: Reading Wikipedia Pages for Natural Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.604,ACL2020
+9062,main.638,Multi-Domain Dialogue Acts and Response Co-Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.638,ACL2020
+9063,main.189,Active Imitation Learning with Noisy Guidance,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.189,ACL2020
+9064,main.764,Predicting Performance for Natural Language Processing Tasks,NLP Applications,False,10.18653/v1/2020.acl-main.764,ACL2020
+9065,main.770,Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.770,ACL2020
+9066,main.758,A Multi-Perspective Architecture for Semantic Code Search,NLP Applications,False,10.18653/v1/2020.acl-main.758,ACL2020
+9067,main.200,To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.200,ACL2020
+9068,main.566,Learning Efficient Dialogue Policy from Demonstrations through Shaping,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.566,ACL2020
+9069,main.572,Connecting Embeddings for Knowledge Graph Entity Typing,Information Extraction,False,10.18653/v1/2020.acl-main.572,ACL2020
+9070,main.214,Integrating Multimodal Information in Large Pretrained Transformers,Speech and Multimodality,False,10.18653/v1/2020.acl-main.214,ACL2020
+9071,main.228,Simple and Effective Retrieve-Edit-Rerank Text Generation,Generation,False,10.18653/v1/2020.acl-main.228,ACL2020
+9072,main.599,Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.599,ACL2020
+9073,main.598,Unsupervised Morphological Paradigm Completion,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.598,ACL2020
+9074,main.229,BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.229,ACL2020
+9075,main.573,Continual Relation Learning via Episodic Memory Activation and Reconsolidation,Information Extraction,False,10.18653/v1/2020.acl-main.573,ACL2020
+9076,main.215,MultiQT: Multimodal learning for real-time question tracking in speech,Speech and Multimodality,False,10.18653/v1/2020.acl-main.215,ACL2020
+9077,main.201,Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries,Machine Learning for NLP,False,,ACL2020
+9078,main.567,SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.567,ACL2020
+9079,main.759,Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring,NLP Applications,False,10.18653/v1/2020.acl-main.759,ACL2020
+9080,main.771,NILE : Natural Language Inference with Faithful Natural Language Explanations,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.771,ACL2020
+9081,main.765,ScriptWriter: Narrative-Guided Script Generation,NLP Applications,False,10.18653/v1/2020.acl-main.765,ACL2020
+9082,main.188,Calibrating Structured Output Predictors for Natural Language Processing,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.188,ACL2020
+9083,main.639,Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,Generation,False,10.18653/v1/2020.acl-main.639,ACL2020
+9084,main.163,A Generative Model for Joint Natural Language Understanding and Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.163,ACL2020
+9085,main.605,Parsing into Variable-in-situ Logico-Semantic Graphs,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.605,ACL2020
+9086,main.611,FLAT: Chinese NER Using Flat-Lattice Transformer,Information Extraction,False,10.18653/v1/2020.acl-main.611,ACL2020
+9087,main.177,Probing Linguistic Systematicity,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.177,ACL2020
+9088,main.81,SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,NLP Applications,False,10.18653/v1/2020.acl-main.81,ACL2020
+9089,main.95,Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,Semantics: Lexical,False,10.18653/v1/2020.acl-main.95,ACL2020
+9090,main.42,Opportunistic Decoding with Timely Correction for Simultaneous Translation,Machine Translation,False,10.18653/v1/2020.acl-main.42,ACL2020
+9091,main.349,Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,Speech and Multimodality,False,10.18653/v1/2020.acl-main.349,ACL2020
+9092,main.56,Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.56,ACL2020
+9093,main.407,Compositionality and Generalization In Emergent Languages,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.407,ACL2020
+9094,main.361,A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,Question Answering,False,10.18653/v1/2020.acl-main.361,ACL2020
+9095,main.375,Do Neural Language Models Show Preferences for Syntactic Formalisms?,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.375,ACL2020
+9096,main.413,Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.413,ACL2020
+9097,main.31,Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.31,ACL2020
+9098,main.448,Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,Resources and Evaluation,False,10.18653/v1/2020.acl-main.448,ACL2020
+9099,main.25,Reverse Engineering Configurations of Neural Text Generation Models,Generation,False,10.18653/v1/2020.acl-main.25,ACL2020
+9100,main.312,Understanding Attention for Text Classification,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.312,ACL2020
+9101,main.474,Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.474,ACL2020
+9102,main.460,The Summary Loop: Learning to Write Abstractive Summaries Without Examples,Summarization,False,10.18653/v1/2020.acl-main.460,ACL2020
+9103,main.19,Fluent Response Generation for Conversational Question Answering,Generation,False,10.18653/v1/2020.acl-main.19,ACL2020
+9104,main.306,Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.306,ACL2020
+9105,main.138,NAT: Noise-Aware Training for Robust Neural Sequence Labeling,Information Extraction,False,10.18653/v1/2020.acl-main.138,ACL2020
+9106,main.676,Good-Enough Compositional Data Augmentation,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.676,ACL2020
+9107,main.110,Generating Counter Narratives against Online Hate Speech: Data and Strategies,Resources and Evaluation,False,10.18653/v1/2020.acl-main.110,ACL2020
+9108,main.104,Hierarchy-Aware Global Model for Hierarchical Text Classification,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.104,ACL2020
+9109,main.662,What Question Answering can Learn from Trivia Nerds,Theme,False,10.18653/v1/2020.acl-main.662,ACL2020
+9110,main.689,Learning a Multi-Domain Curriculum for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.689,ACL2020
+9111,main.702,Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,Theme,False,10.18653/v1/2020.acl-main.702,ACL2020
+9112,main.716,From English to Code-Switching: Transfer Learning with Strong Morphological Clues,Information Extraction,False,10.18653/v1/2020.acl-main.716,ACL2020
+9113,main.528,Simplify the Usage of Lexicon in Chinese NER,Information Extraction,False,10.18653/v1/2020.acl-main.528,ACL2020
+9114,main.266,A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.266,ACL2020
+9115,main.500,On the Importance of Diversity in Question Generation for QA,Question Answering,False,10.18653/v1/2020.acl-main.500,ACL2020
+9116,main.514,A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.514,ACL2020
+9117,main.272,Zero-shot Text Classification via Reinforced Self-training,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.272,ACL2020
+9118,main.299,A Span-based Linearization for Constituent Trees,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.299,ACL2020
+9119,main.298,Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.298,ACL2020
+9120,main.515,Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.515,ACL2020
+9121,main.273,A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.273,ACL2020
+9122,main.267,Attentive Pooling with Learnable Norms for Text Representation,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.267,ACL2020
+9123,main.501,Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.501,ACL2020
+9124,main.529,AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.529,ACL2020
+9125,main.717,"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts",Information Extraction,False,10.18653/v1/2020.acl-main.717,ACL2020
+9126,main.703,"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",Generation,False,10.18653/v1/2020.acl-main.703,ACL2020
+9127,main.688,"In Neural Machine Translation, What Does Transfer Learning Transfer?",Machine Translation,False,10.18653/v1/2020.acl-main.688,ACL2020
+9128,main.105,Keyphrase Generation for Scientific Document Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.105,ACL2020
+9129,main.663,What are the Goals of Distributional Semantics?,Theme,False,10.18653/v1/2020.acl-main.663,ACL2020
+9130,main.677,RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.677,ACL2020
+9131,main.111,KLEJ: Comprehensive Benchmark for Polish Language Understanding,Resources and Evaluation,False,10.18653/v1/2020.acl-main.111,ACL2020
+9132,main.139,Named Entity Recognition without Labelled Data: A Weak Supervision Approach,Information Extraction,False,10.18653/v1/2020.acl-main.139,ACL2020
+9133,main.461,Unsupervised Opinion Summarization as Copycat-Review Generation,Summarization,False,10.18653/v1/2020.acl-main.461,ACL2020
+9134,main.307,"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.307,ACL2020
+9135,main.18,Few-Shot NLG with Pre-Trained Language Model,Generation,False,10.18653/v1/2020.acl-main.18,ACL2020
+9136,main.313,A Relational Memory-based Embedding Model for Triple Classification and Search Personalization,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.313,ACL2020
+9137,main.475,Text-Based Ideal Points,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.475,ACL2020
+9138,main.24,Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,Generation,False,10.18653/v1/2020.acl-main.24,ACL2020
+9139,main.30,Contextualized Weak Supervision for Text Classification,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.30,ACL2020
+9140,main.449,A Transformer-based Approach for Source Code Summarization,Summarization,False,10.18653/v1/2020.acl-main.449,ACL2020
+9141,main.26,Review-based Question Generation with Adaptive Instance Transfer and Augmentation,Generation,False,10.18653/v1/2020.acl-main.26,ACL2020
+9142,main.339,Don't Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,ACL2020
+9143,main.32,Neural Topic Modeling with Bidirectional Adversarial Training,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.32,ACL2020
+9144,main.305,Dynamic Online Conversation Recommendation,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.305,ACL2020
+9145,main.463,"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",Theme,False,10.18653/v1/2020.acl-main.463,ACL2020
+9146,main.477,Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.477,ACL2020
+9147,main.311,Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.311,ACL2020
+9148,main.488,Towards Debiasing Sentence Representations,Ethics and NLP,False,10.18653/v1/2020.acl-main.488,ACL2020
+9149,main.649,Predicting the Growth of Morphological Families from Social and Linguistic Factors,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.649,ACL2020
+9150,main.661,Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,Theme,False,10.18653/v1/2020.acl-main.661,ACL2020
+9151,main.107,Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,Resources and Evaluation,False,10.18653/v1/2020.acl-main.107,ACL2020
+9152,main.113,Multi-Hypothesis Machine Translation Evaluation,Resources and Evaluation,False,10.18653/v1/2020.acl-main.113,ACL2020
+9153,main.675,Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces,Semantics: Lexical,False,10.18653/v1/2020.acl-main.675,ACL2020
+9154,main.729,Mapping Natural Language Instructions to Mobile UI Action Sequences,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.729,ACL2020
+9155,main.715,Exploiting the Syntax-Model Consistency for Neural Relation Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.715,ACL2020
+9156,main.701,"To Test Machine Comprehension, Start by Defining Comprehension",Theme,False,10.18653/v1/2020.acl-main.701,ACL2020
+9157,main.259,Verbal Multiword Expressions for Identification of Metaphor,Semantics: Lexical,False,10.18653/v1/2020.acl-main.259,ACL2020
+9158,main.271,Single Model Ensemble using Pseudo-Tags and Distinct Vectors,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.271,ACL2020
+9159,main.517,Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.517,ACL2020
+9160,main.503,Selective Question Answering under Domain Shift,Question Answering,False,10.18653/v1/2020.acl-main.503,ACL2020
+9161,main.265,Towards Understanding Gender Bias in Relation Extraction,Ethics and NLP,False,10.18653/v1/2020.acl-main.265,ACL2020
+9162,main.502,SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,Question Answering,False,10.18653/v1/2020.acl-main.502,ACL2020
+9163,main.264,Mitigating Gender Bias Amplification in Distribution by Posterior Regularization,Ethics and NLP,False,10.18653/v1/2020.acl-main.264,ACL2020
+9164,main.270,Improving Transformer Models by Reordering their Sublayers,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.270,ACL2020
+9165,main.516,"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.516,ACL2020
+9166,main.258,Predicting Degrees of Technicality in Automatic Terminology Extraction,Semantics: Lexical,False,10.18653/v1/2020.acl-main.258,ACL2020
+9167,main.700,Returning the N to NLP: Towards Contextually Personalized Classification Models,Theme,False,10.18653/v1/2020.acl-main.700,ACL2020
+9168,main.714,Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,Information Extraction,False,10.18653/v1/2020.acl-main.714,ACL2020
+9169,main.728,History for Visual Dialog: Do we really need it?,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.728,ACL2020
+9170,main.112,Learning and Evaluating Emotion Lexicons for 91 Languages,Resources and Evaluation,False,10.18653/v1/2020.acl-main.112,ACL2020
+9171,main.674,Understanding Advertisements with BERT,NLP Applications,False,10.18653/v1/2020.acl-main.674,ACL2020
+9172,main.660,From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,Theme,False,10.18653/v1/2020.acl-main.660,ACL2020
+9173,main.106,A Graph Auto-encoder Model of Derivational Morphology,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.106,ACL2020
+9174,main.648,2kenize: Tying Subword Sequences for Chinese Script Conversion,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.648,ACL2020
+9175,main.489,A Re-evaluation of Knowledge Graph Completion Methods,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.489,ACL2020
+9176,main.476,Understanding the Language of Political Agreement and Disagreement in Legislative Texts,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.476,ACL2020
+9177,main.310,On the Robustness of Language Encoders against Grammatical Errors,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.310,ACL2020
+9178,main.304,Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.304,ACL2020
+9179,main.462,(Re)construing Meaning in NLP,Theme,False,10.18653/v1/2020.acl-main.462,ACL2020
+9180,main.33,Text Classification with Negative Supervision,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.33,ACL2020
+9181,main.338,Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.338,ACL2020
+9182,main.27,TAG : Type Auxiliary Guiding for Code Comment Generation,Generation,False,10.18653/v1/2020.acl-main.27,ACL2020
+9183,main.466,How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,Theme,False,10.18653/v1/2020.acl-main.466,ACL2020
+9184,main.300,An Empirical Comparison of Unsupervised Constituency Parsing Methods,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.300,ACL2020
+9185,main.314,Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.314,ACL2020
+9186,main.472,Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.472,ACL2020
+9187,main.23,Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,Generation,False,10.18653/v1/2020.acl-main.23,ACL2020
+9188,main.37,Learning Source Phrase Representations for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.37,ACL2020
+9189,main.328,ChartDialogs: Plotting from Natural Language Instructions,Resources and Evaluation,False,10.18653/v1/2020.acl-main.328,ACL2020
+9190,main.499,Logic-Guided Data Augmentation and Regularization for Consistent Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.499,ACL2020
+9191,main.102,Dynamic Memory Induction Networks for Few-Shot Text Classification,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.102,ACL2020
+9192,main.664,Improving Image Captioning with Better Use of Caption,Generation,False,10.18653/v1/2020.acl-main.664,ACL2020
+9193,main.670,SciREX: A Challenge Dataset for Document-Level Information Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.670,ACL2020
+9194,main.116,The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,Resources and Evaluation,False,10.18653/v1/2020.acl-main.116,ACL2020
+9195,main.658,A Call for More Rigor in Unsupervised Cross-lingual Learning,Theme,False,10.18653/v1/2020.acl-main.658,ACL2020
+9196,main.710,One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,Generation,False,10.18653/v1/2020.acl-main.710,ACL2020
+9197,main.704,BLEURT: Learning Robust Metrics for Text Generation,Generation,False,10.18653/v1/2020.acl-main.704,ACL2020
+9198,main.738,Active Learning for Coreference Resolution using Discrete Annotation,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.738,ACL2020
+9199,main.512,Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.512,ACL2020
+9200,main.274,A Relaxed Matching Procedure for Unsupervised BLI,Machine Translation,False,10.18653/v1/2020.acl-main.274,ACL2020
+9201,main.260,Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,Ethics and NLP,False,10.18653/v1/2020.acl-main.260,ACL2020
+9202,main.506,Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,Resources and Evaluation,False,10.18653/v1/2020.acl-main.506,ACL2020
+9203,main.248,Topological Sort for Sentence Ordering,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.248,ACL2020
+9204,main.249,Weight Poisoning Attacks on Pretrained Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.249,ACL2020
+9205,main.261,"Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?",Ethics and NLP,False,10.18653/v1/2020.acl-main.261,ACL2020
+9206,main.507,STARC: Structured Annotations for Reading Comprehension,Resources and Evaluation,False,10.18653/v1/2020.acl-main.507,ACL2020
+9207,main.513,OpinionDigest: A Simple Framework for Opinion Summarization,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.513,ACL2020
+9208,main.275,Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.275,ACL2020
+9209,main.739,Beyond Possession Existence: Duration and Co-Possession,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.739,ACL2020
+9210,main.705,Distilling Knowledge Learned in BERT for Text Generation,Generation,False,10.18653/v1/2020.acl-main.705,ACL2020
+9211,main.711,"R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge",Generation,False,,ACL2020
+9212,main.659,A Tale of a Probe and a Parser,Theme,False,10.18653/v1/2020.acl-main.659,ACL2020
+9213,main.671,Contrastive Self-Supervised Learning for Commonsense Reasoning,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.671,ACL2020
+9214,main.117,The TechQA Dataset,Resources and Evaluation,False,10.18653/v1/2020.acl-main.117,ACL2020
+9215,main.103,Exclusive Hierarchical Decoding for Deep Keyphrase Generation,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.103,ACL2020
+9216,main.665,Shape of Synth to Come: Why We Should Use Synthetic Data for English Surface Realization,Generation,False,10.18653/v1/2020.acl-main.665,ACL2020
+9217,main.498,Crossing Variational Autoencoders for Answer Retrieval,Question Answering,False,10.18653/v1/2020.acl-main.498,ACL2020
+9218,main.329,GLUECoS: An Evaluation Benchmark for Code-Switched NLP,Resources and Evaluation,False,10.18653/v1/2020.acl-main.329,ACL2020
+9219,main.36,Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.36,ACL2020
+9220,main.22,Neural Syntactic Preordering for Controlled Paraphrase Generation,Generation,False,10.18653/v1/2020.acl-main.22,ACL2020
+9221,main.315,Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.315,ACL2020
+9222,main.473,Measuring Forecasting Skill from Text,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.473,ACL2020
+9223,main.467,Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,Theme,False,10.18653/v1/2020.acl-main.467,ACL2020
+9224,main.301,Efficient Constituency Parsing by Pointing,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.301,ACL2020
+9225,main.471,Detecting Perceived Emotions in Hurricane Disasters,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.471,ACL2020
+9226,main.317,SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.317,ACL2020
+9227,main.303,Representations of Syntax [MASK] Useful: Effects of Constituency and Dependency Structure in Recursive LSTMs,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.303,ACL2020
+9228,main.465,How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,Theme,False,10.18653/v1/2020.acl-main.465,ACL2020
+9229,main.34,Content Word Aware Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.34,ACL2020
+9230,main.20,Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,Generation,False,10.18653/v1/2020.acl-main.20,ACL2020
+9231,main.459,Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Summarization,False,10.18653/v1/2020.acl-main.459,ACL2020
+9232,main.115,PuzzLing Machines: A Challenge on Learning From Small Data,Resources and Evaluation,False,10.18653/v1/2020.acl-main.115,ACL2020
+9233,main.673,Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.673,ACL2020
+9234,main.667,A Two-Step Approach for Implicit Event Argument Detection,Information Extraction,False,10.18653/v1/2020.acl-main.667,ACL2020
+9235,main.101,Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,Generation,False,10.18653/v1/2020.acl-main.101,ACL2020
+9236,main.129,Learning Dialog Policies from Weak Demonstrations,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.129,ACL2020
+9237,main.698,"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",Theme,False,10.18653/v1/2020.acl-main.698,ACL2020
+9238,main.707,Iterative Edit-Based Unsupervised Sentence Simplification,Generation,False,10.18653/v1/2020.acl-main.707,ACL2020
+9239,main.713,A Joint Neural Model for Information Extraction with Global Features,Information Extraction,False,10.18653/v1/2020.acl-main.713,ACL2020
+9240,main.505,Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.505,ACL2020
+9241,main.263,It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations,Ethics and NLP,False,10.18653/v1/2020.acl-main.263,ACL2020
+9242,main.277,Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.277,ACL2020
+9243,main.511,Efficient Pairwise Annotation of Argument Quality,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.511,ACL2020
+9244,main.539,LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.539,ACL2020
+9245,main.288,"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction","Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.288,ACL2020
+9246,main.289,Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.289,ACL2020
+9247,main.538,Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.538,ACL2020
+9248,main.276,Geometry-aware domain adaptation for unsupervised alignment of word embeddings,Machine Translation,False,10.18653/v1/2020.acl-main.276,ACL2020
+9249,main.510,Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.510,ACL2020
+9250,main.504,The Cascade Transformer: an Application for Efficient Answer Sentence Selection,Question Answering,False,10.18653/v1/2020.acl-main.504,ACL2020
+9251,main.262,Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds,Ethics and NLP,False,10.18653/v1/2020.acl-main.262,ACL2020
+9252,main.712,Structural Information Preserving for Graph-to-Text Generation,Generation,False,10.18653/v1/2020.acl-main.712,ACL2020
+9253,main.706,ESPRIT: Explaining Solutions to Physical Reasoning Tasks,Generation,False,10.18653/v1/2020.acl-main.706,ACL2020
+9254,main.699,On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology,Theme,False,10.18653/v1/2020.acl-main.699,ACL2020
+9255,main.128,Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.128,ACL2020
+9256,main.666,Toward Better Storylines with Sentence-Level Language Models,Generation,False,10.18653/v1/2020.acl-main.666,ACL2020
+9257,main.100,Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,Generation,False,10.18653/v1/2020.acl-main.100,ACL2020
+9258,main.114,Multimodal Quality Estimation for Machine Translation,Resources and Evaluation,False,10.18653/v1/2020.acl-main.114,ACL2020
+9259,main.672,Do Transformers Need Deep Long-Range Memory?,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.672,ACL2020
+9260,main.21,Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,Generation,False,10.18653/v1/2020.acl-main.21,ACL2020
+9261,main.458,Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,Summarization,False,10.18653/v1/2020.acl-main.458,ACL2020
+9262,main.35,Evaluating Explanation Methods for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.35,ACL2020
+9263,main.302,Efficient Second-Order TreeCRF for Neural Dependency Parsing,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.302,ACL2020
+9264,main.464,Examining Citations of Natural Language Processing Literature,Theme,False,10.18653/v1/2020.acl-main.464,ACL2020
+9265,main.470,Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.470,ACL2020
+9266,main.316,On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.316,ACL2020
+9267,main.10,Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.10,ACL2020
+9268,main.469,What Does BERT with Vision Look At?,Theme,False,10.18653/v1/2020.acl-main.469,ACL2020
+9269,main.333,Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,Resources and Evaluation,False,10.18653/v1/2020.acl-main.333,ACL2020
+9270,main.455,Fact-based Content Weighting for Evaluating Abstractive Summarisation,Summarization,False,10.18653/v1/2020.acl-main.455,ACL2020
+9271,main.441,Adversarial NLI: A New Benchmark for Natural Language Understanding,Resources and Evaluation,False,10.18653/v1/2020.acl-main.441,ACL2020
+9272,main.38,Lipschitz Constrained Parameter Initialization for Deep Transformers,Machine Translation,False,10.18653/v1/2020.acl-main.38,ACL2020
+9273,main.327,Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model,Resources and Evaluation,False,10.18653/v1/2020.acl-main.327,ACL2020
+9274,main.496,Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.496,ACL2020
+9275,main.482,ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.482,ACL2020
+9276,main.119,AMR Parsing via Graph-Sequence Iterative Inference,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.119,ACL2020
+9277,main.657,Premise Selection in Natural Language Mathematical Texts,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.657,ACL2020
+9278,main.131,You Impress Me: Dialogue Generation via Mutual Persona Perception,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.131,ACL2020
+9279,main.125,Self-Attention Guided Copy Mechanism for Abstractive Summarization,Summarization,False,10.18653/v1/2020.acl-main.125,ACL2020
+9280,main.643,Multimodal Neural Graph Memory Networks for Visual Question Answering,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.643,ACL2020
+9281,main.694,Variational Neural Machine Translation with Normalizing Flows,Machine Translation,False,10.18653/v1/2020.acl-main.694,ACL2020
+9282,main.680,Temporally-Informed Analysis of Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.680,ACL2020
+9283,main.723,A Prioritization Model for Suicidality Risk Assessment,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.723,ACL2020
+9284,main.737,Phonetic and Visual Priors for Decipherment of Informal Romanization,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.737,ACL2020
+9285,main.509,Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.509,ACL2020
+9286,main.247,Span Selection Pre-training for Question Answering,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.247,ACL2020
+9287,main.521,IMoJIE: Iterative Memory-Based Joint Open Information Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.521,ACL2020
+9288,main.535,Paraphrase Generation by Learning How to Edit from Samples,NLP Applications,False,10.18653/v1/2020.acl-main.535,ACL2020
+9289,main.253,On The Evaluation of Machine Translation SystemsTrained With Back-Translation,Machine Translation,False,,ACL2020
+9290,main.284,Improving Segmentation for Technical Support Problems,NLP Applications,False,10.18653/v1/2020.acl-main.284,ACL2020
+9291,main.290,Embarrassingly Simple Unsupervised Aspect Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.290,ACL2020
+9292,main.291,Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.291,ACL2020
+9293,main.285,MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs,NLP Applications,False,10.18653/v1/2020.acl-main.285,ACL2020
+9294,main.534,Neural-DINF: A Neural Network based Framework for Measuring Document Influence,NLP Applications,False,10.18653/v1/2020.acl-main.534,ACL2020
+9295,main.252,Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.252,ACL2020
+9296,main.246,Showing Your Work Doesn't Always Work,Machine Learning for NLP,False,,ACL2020
+9297,main.520,An Effective Transition-based Model for Discontinuous NER,Information Extraction,False,10.18653/v1/2020.acl-main.520,ACL2020
+9298,main.508,WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,Resources and Evaluation,False,10.18653/v1/2020.acl-main.508,ACL2020
+9299,main.736,"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging","Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.736,ACL2020
+9300,main.722,Soft Gazetteers for Low-Resource Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.722,ACL2020
+9301,main.681,Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation,Information Extraction,False,10.18653/v1/2020.acl-main.681,ACL2020
+9302,main.695,The Paradigm Discovery Problem,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.695,ACL2020
+9303,main.124,SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization,Summarization,False,10.18653/v1/2020.acl-main.124,ACL2020
+9304,main.642,Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.642,ACL2020
+9305,main.656,Generating Fact Checking Explanations,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.656,ACL2020
+9306,main.130,MuTual: A Dataset for Multi-Turn Dialogue Reasoning,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.130,ACL2020
+9307,main.118,iSarcasm: A Dataset of Intended Sarcasm,Resources and Evaluation,False,10.18653/v1/2020.acl-main.118,ACL2020
+9308,main.483,Contextualizing Hate Speech Classifiers with Post-hoc Explanation,Ethics and NLP,False,10.18653/v1/2020.acl-main.483,ACL2020
+9309,main.497,Benefits of Intermediate Annotations in Reading Comprehension,Question Answering,False,10.18653/v1/2020.acl-main.497,ACL2020
+9310,main.440,A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,Resources and Evaluation,False,10.18653/v1/2020.acl-main.440,ACL2020
+9311,main.326,"On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",Machine Translation,False,10.18653/v1/2020.acl-main.326,ACL2020
+9312,main.39,Location Attention for Extrapolation to Longer Sequences,Machine Translation,False,10.18653/v1/2020.acl-main.39,ACL2020
+9313,main.332,That is a Known Lie: Detecting Previously Fact-Checked Claims,Resources and Evaluation,False,10.18653/v1/2020.acl-main.332,ACL2020
+9314,main.454,FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,Summarization,False,10.18653/v1/2020.acl-main.454,ACL2020
+9315,main.11,Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.11,ACL2020
+9316,main.468,Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,Theme,False,10.18653/v1/2020.acl-main.468,ACL2020
+9317,main.318,A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,Machine Translation,False,10.18653/v1/2020.acl-main.318,ACL2020
+9318,main.13,A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.13,ACL2020
+9319,main.324,Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.324,ACL2020
+9320,main.442,Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,Resources and Evaluation,False,10.18653/v1/2020.acl-main.442,ACL2020
+9321,main.456,Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,Summarization,False,10.18653/v1/2020.acl-main.456,ACL2020
+9322,main.330,"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",Resources and Evaluation,False,10.18653/v1/2020.acl-main.330,ACL2020
+9323,main.481,PeTra: A Sparsely Supervised Memory Model for People Tracking,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.481,ACL2020
+9324,main.495,Obtaining Faithful Interpretations from Compositional Neural Networks,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.495,ACL2020
+9325,main.668,Machine Reading of Historical Events,Information Extraction,False,10.18653/v1/2020.acl-main.668,ACL2020
+9326,main.640,Heterogeneous Graph Transformer for Graph-to-Sequence Learning,Generation,False,10.18653/v1/2020.acl-main.640,ACL2020
+9327,main.126,Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.126,ACL2020
+9328,main.132,Bridging Anaphora Resolution as Question Answering,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.132,ACL2020
+9329,main.654,Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.654,ACL2020
+9330,main.683,Cross-Modality Relevance for Reasoning on Language and Vision,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.683,ACL2020
+9331,main.697,Automated Evaluation of Writing – 50 Years and Counting,Theme,False,10.18653/v1/2020.acl-main.697,ACL2020
+9332,main.708,Logical Natural Language Generation from Open-Domain Tables,Generation,False,10.18653/v1/2020.acl-main.708,ACL2020
+9333,main.734,Improving Chinese Word Segmentation with Wordhood Memory Networks,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.734,ACL2020
+9334,main.720,Sources of Transfer in Multilingual Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.720,ACL2020
+9335,main.278,On the Inference Calibration of Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.278,ACL2020
+9336,main.250,schuBERT: Optimizing Elements of BERT,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.250,ACL2020
+9337,main.536,Emerging Cross-lingual Structure in Pretrained Language Models,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.536,ACL2020
+9338,main.522,Improving Event Detection via Open-domain Trigger Knowledge,Information Extraction,False,10.18653/v1/2020.acl-main.522,ACL2020
+9339,main.244,Pretrained Transformers Improve Out-of-Distribution Robustness,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.244,ACL2020
+9340,main.293,Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.293,ACL2020
+9341,main.287,Analyzing the Persuasive Effect of Style in News Editorial Argumentation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.287,ACL2020
+9342,main.286,Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,NLP Applications,False,10.18653/v1/2020.acl-main.286,ACL2020
+9343,main.292,KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.292,ACL2020
+9344,main.523,Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling,Information Extraction,False,10.18653/v1/2020.acl-main.523,ACL2020
+9345,main.245,Robust Encodings: A Framework for Combating Adversarial Typos,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.245,ACL2020
+9346,main.251,ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.251,ACL2020
+9347,main.537,FastBERT: a Self-distilling BERT with Adaptive Inference Time,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.537,ACL2020
+9348,main.279,Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning,NLP Applications,False,10.18653/v1/2020.acl-main.279,ACL2020
+9349,main.721,ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,Information Extraction,False,10.18653/v1/2020.acl-main.721,ACL2020
+9350,main.735,Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.735,ACL2020
+9351,main.709,Neural CRF Model for Sentence Alignment in Text Simplification,Generation,False,10.18653/v1/2020.acl-main.709,ACL2020
+9352,main.696,Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.696,ACL2020
+9353,main.682,CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.682,ACL2020
+9354,main.133,Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.133,ACL2020
+9355,main.655,Fine-grained Fact Verification with Kernel Graph Attention Network,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.655,ACL2020
+9356,main.641,Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,Generation,False,10.18653/v1/2020.acl-main.641,ACL2020
+9357,main.127,Conversational Word Embedding for Retrieval-Based Dialog System,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.127,ACL2020
+9358,main.669,Revisiting Unsupervised Relation Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.669,ACL2020
+9359,main.494,Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.494,ACL2020
+9360,main.480,Implicit Discourse Relation Classification: We Need to Talk about Evaluation,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.480,ACL2020
+9361,main.457,Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,Summarization,False,10.18653/v1/2020.acl-main.457,ACL2020
+9362,main.331,MIND: A Large-scale Dataset for News Recommendation,Resources and Evaluation,False,10.18653/v1/2020.acl-main.331,ACL2020
+9363,main.325,Lexically Constrained Neural Machine Translation with Levenshtein Transformer,Machine Translation,False,10.18653/v1/2020.acl-main.325,ACL2020
+9364,main.443,Code and Named Entity Recognition in StackOverflow,Resources and Evaluation,False,10.18653/v1/2020.acl-main.443,ACL2020
+9365,main.12,Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.12,ACL2020
+9366,main.319,A Reinforced Generation of Adversarial Examples for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.319,ACL2020
+9367,main.447,S2ORC: The Semantic Scholar Open Research Corpus,Resources and Evaluation,False,10.18653/v1/2020.acl-main.447,ACL2020
+9368,main.321,A Simple and Effective Unified Encoder for Document-Level Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.321,ACL2020
+9369,main.335,Biomedical Entity Representations with Synonym Marginalization,Semantics: Lexical,False,10.18653/v1/2020.acl-main.335,ACL2020
+9370,main.453,Exploring Content Selection in Summarization of Novel Chapters,Summarization,False,10.18653/v1/2020.acl-main.453,ACL2020
+9371,main.16,Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,Generation,False,10.18653/v1/2020.acl-main.16,ACL2020
+9372,main.309,An Analysis of the Utility of Explicit Negative Examples to Improve the Syntactic Abilities of Neural Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.309,ACL2020
+9373,main.484,Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,Ethics and NLP,False,10.18653/v1/2020.acl-main.484,ACL2020
+9374,main.490,Cross-Linguistic Syntactic Evaluation of Word Prediction Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.490,ACL2020
+9375,main.123,Improving Truthfulness of Headline Generation,Summarization,False,10.18653/v1/2020.acl-main.123,ACL2020
+9376,main.645,CamemBERT: a Tasty French Language Model,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.645,ACL2020
+9377,main.651,ClarQ: A large-scale and diverse dataset for Clarification Question Generation,Question Answering,False,10.18653/v1/2020.acl-main.651,ACL2020
+9378,main.137,In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts,Information Extraction,False,10.18653/v1/2020.acl-main.137,ACL2020
+9379,main.679,The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.679,ACL2020
+9380,main.686,HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,Machine Translation,False,10.18653/v1/2020.acl-main.686,ACL2020
+9381,main.692,Unsupervised Domain Clusters in Pretrained Language Models,Machine Translation,False,10.18653/v1/2020.acl-main.692,ACL2020
+9382,main.731,Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.731,ACL2020
+9383,main.725,Empower Entity Set Expansion via Language Model Probing,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.725,ACL2020
+9384,main.719,Rationalizing Medical Relation Prediction from Corpus-level Statistics,Information Extraction,False,10.18653/v1/2020.acl-main.719,ACL2020
+9385,main.533,"Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation",Machine Translation,False,10.18653/v1/2020.acl-main.533,ACL2020
+9386,main.255,Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,Semantics: Lexical,False,10.18653/v1/2020.acl-main.255,ACL2020
+9387,main.241,Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.241,ACL2020
+9388,main.527,Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,Information Extraction,False,10.18653/v1/2020.acl-main.527,ACL2020
+9389,main.269,How Does Selective Mechanism Improve Self-Attention Networks?,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.269,ACL2020
+9390,main.296,SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.296,ACL2020
+9391,main.282,HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,NLP Applications,False,10.18653/v1/2020.acl-main.282,ACL2020
+9392,main.283,Hyperbolic Capsule Networks for Multi-Label Classification,NLP Applications,False,10.18653/v1/2020.acl-main.283,ACL2020
+9393,main.297,Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.297,ACL2020
+9394,main.268,Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.268,ACL2020
+9395,main.240,Masked Language Model Scoring,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.240,ACL2020
+9396,main.526,ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,Information Extraction,False,10.18653/v1/2020.acl-main.526,ACL2020
+9397,main.532,Tagged Back-translation Revisited: Why Does It Really Work?,Machine Translation,False,10.18653/v1/2020.acl-main.532,ACL2020
+9398,main.254,Simultaneous Translation Policies: From Fixed to Adaptive,Machine Translation,False,10.18653/v1/2020.acl-main.254,ACL2020
+9399,main.718,Multi-Sentence Argument Linking,Information Extraction,False,10.18653/v1/2020.acl-main.718,ACL2020
+9400,main.724,CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.724,ACL2020
+9401,main.730,TVQA+: Spatio-Temporal Grounding for Video Question Answering,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.730,ACL2020
+9402,main.693,Using Context in Neural Machine Translation Training Objectives,Machine Translation,False,10.18653/v1/2020.acl-main.693,ACL2020
+9403,main.687,Hard-Coded Gaussian Attention for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.687,ACL2020
+9404,main.678,Temporal Common Sense Acquisition with Minimal Supervision,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.678,ACL2020
+9405,main.650,Semi-supervised Contextual Historical Text Normalization,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.650,ACL2020
+9406,main.136,A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.136,ACL2020
+9407,main.122,Examining the State-of-the-Art in News Timeline Summarization,Summarization,False,10.18653/v1/2020.acl-main.122,ACL2020
+9408,main.644,Refer360°: A Referring Expression Recognition Dataset in 360° Images,"Language Grounding to Vision, Robotics and Beyond",False,,ACL2020
+9409,main.491,Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.491,ACL2020
+9410,main.485,"Language (Technology) is Power: A Critical Survey of ""Bias"" in NLP",Ethics and NLP,False,,ACL2020
+9411,main.308,What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.308,ACL2020
+9412,main.17,Fact-based Text Editing,Generation,False,10.18653/v1/2020.acl-main.17,ACL2020
+9413,main.334,BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,Semantics: Lexical,False,10.18653/v1/2020.acl-main.334,ACL2020
+9414,main.452,Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,Summarization,False,10.18653/v1/2020.acl-main.452,ACL2020
+9415,main.446,More Diverse Dialogue Datasets via Diversity-Informed Data Collection,Resources and Evaluation,False,10.18653/v1/2020.acl-main.446,ACL2020
+9416,main.320,A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.320,ACL2020
+9417,main.450,Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,Summarization,False,10.18653/v1/2020.acl-main.450,ACL2020
+9418,main.29,A Joint Model for Document Segmentation and Segment Labeling,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.29,ACL2020
+9419,main.336,Hypernymy Detection for Low-Resource Languages via Meta Learning,Semantics: Lexical,False,10.18653/v1/2020.acl-main.336,ACL2020
+9420,main.322,Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.322,ACL2020
+9421,main.444,Dialogue-Based Relation Extraction,Resources and Evaluation,False,10.18653/v1/2020.acl-main.444,ACL2020
+9422,main.15,A Study of Non-autoregressive Model for Sequence Generation,Generation,False,10.18653/v1/2020.acl-main.15,ACL2020
+9423,main.478,Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.478,ACL2020
+9424,main.493,Finding Universal Grammatical Relations in Multilingual BERT,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.493,ACL2020
+9425,main.487,Social Biases in NLP Models as Barriers for Persons with Disabilities,Ethics and NLP,False,10.18653/v1/2020.acl-main.487,ACL2020
+9426,main.134,Fast and Accurate Non-Projective Dependency Tree Linearization,Generation,False,10.18653/v1/2020.acl-main.134,ACL2020
+9427,main.652,DoQA - Accessing Domain-Specific FAQs via Conversational QA,Question Answering,False,10.18653/v1/2020.acl-main.652,ACL2020
+9428,main.646,Effective Estimation of Deep Generative Language Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.646,ACL2020
+9429,main.120,A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal,Summarization,False,10.18653/v1/2020.acl-main.120,ACL2020
+9430,main.108,Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis,Resources and Evaluation,False,10.18653/v1/2020.acl-main.108,ACL2020
+9431,main.691,"Translationese as a Language in ""Multilingual"" NMT",Machine Translation,False,,ACL2020
+9432,main.685,Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.685,ACL2020
+9433,main.726,Feature Projection for Improved Text Classification,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.726,ACL2020
+9434,main.732,A Multitask Learning Approach for Diacritic Restoration,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.732,ACL2020
+9435,main.524,Multi-Cell Compositional LSTM for NER Domain Adaptation,Information Extraction,False,10.18653/v1/2020.acl-main.524,ACL2020
+9436,main.242,Posterior Calibrated Training on Sentence Classification Tasks,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.242,ACL2020
+9437,main.256,Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs,Semantics: Lexical,False,10.18653/v1/2020.acl-main.256,ACL2020
+9438,main.530,Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns,Machine Translation,False,10.18653/v1/2020.acl-main.530,ACL2020
+9439,main.518,Video-Grounded Dialogues with Pretrained Generation Language Models,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.518,ACL2020
+9440,main.281,Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,NLP Applications,False,10.18653/v1/2020.acl-main.281,ACL2020
+9441,main.295,Relational Graph Attention Network for Aspect-based Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.295,ACL2020
+9442,main.294,Parallel Data Augmentation for Formality Style Transfer,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.294,ACL2020
+9443,main.280,Distinguish Confusing Law Articles for Legal Judgment Prediction,NLP Applications,False,10.18653/v1/2020.acl-main.280,ACL2020
+9444,main.519,A Unified MRC Framework for Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.519,ACL2020
+9445,main.257,Multidirectional Associative Optimization of Function-Specific Word Representations,Semantics: Lexical,False,10.18653/v1/2020.acl-main.257,ACL2020
+9446,main.531,Improving Neural Machine Translation with Soft Template Prediction,Machine Translation,False,10.18653/v1/2020.acl-main.531,ACL2020
+9447,main.525,Pyramid: A Layered Model for Nested Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.525,ACL2020
+9448,main.243,Posterior Control of Blackbox Generation,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.243,ACL2020
+9449,main.733,Frugal Paradigm Completion,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.733,ACL2020
+9450,main.727,A negative case analysis of visual grounding methods for VQA,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.727,ACL2020
+9451,main.684,Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.684,ACL2020
+9452,main.690,Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,Machine Translation,False,10.18653/v1/2020.acl-main.690,ACL2020
+9453,main.109,Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,Resources and Evaluation,False,10.18653/v1/2020.acl-main.109,ACL2020
+9454,main.647,Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.647,ACL2020
+9455,main.121,"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization",Summarization,False,10.18653/v1/2020.acl-main.121,ACL2020
+9456,main.135,Semantic Graphs for Generating Deep Questions,Generation,False,10.18653/v1/2020.acl-main.135,ACL2020
+9457,main.653,MLQA: Evaluating Cross-lingual Extractive Question Answering,Question Answering,False,10.18653/v1/2020.acl-main.653,ACL2020
+9458,main.486,Social Bias Frames: Reasoning about Social and Power Implications of Language,Ethics and NLP,False,10.18653/v1/2020.acl-main.486,ACL2020
+9459,main.492,Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.492,ACL2020
+9460,main.479,Harnessing the linguistic signal to predict scalar inferences,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.479,ACL2020
+9461,main.14,TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.14,ACL2020
+9462,main.323,Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change,Machine Translation,False,10.18653/v1/2020.acl-main.323,ACL2020
+9463,main.445,Facet-Aware Evaluation for Extractive Summarization,Resources and Evaluation,False,10.18653/v1/2020.acl-main.445,ACL2020
+9464,main.451,Discourse-Aware Neural Extractive Text Summarization,Summarization,False,10.18653/v1/2020.acl-main.451,ACL2020
+9465,main.337,Investigating Word-Class Distributions in Word Vector Spaces,Semantics: Lexical,False,10.18653/v1/2020.acl-main.337,ACL2020
+9466,main.28,Unsupervised Paraphrasing by Simulated Annealing,Generation,False,10.18653/v1/2020.acl-main.28,ACL2020
+9467,main.73,Tree-Structured Neural Topic Model,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.73,ACL2020
+9468,main.67,Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,Generation,False,10.18653/v1/2020.acl-main.67,ACL2020
+9469,main.378,Max-Margin Incremental CCG Parsing,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.378,ACL2020
+9470,main.436,Shaping Visual Representations with Language for Few-Shot Classification,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.436,ACL2020
+9471,main.350,SimulSpeech: End-to-End Simultaneous Speech to Text Translation,Speech and Multimodality,False,10.18653/v1/2020.acl-main.350,ACL2020
+9472,main.344,Curriculum Pre-training for End-to-End Speech Translation,Speech and Multimodality,False,10.18653/v1/2020.acl-main.344,ACL2020
+9473,main.422,Similarity Analysis of Contextual Word Representation Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.422,ACL2020
+9474,main.1,Learning to Understand Child-directed and Adult-directed Speech,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.1,ACL2020
+9475,main.393,Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description,NLP Applications,False,10.18653/v1/2020.acl-main.393,ACL2020
+9476,main.387,Towards Transparent and Explainable Attention Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.387,ACL2020
+9477,main.98,Towards Conversational Recommendation over Multi-Type Dialogs,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.98,ACL2020
+9478,main.608,Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.608,ACL2020
+9479,main.152,Parallel Sentence Mining by Constrained Decoding,Machine Translation,False,10.18653/v1/2020.acl-main.152,ACL2020
+9480,main.634,Diversifying Dialogue Generation with Non-Conversational Text,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.634,ACL2020
+9481,main.620,Uncertainty-Aware Curriculum Learning for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.620,ACL2020
+9482,main.146,End-to-End Neural Word Alignment Outperforms GIZA++,Machine Translation,False,10.18653/v1/2020.acl-main.146,ACL2020
+9483,main.191,GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.191,ACL2020
+9484,main.185,Negative Training for Neural Dialogue Response Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.185,ACL2020
+9485,main.768,Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.768,ACL2020
+9486,main.740,Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.740,ACL2020
+9487,main.754,Balancing Training for Multilingual Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.754,ACL2020
+9488,main.218,Grounding Conversations with Improvised Dialogues,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.218,ACL2020
+9489,main.542,Curriculum Learning for Natural Language Understanding,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.542,ACL2020
+9490,main.224,Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,Generation,False,10.18653/v1/2020.acl-main.224,ACL2020
+9491,main.230,Cross-media Structured Common Space for Multimedia Event Extraction,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.230,ACL2020
+9492,main.556,Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,Summarization,False,10.18653/v1/2020.acl-main.556,ACL2020
+9493,main.581,Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,Information Extraction,False,10.18653/v1/2020.acl-main.581,ACL2020
+9494,main.595,Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.595,ACL2020
+9495,main.594,Bootstrapping Techniques for Polysynthetic Morphological Analysis,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.594,ACL2020
+9496,main.580,Representation Learning for Information Extraction from Form-like Documents,Information Extraction,False,10.18653/v1/2020.acl-main.580,ACL2020
+9497,main.231,Learning to Segment Actions from Observation and Narration,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.231,ACL2020
+9498,main.557,Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.557,ACL2020
+9499,main.543,Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.543,ACL2020
+9500,main.225,Enabling Language Models to Fill in the Blanks,Generation,False,10.18653/v1/2020.acl-main.225,ACL2020
+9501,main.219,Image-Chat: Engaging Grounded Conversations,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.219,ACL2020
+9502,main.755,Evaluating Robustness to Input Perturbations for Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.755,ACL2020
+9503,main.741,Estimating Mutual Information Between Dense Word Embeddings,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.741,ACL2020
+9504,main.769,End-to-End Bias Mitigation by Modelling Biases in Corpora,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.769,ACL2020
+9505,main.184,Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.184,ACL2020
+9506,main.190,ExpBERT: Representation Engineering with Natural Language Explanations,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.190,ACL2020
+9507,main.621,Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain,NLP Applications,False,10.18653/v1/2020.acl-main.621,ACL2020
+9508,main.147,Enhancing Machine Translation with Dependency-Aware Self-Attention,Machine Translation,False,10.18653/v1/2020.acl-main.147,ACL2020
+9509,main.153,Self-Attention with Cross-Lingual Position Representation,Machine Translation,False,10.18653/v1/2020.acl-main.153,ACL2020
+9510,main.635,KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.635,ACL2020
+9511,main.609,DRTS Parsing with Structure-Aware Encoding and Decoding,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.609,ACL2020
+9512,main.99,Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.99,ACL2020
+9513,main.386,Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.386,ACL2020
+9514,main.392,Graph Neural News Recommendation with Unsupervised Preference Disentanglement,NLP Applications,False,10.18653/v1/2020.acl-main.392,ACL2020
+9515,main.345,How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,Speech and Multimodality,False,10.18653/v1/2020.acl-main.345,ACL2020
+9516,main.423,SenseBERT: Driving Some Sense into BERT,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.423,ACL2020
+9517,main.437,Discrete Latent Variable Representations for Low-Resource Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.437,ACL2020
+9518,main.351,Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations,Speech and Multimodality,False,10.18653/v1/2020.acl-main.351,ACL2020
+9519,main.379,Neural Reranking for Dependency Parsing: An Evaluation,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.379,ACL2020
+9520,main.66,Improved Natural Language Generation via Loss Truncation,Generation,False,10.18653/v1/2020.acl-main.66,ACL2020
+9521,main.72,Interactive Construction of User-Centric Dictionary for Text Analytics,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.72,ACL2020
+9522,main.64,USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.64,ACL2020
+9523,main.70,An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.70,ACL2020
+9524,main.409,Learning to Faithfully Rationalize by Construction,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.409,ACL2020
+9525,main.421,On the Cross-lingual Transferability of Monolingual Representations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.421,ACL2020
+9526,main.2,Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.2,ACL2020
+9527,main.58,Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.58,ACL2020
+9528,main.347,Learning Spoken Language Representations with Neural Lattice Language Modeling,Speech and Multimodality,False,10.18653/v1/2020.acl-main.347,ACL2020
+9529,main.353,"It Takes Two to Lie: One to Lie, and One to Listen",Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.353,ACL2020
+9530,main.435,Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.435,ACL2020
+9531,main.384,Probing for Referential Information in Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.384,ACL2020
+9532,main.390,Empowering Active Learning to Jointly Optimize System and User Demands,NLP Applications,False,10.18653/v1/2020.acl-main.390,ACL2020
+9533,main.179,Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.179,ACL2020
+9534,main.145,Character-Level Translation with Self-attention,Machine Translation,False,10.18653/v1/2020.acl-main.145,ACL2020
+9535,main.623,Estimating predictive uncertainty for rumour verification models,NLP Applications,False,10.18653/v1/2020.acl-main.623,ACL2020
+9536,main.637,Modeling Long Context for Task-Oriented Dialogue State Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.637,ACL2020
+9537,main.151,On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,Machine Translation,False,10.18653/v1/2020.acl-main.151,ACL2020
+9538,main.186,Recursive Template-based Frame Generation for Task Oriented Dialog,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.186,ACL2020
+9539,main.192,Generalizing Natural Language Analysis through Span-relation Representations,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.192,ACL2020
+9540,main.757,Regularized Context Gates on Transformer for Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.757,ACL2020
+9541,main.743,Predicting the Focus of Negation: Model and Error Analysis,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.743,ACL2020
+9542,main.569,A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,Discourse and Pragmatics,False,10.18653/v1/2020.acl-main.569,ACL2020
+9543,main.555,Leveraging Graph to Improve Abstractive Multi-Document Summarization,Summarization,False,10.18653/v1/2020.acl-main.555,ACL2020
+9544,main.233,MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.233,ACL2020
+9545,main.227,Improving Adversarial Text Generation by Modeling the Distant Future,Generation,False,10.18653/v1/2020.acl-main.227,ACL2020
+9546,main.541,Benchmarking Multimodal Regex Synthesis with Complex Structures,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.541,ACL2020
+9547,main.596,Modeling Morphological Typology for Unsupervised Learning of Language Morphology,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.596,ACL2020
+9548,main.582,Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.582,ACL2020
+9549,main.583,Cross-modal Coherence Modeling for Caption Generation,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.583,ACL2020
+9550,main.597,Predicting Declension Class from Form and Meaning,"Phonology, Morphology and Word Segmentation",False,10.18653/v1/2020.acl-main.597,ACL2020
+9551,main.226,INSET: Sentence Infilling with INter-SEntential Transformer,Generation,False,10.18653/v1/2020.acl-main.226,ACL2020
+9552,main.540,Word-level Textual Adversarial Attacking as Combinatorial Optimization,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.540,ACL2020
+9553,main.554,Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,Summarization,False,10.18653/v1/2020.acl-main.554,ACL2020
+9554,main.232,Learning to execute instructions in a Minecraft dialogue,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.232,ACL2020
+9555,main.568,Speaker Sensitive Response Evaluation Model,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.568,ACL2020
+9556,main.742,Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.742,ACL2020
+9557,main.756,Parallel Corpus Filtering via Pre-trained Language Models,Machine Translation,False,10.18653/v1/2020.acl-main.756,ACL2020
+9558,main.193,Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.193,ACL2020
+9559,main.187,Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.187,ACL2020
+9560,main.636,Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.636,ACL2020
+9561,main.150,Language-aware Interlingua for Multilingual Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.150,ACL2020
+9562,main.144,Boosting Neural Machine Translation with Similar Translations,Machine Translation,False,,ACL2020
+9563,main.622,CorefQA: Coreference Resolution as Query-based Span Prediction,NLP Applications,False,10.18653/v1/2020.acl-main.622,ACL2020
+9564,main.178,Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.178,ACL2020
+9565,main.391,Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction,NLP Applications,False,10.18653/v1/2020.acl-main.391,ACL2020
+9566,main.385,Quantifying Attention Flow in Transformers,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.385,ACL2020
+9567,main.352,Neural Temporal Opinion Modelling for Opinion Prediction on Twitter,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.352,ACL2020
+9568,main.434,Spying on Your Neighbors: Fine-grained Probing of Contextual Embeddings for Information about Surrounding Words,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.434,ACL2020
+9569,main.3,Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.3,ACL2020
+9570,main.420,Information-Theoretic Probing for Linguistic Structure,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.420,ACL2020
+9571,main.346,Improving Disfluency Detection by Self-Training a Self-Attentive Model,Speech and Multimodality,False,10.18653/v1/2020.acl-main.346,ACL2020
+9572,main.59,Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.59,ACL2020
+9573,main.71,Generative Semantic Hashing Enhanced via Boltzmann Machines,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.71,ACL2020
+9574,main.408,ERASER: A Benchmark to Evaluate Rationalized NLP Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.408,ACL2020
+9575,main.65,Explicit Semantic Decomposition for Definition Generation,Generation,False,10.18653/v1/2020.acl-main.65,ACL2020
+9576,main.342,Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.342,ACL2020
+9577,main.424,ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,Resources and Evaluation,False,10.18653/v1/2020.acl-main.424,ACL2020
+9578,main.7,Guiding Variational Response Generator to Exploit Persona,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.7,ACL2020
+9579,main.430,Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.430,ACL2020
+9580,main.49,Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.49,ACL2020
+9581,main.356,Bayesian Hierarchical Words Representation Learning,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.356,ACL2020
+9582,main.61,Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.61,ACL2020
+9583,main.418,Toward Gender-Inclusive Coreference Resolution,Ethics and NLP,False,10.18653/v1/2020.acl-main.418,ACL2020
+9584,main.75,"""The Boating Store Had Its Best Sail Ever"": Pronunciation-attentive Contextualized Pun Recognition",NLP Applications,False,,ACL2020
+9585,main.381,Analyzing analytical methods: The case of phonology in neural models of spoken language,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.381,ACL2020
+9586,main.395,Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,NLP Applications,False,10.18653/v1/2020.acl-main.395,ACL2020
+9587,main.626,Controlled Crowdsourcing for High-Quality QA-SRL Annotation,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.626,ACL2020
+9588,main.140,Probing Linguistic Features of Sentence-Level Representations in Relation Extraction,Information Extraction,False,,ACL2020
+9589,main.154,``You Sound Just Like Your Father'' Commercial Machine Translation Systems Include Stylistic Biases,Machine Translation,False,,ACL2020
+9590,main.632,Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.632,ACL2020
+9591,main.168,Learning to Update Natural Language Comments Based on Code Changes,Generation,False,10.18653/v1/2020.acl-main.168,ACL2020
+9592,main.183,Can You Put it All Together: Evaluating Conversational Agents' Ability to Blend Skills,Dialogue and Interactive Systems,False,,ACL2020
+9593,main.197,SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.197,ACL2020
+9594,main.752,TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition,Information Extraction,False,10.18653/v1/2020.acl-main.752,ACL2020
+9595,main.746,Universal Decompositional Semantic Parsing,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.746,ACL2020
+9596,main.236,Contextual Embeddings: When Are They Worth It?,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.236,ACL2020
+9597,main.550,Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,Summarization,False,10.18653/v1/2020.acl-main.550,ACL2020
+9598,main.544,Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.544,ACL2020
+9599,main.222,The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.222,ACL2020
+9600,main.578,Neighborhood Matching Network for Entity Alignment,Information Extraction,False,10.18653/v1/2020.acl-main.578,ACL2020
+9601,main.593,The Right Tool for the Job: Matching Model and Instance Complexities,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.593,ACL2020
+9602,main.587,A Mixture of h - 1 Heads is Better than h Heads,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.587,ACL2020
+9603,main.586,"Words Aren't Enough, Their Order Matters: On the Robustness of Grounding Visual Referring Expressions","Language Grounding to Vision, Robotics and Beyond",False,,ACL2020
+9604,main.592,Learning Architectures from an Extended Search Space for Language Modeling,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.592,ACL2020
+9605,main.579,Relation Extraction with Explanation,Information Extraction,False,10.18653/v1/2020.acl-main.579,ACL2020
+9606,main.545,How to Ask Good Questions? Try to Leverage Paraphrases,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.545,ACL2020
+9607,main.223,Automatic Poetry Generation from Prosaic Text,Generation,False,10.18653/v1/2020.acl-main.223,ACL2020
+9608,main.237,Interactive Classification by Asking Informative Questions,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.237,ACL2020
+9609,main.551,Composing Elementary Discourse Units in Abstractive Summarization,Summarization,False,10.18653/v1/2020.acl-main.551,ACL2020
+9610,main.747,Unsupervised Cross-lingual Representation Learning at Scale,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.747,ACL2020
+9611,main.753,Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,Machine Translation,False,10.18653/v1/2020.acl-main.753,ACL2020
+9612,main.196,On Importance Sampling-Based Evaluation of Latent Language Models,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.196,ACL2020
+9613,main.182,"""None of the Above"": Measure Uncertainty in Dialog Response Retrieval",Dialogue and Interactive Systems,False,,ACL2020
+9614,main.169,Politeness Transfer: A Tag and Generate Approach,Generation,False,10.18653/v1/2020.acl-main.169,ACL2020
+9615,main.155,MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,NLP Applications,False,10.18653/v1/2020.acl-main.155,ACL2020
+9616,main.633,Out of the Echo Chamber: Detecting Countering Debate Speeches,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.633,ACL2020
+9617,main.627,Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.627,ACL2020
+9618,main.141,Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,Information Extraction,False,10.18653/v1/2020.acl-main.141,ACL2020
+9619,main.394,Joint Modelling of Emotion and Abusive Language Detection,NLP Applications,False,10.18653/v1/2020.acl-main.394,ACL2020
+9620,main.380,Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,Ethics and NLP,False,10.18653/v1/2020.acl-main.380,ACL2020
+9621,main.74,Unsupervised FAQ Retrieval with Question Generation and BERT,Information Retrieval and Text Mining,False,10.18653/v1/2020.acl-main.74,ACL2020
+9622,main.60,Paraphrase Augmented Task-Oriented Dialog Generation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.60,ACL2020
+9623,main.419,Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.419,ACL2020
+9624,main.431,Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.431,ACL2020
+9625,main.357,Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.357,ACL2020
+9626,main.48,GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,Computational Social Science and Social Media,False,10.18653/v1/2020.acl-main.48,ACL2020
+9627,main.343,CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,Speech and Multimodality,False,10.18653/v1/2020.acl-main.343,ACL2020
+9628,main.6,Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.6,ACL2020
+9629,main.425,"Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts",Resources and Evaluation,False,10.18653/v1/2020.acl-main.425,ACL2020
+9630,main.355,"Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data",Generation,False,10.18653/v1/2020.acl-main.355,ACL2020
+9631,main.433,On the Spontaneous Emergence of Discrete and Compositional Signals,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.433,ACL2020
+9632,main.427,CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.427,ACL2020
+9633,main.4,Designing Precise and Robust Dialogue Response Evaluators,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.4,ACL2020
+9634,main.341,SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.341,ACL2020
+9635,main.76,Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,NLP Applications,False,10.18653/v1/2020.acl-main.76,ACL2020
+9636,main.369,CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,Semantics: Lexical,False,10.18653/v1/2020.acl-main.369,ACL2020
+9637,main.62,Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.62,ACL2020
+9638,main.396,Toxicity Detection: Does Context Really Matter?,NLP Applications,False,10.18653/v1/2020.acl-main.396,ACL2020
+9639,main.89,Injecting Numerical Reasoning Skills into Language Models,Question Answering,False,10.18653/v1/2020.acl-main.89,ACL2020
+9640,main.382,Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.382,ACL2020
+9641,main.631,Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.631,ACL2020
+9642,main.157,Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter,Resources and Evaluation,False,,ACL2020
+9643,main.143,Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,Machine Translation,False,10.18653/v1/2020.acl-main.143,ACL2020
+9644,main.625,Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,NLP Applications,False,10.18653/v1/2020.acl-main.625,ACL2020
+9645,main.619,Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,Machine Translation,False,10.18653/v1/2020.acl-main.619,ACL2020
+9646,main.194,MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.194,ACL2020
+9647,main.180,Speakers enhance contextually confusable words,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.180,ACL2020
+9648,main.745,TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.745,ACL2020
+9649,main.751,TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,Information Extraction,False,10.18653/v1/2020.acl-main.751,ACL2020
+9650,main.221,Neural Generation of Dialogue Response Timings,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.221,ACL2020
+9651,main.547,Neural Graph Matching Networks for Chinese Short Text Matching,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.547,ACL2020
+9652,main.553,Heterogeneous Graph Neural Networks for Extractive Document Summarization,Summarization,False,10.18653/v1/2020.acl-main.553,ACL2020
+9653,main.235,A Batch Normalized Inference Network Keeps the KL Vanishing Away,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.235,ACL2020
+9654,main.209,Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.209,ACL2020
+9655,main.584,Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.584,ACL2020
+9656,main.590,Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.590,ACL2020
+9657,main.591,Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.591,ACL2020
+9658,main.585,Span-based Localizing Network for Natural Language Video Localization,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.585,ACL2020
+9659,main.208,Semantic Scaffolds for Pseudocode-to-Code Generation,NLP Applications,False,10.18653/v1/2020.acl-main.208,ACL2020
+9660,main.552,Extractive Summarization as Text Matching,Summarization,False,10.18653/v1/2020.acl-main.552,ACL2020
+9661,main.234,What is Learned in Visually Grounded Neural Syntax Acquisition,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2020.acl-main.234,ACL2020
+9662,main.220,Learning an Unreferenced Metric for Online Dialogue Evaluation,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.220,ACL2020
+9663,main.546,NeuInfer: Knowledge Inference on N-ary Facts,Semantics: Textual Inference and Other Areas of Semantics,False,10.18653/v1/2020.acl-main.546,ACL2020
+9664,main.778,Treebank Embedding Vectors for Out-of-domain Dependency Parsing,"Syntax: Tagging, Chunking and Parsing",False,10.18653/v1/2020.acl-main.778,ACL2020
+9665,main.750,Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,Information Extraction,False,10.18653/v1/2020.acl-main.750,ACL2020
+9666,main.744,Structured Tuning for Semantic Role Labeling,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.744,ACL2020
+9667,main.181,What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,Cognitive Modeling and Psycholinguistics,False,10.18653/v1/2020.acl-main.181,ACL2020
+9668,main.195,MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,Machine Learning for NLP,False,10.18653/v1/2020.acl-main.195,ACL2020
+9669,main.618,Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction,Machine Translation,False,10.18653/v1/2020.acl-main.618,ACL2020
+9670,main.142,TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,Information Extraction,False,10.18653/v1/2020.acl-main.142,ACL2020
+9671,main.624,From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,NLP Applications,False,10.18653/v1/2020.acl-main.624,ACL2020
+9672,main.630,tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.630,ACL2020
+9673,main.156,A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,Resources and Evaluation,False,10.18653/v1/2020.acl-main.156,ACL2020
+9674,main.383,Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.383,ACL2020
+9675,main.88,Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,Question Answering,False,10.18653/v1/2020.acl-main.88,ACL2020
+9676,main.397,AMR Parsing with Latent Structural Information,Semantics: Sentence Level,False,10.18653/v1/2020.acl-main.397,ACL2020
+9677,main.63,Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.63,ACL2020
+9678,main.368,BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,Semantics: Lexical,False,10.18653/v1/2020.acl-main.368,ACL2020
+9679,main.77,Fine-grained Interest Matching for Neural News Recommendation,NLP Applications,False,10.18653/v1/2020.acl-main.77,ACL2020
+9680,main.5,Dialogue State Tracking with Explicit Slot Connection Modeling,Dialogue and Interactive Systems,False,10.18653/v1/2020.acl-main.5,ACL2020
+9681,main.426,Modeling Label Semantics for Predicting Emotional Reactions,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.426,ACL2020
+9682,main.340,Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2020.acl-main.340,ACL2020
+9683,main.354,Learning Implicit Text Generation via Feature Matching,Generation,False,10.18653/v1/2020.acl-main.354,ACL2020
+9684,main.432,Learning to Deceive with Attention-Based Explanations,Interpretability and Analysis of Models for NLP,True,10.18653/v1/2020.acl-main.432,ACL2020
+9685,cl.1508,"The Design and Implementation of XiaoIce, an Empathetic Social Chatbot",Dialogue and Interactive Systems,False,10.1162/coli_a_00368,ACL2020
+9686,cl.1482,On the Linguistic Representational Power of Neural Machine Translation Models,Machine Translation,False,10.1162/coli_a_00367,ACL2020
+9687,cl.1552,A Systematic Study of Inner-Attention-Based Sentence Representations in Multilingual Neural Machine Translation,Machine Translation,False,10.1162/coli_a_00377,ACL2020
+9688,cl.1547,LINSPECTOR: Multilingual Probing Tasks for Word Representations,Resources and Evaluation,False,10.1162/coli_a_00376,ACL2020
+9689,cl.1550,Unsupervised Word Translation with Adversarial Autoencoder,Machine Translation,False,10.1162/coli_a_00374,ACL2020
+9690,cl.1554,Abstract Syntax as Interlingua: Scaling Up the Grammatical Framework from Controlled Languages to Robust Pipelines,"Syntax: Tagging, Chunking and Parsing",False,10.1162/coli_a_00378,ACL2020
+9691,cl.1543,LESSLEX: Linking Multilingual Embeddings to SenSe Representations of Lexical Items,Semantics: Lexical,False,10.1162/coli_a_00375,ACL2020
+9692,tacl.1779,Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00299,ACL2020
+9693,tacl.1815,Theoretical Limitations of Self-Attention in Neural Sequence Models,Theory and Formalism in NLP (Linguistic and Mathematical),False,10.1162/tacl_a_00306,ACL2020
+9694,tacl.1801,Deep Contextualized Self-training for Low Resource Dependency Parsing ,"Syntax: Tagging, Chunking and Parsing",False,,ACL2020
+9695,tacl.1780,Inherent Disagreements in Human Textual Inferences,Semantics: Textual Inference and Other Areas of Semantics,False,10.1162/tacl_a_00293,ACL2020
+9696,tacl.1743,Machine Learning-Driven Language Assessment,NLP Applications,False,,ACL2020
+9697,tacl.1756,Paraphrase-Sense-Tagged Sentences,Resources and Evaluation,False,10.1162/tacl_a_00295,ACL2020
+9698,tacl.1805,AMR-To-Text Generation with Graph Transformer,Semantics: Sentence Level,False,10.1162/tacl_a_00297,ACL2020
+9699,tacl.1811,Unsupervised Discourse Constituency Parsing Using Viterbi EM,Discourse and Pragmatics,False,10.1162/tacl_a_00312,ACL2020
+9700,tacl.1967,Syntax-guided Controlled Generation of Paraphrases,Generation,False,10.1162/tacl_a_00318,ACL2020
+9701,tacl.1849,Leveraging Pre-trained Checkpoints for Sequence Generation Tasks,Generation,False,10.1162/tacl_a_00313,ACL2020
+9702,tacl.1929,TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages,Question Answering,False,10.1162/tacl_a_00317,ACL2020
+9703,tacl.1915,How Furiously Can Colourless Green Ideas Sleep? Sentence Acceptability in Context,Cognitive Modeling and Psycholinguistics,False,,ACL2020
+9704,tacl.1901,CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset,Dialogue and Interactive Systems,False,10.1162/tacl_a_00314,ACL2020
+9705,tacl.1727,Perturbation Based Learning for Structured NLP tasks with Application to Dependency Parsing ,Machine Learning for NLP,False,,ACL2020
+9706,tacl.1876,A Graph-based Model for Joint Chinese Word Segmentation and Dependency Parsing,"Syntax: Tagging, Chunking and Parsing",False,10.1162/tacl_a_00301,ACL2020
+9707,tacl.1903,Learning Lexical Subspaces in a Distributional Vector Space,Semantics: Lexical,False,10.1162/tacl_a_00316,ACL2020
+9708,tacl.1720,"Decomposing Generalization: Models of Generic, Habitual and Episodic Statements",Semantics: Textual Inference and Other Areas of Semantics,False,,ACL2020
+9709,tacl.1709,Tabula nearly Rasa: Probing the linguistic knowledge of character-level neural language models trained on unsegmented text,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00283,ACL2020
+9710,tacl.1912,Decoding Brain Activity Associated with Literal and Metaphoric Sentence Comprehension using Distributional Semantic Models,Semantics: Sentence Level,False,10.1162/tacl_a_00307,ACL2020
+9711,tacl.1906,Improving Candidate Generation for Low-resource Cross-lingual Entity Linking,Information Extraction,False,10.1162/tacl_a_00303,ACL2020
+9712,tacl.2001,Better Document-level Machine Translation with Bayes' Rule,Machine Translation,False,,ACL2020
+9713,tacl.1882,Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension,Question Answering,False,10.1162/tacl_a_00305,ACL2020
+9714,tacl.1843,Target-Guided Structured Attention Network for Target-dependent Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.1162/tacl_a_00308,ACL2020
+9715,tacl.1852,What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00298,ACL2020
+9716,tacl.1853,SpanBERT: Improving Pre-training by Representing and Predicting Spans,Machine Learning for NLP,False,10.1162/tacl_a_00300,ACL2020
+9717,tacl.1845,Break It Down: A Question Understanding Benchmark,Question Answering,False,10.1162/tacl_a_00309,ACL2020
+9718,tacl.1886,A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation,Generation,False,10.1162/tacl_a_00302,ACL2020
+9719,tacl.1892,Does Syntax Need to Grow on Trees? Sources of Hierarchical Inductive Bias in Sequence-to-Sequence Networks,Interpretability and Analysis of Models for NLP,True,10.1162/tacl_a_00304,ACL2020
+9720,tacl.1759,Phonotactic Complexity and Its Trade-offs,"Phonology, Morphology and Word Segmentation",False,10.1162/tacl_a_00296,ACL2020
+9721,tacl.1834,Acoustic-Prosodic and Lexical Cues to Deception and Trust: Deciphering How People Detect Lies,Speech and Multimodality,False,10.1162/tacl_a_00311,ACL2020
+9722,tacl.1766,Efficient Contextual Representation Learning With Continuous Outputs,Machine Learning for NLP,False,10.1162/tacl_a_00289,ACL2020
