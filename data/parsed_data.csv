@@ -4887,3 +4887,1050 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 4666,s2506,Evaluating the Factual Consistency of Abstractive Text Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.750,EMNLP2020
 4667,s3552,Re-evaluating Evaluation in Text Summarization,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.751,EMNLP2020
 4668,s702,VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles,Dialog and Interactive Systems,False,10.18653/v1/2020.emnlp-main.752,EMNLP2020
+4669,6,APrompt: Attention Prompt Tuning for Efficient Adaptation of Pre-trained Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.567,EMNLP2023
+4670,11,AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.862,EMNLP2023
+4671,13,MemeCap: A Dataset for Captioning and Interpreting Memes,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.89,EMNLP2023
+4672,14,Towards Noise-Tolerant Speech-Referring Video Object Segmentation: Bridging Speech and Text,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.140,EMNLP2023
+4673,18,Incorporating Structured Representations into Pretrained Vision \& Language Models Using Scene Graphs,"Language Grounding to Vision, Robotics and Beyond",False,,EMNLP2023
+4674,25,Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer,Machine Translation,False,10.18653/v1/2023.emnlp-main.854,EMNLP2023
+4675,27,Explicit Planning Helps Language Models in Logical Reasoning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.688,EMNLP2023
+4676,28,Continually Improving Extractive QA via Human Feedback,Question Answering,False,10.18653/v1/2023.emnlp-main.27,EMNLP2023
+4677,30,From Wrong To Right: A Recursive Approach Towards Vision-Language Explanation,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.75,EMNLP2023
+4678,41,VivesDebate-Speech: A Corpus of Spoken Argumentation to Leverage Audio Features for Argument Mining,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.128,EMNLP2023
+4679,47,Variance Matters: Detecting Semantic Differences without Corpus/Word Alignment,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.965,EMNLP2023
+4680,48,Improving Transformer-based Program Repair Model through False Behavior Diagnosis,NLP Applications,False,10.18653/v1/2023.emnlp-main.865,EMNLP2023
+4681,60,Dissecting Recall of Factual Associations in Auto-Regressive Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.751,EMNLP2023
+4682,64,CQE: A Comprehensive Quantity Extractor,Information Extraction,False,10.18653/v1/2023.emnlp-main.793,EMNLP2023
+4683,71,Automatic Debate Evaluation with Argumentation Semantics and Natural Language Argument Graph Networks,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.368,EMNLP2023
+4684,78,Coarse-to-Fine Contrastive Learning in Image-Text-Graph Space for Improved Vision-Language Compositionality,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.56,EMNLP2023
+4685,81,FLatS: Principled Out-of-Distribution Detection with Feature-Based Likelihood Ratio Score,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.554,EMNLP2023
+4686,84,Mirages. On Anthropomorphism in Dialogue Systems,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.290,EMNLP2023
+4687,85,Modeling Empathic Similarity in Personal Narratives,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.383,EMNLP2023
+4688,96,Query-as-context Pre-training for Dense Passage Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.118,EMNLP2023
+4689,99,WiCE: Real-World Entailment for Claims in Wikipedia,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.470,EMNLP2023
+4690,100,Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.49,EMNLP2023
+4691,110,Generative Spoken Language Model based on continuous word-sized audio tokens,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.182,EMNLP2023
+4692,113,SimCSE++: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.737,EMNLP2023
+4693,116,How to Enhance Causal Discrimination of Utterances: A Case on Affective Reasoning,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.33,EMNLP2023
+4694,124,DecipherPref: Analyzing Influential Factors in Human Preference Judgments via GPT-4,Summarization,False,10.18653/v1/2023.emnlp-main.519,EMNLP2023
+4695,130,Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.385,EMNLP2023
+4696,132,Hybrid Inverted Index Is a Robust Accelerator for Dense Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.116,EMNLP2023
+4697,144,FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.741,EMNLP2023
+4698,148,Interpreting Embedding Spaces by Conceptualization,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.106,EMNLP2023
+4699,156,HalOmi: A Manually Annotated Benchmark for Multilingual Hallucination and Omission Detection in Machine Translation,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.42,EMNLP2023
+4700,161,A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.119,EMNLP2023
+4701,162,Symbol tuning improves in-context learning in language models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.61,EMNLP2023
+4702,164,Collaborative Generative AI: Integrating GPT-k for Efficient Editing in Text-to-Image Generation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.685,EMNLP2023
+4703,174,AutoTrial: Prompting Language Models for Clinical Trial Design,NLP Applications,False,10.18653/v1/2023.emnlp-main.766,EMNLP2023
+4704,175,SeqXGPT: Sentence-Level AI-Generated Text Detection,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.73,EMNLP2023
+4705,176,Character-LLM: A Trainable Agent for Role-Playing,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.814,EMNLP2023
+4706,181,Make Every Example Count: On the Stability and Utility of Self-Influence for Learning from Noisy NLP Datasets,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.625,EMNLP2023
+4707,182,POE: Process of Elimination for Multiple Choice Reasoning,NLP Applications,False,10.18653/v1/2023.emnlp-main.273,EMNLP2023
+4708,197,MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition,Information Extraction,False,10.18653/v1/2023.emnlp-main.145,EMNLP2023
+4709,201,Advancements in Arabic Grammatical Error Detection and Correction: An Empirical Investigation,NLP Applications,False,10.18653/v1/2023.emnlp-main.396,EMNLP2023
+4710,204,Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.713,EMNLP2023
+4711,210,Adaptive Gating in Mixture-of-Experts based Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.217,EMNLP2023
+4712,211,"Automatic Prompt Optimization with ""Gradient Descent"" and Beam Search",Language Modeling and Analysis of Language Models,,,EMNLP2023
+4713,216,CoLT5: Faster Long-Range Transformers with Conditional Computation,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.309,EMNLP2023
+4714,217,CoMPosT: Characterizing and Evaluating Caricature in LLM Simulations,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.669,EMNLP2023
+4715,218,Instructive Dialogue Summarization with Query Aggregations,Summarization,False,10.18653/v1/2023.emnlp-main.474,EMNLP2023
+4716,222,Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.81,EMNLP2023
+4717,224,Crystal: Introspective Reasoners Reinforced with Self-Feedback,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.708,EMNLP2023
+4718,228,Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.481,EMNLP2023
+4719,232,A Video Is Worth 4096 Tokens: Verbalize Story Videos To Understand Them In Zero Shot,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.608,EMNLP2023
+4720,239,Self-Ensemble of $N$-best Generation Hypotheses by Lexically Constrained Decoding,Natural Language Generation,False,,EMNLP2023
+4721,256,CaseEncoder: A Knowledge-enhanced Pre-trained Model for Legal Case Encoding,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.441,EMNLP2023
+4722,258,DiSTRICT: Dialogue State Tracking with Retriever Driven In-Context Tuning,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.310,EMNLP2023
+4723,266,Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.9,EMNLP2023
+4724,277,Human Raters Cannot Distinguish English Translations from Original English Texts,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.754,EMNLP2023
+4725,282,PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.833,EMNLP2023
+4726,284,The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.848,EMNLP2023
+4727,294,GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.298,EMNLP2023
+4728,296,STAIR: Learning Sparse Text and Image Representation in Grounded Tokens,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.932,EMNLP2023
+4729,297,UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.693,EMNLP2023
+4730,305,Order-Theoretic Structured Prediction: Partially Ordering Tokens within a String,"Syntax, Parsing and their Applications",False,,EMNLP2023
+4731,321,Generative Table Pre-training Empowers Models for Tabular Prediction,NLP Applications,False,10.18653/v1/2023.emnlp-main.917,EMNLP2023
+4732,325,Spoiler Detection as Semantic Text Matching,NLP Applications,False,10.18653/v1/2023.emnlp-main.373,EMNLP2023
+4733,331,Characterizing and Verifying Scientific Claims: Qualitative Causal Structure is All You Need,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.828,EMNLP2023
+4734,332,Rationale-Enhanced Language Models are Better Continual Relation Learners,Information Extraction,False,10.18653/v1/2023.emnlp-main.958,EMNLP2023
+4735,336,Prompting Scientific Names for Zero-Shot Species Recognition,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.610,EMNLP2023
+4736,339,Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.936,EMNLP2023
+4737,340,R2H: Building Multimodal Navigation Helpers that Respond to Help Requests,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.915,EMNLP2023
+4738,344,Image Manipulation via Multi-Hop Instructions - A New Dataset and Weakly-Supervised Neuro-Symbolic Approach,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.181,EMNLP2023
+4739,349,SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.557,EMNLP2023
+4740,376,Large Language Models are Temporal and Causal Reasoners for Video Question Answering,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.261,EMNLP2023
+4741,388,q2d: Turning Questions into Dialogs to Teach Models How to Search,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.843,EMNLP2023
+4742,396,Learning Retrieval Augmentation for Personalized Dialogue Generation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.154,EMNLP2023
+4743,400,TrojanSQL: SQL Injection against Natural Language Interface to Database,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.264,EMNLP2023
+4744,401,Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.647,EMNLP2023
+4745,411,The Benefits of Label-Description Training for Zero-Shot Text Classification,NLP Applications,False,10.18653/v1/2023.emnlp-main.853,EMNLP2023
+4746,412,Investigating Efficiently Extending Transformers for Long Input Summarization,Summarization,False,10.18653/v1/2023.emnlp-main.240,EMNLP2023
+4747,424,GEMINI: Controlling The Sentence-Level Summary Style in Abstractive Text Summarization,Summarization,False,10.18653/v1/2023.emnlp-main.53,EMNLP2023
+4748,427,Boosting Summarization with Normalizing Flows and Aggressive Training,Summarization,False,10.18653/v1/2023.emnlp-main.165,EMNLP2023
+4749,429,Towards A Unified View of Sparse Feed-Forward Network in Pretraining Large Language Model,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.930,EMNLP2023
+4750,431,Modeling Conceptual Attribute Likeness and Domain Inconsistency for Metaphor Detection,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.480,EMNLP2023
+4751,437,GEM: Gestalt Enhanced Markup Language Model for Web Understanding via Render Tree,NLP Applications,False,10.18653/v1/2023.emnlp-main.375,EMNLP2023
+4752,441,ToViLaG: Your Visual-Language Generative Model is Also An Evildoer,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.213,EMNLP2023
+4753,443,Empower Nested Boolean Logic via Self-Supervised Curriculum Learning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.847,EMNLP2023
+4754,460,Skill-Based Few-Shot Selection for In-Context Learning,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.831,EMNLP2023
+4755,462,UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.758,EMNLP2023
+4756,464,Exploring the Impact of Model Scaling on Parameter-Efficient Tuning,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.931,EMNLP2023
+4757,470,MoT: Memory-of-Thought Enables ChatGPT to Self-Improve,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.392,EMNLP2023
+4758,474,DPP-TTS: Diversifying prosodic features of speech via determinantal point processes,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.267,EMNLP2023
+4759,475,Improving Chinese Pop Song and Hokkien Gezi Opera Singing Voice Synthesis by Enhancing Local Modeling,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.200,EMNLP2023
+4760,481,Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.646,EMNLP2023
+4761,485,Event Causality Extraction via Implicit Cause-Effect Interactions,Information Extraction,False,10.18653/v1/2023.emnlp-main.420,EMNLP2023
+4762,491,Multilingual Holistic Bias: Extending Descriptors and Patterns to Unveil Demographic Biases in Languages at Scale,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.874,EMNLP2023
+4763,493,NLI4CT: Multi-Evidence Natural Language Inference for Clinical Trial Reports,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.1041,EMNLP2023
+4764,510,Towards Unsupervised Recognition of Token-level Semantic Differences in Related Documents,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.835,EMNLP2023
+4765,516,Where to start? Analyzing the potential value of intermediate models,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.90,EMNLP2023
+4766,518,ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.315,EMNLP2023
+4767,531,Parameter-Efficient Language Model Tuning with Active Learning in Low-Resource Settings,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.307,EMNLP2023
+4768,541,Self-Improvement of Non-autoregressive Model via Sequence-Level Distillation,Machine Translation,False,10.18653/v1/2023.emnlp-main.878,EMNLP2023
+4769,549,BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.388,EMNLP2023
+4770,556,MeaeQ: Mount Model Extraction Attacks with Efficient Queries,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.781,EMNLP2023
+4771,560,IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions,Question Answering,False,10.18653/v1/2023.emnlp-main.515,EMNLP2023
+4772,564,Not all quantifiers are equal: Probing Transformer-based language models' understanding of generalised quantifiers,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,,EMNLP2023
+4773,565,CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.340,EMNLP2023
+4774,591,Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.883,EMNLP2023
+4775,596,IC3: Image Captioning by Committee Consensus,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.556,EMNLP2023
+4776,599,Towards Conceptualization of ``Fair Explanation'': Disparate Impacts of anti-Asian Hate Speech Explanations on Content Moderators,Human-Centered NLP,False,,EMNLP2023
+4777,611,SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples,Question Answering,False,10.18653/v1/2023.emnlp-main.485,EMNLP2023
+4778,621,ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Deep Learning Tensor Programs,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.250,EMNLP2023
+4779,623,Learning to Predict Task Transferability via Soft Prompt,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.546,EMNLP2023
+4780,624,Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.223,EMNLP2023
+4781,649,Primacy Effect of ChatGPT,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.8,EMNLP2023
+4782,650,"Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4",Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.453,EMNLP2023
+4783,659,Contrastive Learning for Inference in Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.631,EMNLP2023
+4784,660,Post-hoc Utterance Refining Method by Entity Mining for Faithful Knowledge Grounded Conversations,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.295,EMNLP2023
+4785,664,COHESENTIA: A Novel Benchmark of Incremental versus Holistic Assessment of Coherence in Generated Texts,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.324,EMNLP2023
+4786,669,Content- and Topology-Aware Representation Learning for Scientific Multi-Literature,NLP Applications,False,10.18653/v1/2023.emnlp-main.465,EMNLP2023
+4787,671,Can Language Models Understand Physical Concepts?,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.726,EMNLP2023
+4788,672,CHEF in the Language Kitchen: A Generative Data Augmentation Leveraging Korean Morpheme Ingredients,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.367,EMNLP2023
+4789,677,Non-autoregressive Streaming Transformer for Simultaneous Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.314,EMNLP2023
+4790,679,GazeVQA: A Video Question Answering Dataset for Multiview Eye-Gaze Task-Oriented Collaborations,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.648,EMNLP2023
+4791,680,Continual Named Entity Recognition without Catastrophic Forgetting,NLP Applications,False,10.18653/v1/2023.emnlp-main.509,EMNLP2023
+4792,695,A Generation-based Deductive Method for Math Word Problems,NLP Applications,False,10.18653/v1/2023.emnlp-main.108,EMNLP2023
+4793,703,AD-NLP: A Benchmark for Anomaly Detection in Natural Language Processing,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.664,EMNLP2023
+4794,709,ORCHID: A Chinese Debate Corpus for Target-Independent Stance Detection and Argumentative Dialogue Summarization,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.582,EMNLP2023
+4795,718,Biomedical Named Entity Recognition via Dictionary-based Synonym Generalization,Information Extraction,False,10.18653/v1/2023.emnlp-main.903,EMNLP2023
+4796,719,DetGPT: Detect What You Need via Reasoning,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.876,EMNLP2023
+4797,729,Learning Co-Speech Gesture for Multimodal Aphasia Type Detection,NLP Applications,False,10.18653/v1/2023.emnlp-main.577,EMNLP2023
+4798,730,Understanding Computational Models of Semantic Change: New Insights from the Speech Community,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.572,EMNLP2023
+4799,736,Target-to-Source Augmentation for Aspect Sentiment Triplet Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.747,EMNLP2023
+4800,738,Self-Detoxifying Language Models via Toxification Reversal,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.269,EMNLP2023
+4801,748,DREAM: Deployment of Recombination and Ensembles in Argument Mining,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.320,EMNLP2023
+4802,750,Instructed Language Models with Retrievers Are Powerful Entity Linkers,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.139,EMNLP2023
+4803,758,Robust Prompt Optimization for Large Language Models Against Distribution Shifts,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.95,EMNLP2023
+4804,766,Are Embedded Potatoes Still Vegetables? On the Limitations of WordNet Embeddings for Lexical Semantics,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.542,EMNLP2023
+4805,774,Can We Edit Factual Knowledge by In-Context Learning?,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.296,EMNLP2023
+4806,800,GNAT: A General Narrative Alignment Tool,NLP Applications,False,10.18653/v1/2023.emnlp-main.904,EMNLP2023
+4807,801,Analyzing Film Adaptation through Narrative Alignment,NLP Applications,False,10.18653/v1/2023.emnlp-main.962,EMNLP2023
+4808,804,DALE: Generative Data Augmentation for Low-Resource Legal NLP,NLP Applications,False,10.18653/v1/2023.emnlp-main.528,EMNLP2023
+4809,808,Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.41,EMNLP2023
+4810,809,Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.335,EMNLP2023
+4811,810,CompoundPiece: Evaluating and Improving Decompounding Performance of Language Models,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.24,EMNLP2023
+4812,815,SLOG: A Structural Generalization Benchmark for Semantic Parsing,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.194,EMNLP2023
+4813,820,CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.377,EMNLP2023
+4814,830,ZEROTOP: Zero-Shot Task-Oriented Semantic Parsing using Large Language Models,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.354,EMNLP2023
+4815,834,Faithful Model Evaluation for Model-Based Metrics,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.464,EMNLP2023
+4816,841,Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting,Information Extraction,False,10.18653/v1/2023.emnlp-main.880,EMNLP2023
+4817,842,ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation,Information Extraction,False,10.18653/v1/2023.emnlp-main.824,EMNLP2023
+4818,843,KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.292,EMNLP2023
+4819,844,SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.600,EMNLP2023
+4820,849,Video-Helpful Multimodal Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.260,EMNLP2023
+4821,851,CodeT5+: Open Code Large Language Models for Code Understanding and Generation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.68,EMNLP2023
+4822,870,ChatEdit: Towards Multi-turn Interactive Facial Image Editing via Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.899,EMNLP2023
+4823,876,An Investigation of LLMs’ Inefficacy in Understanding Converse Relations,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.429,EMNLP2023
+4824,881,Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.463,EMNLP2023
+4825,890,Towards LLM-driven Dialogue State Tracking,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.48,EMNLP2023
+4826,898,Discovering Universal Geometry in Embeddings with ICA,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.283,EMNLP2023
+4827,901,Norm of Word Embedding Encodes Information Gain,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.131,EMNLP2023
+4828,903,Transductive Learning for Textual Few-Shot Classification in API-based Embedding Models,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.257,EMNLP2023
+4829,905,Enhancing Chat Language Models by Scaling High-quality Instructional Conversations,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.183,EMNLP2023
+4830,908,LLM-FP4: 4-Bit Floating-Point Quantized Transformers,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.39,EMNLP2023
+4831,911,Structure-aware Knowledge Graph-to-text Generation with Planning Selection and Similarity Distinction,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.537,EMNLP2023
+4832,920,Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.263,EMNLP2023
+4833,924,DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.174,EMNLP2023
+4834,927,Improving Long Document Topic Segmentation Models With Enhanced Coherence Modeling,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.341,EMNLP2023
+4835,935,A Unified View of Evaluation Metrics for Structured Prediction,Information Extraction,False,10.18653/v1/2023.emnlp-main.795,EMNLP2023
+4836,940,Compressing and Debiasing Vision-Language Pre-Trained Models for Visual Question Answering,Question Answering,False,10.18653/v1/2023.emnlp-main.34,EMNLP2023
+4837,947,HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.397,EMNLP2023
+4838,954,Turn-Level Active Learning for Dialogue State Tracking,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.478,EMNLP2023
+4839,957,How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.516,EMNLP2023
+4840,966,Are Compressed Language Models Less Subgroup Robust?,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.983,EMNLP2023
+4841,968,Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.512,EMNLP2023
+4842,970,StructGPT: A General Framework for Large Language Model to Reason over Structured Data,NLP Applications,False,10.18653/v1/2023.emnlp-main.574,EMNLP2023
+4843,972,Towards Low-Resource Automatic Program Repair with Meta-Learning and Pretrained Language Models,NLP Applications,False,10.18653/v1/2023.emnlp-main.430,EMNLP2023
+4844,976,Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.587,EMNLP2023
+4845,981,Semi-supervised multimodal coreference resolution in image narrations,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.682,EMNLP2023
+4846,983,Beyond Detection: A Defend-and-Summarize Strategy for Robust and Interpretable Rumor Analysis on Social Media,NLP Applications,False,10.18653/v1/2023.emnlp-main.707,EMNLP2023
+4847,984,ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph,Question Answering,False,10.18653/v1/2023.emnlp-main.228,EMNLP2023
+4848,988,Reasoning with Language Model is Planning with World Model,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.507,EMNLP2023
+4849,989,GreedyCAS: Unsupervised Scientific Abstract Segmentation with Normalized Mutual Information,Information Extraction,False,10.18653/v1/2023.emnlp-main.372,EMNLP2023
+4850,990,E-CORE: Emotion Correlation Enhanced Empathetic Dialogue Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.653,EMNLP2023
+4851,992,Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.757,EMNLP2023
+4852,1005,CiteBench: A Benchmark for Scientific Citation Text Generation,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.455,EMNLP2023
+4853,1006,VLIS: Unimodal Language Models Guide Multimodal Language Generation,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.46,EMNLP2023
+4854,1021,Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.308,EMNLP2023
+4855,1027,ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets,NLP Applications,False,10.18653/v1/2023.emnlp-main.975,EMNLP2023
+4856,1028,Towards Interpretable Mental Health Analysis with Large Language Models,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.370,EMNLP2023
+4857,1032,Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.894,EMNLP2023
+4858,1035,Event Ontology Completion with Hierarchical Structure Evolution Networks,NLP Applications,False,10.18653/v1/2023.emnlp-main.21,EMNLP2023
+4859,1039,Vicinal Risk Minimization for Few-Shot Cross-lingual Transfer in Abusive Language Detection,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.248,EMNLP2023
+4860,1047,Effects of sub-word segmentation on performance of transformer language models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.459,EMNLP2023
+4861,1052,STINMatch: Semi-Supervised Semantic-Topological Iteration Network for Financial Risk Detection via News Label Diffusion,NLP Applications,False,10.18653/v1/2023.emnlp-main.578,EMNLP2023
+4862,1054,GATITOS: Using a New Multilingual Lexicon for Low-resource Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.26,EMNLP2023
+4863,1062,Cabbage Sweeter than Cake? Analysing the Potential of Large Language Models for Learning Conceptual Spaces,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.725,EMNLP2023
+4864,1066,ROBBIE: Robust Bias Evaluation of Large Generative Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.230,EMNLP2023
+4865,1068,Solving Hard Analogy Questions with Relation Embedding Chains,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.382,EMNLP2023
+4866,1070,What do Deck Chairs and Sun Hats Have in Common? Uncovering Shared Properties in Large Concept Vocabularies,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.654,EMNLP2023
+4867,1074,Clinical Contradiction Detection,NLP Applications,False,10.18653/v1/2023.emnlp-main.80,EMNLP2023
+4868,1075,Generating Commonsense Counterfactuals for Stable Relation Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.344,EMNLP2023
+4869,1078,Translating away Translationese without Parallel Data,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.438,EMNLP2023
+4870,1083,Superlim: A Swedish Language Understanding Evaluation Benchmark,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.506,EMNLP2023
+4871,1091,Improving Biomedical Abstractive Summarisation with Knowledge Aggregation from Citation Papers,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.40,EMNLP2023
+4872,1108,Prompting is not a substitute for probability measurements in large language models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.306,EMNLP2023
+4873,1117,Compressing Context to Enhance Inference Efficiency of Large Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.391,EMNLP2023
+4874,1118,QTSumm: Query-Focused Summarization over Tabular Data,Summarization,False,10.18653/v1/2023.emnlp-main.74,EMNLP2023
+4875,1124,On the Benefits of Learning to Route in Mixture-of-Experts Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.583,EMNLP2023
+4876,1133,Balance Act: Mitigating Hubness in Cross-Modal Retrieval with Query and Gallery Banks,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.652,EMNLP2023
+4877,1146,Knowledge Graph Compression Enhances Diverse Commonsense Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.37,EMNLP2023
+4878,1147,Comparing Styles across Languages,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.419,EMNLP2023
+4879,1156,LLM-powered Data Augmentation for Enhanced Cross-lingual Performance,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.44,EMNLP2023
+4880,1157,Merging Generated and Retrieved Knowledge for Open-Domain QA,Question Answering,False,10.18653/v1/2023.emnlp-main.286,EMNLP2023
+4881,1158,Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in New York City,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.284,EMNLP2023
+4882,1186,Building Persona Consistent Dialogue Agents with Offline Reinforcement Learning,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.110,EMNLP2023
+4883,1196,Large-scale similarity search with Optimal Transport,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.730,EMNLP2023
+4884,1197,Cross-lingual Transfer Can Worsen Bias in Sentiment Analysis,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.346,EMNLP2023
+4885,1201,A linear time approximation of Wasserstein distance with word embedding selection,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.935,EMNLP2023
+4886,1213,Rethinking Negative Pairs in Code Search,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.786,EMNLP2023
+4887,1214,Models See Hallucinations: Evaluating the Factuality in Video Captioning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.723,EMNLP2023
+4888,1221,Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.4,EMNLP2023
+4889,1227,Multi-level Adaptive Contrastive Learning for Knowledge Internalization in Dialogue Generation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.497,EMNLP2023
+4890,1240,"End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions",Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.363,EMNLP2023
+4891,1242,CAPSTONE: Curriculum Sampling for Dense Retrieval with Document Expansion,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.651,EMNLP2023
+4892,1258,KRLS: Improving End-to-End Response Generation in Task Oriented Dialog with Reinforced Keywords Learning,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.759,EMNLP2023
+4893,1262,Prompt-Based Monte-Carlo Tree Search for Goal-oriented Dialogue Policy Planning,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.439,EMNLP2023
+4894,1265,The Distributional Hypothesis Does Not Fully Explain the Benefits of Masked Language Model Pretraining,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.637,EMNLP2023
+4895,1270,COFFEE: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation,NLP Applications,False,10.18653/v1/2023.emnlp-main.819,EMNLP2023
+4896,1273,Can We Edit Multimodal Large Language Models?,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.856,EMNLP2023
+4897,1284,Query2doc: Query Expansion with Large Language Models,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.585,EMNLP2023
+4898,1285,"A Diachronic Analysis of Paradigm Shifts in NLP Research: When, How, and Why?",Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.142,EMNLP2023
+4899,1287,Generating Summaries with Controllable Readability Levels,Summarization,False,10.18653/v1/2023.emnlp-main.714,EMNLP2023
+4900,1289,From Values to Opinions: Predicting Human Behaviors and Stances Using Value-Injected Large Language Models,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.961,EMNLP2023
+4901,1298,MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.616,EMNLP2023
+4902,1303,Disentangling Transformer Language Models as Superposed Topic Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.534,EMNLP2023
+4903,1308,DecoMT: Decomposed Prompting for Machine Translation Between Related Languages using Large Language Models,Machine Translation,False,10.18653/v1/2023.emnlp-main.279,EMNLP2023
+4904,1312,MADNet: Maximizing Addressee Deduction Expectation for Multi-Party Conversation Generation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.476,EMNLP2023
+4905,1328,Multi-Source Probing for Open-Domain Conversational Understanding,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.769,EMNLP2023
+4906,1329,SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.380,EMNLP2023
+4907,1340,A Diachronic Perspective on User Trust in AI under Uncertainty,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.339,EMNLP2023
+4908,1342,Enhancing Textbooks with Visuals from the Web for Improved Learning,NLP Applications,False,10.18653/v1/2023.emnlp-main.731,EMNLP2023
+4909,1349,Enhancing Low-resource Fine-grained Named Entity Recognition by Leveraging Coarse-grained Datasets,Information Extraction,False,10.18653/v1/2023.emnlp-main.197,EMNLP2023
+4910,1352,Knowledge-Augmented Language Model Verification,Question Answering,False,10.18653/v1/2023.emnlp-main.107,EMNLP2023
+4911,1353,EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.565,EMNLP2023
+4912,1359,Retrieval-Generation Alignment for End-to-End Task-Oriented Dialogue System,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.514,EMNLP2023
+4913,1362,Target-Agnostic Gender-Aware Contrastive Learning for Mitigating Bias in Multilingual Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.1046,EMNLP2023
+4914,1364,Dual-Feedback Knowledge Retrieval for Task-Oriented Dialogue Systems,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.405,EMNLP2023
+4915,1369,Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model,Summarization,False,10.18653/v1/2023.emnlp-main.679,EMNLP2023
+4916,1370,Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction,"Phonology, Morphology, and Word Segmentation",False,10.18653/v1/2023.emnlp-main.423,EMNLP2023
+4917,1374,Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.614,EMNLP2023
+4918,1375,Context Compression for Auto-regressive Transformers with Sentinel Tokens,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.794,EMNLP2023
+4919,1376,Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts,NLP Applications,False,10.18653/v1/2023.emnlp-main.562,EMNLP2023
+4920,1380,Transformer-based Live Update Generation for Soccer Matches from Microblog Posts,Summarization,False,10.18653/v1/2023.emnlp-main.624,EMNLP2023
+4921,1396,SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.799,EMNLP2023
+4922,1400,FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.890,EMNLP2023
+4923,1409,"Editing Large Language Models: Problems, Methods, and Opportunities",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.632,EMNLP2023
+4924,1415,Knowledge Rumination for Pre-trained Language Models,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.206,EMNLP2023
+4925,1416,Evaluating Object Hallucination in Large Vision-Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.20,EMNLP2023
+4926,1419,Byte Pair Encoding for Symbolic Music,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.123,EMNLP2023
+4927,1420,LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.319,EMNLP2023
+4928,1423,Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.173,EMNLP2023
+4929,1427,LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.825,EMNLP2023
+4930,1430,"A Multi-Task Dataset for Assessing Discourse Coherence in Chinese Essays: Structure, Theme, and Logic Analysis",Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.412,EMNLP2023
+4931,1453,WSDMS: Debunk Fake News via Weakly Supervised Detection of Misinforming Sentences with Contextualized Social Wisdom,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.94,EMNLP2023
+4932,1456,Describe Me an Auklet: Generating Grounded Perceptual Category Descriptions,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.580,EMNLP2023
+4933,1458,Unraveling Feature Extraction Mechanisms in Neural Networks,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.650,EMNLP2023
+4934,1461,Improving Dialogue Discourse Parsing via Reply-to Structures of Addressee Recognition,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.526,EMNLP2023
+4935,1463,Granularity Matters: Pathological Graph-driven Cross-modal Alignment for Brain CT Report Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.408,EMNLP2023
+4936,1476,DueT: Image-Text Contrastive Transfer Learning with Dual-adapter Tuning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.839,EMNLP2023
+4937,1483,Exploring All-In-One Knowledge Distillation Framework for Neural Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.178,EMNLP2023
+4938,1489,Assessing Step-by-Step Reasoning against Lexical Negation: A Case Study on Syllogism,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.912,EMNLP2023
+4939,1499,Revisiting Automated Topic Model Evaluation with Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.581,EMNLP2023
+4940,1500,Prompting with Pseudo-Code Instructions,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.939,EMNLP2023
+4941,1504,Evaluation Metrics in the Era of GPT-4: Reliably Evaluating Large Language Models on Sequence to Sequence Tasks,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.543,EMNLP2023
+4942,1505,Answering Questions by Meta-Reasoning over Multiple Chains of Thought,Question Answering,False,10.18653/v1/2023.emnlp-main.364,EMNLP2023
+4943,1522,HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.351,EMNLP2023
+4944,1523,AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.208,EMNLP2023
+4945,1539,TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models,Summarization,False,10.18653/v1/2023.emnlp-main.127,EMNLP2023
+4946,1550,Linking Surface Facts to Large-Scale Knowledge Graphs,Information Extraction,False,10.18653/v1/2023.emnlp-main.445,EMNLP2023
+4947,1552,BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations,NLP Applications,False,10.18653/v1/2023.emnlp-main.70,EMNLP2023
+4948,1553,Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.72,EMNLP2023
+4949,1554,4 and 7-bit Labeling for Projective and Non-Projective Dependency Trees,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.393,EMNLP2023
+4950,1567,ReTAG: Reasoning Aware Table to Analytic Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.389,EMNLP2023
+4951,1568,Can LLMs Facilitate Interpretation of Pre-trained Language Models?,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.196,EMNLP2023
+4952,1573,Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.838,EMNLP2023
+4953,1574,Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.103,EMNLP2023
+4954,1575,Automatic Transcription of Handwritten Old Occitan Language,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.953,EMNLP2023
+4955,1577,Active Learning for Natural Language Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.611,EMNLP2023
+4956,1578,ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.117,EMNLP2023
+4957,1581,FinEntity: Entity-level Sentiment Classification for Financial Texts,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.956,EMNLP2023
+4958,1583,CleanCoNLL: A Nearly Noise-Free Named Entity Recognition Dataset,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.533,EMNLP2023
+4959,1585,"Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future",Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.276,EMNLP2023
+4960,1586,Anchoring Fine-tuning of Sentence Transformer with Semantic Label Information for Efficient Truly Few-shot Classification,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.692,EMNLP2023
+4961,1595,IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.1,EMNLP2023
+4962,1603,This Reads Like That: Deep Learning for Interpretable Natural Language Processing,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.869,EMNLP2023
+4963,1607,Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer,Machine Translation,False,10.18653/v1/2023.emnlp-main.964,EMNLP2023
+4964,1611,Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.609,EMNLP2023
+4965,1614,Event-Location Tracking in Narratives: A Case Study on Holocaust Testimonies,NLP Applications,False,10.18653/v1/2023.emnlp-main.544,EMNLP2023
+4966,1619,Ditto: A Simple and Efficient Approach to Improve Sentence Embeddings,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.359,EMNLP2023
+4967,1629,Question Answering as Programming for Solving Time-Sensitive Questions,Question Answering,False,10.18653/v1/2023.emnlp-main.787,EMNLP2023
+4968,1633,Controlling Pre-trained Language Models for Grade-Specific Text Simplification,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.790,EMNLP2023
+4969,1636,Memorisation Cartography: Mapping out the Memorisation-Generalisation Continuum in Neural Machine Translation,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.518,EMNLP2023
+4970,1637,TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.711,EMNLP2023
+4971,1640,Multilingual \textit{k}-Nearest-Neighbor Machine Translation,Machine Translation,False,,EMNLP2023
+4972,1644,On Bilingual Lexicon Induction with Large Language Models,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.595,EMNLP2023
+4973,1646,Lion: Adversarial Distillation of Proprietary Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.189,EMNLP2023
+4974,1655,Connecting degree and polarity: An artificial language learning study,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.938,EMNLP2023
+4975,1661,Enhancing Generative Retrieval with Reinforcement Learning from Relevance Feedback,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.768,EMNLP2023
+4976,1675,Large Language Models Meet Open-World Intent Discovery and Recognition: An Evaluation of ChatGPT,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.636,EMNLP2023
+4977,1678,Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.177,EMNLP2023
+4978,1679,PHD: Pixel-Based Language Modeling of Historical Documents,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.7,EMNLP2023
+4979,1698,Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.846,EMNLP2023
+4980,1713,Multi-Source Multi-Type Knowledge Exploration and Exploitation for Dialogue Generation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.771,EMNLP2023
+4981,1716,EDeR: Towards Understanding Dependency Relations Between Events,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.926,EMNLP2023
+4982,1723,EDIS: Entity-Driven Image Search over Multimodal Web Content,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.297,EMNLP2023
+4983,1730,CorefPrompt: Prompt-based Event Coreference Resolution by Measuring Event Type and Argument Compatibilities,Information Extraction,False,10.18653/v1/2023.emnlp-main.954,EMNLP2023
+4984,1736,Fine-grained Conversational Decoding via Isotropic and Proximal Search,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.5,EMNLP2023
+4985,1763,Optimized Tokenization for Transcribed Error Correction,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.802,EMNLP2023
+4986,1766,RobustGEC: Robust Grammatical Error Correction Against Subtle Context Perturbation,NLP Applications,False,10.18653/v1/2023.emnlp-main.1043,EMNLP2023
+4987,1768,TheoremQA: A Theorem-driven Question Answering Dataset,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.489,EMNLP2023
+4988,1776,Mirror: A Universal Framework for Various Information Extraction Tasks,Information Extraction,False,10.18653/v1/2023.emnlp-main.548,EMNLP2023
+4989,1790,Lazy-k Decoding: Constrained Decoding for Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.416,EMNLP2023
+4990,1793,Cross-Document Event Coreference Resolution on Discourse Structure,Information Extraction,False,10.18653/v1/2023.emnlp-main.294,EMNLP2023
+4991,1806,Improved Pseudo Data for Machine Translation Quality Estimation with Constrained Beam Search,Machine Translation,False,10.18653/v1/2023.emnlp-main.764,EMNLP2023
+4992,1809,TLM: Token-Level Masking for Transformers,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.871,EMNLP2023
+4993,1810,Interview Evaluation: A Novel Approach for Automatic Evaluation of Conversational Question Answering Models,Question Answering,False,10.18653/v1/2023.emnlp-main.209,EMNLP2023
+4994,1818,Adapting Language Models to Compress Contexts,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.232,EMNLP2023
+4995,1823,Can You Follow Me? Testing Situational Understanding for ChatGPT,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.394,EMNLP2023
+4996,1830,Reinforced Target-driven Conversational Promotion,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.775,EMNLP2023
+4997,1832,Polar Ducks and Where to Find Them: Enhancing Entity Linking with Duck Typing and Polar Box Embeddings,NLP Applications,False,10.18653/v1/2023.emnlp-main.566,EMNLP2023
+4998,1843,Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.800,EMNLP2023
+4999,1846,"Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms","Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.57,EMNLP2023
+5000,1848,A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.435,EMNLP2023
+5001,1849,Exploring the Boundaries of GPT-4 in Radiology,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.891,EMNLP2023
+5002,1856,EpiK-Eval: Evaluation for Language Models as Epistemic Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.593,EMNLP2023
+5003,1857,Learning the Visualness of Text Using Large Vision-Language Models,NLP Applications,False,10.18653/v1/2023.emnlp-main.147,EMNLP2023
+5004,1867,Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.58,EMNLP2023
+5005,1868,ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.960,EMNLP2023
+5006,1882,A Frustratingly Easy Post-Training Quantization Scheme for LLMs,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.892,EMNLP2023
+5007,1885,Enhancing Long-form Text Generation Efficacy with Task-adaptive Tokenization,Natural Language Generation,False,,EMNLP2023
+5008,1890,Towards a Better Understanding of Variations in Zero-Shot Neural Machine Translation Performance,Machine Translation,False,10.18653/v1/2023.emnlp-main.836,EMNLP2023
+5009,1901,Don’t Trust ChatGPT when your Question is not in English: A Study of Multilingual Abilities and Types of LLMs,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.491,EMNLP2023
+5010,1903,Conceptor-Aided Debiasing of Large Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.661,EMNLP2023
+5011,1905,Merging Experts into One: Improving Computational Efficiency of Mixture of Experts,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.907,EMNLP2023
+5012,1915,Enhancing Code-Switching for Cross-lingual SLU: A Unified View of Semantic and Grammatical Coherence,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.486,EMNLP2023
+5013,1919,A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.239,EMNLP2023
+5014,1921,Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.215,EMNLP2023
+5015,1922,Retrofitting Light-weight Language Models for Emotions using Supervised Contrastive Learning,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.222,EMNLP2023
+5016,1923,Outlier Suppression+: Accurate quantization of large language models by equivalent and effective shifting and scaling,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.102,EMNLP2023
+5017,1928,Personalized Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.417,EMNLP2023
+5018,1940,BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.959,EMNLP2023
+5019,1941,Comparing Biases and the Impact of Multilingual Training across Multiple Languages,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.634,EMNLP2023
+5020,1950,Speech-enriched Memory for Inference-time Adaptation of ASR Models to Word Dictionaries,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.916,EMNLP2023
+5021,1954,DUMB: A Dutch Model Benchmark,Resources and Evaluation,False,,EMNLP2023
+5022,1970,MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.321,EMNLP2023
+5023,1974,When Do Decompositions Help for Machine Reading?,Question Answering,False,10.18653/v1/2023.emnlp-main.219,EMNLP2023
+5024,1977,TaskWeb: Selecting Better Source Tasks for Multi-task NLP,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.680,EMNLP2023
+5025,1983,Interactive Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.270,EMNLP2023
+5026,1988,Absolute Position Embedding Learns Sinusoid-like Waves for Attention Based on Relative Position,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.2,EMNLP2023
+5027,1990,Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.60,EMNLP2023
+5028,1995,Let GPT be a Math Tutor: Teaching Math Word Problem Solvers with Customized Exercise Generation,Question Answering,False,10.18653/v1/2023.emnlp-main.889,EMNLP2023
+5029,1997,Statistical Depth for Ranking and Characterizing Transformer-Based Text Embeddings,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.596,EMNLP2023
+5030,1999,UniMath: A Foundational and Multimodal Mathematical Reasoner,NLP Applications,False,10.18653/v1/2023.emnlp-main.440,EMNLP2023
+5031,2005,Text encoders bottleneck compositionality in contrastive vision-language models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.301,EMNLP2023
+5032,2017,Systematic word meta-sense extension,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.675,EMNLP2023
+5033,2023,Detecting Propaganda Techniques in Code-Switched Social Media Text,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.1044,EMNLP2023
+5034,2025,Did You Mean...? Confidence-based Trade-offs in Semantic Parsing,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.159,EMNLP2023
+5035,2036,MoPe: Model Perturbation based Privacy Attacks on Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.842,EMNLP2023
+5036,2038,"""Are Your Explanations Reliable?"" Investigating the Stability of LIME in Explaining Text Classifiers by Marrying XAI and Adversarial Attack","Interpretability, Interactivity, and Analysis of Models for NLP",True,,EMNLP2023
+5037,2039,Beyond Shared Vocabulary: Increasing Representational Word Similarities across Languages for Multilingual Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.605,EMNLP2023
+5038,2046,RainProof: An Umbrella to Shield Text Generator from Out-Of-Distribution Data,Machine Translation,False,10.18653/v1/2023.emnlp-main.357,EMNLP2023
+5039,2056,How Does Generative Retrieval Scale to Millions of Passages?,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.83,EMNLP2023
+5040,2058,Tree Prompting: Efficient Task Adaptation without Fine-Tuning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.384,EMNLP2023
+5041,2066,How do languages influence each other? Studying cross-lingual data sharing during LM fine-tuning,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.818,EMNLP2023
+5042,2067,Fair Without Leveling Down: A New Intersectional Fairness Definition,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.558,EMNLP2023
+5043,2068,Text Embeddings Reveal (Almost) As Much As Text,NLP Applications,False,10.18653/v1/2023.emnlp-main.765,EMNLP2023
+5044,2069,MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.613,EMNLP2023
+5045,2074,Modeling Legal Reasoning: LM Annotation at the Edge of Human Agreement,NLP Applications,False,10.18653/v1/2023.emnlp-main.575,EMNLP2023
+5046,2079,Discourse Structures Guided Fine-grained Propaganda Identification,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.23,EMNLP2023
+5047,2080,An Expression Tree Decoding Strategy for Mathematical Equation Generation,NLP Applications,False,10.18653/v1/2023.emnlp-main.29,EMNLP2023
+5048,2084,Predictive Chemistry Augmented with Text Retrieval,NLP Applications,False,10.18653/v1/2023.emnlp-main.784,EMNLP2023
+5049,2087,BiasX: “Thinking Slow” in Toxic Content Moderation with Explanations of Implied Social Biases,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.300,EMNLP2023
+5050,2090,Revisiting Machine Translation for Cross-lingual Classification,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.399,EMNLP2023
+5051,2092,Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI),Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.136,EMNLP2023
+5052,2095,Elaborative Simplification as Implicit Questions Under Discussion,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.336,EMNLP2023
+5053,2105,"Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking",Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.623,EMNLP2023
+5054,2109,APoLLo : Unified Adapter and Prompt Learning for Vision Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.629,EMNLP2023
+5055,2110,Human Learning by Model Feedback: The Dynamics of Iterative Prompting with Midjourney,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.253,EMNLP2023
+5056,2112,"The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.155,EMNLP2023
+5057,2114,Simple and Effective Input Reformulations for Translation,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.638,EMNLP2023
+5058,2115,FACTIFY3M: A benchmark for multimodal fact verification with explainability through 5W Question-Answering,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.945,EMNLP2023
+5059,2117,LM vs LM: Detecting Factual Errors via Cross Examination,Question Answering,False,10.18653/v1/2023.emnlp-main.778,EMNLP2023
+5060,2118,On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.472,EMNLP2023
+5061,2125,trlX: A Framework for Large Scale Reinforcement Learning from Human Feedback,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.530,EMNLP2023
+5062,2128,PALS: Personalized Active Learning for Subjective Tasks in NLP,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.823,EMNLP2023
+5063,2129,Bridging the Digital Divide: Performance Variation across Socio-Economic Factors in Vision-Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.660,EMNLP2023
+5064,2138,Symbolic Planning and Code Generation for Grounded Dialogue,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.pandl-1.5,EMNLP2023
+5065,2142,We Are What We Repeatedly Do: Inducing and Deploying Habitual Schemas in Persona-Based Responses,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.678,EMNLP2023
+5066,2145,"Global Voices, Local Biases: Socio-Cultural Prejudices across Languages",Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.981,EMNLP2023
+5067,2146,XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.813,EMNLP2023
+5068,2150,$\textit{``Don't Take This Out of Context!''}$ On the Need for Contextual Models and Evaluations for Stylistic Rewriting,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,EMNLP2023
+5069,2153,Multilingual Simplification of Medical Texts,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.1037,EMNLP2023
+5070,2154,`Don't Get Too Technical with Me': A Discourse Structure-Based Framework for Automatic Science Journalism,Summarization,False,,EMNLP2023
+5071,2155,"To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.822,EMNLP2023
+5072,2156,Natural Disaster Tweets Classification Using Multimodal Data,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.471,EMNLP2023
+5073,2162,A Comprehensive Evaluation of Biomedical Entity Linking Models,Information Extraction,False,10.18653/v1/2023.emnlp-main.893,EMNLP2023
+5074,2169,MAGNIFICo: Evaluating the In-Context Learning Ability of Large Language Models to Generalize to Novel Interpretations,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.134,EMNLP2023
+5075,2171,When are Lemons Purple? The Concept Association Bias of Vision-Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.886,EMNLP2023
+5076,2175,Selective Labeling: How to Radically Lower Data-Labeling Costs for Document Extraction Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.233,EMNLP2023
+5077,2177,Transfer-Free Data-Efficient Multilingual Slot Labeling,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.369,EMNLP2023
+5078,2180,A Systematic Study of Performance Disparities in Multilingual Task-Oriented Dialogue Systems,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.422,EMNLP2023
+5079,2185,GLEN: General-Purpose Event Detection for Thousands of Types,Information Extraction,False,10.18653/v1/2023.emnlp-main.170,EMNLP2023
+5080,2186,mAggretriever: A Simple yet Effective Approach to Zero-Shot Multilingual Dense Retrieval,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.715,EMNLP2023
+5081,2192,Focus Your Attention (with Adaptive IIR Filters),Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.772,EMNLP2023
+5082,2194,Understanding Compositional Data Augmentation in Typologically Diverse Morphological Inflection,"Phonology, Morphology, and Word Segmentation",False,10.18653/v1/2023.emnlp-main.19,EMNLP2023
+5083,2195,Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.111,EMNLP2023
+5084,2205,MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.971,EMNLP2023
+5085,2206,QUDeval: The Evaluation of Questions Under Discussion Discourse Parsing,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.325,EMNLP2023
+5086,2212,IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.881,EMNLP2023
+5087,2214,StrAE: Autoencoding for Pre-Trained Embeddings using Explicit Structure,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.469,EMNLP2023
+5088,2217,DADA: Dialect Adaptation via Dynamic Aggregation of Linguistic Rules,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.850,EMNLP2023
+5089,2230,Faster Minimum Bayes Risk Decoding with Confidence-based Pruning,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.767,EMNLP2023
+5090,2245,The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.160,EMNLP2023
+5091,2246,Aligning Large Language Models through Synthetic Feedback,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.844,EMNLP2023
+5092,2256,"Expository Text Generation: Imitate, Retrieve, Paraphrase",Natural Language Generation,False,10.18653/v1/2023.emnlp-main.729,EMNLP2023
+5093,2257,QA-NatVer: Question Answering for Natural Logic-based Fact Verification,NLP Applications,False,10.18653/v1/2023.emnlp-main.521,EMNLP2023
+5094,2258,Text Fact Transfer,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.288,EMNLP2023
+5095,2259,Can Language Models Laugh at YouTube Short-form Videos?,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.176,EMNLP2023
+5096,2288,Multi-level Contrastive Learning for Script-based Character Understanding,Information Extraction,False,10.18653/v1/2023.emnlp-main.366,EMNLP2023
+5097,2295,Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.226,EMNLP2023
+5098,2298,"Why LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.192,EMNLP2023
+5099,2309,Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.925,EMNLP2023
+5100,2310,Continual Event Extraction with Semantic Confusion Rectification,Information Extraction,False,10.18653/v1/2023.emnlp-main.732,EMNLP2023
+5101,2316,SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables,NLP Applications,False,10.18653/v1/2023.emnlp-main.483,EMNLP2023
+5102,2339,MMNMT: Modularizing Multilingual Neural Machine Translation with Flexibly Assembled MoE and Dense Blocks,Machine Translation,False,10.18653/v1/2023.emnlp-main.303,EMNLP2023
+5103,2343,Rethinking Word-Level Auto-Completion in Computer-Aided Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.952,EMNLP2023
+5104,2351,Quantifying Character Similarity with Vision Transformers,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.863,EMNLP2023
+5105,2355,PROSE: A Pronoun Omission Solution for Chinese-English Spoken Language Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.141,EMNLP2023
+5106,2361,Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models,NLP Applications,False,10.18653/v1/2023.emnlp-main.410,EMNLP2023
+5107,2364,CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.743,EMNLP2023
+5108,2366,TOD-Flow: Modeling the Structure of Task-Oriented Dialogues,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.204,EMNLP2023
+5109,2369,MaNtLE: Model-agnostic Natural Language Explainer,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.832,EMNLP2023
+5110,2373,MailEx: Email Event and Argument Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.801,EMNLP2023
+5111,2382,Generating Data for Symbolic Language with Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.523,EMNLP2023
+5112,2395,Revisiting De-Identification of Electronic Medical Records: Evaluation of Within- and Cross-Hospital Generalization,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.224,EMNLP2023
+5113,2407,Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.488,EMNLP2023
+5114,2421,MediaHG: Rethinking Eye-catchy Features in Social Media Headline Generation,Summarization,False,10.18653/v1/2023.emnlp-main.352,EMNLP2023
+5115,2422,Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.617,EMNLP2023
+5116,2425,Empathy Intent Drives Empathy Detection,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.386,EMNLP2023
+5117,2428,Accented Speech Recognition With Accent-specific Codebooks,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.444,EMNLP2023
+5118,2432,RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation,NLP Applications,False,10.18653/v1/2023.emnlp-main.151,EMNLP2023
+5119,2436,Ideology Takes Multiple Looks: A High-Quality Dataset for Multifaceted Ideology Detection,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.256,EMNLP2023
+5120,2438,Multilingual Large Language Models Are Not (Yet) Code-Switchers,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.774,EMNLP2023
+5121,2442,Text-Transport: Toward Learning Causal Effects of Natural Language,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.82,EMNLP2023
+5122,2443,A Challenging Multimodal Video Summary: Simultaneously Extracting and Generating Keyframe-Caption Pairs from Video,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.457,EMNLP2023
+5123,2444,Condensing Multilingual Knowledge with Lightweight Language-Specific Modules,Machine Translation,False,10.18653/v1/2023.emnlp-main.97,EMNLP2023
+5124,2446,API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.187,EMNLP2023
+5125,2449,Document-Level Machine Translation with Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.1036,EMNLP2023
+5126,2451,SPT: Learning to Selectively Insert Prompts for Better Prompt Tuning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.727,EMNLP2023
+5127,2452,MingOfficial: A Ming Official Career Dataset and a Historical Context-Aware Representation Learning Framework,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.266,EMNLP2023
+5128,2453,Learning Knowledge-Enhanced Contextual Language Representations for Domain Natural Language Understanding,NLP Applications,False,10.18653/v1/2023.emnlp-main.969,EMNLP2023
+5129,2460,Semantic Space Grounded Weighted Decoding for Multi-Attribute Controllable Dialogue Generation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.817,EMNLP2023
+5130,2466,Fast and Accurate Factual Inconsistency Detection Over Long Documents,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.105,EMNLP2023
+5131,2472,CESAR: Automatic Induction of Compositional Instructions for Multi-turn Dialogs,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.717,EMNLP2023
+5132,2481,FedID: Federated Interactive Distillation for Large-Scale Pretraining Language Models,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.529,EMNLP2023
+5133,2484,Self-Evolution Learning for Mixup: Enhance Data Augmentation on Few-Shot Text Classification Tasks,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.555,EMNLP2023
+5134,2487,NameGuess: Column Name Expansion for Tabular Data,NLP Applications,False,10.18653/v1/2023.emnlp-main.820,EMNLP2023
+5135,2488,"Be Selfish, But Wisely: Investigating the Impact of Agent Personality in Mixed-Motive Human-Agent Interactions",NLP Applications,False,10.18653/v1/2023.emnlp-main.808,EMNLP2023
+5136,2497,MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.407,EMNLP2023
+5137,2518,Improving Image Captioning via Predicting Structured Concepts,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.25,EMNLP2023
+5138,2522,Training Simultaneous Speech Translation with Robust and Random Wait-k-Tokens Strategy,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.484,EMNLP2023
+5139,2525,Does the Correctness of Factual Knowledge Matter for Factual Knowledge-Enhanced Pre-trained Language Models?,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.143,EMNLP2023
+5140,2527,Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.78,EMNLP2023
+5141,2531,Evaluating Evaluation Metrics: A Framework for Analyzing NLG Evaluation Metrics using Measurement Theory,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.676,EMNLP2023
+5142,2538,VIBE: Topic-Driven Temporal Adaptation for Twitter Classification,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.203,EMNLP2023
+5143,2554,CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.378,EMNLP2023
+5144,2558,Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.54,EMNLP2023
+5145,2566,Specialist or Generalist? Instruction Tuning for Specific NLP Tasks,NLP Applications,False,10.18653/v1/2023.emnlp-main.947,EMNLP2023
+5146,2568,Syntactic Substitutability as Unsupervised Dependency Syntax,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.144,EMNLP2023
+5147,2574,Causal Reasoning through Two Cognition Layers for Improving Generalization in Visual Question Answering,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.573,EMNLP2023
+5148,2578,Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.621,EMNLP2023
+5149,2580,Challenges in Context-Aware Neural Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.943,EMNLP2023
+5150,2583,SKD-NER: Continual Named Entity Recognition via Span-based Knowledge Distillation with Reinforcement Learning,Information Extraction,False,10.18653/v1/2023.emnlp-main.413,EMNLP2023
+5151,2590,Query Rewriting in Retrieval-Augmented Large Language Models,Question Answering,False,10.18653/v1/2023.emnlp-main.322,EMNLP2023
+5152,2596,Anaphor Assisted Document-Level Relation Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.955,EMNLP2023
+5153,2607,Just Adjust One Prompt: Enhancing In-Context Dialogue Scoring via Constructing the Optimal Subgraph of Demonstrations and Prompts,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.590,EMNLP2023
+5154,2612,Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.913,EMNLP2023
+5155,2614,Log-FGAER: Logic-Guided Fine-Grained Address Entity Recognition from Multi-Turn Spoken Dialogue,Information Extraction,False,10.18653/v1/2023.emnlp-main.432,EMNLP2023
+5156,2636,A Fine-Grained Taxonomy of Replies to Hate Speech,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.450,EMNLP2023
+5157,2637,Lifelong Sequence Generation with Dynamic Module Expansion and Adaptation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.414,EMNLP2023
+5158,2645,Document-level Relationship Extraction by Bidirectional Constraints of Beta Rules,Information Extraction,False,10.18653/v1/2023.emnlp-main.138,EMNLP2023
+5159,2648,FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning,NLP Applications,False,10.18653/v1/2023.emnlp-main.734,EMNLP2023
+5160,2652,A Framework for Vision-Language Warm-up Tasks in Multimodal Dialogue Models,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.167,EMNLP2023
+5161,2653,Dr ChatGPT tell me what I want to hear: How different prompts impact health answer correctness,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.928,EMNLP2023
+5162,2654,LACMA: Language-Aligning Contrastive Learning with Meta-Actions for Embodied Instruction Following,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.77,EMNLP2023
+5163,2668,Causal Document-Grounded Dialogue Pre-training,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.443,EMNLP2023
+5164,2669,Program Translation via Code Distillation,Machine Translation,False,10.18653/v1/2023.emnlp-main.672,EMNLP2023
+5165,2671,API-Assisted Code Generation for Question Answering on Varied Table Structures,Question Answering,False,10.18653/v1/2023.emnlp-main.897,EMNLP2023
+5166,2674,Explaining Interactions Between Text Spans,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.783,EMNLP2023
+5167,2676,Text Representation Distillation via Information Bottleneck Principle,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.888,EMNLP2023
+5168,2693,Language Model is Suitable for Correction of Handwritten Mathematical Expressions Recognition,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.247,EMNLP2023
+5169,2702,Learning to Describe for Predicting Zero-shot Drug-Drug Interactions,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.918,EMNLP2023
+5170,2713,Hi-ArG: Exploring the Integration of Hierarchical Argumentation Graphs in Language Pretraining,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.902,EMNLP2023
+5171,2715,Analyzing Cognitive Plausibility of Subword Tokenization,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.272,EMNLP2023
+5172,2729,INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.365,EMNLP2023
+5173,2741,Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.163,EMNLP2023
+5174,2747,Privacy Implications of Retrieval-Based Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.921,EMNLP2023
+5175,2755,OssCSE: Overcoming Surface Structure Bias in Contrastive Learning for Unsupervised Sentence Embedding,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.448,EMNLP2023
+5176,2756,Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs,Efficient Methods for NLP,False,,EMNLP2023
+5177,2762,Argue with Me Tersely: Towards Sentence-Level Counter-Argument Generation,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.1039,EMNLP2023
+5178,2768,M$^3$Seg: A Maximum-Minimum Mutual Information Paradigm for Unsupervised Topic Segmentation in ASR Transcripts,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,,EMNLP2023
+5179,2772,ART: rule bAsed futuRe-inference deducTion,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.592,EMNLP2023
+5180,2773,Addressing NER Annotation Noises with Uncertainty-Guided Tree-Structured CRFs,Information Extraction,False,10.18653/v1/2023.emnlp-main.872,EMNLP2023
+5181,2776,Parameter-efficient Tuning for Large Language Model without Calculating Its Gradients,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.22,EMNLP2023
+5182,2779,DIVE: Towards Descriptive and Diverse Visual Commonsense Generation,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.601,EMNLP2023
+5183,2781,RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.473,EMNLP2023
+5184,2782,"IMTLab: An Open-Source Platform for Building, Evaluating, and Diagnosing Interactive Machine Translation Systems",Machine Translation,False,10.18653/v1/2023.emnlp-main.922,EMNLP2023
+5185,2786,Pre-Trained Language Models Augmented with Synthetic Scanpaths for Natural Language Understanding,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.400,EMNLP2023
+5186,2787,Large Language Models: The Need for Nuance in Current Debates and a Pragmatic Perspective on Understanding,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.779,EMNLP2023
+5187,2789,Learning from Mistakes via Cooperative Study Assistant for Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.659,EMNLP2023
+5188,2801,An Iteratively Parallel Generation Method with the Pre-Filling Strategy for Document-level Event Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.668,EMNLP2023
+5189,2803,CS2W: A Chinese Spoken-to-Written Style Conversion Dataset with Multiple Conversion Types,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.241,EMNLP2023
+5190,2804,Fair Text Classification with Wasserstein Independence,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.978,EMNLP2023
+5191,2805,Sentiment Analysis on Streaming User Reviews via Dual-Channel Dynamic Graph Neural Network,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.446,EMNLP2023
+5192,2807,SUT: Active Defects Probing for Transcompiler Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.866,EMNLP2023
+5193,2808,BioFEG: Generate Latent Features for Biomedical Entity Linking,NLP Applications,False,10.18653/v1/2023.emnlp-main.710,EMNLP2023
+5194,2811,Empirical Study of Zero-Shot NER with ChatGPT,Information Extraction,False,10.18653/v1/2023.emnlp-main.493,EMNLP2023
+5195,2814,Bridging Information-Theoretic and Geometric Compression in Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.762,EMNLP2023
+5196,2820,Axiomatic Preference Modeling for Longform Question Answering,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.702,EMNLP2023
+5197,2824,"Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations",Summarization,False,10.18653/v1/2023.emnlp-main.753,EMNLP2023
+5198,2827,NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.941,EMNLP2023
+5199,2832,CLAD-ST: Contrastive Learning with Adversarial Data for Robust Speech Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.560,EMNLP2023
+5200,2837,Towards Example-Based NMT with Multi-Levenshtein Transformers,Machine Translation,False,10.18653/v1/2023.emnlp-main.113,EMNLP2023
+5201,2847,StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.706,EMNLP2023
+5202,2848,Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.976,EMNLP2023
+5203,2849,Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.807,EMNLP2023
+5204,2856,Prototype-based HyperAdapter for Sample-Efficient Multi-task Tuning,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.280,EMNLP2023
+5205,2859,Interventional Rationalization,NLP Applications,False,10.18653/v1/2023.emnlp-main.700,EMNLP2023
+5206,2871,Representative Demonstration Selection for In-Context Learning with Two-Stage Determinantal Point Process,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.331,EMNLP2023
+5207,2873,SAMRank: Unsupervised Keyphrase Extraction using Self-Attention Map in BERT and GPT-2,Information Extraction,False,10.18653/v1/2023.emnlp-main.630,EMNLP2023
+5208,2874,TacoPrompt: A Collaborative Multi-Task Prompt Learning Method for Self-Supervised Taxonomy Completion,Information Extraction,False,10.18653/v1/2023.emnlp-main.979,EMNLP2023
+5209,2880,JointMatch: A Unified Approach for Diverse and Collaborative Pseudo-Labeling to Semi-Supervised Text Classification,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.451,EMNLP2023
+5210,2890,Exploring Discourse Structure in Document-level Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.857,EMNLP2023
+5211,2892,People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.649,EMNLP2023
+5212,2901,The ACL OCL Corpus: Advancing Open Science in Computational Linguistics,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.640,EMNLP2023
+5213,2908,All Things Considered: Detecting Partisan Events from News Media with Cross-Article Comparison,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.957,EMNLP2023
+5214,2910,Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration,NLP Applications,False,10.18653/v1/2023.emnlp-main.740,EMNLP2023
+5215,2924,BLESS: Benchmarking Large Language Models on Sentence Simplification,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.821,EMNLP2023
+5216,2926,Revisiting Sparse Retrieval for Few-shot Entity Linking,Information Extraction,False,10.18653/v1/2023.emnlp-main.789,EMNLP2023
+5217,2927,Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.175,EMNLP2023
+5218,2931,mRedditSum: A Multimodal Abstractive Summarization Dataset of Reddit Threads with Images,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.251,EMNLP2023
+5219,2933,Location-Aware Visual Question Generation with Lightweight Models,NLP Applications,False,10.18653/v1/2023.emnlp-main.88,EMNLP2023
+5220,2937,Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.482,EMNLP2023
+5221,2952,DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.709,EMNLP2023
+5222,2960,Open Information Extraction via Chunks,Information Extraction,False,10.18653/v1/2023.emnlp-main.951,EMNLP2023
+5223,2962,Rumor Detection on Social Media with Crowd Intelligence and ChatGPT-Assisted Networks,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.347,EMNLP2023
+5224,2963,HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.635,EMNLP2023
+5225,2976,Conversational Semantic Parsing using Dynamic Context Graphs,Question Answering,False,10.18653/v1/2023.emnlp-main.535,EMNLP2023
+5226,2978,Diversity Enhanced Narrative Question Generation for Storybooks,Question Answering,False,10.18653/v1/2023.emnlp-main.31,EMNLP2023
+5227,2984,Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.724,EMNLP2023
+5228,3003,A Study on Accessing Linguistic Information in Pre-Trained Language Models by Using Prompts,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.454,EMNLP2023
+5229,3006,Revisiting Source Context in Nearest Neighbor Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.503,EMNLP2023
+5230,3015,Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.949,EMNLP2023
+5231,3020,Large Language Models are Complex Table Parsers,Question Answering,False,10.18653/v1/2023.emnlp-main.914,EMNLP2023
+5232,3023,clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.689,EMNLP2023
+5233,3027,An Empirical Study of Translation Hypothesis Ensembling with Large Language Models,Machine Translation,False,10.18653/v1/2023.emnlp-main.733,EMNLP2023
+5234,3030,Structural generalization in COGS: Supertagging is (almost) all you need,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.69,EMNLP2023
+5235,3032,Dialogizer: Context-aware Conversational-QA Dataset Generation from Textual Sources,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.545,EMNLP2023
+5236,3034,Universal Self-Adaptive Prompting,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.461,EMNLP2023
+5237,3037,KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.867,EMNLP2023
+5238,3047,Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.982,EMNLP2023
+5239,3049,CombLM: Adapting Black-Box Language Models through Small Fine-Tuned Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.180,EMNLP2023
+5240,3054,Self-Influence Guided Data Reweighting for Language Model Pre-training,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.125,EMNLP2023
+5241,3070,Simplicity Level Estimate (SLE): A Learned Reference-Less Metric for Sentence Simpliﬁcation,Natural Language Generation,False,,EMNLP2023
+5242,3074,Accelerating Toeplitz Neural Network with Constant-time Inference Complexity,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.750,EMNLP2023
+5243,3079,IBADR: an Iterative Bias-Aware Dataset Refinement Framework for Debiasing NLU models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.569,EMNLP2023
+5244,3090,Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.390,EMNLP2023
+5245,3100,A Fair and In-Depth Evaluation of Existing End-to-End Entity Linking Systems,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.411,EMNLP2023
+5246,3103,Argument-based Detection and Classification of Fallacies in Political Debates,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.684,EMNLP2023
+5247,3112,Task-Level Thinking Steps Help Large Language Models for Challenging Classification Task,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.150,EMNLP2023
+5248,3113,Efficient Grammatical Error Correction Via Multi-Task Training and Optimized Training Schedule,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.355,EMNLP2023
+5249,3121,Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models,Question Answering,False,10.18653/v1/2023.emnlp-main.63,EMNLP2023
+5250,3124,Dual-Channel Span for Aspect Sentiment Triplet Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.17,EMNLP2023
+5251,3128,Weakly-Supervised Learning of Visual Relations in Multimodal Pretraining,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.184,EMNLP2023
+5252,3130,GLEN: Generative Retrieval via Lexical Index Learning,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.477,EMNLP2023
+5253,3146,Inverse Scaling Can Become U-Shaped,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.963,EMNLP2023
+5254,3152,Identifying Statements Crucial for Awareness of Interpretive Nonsense to Prevent Communication Breakdowns,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.773,EMNLP2023
+5255,3154,Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.525,EMNLP2023
+5256,3159,Reduce Human Labor On Evaluating Conversational Information Retrieval System: A Human-Machine Collaboration Approach,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.670,EMNLP2023
+5257,3161,ACTOR: Active Learning with Annotator-specific Classification Heads to Embrace Human Label Variation,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.126,EMNLP2023
+5258,3163,Revisiting Instruction Fine-tuned Model Evaluation to Guide Industrial Applications,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.559,EMNLP2023
+5259,3175,Finding Authentic Counterhate Arguments: A Case Study with Public Figures,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.855,EMNLP2023
+5260,3198,MarkQA: A large scale KBQA dataset with numerical reasoning,Question Answering,False,10.18653/v1/2023.emnlp-main.633,EMNLP2023
+5261,3200,DiNeR: A Large Realistic Dataset for Evaluating Compositional Generalization,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.924,EMNLP2023
+5262,3204,NAIL: Lexical Retrieval Indices with Efficient Non-Autoregressive Decoders,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.156,EMNLP2023
+5263,3217,TopWORDS-Poetry: Simultaneous Text Segmentation and Word Discovery for Classical Chinese Poetry via Bayesian Inference,"Phonology, Morphology, and Word Segmentation",False,10.18653/v1/2023.emnlp-main.205,EMNLP2023
+5264,3219,Once is Enough: A Light-Weight Cross-Attention for Fast Sentence Pair Modeling,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.168,EMNLP2023
+5265,3229,Appraising the Potential Uses and Harms of LLMs for Medical Systematic Reviews,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.626,EMNLP2023
+5266,3231,Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.112,EMNLP2023
+5267,3233,Find-2-Find: Multitask Learning for Anaphora Resolution and Object Localization,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.504,EMNLP2023
+5268,3235,Adaptive Policy with Wait-k Model for Simultaneous Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.293,EMNLP2023
+5269,3236,Best of Both Worlds: Towards Improving Temporal Knowledge Base Question Answering via Targeted Fact Extraction,Question Answering,False,10.18653/v1/2023.emnlp-main.287,EMNLP2023
+5270,3239,A Training-Free Debiasing Framework with Counterfactual Reasoning for Conversational Emotion Detection,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.967,EMNLP2023
+5271,3241,GradSim: Gradient-Based Language Grouping for Effective Multilingual Training,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.282,EMNLP2023
+5272,3242,Outlier Dimensions Encode Task Specific Knowledge,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.901,EMNLP2023
+5273,3243,"$\textit{Lost in Translation, Found in Spans}$: Identifying Claims in Multilingual Social Media","Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,EMNLP2023
+5274,3244,Stance Detection on Social Media with Background Knowledge,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.972,EMNLP2023
+5275,3251,Benchmarking and Improving Text-to-SQL Generation under Ambiguity,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.436,EMNLP2023
+5276,3266,On Evaluation of Bangla Word Analogies,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.811,EMNLP2023
+5277,3278,Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.343,EMNLP2023
+5278,3289,What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.887,EMNLP2023
+5279,3298,Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.1042,EMNLP2023
+5280,3302,Improving Bias Mitigation through Bias Experts in Natural Language Understanding,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.681,EMNLP2023
+5281,3304,Establishing Trustworthiness: Rethinking Tasks and Model Evaluation,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.14,EMNLP2023
+5282,3306,RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.316,EMNLP2023
+5283,3322,Democratizing Reasoning Ability: Tailored Learning from Large Language Model,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.120,EMNLP2023
+5284,3327,A Quality-based Syntactic Template Retriever for Syntactically-Controlled Paraphrase Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.604,EMNLP2023
+5285,3333,Impressions: Visual Semiotics and Aesthetic Impact Understanding,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.755,EMNLP2023
+5286,3334,CLEVR-Implicit: A Diagnostic Dataset for Implicit Reasoning in Referring Expression Comprehension,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.791,EMNLP2023
+5287,3340,From Parse-Execute to Parse-Execute-Refine: Improving Semantic Parser for Complex Question Answering over Knowledge Base,Question Answering,False,10.18653/v1/2023.emnlp-main.720,EMNLP2023
+5288,3341,SMoP: Towards Efficient and Effective Prompt Tuning with Sparse Mixture-of-Prompts,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.884,EMNLP2023
+5289,3343,Text Rendering Strategies for Pixel Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.628,EMNLP2023
+5290,3359,CORE: A Few-Shot Company Relation Classification Dataset for Robust Domain Adaptation.,Information Extraction,False,10.18653/v1/2023.emnlp-main.722,EMNLP2023
+5291,3370,Rather a Nurse than a Physician - Contrastive Explanations under Investigation,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.427,EMNLP2023
+5292,3379,Critic-Driven Decoding for Mitigating Hallucinations in Data-to-text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.172,EMNLP2023
+5293,3392,CoRec: An Easy Approach for Coordination Recognition,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.934,EMNLP2023
+5294,3402,Conceptual structure coheres in human cognition but not in large language models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.47,EMNLP2023
+5295,3407,MT2: Towards a Multi-Task Machine Translation Model with Translation-Specific In-Context Learning,Machine Translation,False,10.18653/v1/2023.emnlp-main.532,EMNLP2023
+5296,3409,Indicative Summarization of Long Discussions,Summarization,False,10.18653/v1/2023.emnlp-main.166,EMNLP2023
+5297,3410,PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.323,EMNLP2023
+5298,3418,BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.162,EMNLP2023
+5299,3422,Improved Unsupervised Chinese Word Segmentation Using Pre-trained Knowledge and Pseudo-labeling Transfer,"Phonology, Morphology, and Word Segmentation",False,10.18653/v1/2023.emnlp-main.564,EMNLP2023
+5300,3426,Diversify Question Generation with Retrieval-Augmented Style Transfer,Question Answering,False,10.18653/v1/2023.emnlp-main.104,EMNLP2023
+5301,3432,Vision-Enhanced Semantic Entity Recognition in Document Images via Visually-Asymmetric Consistency Learning,Information Extraction,False,10.18653/v1/2023.emnlp-main.973,EMNLP2023
+5302,3433,Rethinking and Improving Multi-task Learning for End-to-end Speech Translation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.663,EMNLP2023
+5303,3445,Gradient-based Gradual Pruning for Language-Specific Multilingual Neural Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.43,EMNLP2023
+5304,3446,Cross-Lingual Cross-Target Stance Detection with Dual Knowledge Distillation Framework,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.666,EMNLP2023
+5305,3447,CRAB: Assessing the Strength of Causal Relationships Between Real-world Events,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.940,EMNLP2023
+5306,3448,ScdNER: Span-Based Consistency-Aware Document-Level Named Entity Recognition,Information Extraction,False,10.18653/v1/2023.emnlp-main.970,EMNLP2023
+5307,3449,"Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.169,EMNLP2023
+5308,3457,FOCUS: Effective Embedding Initialization for Monolingual Specialization of Multilingual Models,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.829,EMNLP2023
+5309,3464,PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter,Question Answering,False,10.18653/v1/2023.emnlp-main.326,EMNLP2023
+5310,3470,"LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages",Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.895,EMNLP2023
+5311,3474,Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.361,EMNLP2023
+5312,3498,"The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models",Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.332,EMNLP2023
+5313,3500,Chinese Lexical Substitution: Dataset and Method,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.3,EMNLP2023
+5314,3512,"Re$^3$Dial: Retrieve, Reorganize and Rescale Conversations for Long-Turn Open-Domain Dialogue Pre-training",Dialogue and Interactive Systems,False,,EMNLP2023
+5315,3514,OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization,Summarization,False,10.18653/v1/2023.emnlp-main.121,EMNLP2023
+5316,3523,CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.607,EMNLP2023
+5317,3537,Somali Information Retrieval Corpus: Bridging the Gap between Query Translation and Dedicated Language Resources,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.462,EMNLP2023
+5318,3540,Generative Adversarial Training with Perturbed Token Detection for Model Robustness,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.804,EMNLP2023
+5319,3543,Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.923,EMNLP2023
+5320,3546,Guideline Learning for In-Context Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.950,EMNLP2023
+5321,3552,Zero-shot Sharpness-Aware Quantization for Pre-trained Language Models,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.696,EMNLP2023
+5322,3558,IDTraffickers: An Authorship Attribution Dataset to link and connect Potential Human-Trafficking Operations on Text Escort Advertisements,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.524,EMNLP2023
+5323,3561,Countering Misinformation via Emotional Response Generation,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.703,EMNLP2023
+5324,3568,Contextual Interaction for Argument Post Quality Assessment,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.645,EMNLP2023
+5325,3572,DialCoT Meets PPO: Decomposing and Exploring Reasoning Paths in Smaller Language Models,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.501,EMNLP2023
+5326,3578,SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA,Question Answering,False,10.18653/v1/2023.emnlp-main.837,EMNLP2023
+5327,3580,ViPE: Visualise Pretty-much Everything,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.333,EMNLP2023
+5328,3595,MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.966,EMNLP2023
+5329,3605,Non-Autoregressive Math Word Problem Solver with Unified Tree Structure,Question Answering,False,10.18653/v1/2023.emnlp-main.199,EMNLP2023
+5330,3606,Unsupervised Sounding Pixel Learning,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.777,EMNLP2023
+5331,3607,Polyglot or Not? Measuring Multilingual Encyclopedic Knowledge in Foundation Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.691,EMNLP2023
+5332,3617,Detecting and Mitigating Hallucinations in Multilingual Summarisation,Summarization,False,10.18653/v1/2023.emnlp-main.551,EMNLP2023
+5333,3621,TRAVEL: Tag-Aware Conversational FAQ Retrieval via Reinforcement Learning,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.234,EMNLP2023
+5334,3622,DNA: Denoised Neighborhood Aggregation for Fine-grained Category Discovery,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.756,EMNLP2023
+5335,3624,Analysing State-Backed Propaganda Websites: a New Dataset and Linguistic Study,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.349,EMNLP2023
+5336,3633,PreWoMe: Exploiting Presuppositions as Working Memory for Long Form Question Answering,Question Answering,False,10.18653/v1/2023.emnlp-main.517,EMNLP2023
+5337,3634,CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.911,EMNLP2023
+5338,3639,A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.796,EMNLP2023
+5339,3644,Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.735,EMNLP2023
+5340,3645,A Diffusion Weighted Graph Framework for New Intent Discovery,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.499,EMNLP2023
+5341,3647,Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.424,EMNLP2023
+5342,3648,Unifying Cross-Lingual Transfer across Scenarios of Resource Scarcity,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.242,EMNLP2023
+5343,3653,Paraphrase Types for Generation and Detection,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.746,EMNLP2023
+5344,3658,NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs,Information Extraction,False,10.18653/v1/2023.emnlp-main.274,EMNLP2023
+5345,3661,Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.658,EMNLP2023
+5346,3665,This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.531,EMNLP2023
+5347,3678,FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.896,EMNLP2023
+5348,3680,Influence Scores at Scale for Efficient Language Data Sampling,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.152,EMNLP2023
+5349,3681,Set Learning for Generative Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.806,EMNLP2023
+5350,3682,Predict the Future from the Past? On the Temporal Data Distribution Shift in Financial Sentiment Classifications,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.65,EMNLP2023
+5351,3695,Understanding the Effect of Model Compression on Social Bias in Large Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.161,EMNLP2023
+5352,3709,KEPL: Knowledge Enhanced Prompt Learning for Chinese Hypernym-Hyponym Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.358,EMNLP2023
+5353,3713,Practical Computational Power of Linear Transformers and Their Recurrent and Self-Referential Extensions,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.588,EMNLP2023
+5354,3725,We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.797,EMNLP2023
+5355,3730,Confidence-based Ensembling of Perspective-aware Models,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.212,EMNLP2023
+5356,3735,Multitask Multimodal Prompted Training for Interactive Embodied Task Completion,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.50,EMNLP2023
+5357,3740,Optimizing Retrieval-augmented Reader Models via Token Elimination,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.93,EMNLP2023
+5358,3742,Controllable Contrastive Generation for Multilingual Biomedical Entity Linking,NLP Applications,False,10.18653/v1/2023.emnlp-main.350,EMNLP2023
+5359,3743,Architectural Sweet Spots for Modeling Human Label Variation by the Example of Argument Quality: It’s Best to Relate Perspectives!,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.687,EMNLP2023
+5360,3744,Improving Unsupervised Relation Extraction by Augmenting Diverse Sentence Pairs,Information Extraction,False,10.18653/v1/2023.emnlp-main.745,EMNLP2023
+5361,3755,"SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation",Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.584,EMNLP2023
+5362,3769,FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization,Summarization,False,10.18653/v1/2023.emnlp-main.673,EMNLP2023
+5363,3777,A Self-enhancement Multitask Framework for Unsupervised Aspect Category Detection,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.500,EMNLP2023
+5364,3787,PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.667,EMNLP2023
+5365,3809,Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.513,EMNLP2023
+5366,3813,Knowledge Distillation ≈ Label Smoothing: Fact or Fallacy?,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.271,EMNLP2023
+5367,3815,HistAlign: Improving Context Dependency in Language Generation by Aligning with History,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.179,EMNLP2023
+5368,3819,Dynamic Top-k Estimation Consolidates Disagreement between Feature Attribution Methods,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.379,EMNLP2023
+5369,3827,Large Language Models are biased to overestimate profoundness,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.599,EMNLP2023
+5370,3838,An Attribution Method for Siamese Encoders,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.980,EMNLP2023
+5371,3848,GROOViST: A Metric for Grounding Objects in Visual Storytelling,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.202,EMNLP2023
+5372,3882,Failures Pave the Way: Enhancing Large Language Models through Tuning-free Rule Accumulation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.109,EMNLP2023
+5373,3886,Regulation and NLP (RegNLP): Taming Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.539,EMNLP2023
+5374,3893,Contrastive Learning of Sentence Embeddings from Scratch,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.238,EMNLP2023
+5375,3894,Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.968,EMNLP2023
+5376,3895,A Simple Baseline for Knowledge-Based Visual Question Answering,Question Answering,False,10.18653/v1/2023.emnlp-main.919,EMNLP2023
+5377,3899,Uncertainty Guided Global Memory Improves Multi-Hop Question Answering,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.262,EMNLP2023
+5378,3905,COVID-19 Vaccine Misinformation in Middle Income Countries,NLP Applications,False,10.18653/v1/2023.emnlp-main.237,EMNLP2023
+5379,3909,The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.782,EMNLP2023
+5380,3911,Structural Priming Demonstrates Abstract Grammatical Representations in Multilingual Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.227,EMNLP2023
+5381,3912,NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling Social Norm Adherence and Violation,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.974,EMNLP2023
+5382,3919,Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.277,EMNLP2023
+5383,3930,Multimodal Embodied Plan Prediction Augmented with Synthetic Embodied Dialogue,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.374,EMNLP2023
+5384,3936,S2abEL: A Dataset for Entity Linking from Scientific Tables,Information Extraction,False,10.18653/v1/2023.emnlp-main.186,EMNLP2023
+5385,3938,Revisiting the Optimality of Word Lengths,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.137,EMNLP2023
+5386,3946,CLAIR: Evaluating Image Captions with Large Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.841,EMNLP2023
+5387,3951,ClusterLLM: Large Language Models as a Guide for Text Clustering,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.858,EMNLP2023
+5388,3958,ZGUL: Zero-shot Generalization to Unseen Languages using Multi-source Ensembling of Language Adapters,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.431,EMNLP2023
+5389,3959,Cross-Modal Conceptualization in Bottleneck Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.318,EMNLP2023
+5390,3969,Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.425,EMNLP2023
+5391,3974,ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games,NLP Applications,False,10.18653/v1/2023.emnlp-main.830,EMNLP2023
+5392,3975,Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.591,EMNLP2023
+5393,3978,Large Language Models Only Pass Primary School Exams in Indonesia: A Comprehensive Test on IndoMMLU,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.760,EMNLP2023
+5394,3987,Code-Switching Metrics Using Intonation Units,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.1047,EMNLP2023
+5395,3994,Mitigating Temporal Misalignment by Discarding Outdated Facts,Question Answering,False,10.18653/v1/2023.emnlp-main.879,EMNLP2023
+5396,4005,Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models,Question Answering,False,10.18653/v1/2023.emnlp-main.468,EMNLP2023
+5397,4008,Reconstruct Before Summarize: An Efficient Two-Step Framework for Condensing and Summarizing Meeting Transcripts,Summarization,False,10.18653/v1/2023.emnlp-main.812,EMNLP2023
+5398,4013,Language Models with Rationality,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.877,EMNLP2023
+5399,4017,You Told Me That Joke Twice: A Systematic Investigation of Transferability and Robustness of Humor Detection Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.845,EMNLP2023
+5400,4020,An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives,Dialogue and Interactive Systems,False,,EMNLP2023
+5401,4032,Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.618,EMNLP2023
+5402,4034,Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection,Machine Translation,False,10.18653/v1/2023.emnlp-main.705,EMNLP2023
+5403,4037,The neural dynamics of word recognition and integration,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.62,EMNLP2023
+5404,4042,Data Factors for Better Compositional Generalization,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.898,EMNLP2023
+5405,4046,Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.299,EMNLP2023
+5406,4049,Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning,NLP Applications,False,10.18653/v1/2023.emnlp-main.36,EMNLP2023
+5407,4051,Improving Diversity of Demographic Representation in Large Language Models via Collective-Critiques and Self-Voting,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.643,EMNLP2023
+5408,4060,Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.291,EMNLP2023
+5409,4061,Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.920,EMNLP2023
+5410,4083,Hierarchical Pretraining on Multimodal Electronic Health Records,NLP Applications,False,10.18653/v1/2023.emnlp-main.171,EMNLP2023
+5411,4087,Multi-Task Knowledge Distillation with Embedding Constraints for Scholarly Keyphrase Boundary Classification,NLP Applications,False,10.18653/v1/2023.emnlp-main.805,EMNLP2023
+5412,4089,Pre-training Language Models for Comparative Reasoning,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.763,EMNLP2023
+5413,4093,Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks,Information Extraction,False,10.18653/v1/2023.emnlp-main.467,EMNLP2023
+5414,4094,"What to Read in a Contract? Party-Specific Summarization of Legal Obligations, Entitlements, and Prohibitions",NLP Applications,False,10.18653/v1/2023.emnlp-main.909,EMNLP2023
+5415,4104,"What's ""up"" with vision-language models? Investigating their struggle with spatial reasoning","Interpretability, Interactivity, and Analysis of Models for NLP",True,,EMNLP2023
+5416,4107,The Framework Tax: Disparities Between Inference Efficiency in NLP Research and Deployment,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.98,EMNLP2023
+5417,4124,When Language Models Fall in Love: Animacy Processing in Transformer Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.744,EMNLP2023
+5418,4132,"AMR Parsing is Far from Solved: GrAPES, the Granular AMR Parsing Evaluation Suite",Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.662,EMNLP2023
+5419,4136,StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.752,EMNLP2023
+5420,4137,From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.598,EMNLP2023
+5421,4139,From Heuristic to Analytic: Cognitively Motivated Strategies for Coherent Physical Commonsense Reasoning,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.456,EMNLP2023
+5422,4142,Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.96,EMNLP2023
+5423,4148,CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation,NLP Applications,False,10.18653/v1/2023.emnlp-main.92,EMNLP2023
+5424,4152,The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.356,EMNLP2023
+5425,4154,“Mistakes Help Us Grow”: Facilitating and Evaluating Growth Mindset Supportive Language in Classrooms,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.549,EMNLP2023
+5426,4157,Improving Summarization with Human Edits,Summarization,False,10.18653/v1/2023.emnlp-main.158,EMNLP2023
+5427,4162,Grammar-Constrained Decoding for Structured NLP Tasks without Finetuning,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.674,EMNLP2023
+5428,4172,"M4: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation",Resources and Evaluation,False,,EMNLP2023
+5429,4176,Promoting Topic Coherence and Inter-Document Consorts in Multi-Document Summarization via Simplicial Complex and Sheaf Graph,Summarization,False,10.18653/v1/2023.emnlp-main.133,EMNLP2023
+5430,4178,Theory of Mind for Multi-Agent Collaboration via Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.13,EMNLP2023
+5431,4189,Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.742,EMNLP2023
+5432,4193,Characterizing Mechanisms for Factual Recall in Language Models,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.615,EMNLP2023
+5433,4200,Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.721,EMNLP2023
+5434,4206,Continual Dialogue State Tracking via Example-Guided Question Answering,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.235,EMNLP2023
+5435,4220,Identification of Multimodal Stance Towards Frames of Communication,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.776,EMNLP2023
+5436,4225,Efficient Classification of Long Documents via State-Space Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.404,EMNLP2023
+5437,4227,Seeing through the mess: evolutionary dynamics of lexical polysemy,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.541,EMNLP2023
+5438,4228,Bias Neutralization in Non-Parallel Texts: A Cyclic Approach with Auxiliary Guidance,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.882,EMNLP2023
+5439,4233,Larger Probes Tell a Different Story: Extending Psycholinguistic Datasets Via In-Context Learning,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.130,EMNLP2023
+5440,4240,Physician Detection of Clinical Harm in Machine Translation: Quality Estimation Aids in Reliance and Backtranslation Identifies Critical Errors,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.712,EMNLP2023
+5441,4243,ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.622,EMNLP2023
+5442,4248,TATA: Stance Detection via Topic-Agnostic and Topic-Aware Embeddings,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.694,EMNLP2023
+5443,4253,DSI++: Updating Transformer Memory with New Documents,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.510,EMNLP2023
+5444,4261,Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.690,EMNLP2023
+5445,4269,GD-COMET: A Geo-Diverse Commonsense Inference Model,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.496,EMNLP2023
+5446,4273,Goal-Driven Explainable Clustering via Language Descriptions,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.657,EMNLP2023
+5447,4277,Large Language Models Can Self-Improve,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.67,EMNLP2023
+5448,4290,Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.563,EMNLP2023
+5449,4295,G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.153,EMNLP2023
+5450,4296,Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.362,EMNLP2023
+5451,4302,Simple Temporal Adaptation to Changing Label Sets: Hashtag Prediction via Dense KNN,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.452,EMNLP2023
+5452,4304,GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.16,EMNLP2023
+5453,4314,DUnE: Dataset for Unified Editing,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.114,EMNLP2023
+5454,4316,Data Similarity is Not Enough to Explain Language Model Performance,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.695,EMNLP2023
+5455,4323,A Predictive Factor Analysis of Social Biases and Task-Performance in Pretrained Masked Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.683,EMNLP2023
+5456,4325,Harnessing Black-Box Control to Boost Commonsense in LM's Generation,Natural Language Generation,False,,EMNLP2023
+5457,4328,$k$NN-LM Does Not Improve Open-ended Text Generation,Natural Language Generation,False,,EMNLP2023
+5458,4333,Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.211,EMNLP2023
+5459,4339,Enabling Large Language Models to Generate Text with Citations,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.398,EMNLP2023
+5460,4341,"EntSUMv2: Dataset, Models and Evaluation for More Abstractive Entity-Centric Summarization",Summarization,False,10.18653/v1/2023.emnlp-main.337,EMNLP2023
+5461,4360,C-STS: Conditional Semantic Textual Similarity,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.345,EMNLP2023
+5462,4362,What Else Do I Need to Know? The Effect of Background Information on Users’ Reliance on QA Systems,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.201,EMNLP2023
+5463,4363,HiddenTables and PyQTax: A Cooperative Game and Dataset For TableQA to Ensure Scale and Data Privacy Across a Myriad of Taxonomies,Information Extraction,False,10.18653/v1/2023.emnlp-main.442,EMNLP2023
+5464,4365,Selectively Answering Ambiguous Questions,Question Answering,False,10.18653/v1/2023.emnlp-main.35,EMNLP2023
+5465,4382,Seq2seq is All You Need for Coreference Resolution,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.704,EMNLP2023
+5466,4386,Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.71,EMNLP2023
+5467,4387,A Scalable Framework for Table of Contents Extraction from Complex ESG Annual Reports,NLP Applications,False,10.18653/v1/2023.emnlp-main.816,EMNLP2023
+5468,4394,CodeFusion: A Pre-trained Diffusion Model for Code Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.716,EMNLP2023
+5469,4404,Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.188,EMNLP2023
+5470,4408,Taxonomy Expansion for Named Entity Recognition,Information Extraction,False,10.18653/v1/2023.emnlp-main.426,EMNLP2023
+5471,4413,Pragmatic Reasoning Unlocks Quantifier Semantics for Foundation Models,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.38,EMNLP2023
+5472,4416,SpEL: Structured Prediction for Entity Linking,Information Extraction,False,10.18653/v1/2023.emnlp-main.686,EMNLP2023
+5473,4417,Evaluating and Modeling Attribution for Cross-Lingual Question Answering,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.10,EMNLP2023
+5474,4422,A State-Vector Framework for Dataset Effects,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.942,EMNLP2023
+5475,4427,Deep Natural Language Feature Learning for Interpretable Prediction,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.229,EMNLP2023
+5476,4436,Transcending Scaling Laws with 0.1% Extra Compute,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.91,EMNLP2023
+5477,4451,The Shifted and The Overlooked: A Task-oriented Investigation of User-GPT Interactions,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.146,EMNLP2023
+5478,4454,Token Prediction as Implicit Classification to Identify LLM-Generated Text,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.810,EMNLP2023
+5479,4458,The Art of SOCRATIC QUESTIONING: Recursive Thinking with Large Language Models,Question Answering,False,10.18653/v1/2023.emnlp-main.255,EMNLP2023
+5480,4462,Are All Steps Equally Important? Benchmarking Essentiality Detection in Event Processes,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.246,EMNLP2023
+5481,4469,Active Retrieval Augmented Generation,Question Answering,False,10.18653/v1/2023.emnlp-main.495,EMNLP2023
+5482,4477,Ling-CL: Understanding NLP Models through Linguistic Curricula,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.834,EMNLP2023
+5483,4481,Analyzing Modular Approaches for Visual Question Decomposition,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.157,EMNLP2023
+5484,4485,BERTie Bott's Every Flavor Labels: A Tasty Introduction to Semantic Role Labeling for Galician,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,,EMNLP2023
+5485,4487,Evaluation of African American Language Bias in Natural Language Generation,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.421,EMNLP2023
+5486,4505,Increasing Probability Mass on Answer Choices Does Not Always Improve Accuracy,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.522,EMNLP2023
+5487,4512,Distance-Based Propagation for Efficient Knowledge Graph Reasoning,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.908,EMNLP2023
+5488,4526,TCFLE-8: a Corpus of Learner Written Productions for French as a Foreign Language and its Application to Automated Essay Scoring,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.210,EMNLP2023
+5489,4534,Editing Common Sense in Transformers,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.511,EMNLP2023
+5490,4539,Hi Guys or Hi Folks? Benchmarking Gender-Neutral Machine Translation with the GeNTE Corpus,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.873,EMNLP2023
+5491,4544,A Question Answering Framework for Decontextualizing User-facing Snippets from Scientific Documents,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.193,EMNLP2023
+5492,4548,"The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.148,EMNLP2023
+5493,4552,Using Artificial French Data to Understand the Emergence of Gender Bias in Transformer Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.641,EMNLP2023
+5494,4555,Construction Artifacts in Metaphor Identification Datasets,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.406,EMNLP2023
+5495,4557,Support or Refute: Analyzing the Stance of Evidence to Detect Out-of-Context Mis- and Disinformation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.259,EMNLP2023
+5496,4558,Emergence of Abstract State Representations in Embodied Sequence Modeling,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.749,EMNLP2023
+5497,4561,Task-Agnostic Low-Rank Adapters for Unseen English Dialects,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.487,EMNLP2023
+5498,4565,End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.449,EMNLP2023
+5499,4568,Recurrent Neural Language Models as Probabilistic Finite-state Automata,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.502,EMNLP2023
+5500,4574,Debiasing Made State-of-the-art: Revisiting the Simple Seed-based Weak Supervision for Text Classification,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.32,EMNLP2023
+5501,4575,Combining Denoising Autoencoders with Contrastive Learning to fine-tune Transformer Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.124,EMNLP2023
+5502,4578,Background Summarization of Event Timelines,Summarization,False,10.18653/v1/2023.emnlp-main.505,EMNLP2023
+5503,4583,Non-Programmers Can Label Programs Indirectly via Active Examples: A Case Study with Text-to-SQL,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.312,EMNLP2023
+5504,4588,Deciphering Stereotypes in Pre-Trained Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.697,EMNLP2023
+5505,4594,Sparse Universal Transformer,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.12,EMNLP2023
+5506,4604,Unlearn What You Want to Forget: Efficient Unlearning for LLMs,NLP Applications,False,10.18653/v1/2023.emnlp-main.738,EMNLP2023
+5507,4608,Holistic Inter-Annotator Agreement and Corpus Coherence Estimation in a Large-scale Multilingual Annotation Campaign,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.6,EMNLP2023
+5508,4618,"Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata",Question Answering,False,10.18653/v1/2023.emnlp-main.353,EMNLP2023
+5509,4628,A Cheaper and Better Diffusion Language Model with Soft-Masked Noise,NLP Applications,False,10.18653/v1/2023.emnlp-main.289,EMNLP2023
+5510,4629,Efficient Algorithms for Recognizing Weighted Tree-Adjoining Languages,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.328,EMNLP2023
+5511,4648,Exploring Linguistic Probes for Morphological Inflection,"Phonology, Morphology, and Word Segmentation",False,10.18653/v1/2023.emnlp-main.552,EMNLP2023
+5512,4653,Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning via Compositional Operations,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.900,EMNLP2023
+5513,4656,Bridging Background Knowledge Gaps in Translation with Automatic Explicitation,Machine Translation,False,10.18653/v1/2023.emnlp-main.603,EMNLP2023
+5514,4658,Improving Language Models’ Meaning Understanding and Consistency by Learning Conceptual Roles from Dictionary,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.527,EMNLP2023
+5515,4681,Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.245,EMNLP2023
+5516,4690,Understanding the Inner-workings of Language Models Through Representation Dissimilarity,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.403,EMNLP2023
+5517,4702,Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.79,EMNLP2023
+5518,4711,Abstractive Open Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.376,EMNLP2023
+5519,4715,Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting,Machine Translation,False,10.18653/v1/2023.emnlp-main.933,EMNLP2023
+5520,4718,Natural Language Decompositions of Implicit Content Enable Better Text Representations,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.815,EMNLP2023
+5521,4724,GeoLM: Empowering Language Models for Geospatially Grounded Language Understanding,NLP Applications,False,10.18653/v1/2023.emnlp-main.317,EMNLP2023
+5522,4728,Ties Matter: Meta-Evaluating Modern Metrics with Pairwise Accuracy and Tie Calibration,Machine Translation,False,10.18653/v1/2023.emnlp-main.798,EMNLP2023
+5523,4730,JASMINE: Arabic GPT Models for Few-Shot Learning,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.1040,EMNLP2023
+5524,4734,Oolong: Investigating What Makes Transfer Learning Hard with Controlled Studies,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.198,EMNLP2023
+5525,4737,Memory-Based Invariance Learning for Out-of-Domain Text Classification,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.101,EMNLP2023
+5526,4741,Exploring Chain of Thought Style Prompting for Text-to-SQL,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.327,EMNLP2023
+5527,4754,Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.302,EMNLP2023
+5528,4756,Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.330,EMNLP2023
+5529,4759,Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.840,EMNLP2023
+5530,4762,Gender Biases in Automatic Evaluation Metrics for Image Captioning,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.520,EMNLP2023
+5531,4763,Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.348,EMNLP2023
+5532,4772,Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.699,EMNLP2023
+5533,4778,Semantic matching for text classification with complex class descriptions,NLP Applications,False,10.18653/v1/2023.emnlp-main.475,EMNLP2023
+5534,4783,Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.100,EMNLP2023
+5535,4789,Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.265,EMNLP2023
+5536,4790,"DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding",Question Answering,False,10.18653/v1/2023.emnlp-main.191,EMNLP2023
+5537,4801,We're Afraid Language Models Aren't Modeling Ambiguity,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,,EMNLP2023
+5538,4803,Hallucination Mitigation in Natural Language Generation from Large-Scale Open-Domain Knowledge Graphs,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.770,EMNLP2023
+5539,4808,UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.906,EMNLP2023
+5540,4812,FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge,Summarization,False,10.18653/v1/2023.emnlp-main.59,EMNLP2023
+5541,4813,Bootstrapping Small \& High Performance Language Models with Unmasking-Removal Training Policy,Efficient Methods for NLP,False,,EMNLP2023
+5542,4819,Evaluating Cross-Domain Text-to-SQL Models and Benchmarks,NLP Applications,False,10.18653/v1/2023.emnlp-main.99,EMNLP2023
+5543,4823,Better Quality Pre-training Data and T5 Models for African Languages,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.11,EMNLP2023
+5544,4831,Quantifying the redundancy between prosody and text,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.606,EMNLP2023
+5545,4839,PAC-tuning: Fine-tuning Pre-trained Language Models with PAC-driven Perturbed Gradient Descent,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.748,EMNLP2023
+5546,4844,Hidding the Ghostwriters: An Adversarial Evaluation of AI-Generated Student Essay Detection,NLP Applications,False,10.18653/v1/2023.emnlp-main.644,EMNLP2023
+5547,4865,Length is a Curse and a Blessing for Document-level Semantics,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.86,EMNLP2023
+5548,4876,Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.135,EMNLP2023
+5549,4887,Meta-Learning Online Adaptation of Language Models,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.268,EMNLP2023
+5550,4901,"Introducing Rhetorical Parallelism Detection: A New Task with Datasets, Metrics, and Baselines","Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.305,EMNLP2023
+5551,4907,CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code,NLP Applications,False,10.18653/v1/2023.emnlp-main.859,EMNLP2023
+5552,4922,Unveiling the Implicit Toxicity in Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.84,EMNLP2023
+5553,4926,Well Begun is Half Done: Generator-agnostic Knowledge Pre-Selection for Knowledge-Grounded Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.285,EMNLP2023
+5554,4935,It Ain't Over: A Multi-aspect Diverse Math Word Problem Dataset,Resources and Evaluation,False,,EMNLP2023
+5555,4944,ALCUNA: Large Language Models Meet New Knowledge,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.87,EMNLP2023
+5556,4955,Semi-automatic Data Enhancement for Document-Level Relation Extraction with Distant Supervision from Large Language Models,Information Extraction,False,10.18653/v1/2023.emnlp-main.334,EMNLP2023
+5557,4958,3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.656,EMNLP2023
+5558,4963,Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning,Information Extraction,False,10.18653/v1/2023.emnlp-main.433,EMNLP2023
+5559,4975,Tagging-Assisted Generation Model with Encoder and Decoder Supervision for Aspect Sentiment Triplet Extraction,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.129,EMNLP2023
+5560,4977,Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.304,EMNLP2023
+5561,4993,ACQUIRED: A Dataset for Answering Counterfactual Questions In Real-Life Videos,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.719,EMNLP2023
+5562,4994,AMR Parsing with Causal Hierarchical Attention and Pointers,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.553,EMNLP2023
+5563,5005,We Need to Talk About Reproducibility in NLP Model Comparison,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.586,EMNLP2023
+5564,5016,Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.360,EMNLP2023
+5565,5018,Identifying Informational Sources in News Articles,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.221,EMNLP2023
+5566,5030,When the Majority is Wrong: Modeling Annotator Disagreement for Subjective Tasks,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.415,EMNLP2023
+5567,5033,CRT-QA: A Dataset of Complex Reasoning Question Answering over Tabular Data,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.132,EMNLP2023
+5568,5046,GPT-RE: In-context Learning for Relation Extraction using Large Language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.214,EMNLP2023
+5569,5048,Learn and Consolidate: Continual Adaptation for Zero-Shot and Multilingual Neural Machine Translation,Machine Translation,False,10.18653/v1/2023.emnlp-main.860,EMNLP2023
+5570,5074,Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.937,EMNLP2023
+5571,5077,Analyzing Norm Violations in Live-Stream Chat,NLP Applications,False,10.18653/v1/2023.emnlp-main.55,EMNLP2023
+5572,5079,Let's Think Frame by Frame with VIP: A Video Infilling and Prediction Dataset for Evaluating Video Chain-of-Thought,"Language Grounding to Vision, Robotics and Beyond",False,,EMNLP2023
+5573,5090,Do Language Models Have a Common Sense regarding Time? Revisiting Temporal Commonsense Reasoning in the Era of Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.418,EMNLP2023
+5574,5093,Model-tuning Via Prompts Makes NLP Models Adversarially Robust,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.576,EMNLP2023
+5575,5094,Struct-XLM: A Structure Discovery Multilingual Language Model for Enhancing Cross-lingual Transfer through Reinforcement Learning,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.207,EMNLP2023
+5576,5103,Poisoning Retrieval Corpora by Injecting Adversarial Passages,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.849,EMNLP2023
+5577,5116,GlobalBench: A Benchmark for Global Progress in Natural Language Processing,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.875,EMNLP2023
+5578,5117,PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.780,EMNLP2023
+5579,5125,On the Automatic Generation and Simplification of Children's Stories,Natural Language Generation,False,,EMNLP2023
+5580,5129,Unifying Discrete and Continuous Representations for Unsupervised Paraphrase Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.852,EMNLP2023
+5581,5132,Centering the Margins: Outlier-Based Identification of Harmed Populations in Toxicity Detection,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.579,EMNLP2023
+5582,5134,Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering,Question Answering,False,10.18653/v1/2023.emnlp-main.547,EMNLP2023
+5583,5149,Syllogistic Reasoning for Legal Judgment Analysis,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.864,EMNLP2023
+5584,5150,EtiCor: Corpus for Analyzing LLMs for Etiquettes,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.428,EMNLP2023
+5585,5175,Instruct and Extract: Instruction Tuning for On-Demand Information Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.620,EMNLP2023
+5586,5180,BRAINTEASER: Lateral Thinking Puzzles for Large Language Models,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.885,EMNLP2023
+5587,5182,SciRepEval: A Multi-Format Benchmark for Scientific Document Representations,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.338,EMNLP2023
+5588,5184,ULF: Unsupervised Labeling Function Correction using Cross-Validation for Weak Supervision,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.254,EMNLP2023
+5589,5189,Making Large Language Models Better Data Creators,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.948,EMNLP2023
+5590,5193,Incorporating Worker Perspectives into MTurk Annotation Practices for NLP,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.64,EMNLP2023
+5591,5195,TempTabQA: Temporal Question Answering for Semi-Structured Tables,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.149,EMNLP2023
+5592,5201,MEGA: Multilingual Evaluation of Generative AI,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.258,EMNLP2023
+5593,5209,Look-back Decoding for Open-Ended Text Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.66,EMNLP2023
+5594,5231,Scalable-DSC: A Structural Template Prompt Approach to Scalable Dialogue State Correction,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.490,EMNLP2023
+5595,5232,PEFTDebias : Capturing debiasing information using PEFTs,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.122,EMNLP2023
+5596,5245,Enhancing Structured Evidence Extraction for Fact Verification,NLP Applications,False,10.18653/v1/2023.emnlp-main.409,EMNLP2023
+5597,5258,Pushdown Layers: Encoding Recursive Structure in Transformer Language Models,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.195,EMNLP2023
+5598,5260,LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers,Commonsense Reasoning,False,10.18653/v1/2023.emnlp-main.313,EMNLP2023
+5599,5279,e-THERAPIST: I suggest you to cultivate a mindset of positivity and nurture uplifting thoughts,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.861,EMNLP2023
+5600,5283,Evaluating Large Language Models on Controlled Generation Tasks,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.190,EMNLP2023
+5601,5303,Enhancing the Ranking Context of Dense Retrieval through Reciprocal Nearest Neighbors,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.665,EMNLP2023
+5602,5313,Towards Building More Robust NER datasets: An Empirical Study on NER Dataset Bias from a Dataset Difficulty View,Information Extraction,False,10.18653/v1/2023.emnlp-main.281,EMNLP2023
+5603,5317,System Combination via Quality Estimation for Grammatical Error Correction,NLP Applications,False,10.18653/v1/2023.emnlp-main.785,EMNLP2023
+5604,5329,Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning,Summarization,False,10.18653/v1/2023.emnlp-main.977,EMNLP2023
+5605,5338,Can Large Language Models Capture Dissenting Human Voices?,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.278,EMNLP2023
+5606,5344,Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.910,EMNLP2023
+5607,5355,M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.561,EMNLP2023
+5608,5361,CRUSH4SQL: Collective Retrieval Using Schema Hallucination For Text2SQL,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.868,EMNLP2023
+5609,5367,SuperDialseg: A Large-scale Dataset for Supervised Dialogue Segmentation,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.249,EMNLP2023
+5610,5368,Learning Preference Model for LLMs via Automatic Preference Data Generation,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.570,EMNLP2023
+5611,5369,Using Interpretation Methods for Model Enhancement,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.28,EMNLP2023
+5612,5386,Joint Geometrical and Statistical Domain Adaptation for Cross-domain Code Vulnerability Detection,NLP Applications,False,10.18653/v1/2023.emnlp-main.788,EMNLP2023
+5613,5401,Sparse Low-rank Adaptation of Pre-trained Language Models,Efficient Methods for NLP,False,10.18653/v1/2023.emnlp-main.252,EMNLP2023
+5614,5403,Cultural Concept Adaptation on Multimodal Reasoning,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.18,EMNLP2023
+5615,5419,ALDi: Quantifying the Arabic Level of Dialectness of Text,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.655,EMNLP2023
+5616,5432,Reducing Sequence Length by Predicting Edit Spans with Large Language Models,NLP Applications,False,10.18653/v1/2023.emnlp-main.619,EMNLP2023
+5617,5446,Building Multi-domain Dialog State Trackers from Single-domain Dialogs,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.946,EMNLP2023
+5618,5453,Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.225,EMNLP2023
+5619,5458,Learning to Rank Context for Named Entity Recognition Using a Synthetic Dataset,Information Extraction,False,10.18653/v1/2023.emnlp-main.642,EMNLP2023
+5620,5475,LLM-enhanced Self-training for Cross-domain Constituency Parsing,"Syntax, Parsing and their Applications",False,10.18653/v1/2023.emnlp-main.508,EMNLP2023
+5621,5478,VECHR: A Dataset for Explainable and Robust Classification of Vulnerability Type in the European Court of Human Rights,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.718,EMNLP2023
+5622,5481,Once Upon a ${\it Time}$ in ${\it Graph}$: Relative-Time Pretraining for Complex Temporal Reasoning,Question Answering,False,,EMNLP2023
+5623,5490,"CRaSh: Clustering, Removing, and Sharing Enhance Fine-tuning without Full Large Language Model",Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.597,EMNLP2023
+5624,5493,From Dissonance to Insights: Dissecting Disagreements in Rationale Construction for Case Outcome Classification,Human-Centered NLP,False,10.18653/v1/2023.emnlp-main.594,EMNLP2023
+5625,5507,InterFair: Debiasing with Natural Language Feedback for Fair Interpretable Predictions,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.589,EMNLP2023
+5626,5513,The Generalized Left-Corner Transformation,"Syntax, Parsing and their Applications",False,,EMNLP2023
+5627,5530,Is ChatGPT a General-Purpose Natural Language Processing Task Solver?,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.85,EMNLP2023
+5628,5556,Counting the Bugs in ChatGPT's Wugs: A Multilingual Investigation into the Morphological Capabilities of a Large Language Model,"Phonology, Morphology, and Word Segmentation",False,,EMNLP2023
+5629,5565,A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.243,EMNLP2023
+5630,5570,INFORM : Information eNtropy based multi-step reasoning FOR large language Models,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.216,EMNLP2023
+5631,5571,Copyright Violations and Large Language Models,Ethics in NLP,False,10.18653/v1/2023.emnlp-main.458,EMNLP2023
+5632,5583,Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering,NLP Applications,False,10.18653/v1/2023.emnlp-main.803,EMNLP2023
+5633,5592,The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.220,EMNLP2023
+5634,5597,On the Representational Capacity of Recurrent Neural Language Models,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.434,EMNLP2023
+5635,5600,"Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.395,EMNLP2023
+5636,5606,"""Fifty Shades of Bias"": Normative Ratings of Gender Bias in GPT Generated English Text",Human-Centered NLP,False,,EMNLP2023
+5637,5607,DisCo: Distilled Student Models Co-training for Semi-supervised Text Mining,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.244,EMNLP2023
+5638,5611,Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division,Machine Translation,False,10.18653/v1/2023.emnlp-main.736,EMNLP2023
+5639,5633,Doolittle: Benchmarks and Corpora for Academic Writing Formalization,Theme Track: Large Language Models and the Future of NLP,False,10.18653/v1/2023.emnlp-main.809,EMNLP2023
+5640,5634,Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.466,EMNLP2023
+5641,5641,Speech Recognition and Meaning Interpretation: Towards Disambiguation of Structurally Ambiguous Spoken Utterances in Indonesian,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.1045,EMNLP2023
+5642,5657,Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.342,EMNLP2023
+5643,5680,Clustering Pseudo Language Family in Multilingual Translation Models with Fisher Information Matrix,Multilinguality and Linguistic Diversity,False,10.18653/v1/2023.emnlp-main.851,EMNLP2023
+5644,5694,HyperNetwork-based Decoupling to Improve Model Generalization for Few-Shot Relation Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.381,EMNLP2023
+5645,5704,PromptST: Abstract Prompt Learning for End-to-End Speech Translation,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.627,EMNLP2023
+5646,5721,Learning to Rank Generation with Pairwise Partial Rewards,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.371,EMNLP2023
+5647,5725,Prompt-based Logical Semantics Enhancement for Implicit Discourse Relation Recognition,Discourse and Pragmatics,False,10.18653/v1/2023.emnlp-main.45,EMNLP2023
+5648,5729,Pointwise Mutual Information Based Metric and Decoding Strategy for Faithful Generation in Document Grounded Dialogs,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.639,EMNLP2023
+5649,5740,Enhancing Biomedical Lay Summarisation with External Knowledge Graphs,Summarization,False,10.18653/v1/2023.emnlp-main.498,EMNLP2023
+5650,5742,When Reviewers Lock Horns: Finding Disagreements in Scientific Peer Reviews,Information Extraction,False,10.18653/v1/2023.emnlp-main.1038,EMNLP2023
+5651,5754,Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.231,EMNLP2023
+5652,5767,Revisiting the Knowledge Injection Frameworks,NLP Applications,False,10.18653/v1/2023.emnlp-main.677,EMNLP2023
+5653,5768,Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.402,EMNLP2023
+5654,5771,SOUL: Towards Sentiment and Opinion Understanding of Language,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.538,EMNLP2023
+5655,5791,Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.275,EMNLP2023
+5656,5800,Unnatural Error Correlation: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text,Language Modeling and Analysis of Language Models,,,EMNLP2023
+5657,5813,"EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification","Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.826,EMNLP2023
+5658,5822,Non-autoregressive Text Editing with Copy-aware Latent Alignments,NLP Applications,False,10.18653/v1/2023.emnlp-main.437,EMNLP2023
+5659,5838,"Cross-Cultural Analysis of Human Values, Morals, and Biases in Folk Tales",Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.311,EMNLP2023
+5660,5840,FinGPT: Large Generative Models for a Small Language,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.164,EMNLP2023
+5661,5844,Unsupervised Grammatical Error Correction Rivaling Supervised Methods,NLP Applications,False,10.18653/v1/2023.emnlp-main.185,EMNLP2023
+5662,5864,ReSee: Responding through Seeing Fine-grained Visual Knowledge in Open-domain Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.479,EMNLP2023
+5663,5879,Adaptive End-to-End Metric Learning for Zero-Shot Cross-Domain Slot Filling,Information Extraction,False,10.18653/v1/2023.emnlp-main.387,EMNLP2023
+5664,ARR 1,Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.1026,EMNLP2023
+5665,ARR 3,Detecting Spoilers in Movie Reviews with External Movie Knowledge and User Networks,NLP Applications,False,10.18653/v1/2023.emnlp-main.995,EMNLP2023
+5666,ARR 8,Reformulating NLP tasks to Capture Longitudinal Manifestation of Language Disorders in People with Dementia.,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.986,EMNLP2023
+5667,ARR 10,P5: Plug-and-Play Persona Prompting for Personalized Response Selection,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.1031,EMNLP2023
+5668,ARR 11,Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference,Machine Translation,False,10.18653/v1/2023.emnlp-main.1033,EMNLP2023
+5669,ARR 13,NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.985,EMNLP2023
+5670,ARR 15,ATHENA: Mathematical Reasoning with Thought Expansion,NLP Applications,False,10.18653/v1/2023.emnlp-main.1014,EMNLP2023
+5671,ARR 16,Length Does Matter: Summary Length can Bias Summarization Metrics,Summarization,False,10.18653/v1/2023.emnlp-main.984,EMNLP2023
+5672,ARR 21,HyperRank: Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction,Information Extraction,False,10.18653/v1/2023.emnlp-main.997,EMNLP2023
+5673,ARR 24,A Digital Language Coherence Marker for Monitoring Dementia,Computational Social Science and Cultural Analytics,False,10.18653/v1/2023.emnlp-main.994,EMNLP2023
+5674,ARR 25,AnyTOD: A Programmable Task-Oriented Dialog System,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.1006,EMNLP2023
+5675,ARR 28,Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,EMNLP2023
+5676,ARR 30,Mitigating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection,Information Extraction,False,10.18653/v1/2023.emnlp-main.1017,EMNLP2023
+5677,ARR 31,"FAME: Flexible, Scalable Analogy Mappings Engine",NLP Applications,False,10.18653/v1/2023.emnlp-main.1023,EMNLP2023
+5678,ARR 32,More Than Spoken Words: Nonverbal Message Extraction and Generation,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.1021,EMNLP2023
+5679,ARR 33,A Picture is Worth a Thousand Words: Language Models Plan from Pixels,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.1025,EMNLP2023
+5680,ARR 34,A Self-training Framework for Automated Medical Report Generation,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.1024,EMNLP2023
+5681,ARR 35,Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,,EMNLP2023
+5682,ARR 38,CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Low Resource With Contrastive Learning,NLP Applications,False,10.18653/v1/2023.emnlp-main.1005,EMNLP2023
+5683,ARR 39,Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones?,Dialogue and Interactive Systems,False,,EMNLP2023
+5684,ARR 40,Consistency Analysis of ChatGPT,Language Modeling and Analysis of Language Models,,10.18653/v1/2023.emnlp-main.991,EMNLP2023
+5685,ARR 42,PK-ICR: Persona-Knowledge Interactive Multi-Context Retrieval for Grounded Dialogue,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.1020,EMNLP2023
+5686,ARR 46,Relation-aware Ensemble Learning for Knowledge Graph Embedding,Machine Learning for NLP,False,10.18653/v1/2023.emnlp-main.1034,EMNLP2023
+5687,ARR 47,MAUD: An Expert-Annotated Legal NLP Dataset for Merger Agreement Understanding,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.1019,EMNLP2023
+5688,ARR 50,Reader: Model-based language-instructed reinforcement learning,"Language Grounding to Vision, Robotics and Beyond",False,10.18653/v1/2023.emnlp-main.1032,EMNLP2023
+5689,ARR 52,Predict and Use: Harnessing Predicted Gaze to Improve Multimodal Sarcasm Detection,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.988,EMNLP2023
+5690,ARR 59,ViT-TTS: Visual Text-to-Speech with Scalable Diffusion Transformer,Speech and Multimodality,False,10.18653/v1/2023.emnlp-main.990,EMNLP2023
+5691,ARR 60,Multilingual Previously Fact-Checked Claim Retrieval,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.1027,EMNLP2023
+5692,ARR 66,Assessing the influence of attractor-verb distance on grammatical agreement in humans and language models,"Linguistic Theories, Cognitive Modeling, and Psycholinguistics",False,10.18653/v1/2023.emnlp-main.998,EMNLP2023
+5693,ARR 69,To Split or Not to Split: Composing Compounds in Contextual Vector Spaces,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.1002,EMNLP2023
+5694,ARR 70,Semantic Similarity Models for Depression Severity Estimation,Information Retrieval and Text Mining,False,10.18653/v1/2023.emnlp-main.1000,EMNLP2023
+5695,ARR 73,Composable Text Controls in Latent Space with ODEs,Natural Language Generation,False,10.18653/v1/2023.emnlp-main.1030,EMNLP2023
+5696,ARR 74,"Hop, Union, Generate: Explainable Multi-hop Reasoning without Rationale Supervision",Question Answering,False,10.18653/v1/2023.emnlp-main.1001,EMNLP2023
+5697,ARR 81,GenEx: A Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection,NLP Applications,False,10.18653/v1/2023.emnlp-main.1035,EMNLP2023
+5698,ARR 86,Do Transformers Parse while Predicting the Masked Word?,"Interpretability, Interactivity, and Analysis of Models for NLP",True,10.18653/v1/2023.emnlp-main.1029,EMNLP2023
+5699,ARR 89,TIMELINE: Exhaustive Annotation of Temporal Relations Supporting the Automatic Ordering of Events in News Articles,Information Extraction,False,10.18653/v1/2023.emnlp-main.1016,EMNLP2023
+5700,ARR 90,Can language models learn analogical reasoning? Investigating training objectives and comparisons to human performance,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.1022,EMNLP2023
+5701,ARR 93,Interactive Text-to-SQL Generation via Editable Step-by-Step Explanations,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.1004,EMNLP2023
+5702,ARR 95,ToolWriter: Question Specific Tool Synthesis for Tabular Data,Question Answering,False,10.18653/v1/2023.emnlp-main.1003,EMNLP2023
+5703,ARR 98,PhenotypeCLIP: Phenotype-based Contrastive Learning for Medical Imaging Report Generation,NLP Applications,False,,EMNLP2023
+5704,ARR 99,Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization,Summarization,False,10.18653/v1/2023.emnlp-main.1007,EMNLP2023
+5705,ARR 102,Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation,Summarization,False,10.18653/v1/2023.emnlp-main.1018,EMNLP2023
+5706,ARR 103,Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification,NLP Applications,False,10.18653/v1/2023.emnlp-main.999,EMNLP2023
+5707,ARR 104,Do Differences in Values Influence Disagreements in Online Discussions?,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.992,EMNLP2023
+5708,ARR 107,A Benchmark for Reasoning with Spatial Prepositions,Resources and Evaluation,False,10.18653/v1/2023.emnlp-main.1015,EMNLP2023
+5709,ARR 109,Elevating Code-mixed Text Handling through Auditory Information of Words,"Sentiment Analysis, Stylistic Analysis, and Argument Mining",False,10.18653/v1/2023.emnlp-main.987,EMNLP2023
+5710,ARR 110,TaskDiff: A Similarity Metric for Task-Oriented Conversations,Dialogue and Interactive Systems,False,10.18653/v1/2023.emnlp-main.1009,EMNLP2023
+5711,ARR 113,Zero-Shot Multi-Label Topic Inference with Sentence Encoders and LLMs,"Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",False,10.18653/v1/2023.emnlp-main.1008,EMNLP2023
+5712,ARR 116,ALCAP: Alignment-Augmented Music Captioner,NLP Applications,False,10.18653/v1/2023.emnlp-main.1028,EMNLP2023
+5713,ARR 117,Not all Fake News is Written: A Dataset and Analysis of Misleading Video Headlines,NLP Applications,False,10.18653/v1/2023.emnlp-main.1010,EMNLP2023
+5714,ARR 121,Automated Fact-Checking in Dialogue: Are Specialized Models Needed?,NLP Applications,False,10.18653/v1/2023.emnlp-main.993,EMNLP2023
+5715,ARR 123,Exploring Distributional Shifts in Large Language Models for Code Analysis,NLP Applications,False,10.18653/v1/2023.emnlp-main.1013,EMNLP2023
