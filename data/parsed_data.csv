@@ -9747,3 +9747,450 @@ Sentiment Analysis, Stylistic Analysis, and Argument Mining	Be nice to your wife
 9526,T4803,Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases introduced by Task Design,Discourse and Pragmatics,False,10.1162/tacl_a_00586,ACL2023
 9527,T4929,Time-and-Space-Efficient Weighted Deduction,"Semantics: Sentence-level Semantics, Textual Inference, and Other Areas",False,10.1162/tacl_a_00588,ACL2023
 9528,T5043,Collective Human Opinions in Semantic Textual Similarity,"Semantics: Sentence-level Semantics, Textual Inference, and Other Areas",False,10.1162/tacl_a_00584,ACL2023
+9529,187,Probabilistic FastText for Multi-Sense Word Embeddings,Word Semantics,,10.18653/v1/P18-1001,ACL2018
+9530,1520,A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors,Word Semantics,,10.18653/v1/P18-1002,ACL2018
+9531,707,Unsupervised Learning of Distributional Relation Vectors,Word Semantics,,10.18653/v1/P18-1003,ACL2018
+9532,1553,Explicit Retrofitting of Distributional Word Vectors,Word Semantics,,10.18653/v1/P18-1004,ACL2018
+9533,76,Unsupervised Neural Machine Translation with Weight Sharing,Machine Translation,,10.18653/v1/P18-1005,ACL2018
+9534,79,Triangular Architecture for Rare Language Translation,Machine Translation,,10.18653/v1/P18-1006,ACL2018
+9535,98,Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates,Machine Translation,,10.18653/v1/P18-1007,ACL2018
+9536,1011,The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation,Machine Translation,,10.18653/v1/P18-1008,ACL2018
+9537,880,Ultra-Fine Entity Typing,Information Extraction,,10.18653/v1/P18-1009,ACL2018
+9538,595,Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking,Information Extraction,,10.18653/v1/P18-1010,ACL2018
+9539,139,Improving Knowledge Graph Embedding Using Simple Constraints,Information Extraction,,10.18653/v1/P18-1011,ACL2018
+9540,1418,Towards Understanding the Geometry of Knowledge Graph Embeddings,Information Extraction,,10.18653/v1/P18-1012,ACL2018
+9541,335,A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss,Summarization,,10.18653/v1/P18-1013,ACL2018
+9542,451,Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks,Summarization,,10.18653/v1/P18-1014,ACL2018
+9543,688,"Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization",Summarization,,10.18653/v1/P18-1015,ACL2018
+9544,639,Simple and Effective Text Simplification Using Semantic and Neural Methods,Summarization,,10.18653/v1/P18-1016,ACL2018
+9545,1120,"Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words","Resource, Annotation",,10.18653/v1/P18-1017,ACL2018
+9546,1158,Comprehensive Supersense Disambiguation of English Prepositions and Possessives,"Resource, Annotation",,10.18653/v1/P18-1018,ACL2018
+9547,1424,"A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature","Resource, Annotation",,10.18653/v1/P18-1019,ACL2018
+9548,1300,Efficient Online Scalar Annotation with Bounded Support,"Resource, Annotation",,10.18653/v1/P18-1020,ACL2018
+9549,961,Neural Argument Generation Augmented with Externally Retrieved Evidence,Argument Mining,,10.18653/v1/P18-1021,ACL2018
+9550,265,A Stylometric Inquiry into Hyperpartisan and Fake News,Argument Mining,,10.18653/v1/P18-1022,ACL2018
+9551,772,Retrieval of the Best Counterargument without Prior Topic Knowledge,Argument Mining,,10.18653/v1/P18-1023,ACL2018
+9552,1304, Finding convincing arguments using scalable Bayesian preference learning ,Argument Mining,,,ACL2018
+9553,1519,LinkNBed: Multi-Graph Representation Learning with Entity Linkage,Machine Learning,,10.18653/v1/P18-1024,ACL2018
+9554,1592,Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures,Machine Learning,,10.18653/v1/P18-1025,ACL2018
+9555,1268,Graph-to-Sequence Learning using Gated Graph Neural Networks,Machine Learning,,10.18653/v1/P18-1026,ACL2018
+9556,1238,"Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context",Machine Learning,,10.18653/v1/P18-1027,ACL2018
+9557,946,"Bridging CNNs, RNNs, and Weighted Finite-State Machines",Machine Learning,,10.18653/v1/P18-1028,ACL2018
+9558,1377,Zero-shot Learning of Classifiers from Natural Language Quantification,Machine Learning,,10.18653/v1/P18-1029,ACL2018
+9559,499,Sentence-State LSTM for Text Representation,Machine Learning,,10.18653/v1/P18-1030,ACL2018
+9560,107,Universal Language Model Fine-tuning for Text Classification,Machine Learning,,10.18653/v1/P18-1031,ACL2018
+9561,422,Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement,Machine Learning,,10.18653/v1/P18-1032,ACL2018
+9562,152,Continuous Learning in a Hierarchical Multiscale Neural Network,Machine Learning,,10.18653/v1/P18-2001,ACL2018
+9563,797,Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality,Machine Learning,,10.18653/v1/P18-2002,ACL2018
+9564,937,Deep RNNs Encode Soft Hierarchical Syntax,Machine Learning,,10.18653/v1/P18-2003,ACL2018
+9565,898,Word Error Rate Estimation for Speech Recognition: e-WER,Machine Learning,,10.18653/v1/P18-2004,ACL2018
+9566,1457,Towards Robust and Privacy-preserving Text Representations,Machine Learning,,10.18653/v1/P18-2005,ACL2018
+9567,1460,HotFlip: White-Box Adversarial Examples for Text Classification,Machine Learning,,10.18653/v1/P18-2006,ACL2018
+9568,782,Domain Adapted Word Embeddings for Improved Sentiment Classification,Machine Learning,,10.18653/v1/W18-3407,ACL2018
+9569,1070,Improving Text-to-SQL Evaluation Methodology,Semantics,,10.18653/v1/P18-1033,ACL2018
+9570,243,Semantic Parsing with Syntax- and Table-Aware SQL Generation,Semantics,,10.18653/v1/P18-1034,ACL2018
+9571,600,Multitask Parsing Across Semantic Representations,Semantics,,10.18653/v1/P18-1035,ACL2018
+9572,964,Character-Level Models versus Morphology in Semantic Role Labeling,Semantics,,10.18653/v1/P18-1036,ACL2018
+9573,1024,AMR Parsing as Graph Prediction with Latent Alignment,Semantics,,10.18653/v1/P18-1037,ACL2018
+9574,1391,Accurate SHRG-Based Semantic Parsing,Semantics,,10.18653/v1/P18-1038,ACL2018
+9575,1123,Using Intermediate Representations to Solve Math Word Problems,Semantics,,10.18653/v1/P18-1039,ACL2018
+9576,624,Discourse Representation Structure Parsing,Semantics,,10.18653/v1/P18-1040,ACL2018
+9577,1018,Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms,Semantics,,10.18653/v1/P18-1041,ACL2018
+9578,1287,ParaNMT-50M: Pushing the Limits of Paraphrastic Sentence Embeddings with Millions of Machine Translations,Semantics,,10.18653/v1/P18-1042,ACL2018
+9579,1637,"Event2Mind: Commonsense Inference on Events, Intents, and Reactions",Semantics,,10.18653/v1/P18-1043,ACL2018
+9580,1627,Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis,Semantics,,10.18653/v1/P18-1044,ACL2018
+9581,1164,Active learning for deep semantic parsing,Semantics,,10.18653/v1/P18-2008,ACL2018
+9582,1584,Learning Thematic Similarity Metric from Article Sections Using Triplet Networks,Semantics,,10.18653/v1/P18-2009,ACL2018
+9583,1262,Unsupervised Semantic Frame Induction using Triclustering,Semantics,,10.18653/v1/P18-2010,ACL2018
+9584,1243,Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures,"Information Extraction, Text Mining",,10.18653/v1/P18-1045,ACL2018
+9585,1513,DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction,"Information Extraction, Text Mining",,10.18653/v1/P18-1046,ACL2018
+9586,22,Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism,"Information Extraction, Text Mining",,10.18653/v1/P18-1047,ACL2018
+9587,137,Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection,"Information Extraction, Text Mining",,10.18653/v1/P18-1048,ACL2018
+9588,1094,Context-Aware Neural Model for Temporal Information Extraction,"Information Extraction, Text Mining",,10.18653/v1/P18-1049,ACL2018
+9589,1139,Temporal Event Knowledge Acquisition via Identifying Narratives,"Information Extraction, Text Mining",,10.18653/v1/P18-1050,ACL2018
+9590,1478,Textual Deconvolution Saliency (TDS) : a deep tool box for linguistic analysis,"Information Extraction, Text Mining",,10.18653/v1/P18-1051,ACL2018
+9591,1065, Learning Distributed Representations of Texts and Entities from Knowledge Base ,"Information Extraction, Text Mining",,,ACL2018
+9592,1318, From Characters to Time Intervals: New Paradigms for Evaluation and Neural Parsing of Time Normalizations ,"Information Extraction, Text Mining",,,ACL2018
+9593,1337,Identification of Alias Links among Participants in Narratives,"Information Extraction, Text Mining",,10.18653/v1/P18-2011,ACL2018
+9594,1624,Named Entity Recognition With Parallel Recurrent Neural Networks,"Information Extraction, Text Mining",,10.18653/v1/P18-2012,ACL2018
+9595,1487,Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision,"Information Extraction, Text Mining",,10.18653/v1/P18-2013,ACL2018
+9596,1570,A Walk-based Model on Entity Graphs for Relation Extraction,"Information Extraction, Text Mining",,10.18653/v1/P18-2014,ACL2018
+9597,512,Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction,"Information Extraction, Text Mining",,10.18653/v1/P18-2015,ACL2018
+9598,1160,Automatic Extraction of Commonsense LocatedNear Knowledge,"Information Extraction, Text Mining",,10.18653/v1/P18-2016,ACL2018
+9599,844,Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-1052,ACL2018
+9600,903,Deep Reinforcement Learning for Chinese Zero Pronoun Resolution,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-1053,ACL2018
+9601,1606,Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-1054,ACL2018
+9602,498,Neural Coreference Resolution with Deep Biaffine Attention by Joint Mention Detection and Mention Clustering,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-2017,ACL2018
+9603,771,Fully Statistical Neural Belief Tracking,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-2018,ACL2018
+9604,1560,"Constraining MGbank: Agreement, L-Selection and Supertagging in Minimalist Grammars","Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-1055,ACL2018
+9605,1126,Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-1056,ACL2018
+9606,806,Some of Them Can be Guessed! Exploring the Effect of Linguistic Context in Predicting Quantifiers,"Discourse, Linguistics, Cognitive Modeling",,10.18653/v1/P18-2019,ACL2018
+9607,186,"TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation",Resources and Evaluation,,10.18653/v1/P18-1057,ACL2018
+9608,1626,Give Me More Feedback: Annotating Argument Persuasiveness and Related Attributes in Student Essays,Resources and Evaluation,,10.18653/v1/P18-1058,ACL2018
+9609,536,Inherent Biases in Reference-based Evaluation for Grammatical Error Correction,Resources and Evaluation,,10.18653/v1/P18-1059,ACL2018
+9610,1604,The price of debiasing automatic metrics in natural language evalaution,Resources and Evaluation,,10.18653/v1/P18-1060,ACL2018
+9611,205,A Named Entity Recognition Shootout for German,Resources and Evaluation,,10.18653/v1/P18-2020,ACL2018
+9612,220,A dataset for identifying actionable feedback in collaborative software development,Resources and Evaluation,,10.18653/v1/P18-2021,ACL2018
+9613,268,SNAG: Spoken Narratives and Gaze Dataset,Resources and Evaluation,,10.18653/v1/P18-2022,ACL2018
+9614,396,Analogical Reasoning on Chinese Morphological and Semantic Relations,Resources and Evaluation,,10.18653/v1/P18-2023,ACL2018
+9615,876,Construction of a Chinese Corpus for the Analysis of the Emotionality of Metaphorical Expressions,Resources and Evaluation,,10.18653/v1/P18-2024,ACL2018
+9616,1543,Automatic Article Commenting: the Task and Dataset,Resources and Evaluation,,10.18653/v1/P18-2025,ACL2018
+9617,1277,Improved Evaluation Framework for Complex Plagiarism Detection,Resources and Evaluation,,10.18653/v1/P18-2026,ACL2018
+9618,489,Neural Document Summarization by Jointly Learning to Score and Select Sentences,"Summarization, Social Media",,10.18653/v1/P18-1061,ACL2018
+9619,1005,Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization,"Summarization, Social Media",,10.18653/v1/P18-1062,ACL2018
+9620,1181,Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting,"Summarization, Social Media",,10.18653/v1/P18-1063,ACL2018
+9621,1296,Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation,"Summarization, Social Media",,10.18653/v1/P18-1064,ACL2018
+9622,702,Global Encoding for Abstractive Summarization,"Summarization, Social Media",,10.18653/v1/P18-2027,ACL2018
+9623,1667,A Language Model based Evaluator for Sentence Compression,"Summarization, Social Media",,10.18653/v1/P18-2028,ACL2018
+9624,1661,Modeling and Prediction of Online Product Review Helpfulness: A Survey,"Summarization, Social Media",,10.18653/v1/P18-1065,ACL2018
+9625,638,Mining Cross-Cultural Differences and Similarities in Social Media,"Summarization, Social Media",,10.18653/v1/P18-1066,ACL2018
+9626,1508,Classification of Moral Foundations in Microblog Political Discourse,"Summarization, Social Media",,10.18653/v1/P18-1067,ACL2018
+9627,1138,Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources,"Summarization, Social Media",,10.18653/v1/P18-2029,ACL2018
+9628,1364,Content-based Popularity Prediction of Online Petitions Using a Deep Regression Model,"Summarization, Social Media",,10.18653/v1/P18-2030,ACL2018
+9629,870,Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer,"Summarization, Social Media",,10.18653/v1/P18-2031,ACL2018
+9630,1034,Diachronic degradation of language models: Insights from social media,"Summarization, Social Media",,10.18653/v1/P18-2032,ACL2018
+9631,4-demo,Platforms for Non-speakers Annotating Names in Any Language,System Demonstrations,,10.18653/v1/P18-4001,ACL2018
+9632,6-demo,NovelPerspective: Identifying Point of View Characters,System Demonstrations,,10.18653/v1/P18-4002,ACL2018
+9633,7-demo,Out-of-the-box Universal Romanization Tool uroman,System Demonstrations,,10.18653/v1/P18-4003,ACL2018
+9634,9-demo,HarriGT: A Tool for Linking News to Science,System Demonstrations,,10.18653/v1/P18-4004,ACL2018
+9635,12-demo,Jack the Reader -- A Machine Reading Framework,System Demonstrations,,,ACL2018
+9636,14-demo,YEDDA: A Lightweight Collaborative Text Span Annotation Tool,System Demonstrations,,10.18653/v1/P18-4006,ACL2018
+9637,19-demo,NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation,System Demonstrations,,10.18653/v1/P18-4007,ACL2018
+9638,39-demo,NLP Web Services for Resource-Scarce Languages,System Demonstrations,,10.18653/v1/P18-4008,ACL2018
+9639,434,Coarse-to-Fine Decoding for Neural Semantic Parsing,Semantic Parsing,,10.18653/v1/P18-1068,ACL2018
+9640,372,Confidence Modeling for Neural Semantic Parsing,Semantic Parsing,,10.18653/v1/P18-1069,ACL2018
+9641,35,StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing,Semantic Parsing,,10.18653/v1/P18-1070,ACL2018
+9642,83,Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing,Semantic Parsing,,10.18653/v1/P18-1071,ACL2018
+9643,721,On the Limitations of Unsupervised Bilingual Dictionary Induction,Multilinguality,,10.18653/v1/P18-1072,ACL2018
+9644,1298,A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings,Multilinguality,,10.18653/v1/P18-1073,ACL2018
+9645,897,A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling,Multilinguality,,10.18653/v1/P18-1074,ACL2018
+9646,593,Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable,Multilinguality,,10.18653/v1/P18-1075,ACL2018
+9647,1636,Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge,Question Answering,,10.18653/v1/P18-1076,ACL2018
+9648,1253,Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds,Question Answering,,10.18653/v1/P18-1077,ACL2018
+9649,542,Simple and Effective Multi-Paragraph Reading Comprehension,Question Answering,,10.18653/v1/P18-1078,ACL2018
+9650,1406,Semantically Equivalent Adversarial Rules for Debugging NLP models,Question Answering,,10.18653/v1/P18-1079,ACL2018
+9651,1267,Style Transfer Through Back-Translation,Generation,,10.18653/v1/P18-1080,ACL2018
+9652,968,Generating Fine-Grained Open Vocabulary Entity Type Descriptions,Generation,,10.18653/v1/P18-1081,ACL2018
+9653,1251,Hierarchical Neural Story Generation,Generation,,10.18653/v1/P18-1082,ACL2018
+9654,1296, Generating Sentences by Editing Prototypes ,Generation,,,ACL2018
+9655,308,No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling,Vision,,10.18653/v1/P18-1083,ACL2018
+9656,39,Bridging Languages through Images with Deep Partial Canonical Correlation Analysis,Vision,,10.18653/v1/P18-1084,ACL2018
+9657,497,Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search,Vision,,10.18653/v1/P18-1085,ACL2018
+9658,1323,What Action Causes This? Towards Naive Physical Action-Effect Prediction,Vision,,10.18653/v1/P18-1086,ACL2018
+9659,565,Transformation Networks for Target-Oriented Sentiment Classification,Sentiment,,10.18653/v1/P18-1087,ACL2018
+9660,1347,Target-Sensitive Memory Networks for Aspect Sentiment Classification,Sentiment,,10.18653/v1/P18-1088,ACL2018
+9661,739,Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification,Sentiment,,10.18653/v1/P18-1089,ACL2018
+9662,1281,Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach,Sentiment,,10.18653/v1/P18-1090,ACL2018
+9663,552,Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference,"Inference, Reasoning",,10.18653/v1/P18-1091,ACL2018
+9664,1633,Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module,"Inference, Reasoning",,10.18653/v1/P18-1092,ACL2018
+9665,1129,Reasoning with Sarcasm by Reading In-Between,"Inference, Reasoning",,10.18653/v1/P18-1093,ACL2018
+9666,1234, Representation Learning for Grounded Spatial Reasoning ,"Inference, Reasoning",,,ACL2018
+9667,1001,Adversarial Contrastive Estimation,Machine Learning,,10.18653/v1/P18-1094,ACL2018
+9668,568,Adaptive Scaling for Sparse Detection in Information Extraction,Machine Learning,,10.18653/v1/P18-1095,ACL2018
+9669,168,Strong Baselines for Neural Semi-Supervised Learning under Domain Shift,Machine Learning,,10.18653/v1/P18-1096,ACL2018
+9670,235,Fluency Boost Learning and Inference for Neural Grammatical Error Correction,Machine Learning,,10.18653/v1/P18-1097,ACL2018
+9671,228,A Neural Architecture for Automated ICD Coding,Text Mining and Applications,,10.18653/v1/P18-1098,ACL2018
+9672,581,Domain Adaptation with Adversarial Training and Graph Embeddings,Text Mining and Applications,,10.18653/v1/P18-1099,ACL2018
+9673,1198,TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring,Text Mining and Applications,,10.18653/v1/P18-1100,ACL2018
+9674,1266, Measuring the Evolution of a Scientific Field through Citation Frames ,Text Mining and Applications,,,ACL2018
+9675,298,Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation,Dialog System,,10.18653/v1/P18-1101,ACL2018
+9676,297,Learning to Control the Specificity in Neural Response Generation,Dialog System,,10.18653/v1/P18-1102,ACL2018
+9677,34,Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network,Dialog System,,10.18653/v1/P18-1103,ACL2018
+9678,995,MojiTalk: Generating Emotional Responses at Scale,Dialog System,,10.18653/v1/P18-1104,ACL2018
+9679,141,Taylor's law for Human Linguistic Sequences,"Linguistics, Psycholinguistics and Cognitive Modeling",,,ACL2018
+9680,1051,A Framework for Representing Language Acquisition in a Population Setting,"Linguistics, Psycholinguistics and Cognitive Modeling",,10.18653/v1/P18-1106,ACL2018
+9681,1382, On the Complexity and Typology of Inflectional Morphological Systems ,"Linguistics, Psycholinguistics and Cognitive Modeling",,,ACL2018
+9682,1403, Native Language Cognate Effects on Second Language Lexical Choice ,"Linguistics, Psycholinguistics and Cognitive Modeling",,,ACL2018
+9683,412,Prefix Lexicalization of Synchronous CFGs using Synchronous TAG,Parsing,,10.18653/v1/P18-1107,ACL2018
+9684,977,Straight to the Tree: Constituency Parsing with Neural Syntactic Distance,Parsing,,10.18653/v1/P18-1108,ACL2018
+9685,1525,Gaussian Mixture Latent Vector Grammars,Parsing,,10.18653/v1/P18-1109,ACL2018
+9686,1106,Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples,Parsing,,10.18653/v1/P18-1110,ACL2018
+9687,270,Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations,Word Semantics,,10.18653/v1/P18-1111,ACL2018
+9688,1244,Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings,Word Semantics,,10.18653/v1/P18-1112,ACL2018
+9689,1211,Word Embedding and WordNet Based Metaphor Identification and Interpretation,Word Semantics,,10.18653/v1/P18-1113,ACL2018
+9690,18,Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings,Word Semantics,,10.18653/v1/P18-1114,ACL2018
+9691,1285,A Stochastic Decoder for Neural Machine Translation,Machine Translation,,10.18653/v1/P18-1115,ACL2018
+9692,193,Forest-Based Neural Machine Translation,Machine Translation,,10.18653/v1/P18-1116,ACL2018
+9693,857,Context-Aware Neural Machine Translation Learns Anaphora Resolution,Machine Translation,,10.18653/v1/P18-1117,ACL2018
+9694,1234,Document Context Neural Machine Translation with Memory Networks,Machine Translation,,10.18653/v1/P18-1118,ACL2018
+9695,1621,Which Melbourne? Augmenting Geocoding with Maps,Information Extraction,,10.18653/v1/P18-1119,ACL2018
+9696,1452,Learning Prototypical Goal Activities for Locations,Information Extraction,,10.18653/v1/P18-1120,ACL2018
+9697,539,Guess Me if You Can: Acronym Disambiguation for Enterprises,Information Extraction,,10.18653/v1/P18-1121,ACL2018
+9698,1093,A Multi-Axis Annotation Scheme for Event Temporal Relations,Information Extraction,,10.18653/v1/P18-1122,ACL2018
+9699,1538,Exemplar Encoder-Decoder for Neural Conversation Generation,Dialog System,,10.18653/v1/P18-1123,ACL2018
+9700,1589,DialSQL: Dialogue Based Structured Query Generation,Dialog System,,10.18653/v1/P18-1124,ACL2018
+9701,1630,Conversations Gone Awry: Detecting Early Signs of Conversational Failure,Dialog System,,10.18653/v1/P18-1125,ACL2018
+9702,1349, Detecting Institutional Dialog Acts in Police Traffic Stops ,Dialog System,,,ACL2018
+9703,1668,Are BLEU and Meaning Representation in Opposition?,Evaluation,,10.18653/v1/P18-1126,ACL2018
+9704,674,Automatic Metric Validation for Grammatical Error Correction,Evaluation,,10.18653/v1/P18-1127,ACL2018
+9705,703,The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing,Evaluation,,10.18653/v1/P18-1128,ACL2018
+9706,1241, Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets ,Evaluation,,,ACL2018
+9707,1017,Distilling Knowledge for Search-based Structured Prediction,Parsing,,10.18653/v1/P18-1129,ACL2018
+9708,1249,Stack-Pointer Networks for Dependency Parsing,Parsing,,10.18653/v1/P18-1130,ACL2018
+9709,1272,Twitter Universal Dependency Parsing for African-American and Mainstream American English,Parsing,,10.18653/v1/P18-1131,ACL2018
+9710,1175,"LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better",Parsing,,10.18653/v1/P18-1132,ACL2018
+9711,2-srw,Towards Opinion Summarization of Customer Reviews,Student Research Workshop,,10.18653/v1/P18-3001,ACL2018
+9712,12-srw,Sampling Informative Training Data for RNN Language Models,Student Research Workshop,,10.18653/v1/P18-3002,ACL2018
+9713,16-srw,Learning-based Composite Metrics for Improved Caption Evaluation,Student Research Workshop,,10.18653/v1/P18-3003,ACL2018
+9714,20-srw,Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation,Student Research Workshop,,10.18653/v1/P18-3004,ACL2018
+9715,24-srw,Pushing the Limits of Radiology with Joint Modeling of Visual and Textual Information,Student Research Workshop,,10.18653/v1/P18-3005,ACL2018
+9716,28-srw,Recognizing Complex Entity Mentions: A Review and Future Directions,Student Research Workshop,,10.18653/v1/P18-3006,ACL2018
+9717,30-srw,Automatic Detection of Cross-Disciplinary Knowledge Associations,Student Research Workshop,,10.18653/v1/P18-3007,ACL2018
+9718,33-srw,Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets,Student Research Workshop,,10.18653/v1/P18-3008,ACL2018
+9719,35-srw,German and French Neural Supertagging Experiments for LTAG Parsing,Student Research Workshop,,10.18653/v1/P18-3009,ACL2018
+9720,38-srw,SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags,Student Research Workshop,,10.18653/v1/P18-3010,ACL2018
+9721,39-srw,Unsupervised Semantic Abstractive Summarization,Student Research Workshop,,10.18653/v1/P18-3011,ACL2018
+9722,29,Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1133,ACL2018
+9723,223,An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1134,ACL2018
+9724,293,Global-Locally Self-Attentive Encoder for Dialogue State Tracking,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1135,ACL2018
+9725,625,Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1136,ACL2018
+9726,415,Tailored Sequence to Sequence Models to Different Conversation Scenarios,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1137,ACL2018
+9727,722,Knowledge Diffusion for Neural Dialogue Generation,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1138,ACL2018
+9728,742,Generating Informative Responses with Controlled Sentence Function,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1139,ACL2018
+9729,1439,Sentiment Adaptive End-to-End Dialog Systems,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1140,ACL2018
+9730,1332,Task-oriented Dialogue System for Automatic Diagnosis,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-2033,ACL2018
+9731,548,Transfer Learning for Context-Aware Question Matching in Information-seeking Conversations in E-commerce,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-2034,ACL2018
+9732,282,Embedding Learning Through Multilingual Concept Induction,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1141,ACL2018
+9733,1050,Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1142,ACL2018
+9734,693,Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-1143,ACL2018
+9735,1091,A Multi-task Approach to Learning Multilingual Representations,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-2035,ACL2018
+9736,1302,Characterizing Departures from Linearity in Word Translation,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-2036,ACL2018
+9737,453,Filtering and Mining Parallel Data in a Joint Multilingual Space,"Dialog and Interactive Systems, Multilinguality",,10.18653/v1/P18-2037,ACL2018
+9738,231,Chinese NER Using Lattice LSTM,"Information Extraction, Text Mining",,10.18653/v1/P18-1144,ACL2018
+9739,379,Nugget Proposal Networks for Chinese Event Detection,"Information Extraction, Text Mining",,10.18653/v1/P18-1145,ACL2018
+9740,792,Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation,"Information Extraction, Text Mining",,10.18653/v1/P18-1146,ACL2018
+9741,848,Discovering Implicit Knowledge with Unary Relations,"Information Extraction, Text Mining",,10.18653/v1/P18-1147,ACL2018
+9742,668,Improving Entity Linking by Modeling Latent Relations between Mentions,"Information Extraction, Text Mining",,10.18653/v1/P18-1148,ACL2018
+9743,1683,Dating Documents using Graph Convolution Networks,"Information Extraction, Text Mining",,10.18653/v1/P18-1149,ACL2018
+9744,177,Hybrid semi-Markov CRF for Neural Sequence Labeling,"Information Extraction, Text Mining",,10.18653/v1/P18-2038,ACL2018
+9745,407,A Study of the Importance of External Knowledge in the Named Entity Recognition Task,"Information Extraction, Text Mining",,10.18653/v1/P18-2039,ACL2018
+9746,842,Improving Topic Quality by Promoting Named Entities in Topic Modeling,"Information Extraction, Text Mining",,10.18653/v1/P18-2040,ACL2018
+9747,644,Obligation and Prohibition Extraction Using Hierarchical RNNs,"Information Extraction, Text Mining",,10.18653/v1/P18-2041,ACL2018
+9748,371,A Graph-to-Sequence Model for AMR-to-Text Generation,Generation,,10.18653/v1/P18-1150,ACL2018
+9749,1562,GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data,Generation,,10.18653/v1/P18-1151,ACL2018
+9750,1612,Learning to Write with Cooperative Discriminators,Generation,,10.18653/v1/P18-1152,ACL2018
+9751,1687,A Neural Approach to Pun Generation,Generation,,10.18653/v1/P18-1153,ACL2018
+9752,1085,Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data,Generation,,10.18653/v1/P18-1154,ACL2018
+9753,740,From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction,Generation,,10.18653/v1/P18-1155,ACL2018
+9754,217,Paper Abstract Writing through Editing Mechanism,Generation,,10.18653/v1/P18-2042,ACL2018
+9755,1397,Conditional Generators of Words Definitions,Generation,,10.18653/v1/P18-2043,ACL2018
+9756,249,DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension,Question Answering,,10.18653/v1/P18-1156,ACL2018
+9757,1054,Stochastic Answer Networks for Machine Reading Comprehension,Question Answering,,10.18653/v1/P18-1157,ACL2018
+9758,1469,Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering,Question Answering,,10.18653/v1/P18-1158,ACL2018
+9759,767,Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension,Question Answering,,10.18653/v1/P18-1159,ACL2018
+9760,938,Efficient and Robust Question Answering from Minimal Context over Documents,Question Answering,,10.18653/v1/P18-1160,ACL2018
+9761,250,Denoising Distantly Supervised Open-Domain Question Answering,Question Answering,,10.18653/v1/P18-1161,ACL2018
+9762,264,Question Condensing Networks for Answer Selection in Community Question Answering,Question Answering,,10.18653/v1/P18-1162,ACL2018
+9763,1325, Constructing Datasets for Multi-hop Reading Comprehension Across Documents ,Question Answering,,,ACL2018
+9764,646,CNN for Text-Based Multiple Choice Question Answering,Question Answering,,10.18653/v1/P18-2044,ACL2018
+9765,1616,Narrative Modeling with Memory Chains and Semantic Supervision,Question Answering,,10.18653/v1/P18-2045,ACL2018
+9766,1470,Injecting Relational Structural Representation in Neural Networks for Question Similarity,Question Answering,,10.18653/v1/P18-2046,ACL2018
+9767,1044,Towards Robust Neural Machine Translation,Machine Translation,,10.18653/v1/P18-1163,ACL2018
+9768,300,Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings,Machine Translation,,10.18653/v1/P18-1164,ACL2018
+9769,987,Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning,Machine Translation,,10.18653/v1/P18-1165,ACL2018
+9770,1349,Accelerating Neural Transformer via an Average Attention Network,Machine Translation,,10.18653/v1/P18-1166,ACL2018
+9771,1472,How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures,Machine Translation,,10.18653/v1/P18-1167,ACL2018
+9772,1338, Scheduled Multi-Task Learning: From Syntax to Translation ,Machine Translation,,,ACL2018
+9773,1166, Phrase Table Induction Using In-Domain Monolingual Data for Domain Adaptation in Statistical Machine Translation ,Machine Translation,,,ACL2018
+9774,1247, Learning to Remember Translation History with a Continuous Cache ,Machine Translation,,,ACL2018
+9775,1208, Modeling Past and Future for Neural Machine Translation ,Machine Translation,,,ACL2018
+9776,1248, Leveraging Orthographic Similarity for Multilingual Neural Transliteration ,Machine Translation,,,ACL2018
+9777,545,A Simple and Effective Approach to Coverage-Aware Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2047,ACL2018
+9778,574,Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2048,ACL2018
+9779,762,Compositional Representation of Morphologically-Rich Input for Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2049,ACL2018
+9780,808,Extreme Adaptation for Personalized Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2050,ACL2018
+9781,825,Multi-representation ensembles and delayed SGD updates improve syntax-based NMT,Machine Translation,,10.18653/v1/P18-2051,ACL2018
+9782,859,Learning from Chunk-based Feedback in Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2052,ACL2018
+9783,1235,Bag-of-Words as Target for Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2053,ACL2018
+9784,1242,Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation,Machine Translation,,10.18653/v1/P18-2054,ACL2018
+9785,23-demo,DCFEE: A Document-level Chinese Financial Event Extraction System based on Automatically Labeled Training Data,System Demonstrations,,10.18653/v1/P18-4009,ACL2018
+9786,33-demo,Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners,System Demonstrations,,10.18653/v1/P18-4010,ACL2018
+9787,21-demo,Translating a Language You Don't Know In the Chinese Room,System Demonstrations,,,ACL2018
+9788,34-demo,SANTO: A Web-based Annotation Tool for Ontology-driven Slot Filling,System Demonstrations,,10.18653/v1/P18-4012,ACL2018
+9789,38-demo,NCRF++: An Open-source Neural Sequence Labeling Toolkit,System Demonstrations,,10.18653/v1/P18-4013,ACL2018
+9790,46-demo,TALEN: Tool for Annotation of Low-resource ENtities,System Demonstrations,,10.18653/v1/P18-4014,ACL2018
+9791,47-demo,A Web-scale system for scientific knowledge exploration,System Demonstrations,,10.18653/v1/P18-4015,ACL2018
+9792,53-demo,ScoutBot: A Dialogue System for Collaborative Navigation,System Demonstrations,,10.18653/v1/P18-4016,ACL2018
+9793,477,Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations,Semantics,,10.18653/v1/P18-2055,ACL2018
+9794,375,Using pseudo-senses for improving the extraction of synonyms from word embeddings,Semantics,,10.18653/v1/P18-2056,ACL2018
+9795,757,Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora,Semantics,,10.18653/v1/P18-2057,ACL2018
+9796,881,Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling,Semantics,,10.18653/v1/P18-2058,ACL2018
+9797,1146,Sparse and Constrained Attention for Neural Machine Translation,"Machine Translation, Multilinguality",,10.18653/v1/P18-2059,ACL2018
+9798,338,Neural Hidden Markov Model for Machine Translation,"Machine Translation, Multilinguality",,10.18653/v1/P18-2060,ACL2018
+9799,868,Bleaching Text: Abstract Features for Cross-lingual Gender Prediction,"Machine Translation, Multilinguality",,10.18653/v1/P18-2061,ACL2018
+9800,981,Orthographic Features for Bilingual Lexicon Induction,"Machine Translation, Multilinguality",,10.18653/v1/P18-2062,ACL2018
+9801,975,Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking,Information Extraction,,10.18653/v1/P18-2063,ACL2018
+9802,1083,Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER,Information Extraction,,10.18653/v1/P18-2064,ACL2018
+9803,86,Neural Open Information Extraction,Information Extraction,,10.18653/v1/P18-2065,ACL2018
+9804,336,Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention,Information Extraction,,10.18653/v1/P18-2066,ACL2018
+9805,102,Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots,"Dialog System, Discourse",,10.18653/v1/P18-2067,ACL2018
+9806,1186,Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention,"Dialog System, Discourse",,10.18653/v1/P18-2068,ACL2018
+9807,1246,Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing,"Dialog System, Discourse",,10.18653/v1/P18-2069,ACL2018
+9808,1058,Modeling discourse cohesion for discourse parsing via memory network,"Dialog System, Discourse",,10.18653/v1/P18-2070,ACL2018
+9809,1537,SciDTB: Discourse Dependency TreeBank for Scientific Abstracts,"Vision, Linguistics, Resource and Evaluation",,10.18653/v1/P18-2071,ACL2018
+9810,94,Predicting accuracy on large datasets from smaller pilot data,"Vision, Linguistics, Resource and Evaluation",,10.18653/v1/P18-2072,ACL2018
+9811,47,The Influence of Context on Sentence Acceptability Judgements,"Vision, Linguistics, Resource and Evaluation",,10.18653/v1/P18-2073,ACL2018
+9812,1549,Do Neural Network Cross-Modal Mappings Really Bridge Modalities?,"Vision, Linguistics, Resource and Evaluation",,10.18653/v1/P18-2074,ACL2018
+9813,1299,Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing,"Parsing, Morphology",,10.18653/v1/P18-2075,ACL2018
+9814,1490,Linear-time Constituency Parsing with RNNs and Dynamic Programming,"Parsing, Morphology",,10.18653/v1/P18-2076,ACL2018
+9815,1588,Simpler but More Accurate Semantic Dependency Parsing,"Parsing, Morphology",,10.18653/v1/P18-2077,ACL2018
+9816,12,Simplified Abugidas,"Parsing, Morphology",,10.18653/v1/P18-2078,ACL2018
+9817,564,Weakly Supervised Semantic Parsing with Abstract Examples,Semantic Parsing,,10.18653/v1/P18-1168,ACL2018
+9818,723,Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback,Semantic Parsing,,10.18653/v1/P18-1169,ACL2018
+9819,845,AMR dependency parsing with a typed semantic algebra,Semantic Parsing,,10.18653/v1/P18-1170,ACL2018
+9820,952,Sequence-to-sequence Models for Cache Transition Systems,Semantic Parsing,,10.18653/v1/P18-1171,ACL2018
+9821,92,Batch IS NOT Heavy: Learning Word Representations From All Samples,Machine Learning,,10.18653/v1/P18-1172,ACL2018
+9822,1248,Backpropagating through Structured Argmax using a SPIGOT,Machine Learning,,10.18653/v1/P18-1173,ACL2018
+9823,1170,Learning How to Actively Learn: A Deep Imitation Learning Approach,Machine Learning,,10.18653/v1/P18-1174,ACL2018
+9824,1335,Training Classifiers with Natural Language Explanations,Machine Learning,,10.18653/v1/P18-1175,ACL2018
+9825,1159,Did the Model Understand the Question?,Question Answering,,10.18653/v1/P18-1176,ACL2018
+9826,1003,Harvesting Paragraph-level Question-Answer Pairs from Wikipedia,Question Answering,,10.18653/v1/P18-1177,ACL2018
+9827,760,Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification,Question Answering,,10.18653/v1/P18-1178,ACL2018
+9828,1197, The NarrativeQA Reading Comprehension Challenge ,Question Answering,,,ACL2018
+9829,1532,Language Generation via DAG Transduction,Generation,,10.18653/v1/P18-1179,ACL2018
+9830,1411,A Distributional and Orthographic Aggregation Model for English Derivational Morphology,Generation,,10.18653/v1/P18-1180,ACL2018
+9831,1089,"Deep-speare: A joint neural model of poetic language, meter and rhyme",Generation,,10.18653/v1/P18-1181,ACL2018
+9832,1108,NeuralREG: An end-to-end approach to referring expression generation,Generation,,10.18653/v1/P18-1182,ACL2018
+9833,616,Stock Movement Prediction from Tweets and Historical Prices,Social Media,,10.18653/v1/P18-1183,ACL2018
+9834,1038,Rumor Detection on Twitter with Tree-structured Recursive Neural Networks,Social Media,,10.18653/v1/P18-1184,ACL2018
+9835,866,Visual Attention Model for Name Tagging in Multimodal Social Media,Social Media,,10.18653/v1/P18-1185,ACL2018
+9836,1413,Multimodal Named Entity Disambiguation for Noisy Social Media Posts,Social Media,,10.18653/v1/P18-1186,ACL2018
+9837,1291,Semi-supervised User Geolocation via Graph Convolutional Networks,Information Retrieval,,10.18653/v1/P18-1187,ACL2018
+9838,1009,Document Modeling with External Attention for Sentence Extraction,Information Retrieval,,10.18653/v1/P18-1188,ACL2018
+9839,1149,Neural Models for Documents with Metadata,Information Retrieval,,10.18653/v1/P18-1189,ACL2018
+9840,1022,NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing,Information Retrieval,,10.18653/v1/P18-1190,ACL2018
+9841,1498,Large-Scale QA-SRL Parsing,Semantic Parsing,,10.18653/v1/P18-1191,ACL2018
+9842,1673,"Syntax for Semantic Role Labeling, To Be, Or Not To Be",Semantic Parsing,,10.18653/v1/P18-1192,ACL2018
+9843,1194,Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation,Semantic Parsing,,10.18653/v1/P18-1193,ACL2018
+9844,1500,Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding,Semantic Parsing,,10.18653/v1/P18-1194,ACL2018
+9845,1547,Token-level and sequence-level loss smoothing for RNN language models,Language/Document Model,,10.18653/v1/P18-1195,ACL2018
+9846,923,Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers,Language/Document Model,,10.18653/v1/P18-1196,ACL2018
+9847,1321,To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness,Language/Document Model,,10.18653/v1/P18-1197,ACL2018
+9848,891,What you can cram into a single \$\&!#* vector: Probing sentence embeddings for linguistic properties,Language/Document Model,,,ACL2018
+9849,601,Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning,Information Extraction,,10.18653/v1/P18-1199,ACL2018
+9850,1601,Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder,Information Extraction,,10.18653/v1/P18-1200,ACL2018
+9851,450,Zero-Shot Transfer Learning for Event Extraction,Information Extraction,,10.18653/v1/P18-1201,ACL2018
+9852,70,Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction,Information Extraction,,10.18653/v1/P18-1202,ACL2018
+9853,1088,Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning,Dialog System,,10.18653/v1/P18-1203,ACL2018
+9854,68,Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders,Dialog System,,10.18653/v1/P18-1204,ACL2018
+9855,448,"Personalizing Dialogue Agents: I have a dog, do you have pets too?",Dialog System,,10.18653/v1/P18-1205,ACL2018
+9856,1151,Efficient Large-Scale Neural Domain Classification with Personalized Attention,Dialog System,,10.18653/v1/P18-1206,ACL2018
+9857,1555,Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment,Multimodal,,10.18653/v1/P18-1207,ACL2018
+9858,1563,Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph,Multimodal,,10.18653/v1/P18-1208,ACL2018
+9859,1620,Efficient Low-rank Multimodal Fusion With Modality-Specific Factors,Multimodal,,10.18653/v1/P18-1209,ACL2018
+9860,1282, Whodunnit? Crime Drama as a Case for Natural Language Understanding ,Multimodal,,,ACL2018
+9861,587,Discourse Coherence: Concurrent Explicit and Implicit Relations,Discourse,,10.18653/v1/P18-1210,ACL2018
+9862,1200,A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text,Discourse,,10.18653/v1/P18-1211,ACL2018
+9863,1095,Joint Reasoning for Temporal and Causal Relations,Discourse,,10.18653/v1/P18-1212,ACL2018
+9864,1615,Modeling Naive Psychology of Characters in Simple Commonsense Stories,Discourse,,10.18653/v1/P18-1213,ACL2018
+9865,42-srw,Biomedical Document Retrieval for Clinical Decision Support System,Student Research Workshop,,10.18653/v1/P18-3012,ACL2018
+9866,43-srw,A Computational Approach to Feature Extraction for Identification of Suicidal Ideation in Tweets,Student Research Workshop,,10.18653/v1/P18-3013,ACL2018
+9867,45-srw,BCSAT : A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations,Student Research Workshop,,10.18653/v1/P18-3014,ACL2018
+9868,46-srw,Reinforced Extractive Summarization with Question-Focused Rewards,Student Research Workshop,,10.18653/v1/P18-3015,ACL2018
+9869,49-srw,Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models,Student Research Workshop,,10.18653/v1/P18-3016,ACL2018
+9870,51-srw,Exploring Chunk Based Templates for Generating a subset of English Text,Student Research Workshop,,10.18653/v1/P18-3017,ACL2018
+9871,54-srw,Trick Me If You Can: Adversarial Writing of Trivia Challenge Questions,Student Research Workshop,,10.18653/v1/P18-3018,ACL2018
+9872,57-srw,Alignment Analysis of Sequential Segmentation of Lexicons to Improve Automatic Cognate Detection,Student Research Workshop,,10.18653/v1/P18-3019,ACL2018
+9873,58-srw,"Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories",Student Research Workshop,,10.18653/v1/P18-3020,ACL2018
+9874,59-srw,Automatic Spelling Correction for Resource-Scarce Languages using Deep Learning,Student Research Workshop,,10.18653/v1/P18-3021,ACL2018
+9875,65-srw,Automatic Question Generation using Relative Pronouns and Adverbs,Student Research Workshop,,10.18653/v1/P18-3022,ACL2018
+9876,84,A Deep Relevance Model for Zero-Shot Document Filtering,Document Analysis,,10.18653/v1/P18-1214,ACL2018
+9877,374,Disconnected Recurrent Neural Networks for Text Categorization,Document Analysis,,10.18653/v1/P18-1215,ACL2018
+9878,1006,Joint Embedding of Words and Labels for Text Classification,Document Analysis,,10.18653/v1/P18-1216,ACL2018
+9879,491,Neural Sparse Topical Coding,Document Analysis,,10.18653/v1/P18-1217,ACL2018
+9880,488,Document Similarity for Texts of Varying Lengths via Hidden Topics,Document Analysis,,10.18653/v1/P18-1218,ACL2018
+9881,253,Eyes are the Windows to the Soul: Predicting the Rating of Text Quality Using Gaze Behaviour,Document Analysis,,10.18653/v1/P18-1219,ACL2018
+9882,1076,Multi-Input Attention for Unsupervised OCR Correction,Document Analysis,,10.18653/v1/P18-1220,ACL2018
+9883,1343,Building Language Models for Text with Named Entities,Document Analysis,,10.18653/v1/P18-1221,ACL2018
+9884,1372,hyperdoc2vec: Distributed Representations of Hypertext Documents,Document Analysis,,10.18653/v1/P18-1222,ACL2018
+9885,245,Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval,Document Analysis,,10.18653/v1/P18-1223,ACL2018
+9886,1350,Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network,Document Analysis,,10.18653/v1/P18-2079,ACL2018
+9887,57,Automated essay scoring with string kernels and word embeddings,Document Analysis,,10.18653/v1/P18-2080,ACL2018
+9888,1180,Party Matters: Enhancing Legislative Embeddings with Author Attributes for Vote Prediction,Document Analysis,,10.18653/v1/P18-2081,ACL2018
+9889,211,Dynamic and Static Topic Model for Analyzing Time-Series Document Collections,Document Analysis,,10.18653/v1/P18-2082,ACL2018
+9890,1043,PhraseCTM: Correlated Topic Modeling on Phrases within Markov Random Fields,Document Analysis,,10.18653/v1/P18-2083,ACL2018
+9891,410,A Document Descriptor using Covariance of Word Vectors,Document Analysis,,10.18653/v1/P18-2084,ACL2018
+9892,673,Neural Natural Language Inference Models Enhanced with External Knowledge,Semantics,,10.18653/v1/P18-1224,ACL2018
+9893,1127,AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples,Semantics,,10.18653/v1/P18-1225,ACL2018
+9894,1611,Learning with Structured Representations for Negation Scope Extraction,Semantics,,10.18653/v1/P18-2085,ACL2018
+9895,1651,End-Task Oriented Textual Entailment via Deep Explorations of Inter-Sentence Interactions,Semantics,,10.18653/v1/P18-2086,ACL2018
+9896,523,Sense-Aware Neural Models for Pun Location in Texts,Semantics,,10.18653/v1/P18-2087,ACL2018
+9897,1103,Subword-level Word Vector Representations for Korean,Semantics,,10.18653/v1/P18-1226,ACL2018
+9898,1279,Incorporating Chinese Characters of Words for Lexical Sememe Prediction,Semantics,,10.18653/v1/P18-1227,ACL2018
+9899,1473,SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment,Semantics,,10.18653/v1/P18-1228,ACL2018
+9900,30,End-to-End Reinforcement Learning for Automatic Taxonomy Induction,Semantics,,10.18653/v1/P18-1229,ACL2018
+9901,271,Incorporating Glosses into Neural Word Sense Disambiguation,Semantics,,10.18653/v1/P18-1230,ACL2018
+9902,446,A Rank-Based Similarity Metric for Word Embeddings,Semantics,,10.18653/v1/P18-2088,ACL2018
+9903,696,Addressing Noise in Multidialectal Word Embeddings,Semantics,,10.18653/v1/P18-2089,ACL2018
+9904,1527,GNEG: Graph-Based Negative Sampling for word2vec,Semantics,,10.18653/v1/P18-2090,ACL2018
+9905,1548,Unsupervised Learning of Style-sensitive Word Vectors,Semantics,,10.18653/v1/P18-2091,ACL2018
+9906,421,Bilingual Sentiment Embeddings: Joint Projection of Sentiment Across Languages,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1231,ACL2018
+9907,1365,Learning Domain-Sensitive and Sentiment-Aware Word Embeddings,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1232,ACL2018
+9908,577,Cross-Domain Sentiment Classification with Target Domain Specific Information,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1233,ACL2018
+9909,871,Aspect Based Sentiment Analysis with Gated Convolutional Networks,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1234,ACL2018
+9910,1052,A Helping Hand: Transfer Learning for Deep Sentiment Analysis,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1235,ACL2018
+9911,1456,Cold-Start Aware User and Product Attention for Sentiment Classification,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1236,ACL2018
+9912,1625,Modeling Deliberative Argumentation Strategies on Wikipedia,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-1237,ACL2018
+9913,1351, Bootstrap Domain-Specific Sentiment Classifiers from Unlabelled Corpora ,Sentiment Analysis and Argument Mining,,,ACL2018
+9914,555,Exploiting Document Knowledge for Aspect-level Sentiment Classification,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-2092,ACL2018
+9915,561,Modeling Sentiment Association in Discourse for Humor Recognition,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-2093,ACL2018
+9916,1190,Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-2094,ACL2018
+9917,1638,Will it Blend? Blending Weak and Strong Labeled Data in a Neural Network for Argumentation Mining,Sentiment Analysis and Argument Mining,,10.18653/v1/P18-2095,ACL2018
+9918,1063,"Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning","Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1238,ACL2018
+9919,1049,Learning Translations via Images with a Massively Multilingual Image Dataset,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1239,ACL2018
+9920,985,On the Automatic Generation of Medical Imaging Reports,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1240,ACL2018
+9921,1245,Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1241,ACL2018
+9922,1227,Think Visually: Question Answering through Virtual Imagery,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1242,ACL2018
+9923,134,Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1243,ACL2018
+9924,969,A Purely End-to-End System for Multi-speaker Speech Recognition,"Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-1244,ACL2018
+9925,1214, Learning Representations Specialized in Spatial Knowledge: Leveraging Language and Vision ,"Vision, Multimodal, Grounding, Speech",,,ACL2018
+9926,686,"Investigating Audio, Video, and Text Fusion Methods for End-to-End Automatic Personality Prediction","Vision, Multimodal, Grounding, Speech",,10.18653/v1/P18-2096,ACL2018
+9927,154,A Structured Variational Autoencoder for Contextual Morphological Inflection,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1245,ACL2018
+9928,457,Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1246,ACL2018
+9929,1502,Neural Factor Graph Models for Cross-lingual Morphological Tagging,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1247,ACL2018
+9930,1241,Global Transition-based Non-projective Dependency Parsing,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1248,ACL2018
+9931,1305,Constituency Parsing with a Self-Attentive Encoder,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1249,ACL2018
+9932,1326,Pre- and In-Parsing Models for Neural Empty Category Detection,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1250,ACL2018
+9933,967,Composing Finite State Transducers on GPUs,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1251,ACL2018
+9934,49,Supervised Treebank Conversion: Data and Approaches,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1252,ACL2018
+9935,299,Object-oriented Neural Programming (OONP) for Document Understanding,"Morphology, Tagging, Parsing",,10.18653/v1/P18-1253,ACL2018
+9936,1501,An Empirical Study of Building a Strong Baseline for Constituency Parsing,"Morphology, Tagging, Parsing",,10.18653/v1/P18-2097,ACL2018
+9937,419,Parser Training with Heterogeneous Treebanks,"Morphology, Tagging, Parsing",,10.18653/v1/P18-2098,ACL2018
+9938,437,Generalized chart constraints for efficient PCFG and TAG parsing,"Morphology, Tagging, Parsing",,10.18653/v1/P18-2099,ACL2018
+9939,62-demo,The SUMMA Platform: A Scalable Infrastructure for Multi-lingual Multi-media Monitoring,System Demonstrations,,10.18653/v1/P18-4017,ACL2018
+9940,64-demo,CRUISE: Cold-Start New Skill Development via Iterative Utterance Generation,System Demonstrations,,10.18653/v1/P18-4018,ACL2018
+9941,65-demo,"Praaline: An Open-Source System for Managing, Annotating, Visualising and Analysing Speech Corpora",System Demonstrations,,10.18653/v1/P18-4019,ACL2018
+9942,67-demo,Marian: Fast Neural Machine Translation in C++,System Demonstrations,,10.18653/v1/P18-4020,ACL2018
+9943,68-demo,DeepPavlov: Open-Source Library for Dialogue Systems,System Demonstrations,,10.18653/v1/P18-4021,ACL2018
+9944,69-demo,RETURNN as a Generic Flexible Neural Toolkit with Application to Translation and Speech Recognition,System Demonstrations,,10.18653/v1/P18-4022,ACL2018
+9945,75-demo,"A Flexible, Efficient and Accurate Framework for Community Question Answering Pipelines",System Demonstrations,,10.18653/v1/P18-4023,ACL2018
+9946,79-demo,Moon IME: Neural-based Chinese Pinyin Aided Input Method with Customizable Association,System Demonstrations,,10.18653/v1/P18-4024,ACL2018
+9947,1483,Exploring Semantic Properties of Sentence Embeddings,Semantics,,10.18653/v1/P18-2100,ACL2018
+9948,1210,Scoring Lexical Entailment with a Supervised Directional Similarity Network,Semantics,,10.18653/v1/P18-2101,ACL2018
+9949,972,Extracting Commonsense Properties from Embeddings with Limited Human Guidance,Semantics,,10.18653/v1/P18-2102,ACL2018
+9950,406,Breaking NLI Systems with Sentences that Require Simple Lexical Inferences,Semantics,,10.18653/v1/P18-2103,ACL2018
+9951,1414,Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation,"Machine Translation, Multilinguality",,10.18653/v1/P18-2104,ACL2018
+9952,1303,Automatic Estimation of Simultaneous Interpreter Performance,"Machine Translation, Multilinguality",,10.18653/v1/P18-2105,ACL2018
+9953,1340,Polyglot Semantic Role Labeling,"Machine Translation, Multilinguality",,10.18653/v1/P18-2106,ACL2018
+9954,1607,Learning Cross-lingual Distributed Logical Representations for Semantic Parsing,"Machine Translation, Multilinguality",,10.18653/v1/P18-2107,ACL2018
+9955,1465,Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information,Information Extraction,,10.18653/v1/P18-2108,ACL2018
+9956,602,diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora,Information Extraction,,10.18653/v1/P18-2109,ACL2018
+9957,1489,Examining Temporality in Document Classification,Information Extraction,,10.18653/v1/P18-2110,ACL2018
+9958,1193,Personalized Language Model for Query Auto-Completion,Information Extraction,,10.18653/v1/P18-2111,ACL2018
+9959,527,Personalized Review Generation By Expanding Phrases and Attending on Aspect-Aware Representations,"Generation, Summarization",,10.18653/v1/P18-2112,ACL2018
+9960,1039,Learning Simplifications for Specific Target Audiences,"Generation, Summarization",,10.18653/v1/P18-2113,ACL2018
+9961,1221,Split and Rephrase: Better Evaluation and Stronger Baselines,"Generation, Summarization",,10.18653/v1/P18-2114,ACL2018
+9962,1546,Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization,"Generation, Summarization",,10.18653/v1/P18-2115,ACL2018
+9963,557,Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum,"Machine Learning, Question Answering",,10.18653/v1/P18-2116,ACL2018
+9964,815,On the Practical Computational Power of Finite Precision RNNs for Language Recognition,"Machine Learning, Question Answering",,10.18653/v1/P18-2117,ACL2018
+9965,1551,A Co-Matching Model for Multi-choice Reading Comprehension,"Machine Learning, Question Answering",,10.18653/v1/P18-2118,ACL2018
+9966,1318,Tackling the Story Ending Biases in The Story Cloze Test,"Machine Learning, Question Answering",,10.18653/v1/P18-2119,ACL2018
+9967,1182,A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification,Sentiment,,10.18653/v1/P18-2120,ACL2018
+9968,627,Pretraining Sentiment Classifiers with Unlabeled Dialog Data,Sentiment,,10.18653/v1/P18-2121,ACL2018
+9969,761,Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection,Sentiment,,10.18653/v1/P18-2122,ACL2018
+9970,296,Cross-Target Stance Classification with Self-Attention Networks,Sentiment,,10.18653/v1/P18-2123,ACL2018
+9971,1125,Know What You Don’t Know: Unanswerable Questions for SQuAD,Best Paper Session,,10.18653/v1/P18-2124,ACL2018
+9972,1603,'Lighter' Can Still Be Dark: Modeling Comparative Color Descriptions,Best Paper Session,,,ACL2018
+9973,618,Finding syntax in human encephalography with beam search,Best Paper Session,,10.18653/v1/P18-1254,ACL2018
+9974,1247,Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information,Best Paper Session,,10.18653/v1/P18-1255,ACL2018
+9975,1348,Let's do it ``again'': A First Computational Approach to Detecting Adverbial Presupposition Triggers,Best Paper Session,,,ACL2018
