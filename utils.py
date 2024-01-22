@@ -154,7 +154,7 @@ def get_papers_by_keywords(keywords: str, limit: int = 100) -> dict:
 def get_paper_details(paper_id: str) -> SemanticScholarPaper:
     # get details for a single paper
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}"
-    fields = "title,venue,year,citationCount,influentialCitationCount,embedding"
+    fields = "title,venue,year,citationCount,influentialCitationCount"
     
     # query Semantic Scholar API
     response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields})
@@ -173,7 +173,6 @@ def get_paper_details(paper_id: str) -> SemanticScholarPaper:
         year=paper_dict["year"],
         citation_count=paper_dict["citationCount"],
         influential_citation_count=paper_dict["influentialCitationCount"],
-        embedding=paper_dict['embedding']['vector']
     )
     return paper
 
@@ -199,6 +198,10 @@ def bulk_get_paper_details(paper_ids: list[str], include_embedding=False) -> lis
                                  json={"ids": chunk})
 
         for paper_dict in response.json():
+            if paper_dict is None:
+                all_papers.append(None)
+                continue
+
             paper = SemanticScholarPaper(
                 paper_id=paper_dict['paperId'],
                 title=paper_dict["title"],
