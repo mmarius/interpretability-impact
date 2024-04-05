@@ -42,8 +42,9 @@ class SemanticScholarPaper:
     cites_background: bool = False
     was_influenced: bool = False
     contexts: list[str] = []
+    abstract: Optional[str] = None
 
-    def __init__(self, paper_id: str, title: str, venue: str, year: int, citation_count: int, influential_citation_count: int, embedding: Optional[list[float]]=None):
+    def __init__(self, paper_id: str, title: str, venue: str, year: int, citation_count: int, influential_citation_count: int, embedding: Optional[list[float]]=None, abstract: Optional[str]=None):
         self.paper_id = paper_id
         self.title = title
         self.venue = venue
@@ -51,6 +52,7 @@ class SemanticScholarPaper:
         self.citation_count = citation_count
         self.influential_citation_count = influential_citation_count
         self.embedding = embedding
+        self.abstract = abstract 
 
     def add_acl_doi(self, doi: str) -> None:
         self.acl_doi = doi
@@ -182,15 +184,17 @@ def chunk_list(lst, chunk_size):
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
-def bulk_get_paper_details(paper_ids: list[str], include_embedding=False) -> list[SemanticScholarPaper]:
+def bulk_get_paper_details(paper_ids: list[str], include_embedding=False, include_citations=False) -> list[SemanticScholarPaper]:
     chunk_size = 500  # API limit
     all_papers = []
 
-    for chunk in chunk_list(paper_ids, chunk_size):
+    for chunk in tqdm(chunk_list(paper_ids, chunk_size), desc="Fetching papers"):
         url = 'https://api.semanticscholar.org/graph/v1/paper/batch'
         fields = "title,venue,year,citationCount,influentialCitationCount"
         if include_embedding:
             fields += ',embedding'
+        if include_citations:
+            fields += ',citations'
 
         response = requests.post(url,
                                  headers={"x-api-key": API_KEY},
@@ -215,27 +219,50 @@ def bulk_get_paper_details(paper_ids: list[str], include_embedding=False) -> lis
 
     return all_papers
 
-def get_citation_details(paper_id: str, limit: int = 1000) -> dict:
-    # get papers that cite a paper 
+def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10, include_abstract=False) -> list:
+    # this gets all the citations for a given paper
+    # considering also that the results might get split into multiple pages
+
+    all_papers = []
+    offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/citations"
-    # fields = "title,isInfluential,contexts,intents,year,venue,citationCount,influentialCitationCount"
-    fields = "title,isInfluential,contexts,intents"
-    
-    # query Semantic Scholar API
-    response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}"})
-    while response.status_code != 200: # 200 means success
-        # try again
-        print("Trying again ...")
-        response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}"})
+    fields = "title,isInfluential,contexts,intents,year,venue,citationCount,influentialCitationCount"
+    if include_abstract:
+        fields += ',abstract'
 
-    # Success! Convert response to dict 
-    details = response.json()
-    
-    # add paper_id to each of the citing papers
-    for p in details['data']:
-        p['paperId'] = paper_id
+    while True:
+        response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}", "offset": offset})
 
-    return details 
+        retries = 1
+        while response.status_code != 200:
+            print("Trying again ...", paper_id)
+            response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}"})
+            retries += 1
+            if retries > max_retries:
+                break
+
+        json_response = response.json()
+        print(json_response)
+        if "data" in json_response and json_response["data"] is not None:
+            for paper in response.json()["data"]:
+                paper = SemanticScholarPaper(
+                    paper_id=paper['citingPaper']['paperId'],
+                    title=paper['citingPaper']["title"],
+                    venue=paper['citingPaper']["venue"],
+                    year=paper['citingPaper']["year"],
+                    citation_count=paper['citingPaper']["citationCount"],
+                    influential_citation_count=paper['citingPaper']["citationCount"],
+                    abstract=paper['citingPaper'].get('abstract')
+                )
+                all_papers.append(paper)
+
+        if 'next' in json_response:
+            # we get the next page of results
+            offset = json_response['next']
+        else:
+            break
+
+    return all_papers
 
 #########################################################
 # pandas related utils

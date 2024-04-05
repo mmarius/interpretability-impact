@@ -1,3 +1,6 @@
+from transformers import AutoTokenizer
+from adapters import AutoAdapterModel
+
 import torch
 import torch.nn as nn
 import numpy as np
@@ -51,4 +54,30 @@ def is_interpretability_paper(row):
     output = MODEL(vector)
     pred = torch.argmax(output)
     has_keyword = any([word in row['abstract'].lower() for word in KEYWORDS])
+    return bool(pred and has_keyword)
+
+
+tokenizer = AutoTokenizer.from_pretrained('allenai/specter2_base')
+embedding_model = AutoAdapterModel.from_pretrained("allenai/specter2_base")
+adapter_name = embedding_model.load_adapter("allenai/specter2_classification", source="hf", set_active=True)
+
+
+def get_embedding(title, abstract):
+    text = title + tokenizer.sep_token + abstract
+    inputs = tokenizer(text,
+                       padding=True,
+                       truncation=True,
+                       return_tensors="pt",
+                       return_token_type_ids=False,
+                       max_length=2048)
+    output = embedding_model(**inputs)
+    embeddings = output.last_hidden_state[:, 0, :][0].detach().numpy()
+    return embeddings
+
+def is_interpretability_title_and_abstract(title, abstract):
+    embedding = get_embedding(title, abstract)
+    embedding = torch.tensor(embedding, dtype=torch.float32)
+    output = MODEL(embedding)
+    pred = torch.argmax(output)
+    has_keyword = any([word in abstract.lower() for word in KEYWORDS])
     return bool(pred and has_keyword)
