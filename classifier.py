@@ -69,7 +69,7 @@ def get_embedding(title, abstract):
                        truncation=True,
                        return_tensors="pt",
                        return_token_type_ids=False,
-                       max_length=2048)
+                       max_length=512)
     output = embedding_model(**inputs)
     embeddings = output.last_hidden_state[:, 0, :][0].detach().numpy()
     return embeddings

@@ -242,7 +242,6 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
                 break
 
         json_response = response.json()
-        print(json_response)
         if "data" in json_response and json_response["data"] is not None:
             for paper in response.json()["data"]:
                 paper = SemanticScholarPaper(
@@ -252,7 +251,7 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
                     year=paper['citingPaper']["year"],
                     citation_count=paper['citingPaper']["citationCount"],
                     influential_citation_count=paper['citingPaper']["citationCount"],
-                    abstract=paper['citingPaper'].get('abstract')
+                    abstract=paper['citingPaper'].get('abstract'),
                 )
                 all_papers.append(paper)
 
