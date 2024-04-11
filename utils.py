@@ -263,6 +263,50 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
 
     return all_papers
 
+def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 10, include_abstract=False) -> list:
+    # this gets all the references for a given paper
+    # considering also that the results might get split into multiple pages
+
+    all_papers = []
+    offset = 0
+    query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/references"
+    fields = "title,isInfluential,contexts,intents,year,venue,citationCount,influentialCitationCount"
+    if include_abstract:
+        fields += ',abstract'
+
+    while True:
+        response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}", "offset": offset})
+
+        retries = 1
+        while response.status_code != 200:
+            print("Trying again ...", paper_id)
+            response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields, "limit": f"{limit}"})
+            retries += 1
+            if retries > max_retries:
+                break
+
+        json_response = response.json()
+        if "data" in json_response and json_response["data"] is not None:
+            for paper in response.json()["data"]:
+                paper = SemanticScholarPaper(
+                    paper_id=paper['citedPaper']['paperId'],
+                    title=paper['citedPaper']["title"],
+                    venue=paper['citedPaper']["venue"],
+                    year=paper['citedPaper']["year"],
+                    citation_count=paper['citedPaper']["citationCount"],
+                    influential_citation_count=paper['citedPaper']["citationCount"],
+                    abstract=paper['citedPaper'].get('abstract'),
+                )
+                all_papers.append(paper)
+
+        if 'next' in json_response:
+            # we get the next page of results
+            offset = json_response['next']
+        else:
+            break
+
+    return all_papers
+
 #########################################################
 # pandas related utils
 #########################################################

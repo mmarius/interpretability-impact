@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import pandas as pd
 from tqdm import tqdm
-from utils import get_citation_details, bulk_get_paper_details
+from utils import get_citation_details, bulk_get_paper_details, get_reference_details
 
 df = pd.read_csv("./data/clean_data.csv", index_col=0)
 
@@ -43,7 +43,8 @@ for (index, row), paper in zip(df.iterrows(), semantic_scholar_papers):
         citation_count=citation_count,
         influential_citation_count=influential_citation_count,
         venue=venue,
-        interpretability_boolean=interpretability_boolean
+        interpretability_boolean=interpretability_boolean,
+        originally_from_dataset=True
     )
 
 
@@ -61,7 +62,7 @@ from classifier import is_interpretability_title_and_abstract
 # NOTE: running this will take some time, and it mostly depends on the
 # quality of the internet connection
 nodes = dict(G.nodes.data())
-for nid, attributes in tqdm(nodes.items(), desc="retrieving citations"):
+for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=len(nodes)):
     citing_papers = get_citation_details(nid, include_abstract=True)
     for paper in citing_papers:
         title = paper.title
@@ -86,13 +87,43 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations"):
             citation_count=citation_count,
             influential_citation_count=influential_citation_count,
             venue=venue,
-            interpretability_boolean=interpretability_boolean
+            interpretability_boolean=interpretability_boolean,
+            originally_from_dataset=False
         )
         G.add_edge(nid, paper_id)
+
+    cited_papers = get_reference_details(nid, include_abstract=True)
+    for paper in cited_papers:
+        title = paper.title
+        abstract = paper.abstract
+        if abstract is not None:
+            interpretability_boolean = is_interpretability_title_and_abstract(title, abstract)
+        else:
+            interpretability_boolean = None
+
+        year = paper.year
+        citation_count = paper.citation_count
+        influential_citation_count = paper.influential_citation_count
+        venue = paper.venue
+        paper_id = paper.paper_id
+
+        if paper_id is None:
+            print('paper with no id:', title)
+            continue
+        G.add_node(
+            paper_id,
+            year=year,
+            citation_count=citation_count,
+            influential_citation_count=influential_citation_count,
+            venue=venue,
+            interpretability_boolean=interpretability_boolean,
+            originally_from_dataset=False
+        )
+        G.add_edge(paper_id, nid)
 
 
 
 # we save the graph
 G_json = nx.cytoscape_data(G)
-with open('./citationgraph/graph.json', 'w') as f:
+with open('./citationgraph/graph2.json', 'w') as f:
     json.dump(G_json, f)
