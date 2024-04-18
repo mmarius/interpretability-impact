@@ -81,15 +81,16 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
         if paper_id is None:
             print('paper with no id:', title)
             continue
-        G.add_node(
-            paper_id,
-            year=year,
-            citation_count=citation_count,
-            influential_citation_count=influential_citation_count,
-            venue=venue,
-            interpretability_boolean=interpretability_boolean,
-            originally_from_dataset=False
-        )
+        if paper_id not in G:
+            G.add_node(
+                paper_id,
+                year=year,
+                citation_count=citation_count,
+                influential_citation_count=influential_citation_count,
+                venue=venue,
+                interpretability_boolean=interpretability_boolean,
+                originally_from_dataset=False
+            )
         G.add_edge(nid, paper_id)
 
     cited_papers = get_reference_details(nid, include_abstract=True)
@@ -110,20 +111,21 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
         if paper_id is None:
             print('paper with no id:', title)
             continue
-        G.add_node(
-            paper_id,
-            year=year,
-            citation_count=citation_count,
-            influential_citation_count=influential_citation_count,
-            venue=venue,
-            interpretability_boolean=interpretability_boolean,
-            originally_from_dataset=False
-        )
+        if paper_id not in G:
+            G.add_node(
+                paper_id,
+                year=year,
+                citation_count=citation_count,
+                influential_citation_count=influential_citation_count,
+                venue=venue,
+                interpretability_boolean=interpretability_boolean,
+                originally_from_dataset=False
+            )
         G.add_edge(paper_id, nid)
 
 
 
 # we save the graph
 G_json = nx.cytoscape_data(G)
-with open('./citationgraph/graph2.json', 'w') as f:
+with open('./citationgraph/graph.json', 'w') as f:
     json.dump(G_json, f)
