@@ -77,6 +77,7 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
         influential_citation_count = paper.influential_citation_count
         venue = paper.venue
         paper_id = paper.paper_id
+        is_influential_citation = paper.is_influential_citation
 
         if paper_id is None:
             print('paper with no id:', title)
@@ -91,7 +92,14 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
                 interpretability_boolean=interpretability_boolean,
                 originally_from_dataset=False
             )
-        G.add_edge(nid, paper_id)
+        G.add_edge(
+            nid,
+            paper_id,
+            is_influential=is_influential_citation,
+            result=paper.cites_result,
+            methodology=paper.cites_methodology,
+            background=paper.cites_background,
+        )
 
     cited_papers = get_reference_details(nid, include_abstract=True)
     for paper in cited_papers:
@@ -107,6 +115,7 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
         influential_citation_count = paper.influential_citation_count
         venue = paper.venue
         paper_id = paper.paper_id
+        is_influential_citation = paper.is_influential_citation
 
         if paper_id is None:
             print('paper with no id:', title)
@@ -121,7 +130,14 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
                 interpretability_boolean=interpretability_boolean,
                 originally_from_dataset=False
             )
-        G.add_edge(paper_id, nid)
+        G.add_edge(
+            nid,
+            paper_id,
+            is_influential=is_influential_citation,
+            result=paper.cites_result,
+            methodology=paper.cites_methodology,
+            background=paper.cites_background,
+        )
 
 
 

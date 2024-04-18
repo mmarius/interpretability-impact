@@ -43,8 +43,22 @@ class SemanticScholarPaper:
     was_influenced: bool = False
     contexts: list[str] = []
     abstract: Optional[str] = None
+    is_influential_citation: bool = False
 
-    def __init__(self, paper_id: str, title: str, venue: str, year: int, citation_count: int, influential_citation_count: int, embedding: Optional[list[float]]=None, abstract: Optional[str]=None):
+    def __init__(self,
+                 paper_id: str,
+                 title: str,
+                 venue: str,
+                 year: int,
+                 citation_count: int,
+                 influential_citation_count: int,
+                 embedding: Optional[list[float]]=None,
+                 abstract: Optional[str]=None,
+                 is_influential_citation: bool = False,
+                 cites_result: bool = False,
+                 cites_background: bool = False,
+                 cites_methodology: bool = False,
+                 ):
         self.paper_id = paper_id
         self.title = title
         self.venue = venue
@@ -53,6 +67,10 @@ class SemanticScholarPaper:
         self.influential_citation_count = influential_citation_count
         self.embedding = embedding
         self.abstract = abstract 
+        self.is_influential_citation = is_influential_citation
+        self.cites_result = cites_result
+        self.cites_background = cites_background
+        self.cites_methodology = cites_methodology
 
     def add_acl_doi(self, doi: str) -> None:
         self.acl_doi = doi
@@ -226,7 +244,7 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
     all_papers = []
     offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/citations"
-    fields = "title,isInfluential,contexts,intents,year,venue,citationCount,influentialCitationCount"
+    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount"
     if include_abstract:
         fields += ',abstract'
 
@@ -252,6 +270,10 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
                     citation_count=paper['citingPaper']["citationCount"],
                     influential_citation_count=paper['citingPaper']["citationCount"],
                     abstract=paper['citingPaper'].get('abstract'),
+                    is_influential_citation=paper['isInfluential'],
+                    cites_result='result' in paper['intents'],
+                    cites_methodology='methodology' in paper['intents'],
+                    cites_background='background' in paper['intents'],
                 )
                 all_papers.append(paper)
 
@@ -270,7 +292,7 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
     all_papers = []
     offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/references"
-    fields = "title,isInfluential,contexts,intents,year,venue,citationCount,influentialCitationCount"
+    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount"
     if include_abstract:
         fields += ',abstract'
 
