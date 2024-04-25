@@ -24,37 +24,37 @@ class MLPClassifier(nn.Module):
 INPUT_SIZE = 768
 HIDDEN_SIZE = 400
 MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, 2)
-MODEL.load_state_dict(torch.load('./notebooks/classifier-weights.pt'))
-KEYWORDS = ['interpretability',
-            'interpretable',
-            'dimension',
-            'subspace',
-            'inner workings',
-            'circuit',
-            'probe',
-            'probing',
-            'counterfactual',
-            'attribution',
-            'subnetwork',
-            'intrinsic',
-            'explanation',
-            'factual',
-            'causal',
-            'role of ',
-            'why',
-            'encode',
-            'underlying',
-            'explainable',
-            'shortcut',
-            'encodings']
+MODEL.load_state_dict(torch.load('../notebooks/classifier-weights.pt'))
+# KEYWORDS = ['interpretability',
+#             'interpretable',
+#             'dimension',
+#             'subspace',
+#             'inner workings',
+#             'circuit',
+#             'probe',
+#             'probing',
+#             'counterfactual',
+#             'attribution',
+#             'subnetwork',
+#             'intrinsic',
+#             'explanation',
+#             'factual',
+#             'causal',
+#             'role of ',
+#             'why',
+#             'encode',
+#             'underlying',
+#             'explainable',
+#             'shortcut',
+#             'encodings']
 
 def is_interpretability_paper(row):
     x = row['embedding']
     vector = torch.tensor(np.fromstring(x[1:-1], sep='\n'), dtype=torch.float32)
     output = MODEL(vector)
     pred = torch.argmax(output)
-    has_keyword = any([word in row['abstract'].lower() for word in KEYWORDS])
-    return bool(pred and has_keyword)
+    # has_keyword = any([word in row['abstract'].lower() for word in KEYWORDS])
+    return bool(pred)
 
 
 tokenizer = AutoTokenizer.from_pretrained('allenai/specter2_base')
@@ -79,12 +79,12 @@ def is_interpretability_title_and_abstract(title, abstract):
     embedding = torch.tensor(embedding, dtype=torch.float32)
     output = MODEL(embedding)
     pred = torch.argmax(output)
-    has_keyword = any([word in abstract.lower() for word in KEYWORDS])
-    return bool(pred and has_keyword)
+    # has_keyword = any([word in abstract.lower() for word in KEYWORDS])
+    return bool(pred)
 
 MT_KEYWORDS = ['translation']
 MT_MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, 2)
-MT_MODEL.load_state_dict(torch.load('./notebooks/mt-classifier-weights.pt'))
+MT_MODEL.load_state_dict(torch.load('../notebooks/mt-classifier-weights.pt'))
 
 def is_mt_title_and_abstract(title, abstract):
     embedding = get_embedding(title, abstract)
