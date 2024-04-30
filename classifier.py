@@ -82,7 +82,7 @@ def is_interpretability_title_and_abstract(title, abstract):
     # has_keyword = any([word in abstract.lower() for word in KEYWORDS])
     return bool(pred)
 
-MT_KEYWORDS = ['translation']
+# MT_KEYWORDS = ['translation']
 MT_MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, 2)
 MT_MODEL.load_state_dict(torch.load('../notebooks/mt-classifier-weights.pt'))
 
@@ -91,5 +91,4 @@ def is_mt_title_and_abstract(title, abstract):
     embedding = torch.tensor(embedding, dtype=torch.float32)
     output = MT_MODEL(embedding)
     pred = torch.argmax(output)
-    has_keyword = any([word in abstract.lower() for word in MT_KEYWORDS])
-    return bool(pred and has_keyword)
+    return bool(pred)
