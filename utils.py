@@ -44,6 +44,7 @@ class SemanticScholarPaper:
     contexts: list[str] = []
     abstract: Optional[str] = None
     is_influential_citation: bool = False
+    doi: Optional[str] = None
 
     def __init__(self,
                  paper_id: str,
@@ -58,6 +59,7 @@ class SemanticScholarPaper:
                  cites_result: bool = False,
                  cites_background: bool = False,
                  cites_methodology: bool = False,
+                 doi: Optional[str] = None
                  ):
         self.paper_id = paper_id
         self.title = title
@@ -66,11 +68,12 @@ class SemanticScholarPaper:
         self.citation_count = citation_count
         self.influential_citation_count = influential_citation_count
         self.embedding = embedding
-        self.abstract = abstract 
+        self.abstract = abstract
         self.is_influential_citation = is_influential_citation
         self.cites_result = cites_result
         self.cites_background = cites_background
         self.cites_methodology = cites_methodology
+        self.doi = doi
 
     def add_acl_doi(self, doi: str) -> None:
         self.acl_doi = doi
@@ -244,7 +247,7 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
     all_papers = []
     offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/citations"
-    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount"
+    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount,externalIds"
     if include_abstract:
         fields += ',abstract'
 
@@ -262,6 +265,10 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
         json_response = response.json()
         if "data" in json_response and json_response["data"] is not None:
             for paper in response.json()["data"]:
+                if 'extenalIds' in paper['citingPaper'] and 'DOI' in paper['citingPaper']['externalIds']:
+                    doi = paper['citingPaper']['externalIds']['DOI']
+                else:
+                    doi = None
                 paper = SemanticScholarPaper(
                     paper_id=paper['citingPaper']['paperId'],
                     title=paper['citingPaper']["title"],
@@ -274,6 +281,7 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
                     cites_result='result' in paper['intents'],
                     cites_methodology='methodology' in paper['intents'],
                     cites_background='background' in paper['intents'],
+                    doi=doi
                 )
                 all_papers.append(paper)
 
@@ -292,7 +300,7 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
     all_papers = []
     offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/references"
-    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount"
+    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount,externalIds"
     if include_abstract:
         fields += ',abstract'
 
@@ -310,6 +318,10 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
         json_response = response.json()
         if "data" in json_response and json_response["data"] is not None:
             for paper in response.json()["data"]:
+                if 'extenalIds' in paper['citedPaper'] and 'DOI' in paper['citedPaper']['externalIds']:
+                    doi = paper['citedPaper']['externalIds']['DOI']
+                else:
+                    doi = None
                 paper = SemanticScholarPaper(
                     paper_id=paper['citedPaper']['paperId'],
                     title=paper['citedPaper']["title"],
@@ -318,6 +330,11 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
                     citation_count=paper['citedPaper']["citationCount"],
                     influential_citation_count=paper['citedPaper']["citationCount"],
                     abstract=paper['citedPaper'].get('abstract'),
+                    is_influential_citation=paper['isInfluential'],
+                    cites_result='result' in paper['intents'],
+                    cites_methodology='methodology' in paper['intents'],
+                    cites_background='background' in paper['intents'],
+                    doi=doi
                 )
                 all_papers.append(paper)
 
@@ -328,6 +345,64 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
             break
 
     return all_papers
+
+def get_alternative_id(paper_id: str, max_retries=2) -> Optional[str]:
+    query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}"
+    fields = "externalIds"
+    response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields})
+    retries = 0
+    while response.status_code != 200:
+        print("Trying again ...", paper_id)
+        response = requests.get(query, headers={"x-api-key": API_KEY}, params={"fields": fields})
+        retries += 1
+        if retries > max_retries:
+            break
+    json_response = response.json()
+    if 'externalIds' in json_response and 'DOI' in json_response['externalIds']:
+        return json_response['externalIds']['DOI']
+    return None
+
+
+#########################################################
+# Abstract sources
+#########################################################
+
+import bs4
+
+def get_abstract_with_acl_anthology(doi):
+    url_path = doi.split('/')[-1]
+    url = 'https://aclanthology.org/' + url_path
+    r = requests.get(url)
+    soup = bs4.BeautifulSoup(r.text, 'html.parser')
+    css_selector = "#main > div.row.acl-paper-details > div.col.col-lg-10.order-2 > div > div > span"
+    element = soup.select_one(css_selector)
+    abstract = element.text
+    return abstract
+
+def get_abstract_from_crossref(doi):
+    url = 'https://api.crossref.org/works/' + doi
+    r = requests.get(url)
+    response = r.json()
+    soup = bs4.BeautifulSoup(response['message']['abstract'], 'html.parser')
+    return soup.find('jats:p').text
+
+def get_abstract(doi):
+    try:
+        return get_abstract_from_crossref(doi)
+    except Exception as e:
+        print(e)
+        print("Failed to get abstract from Crossref")
+
+    try:
+        return get_abstract_with_acl_anthology(doi)
+    except Exception as e:
+        print(e)
+        print("Failed to get abstract from ACL Anthology")
+
+    print("Failed to get abstract from any source", doi)
+    return None
+
+
 
 #########################################################
 # pandas related utils
