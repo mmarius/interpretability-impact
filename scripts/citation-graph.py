@@ -27,7 +27,7 @@ for (index, row), paper in zip(df.iterrows(), semantic_scholar_papers):
     if paper is None:
         print(f"Paper {row['doi']} was not found in the semantic scholar API")
         continue
-    year = paper.year
+    year = row['year']
     citation_count = paper.citation_count
     influential_citation_count = paper.influential_citation_count
     venue = paper.venue
@@ -45,8 +45,8 @@ for (index, row), paper in zip(df.iterrows(), semantic_scholar_papers):
         venue=venue,
         originally_from_dataset=True,
         area=row['area'],
-        interpreability_prediction=interpretability,
         mt_prediction=mt
+        interpretability_prediction=interpretability,
     )
 
 
@@ -148,8 +148,8 @@ for nid, attributes in tqdm(nodes.items(), desc="retrieving citations", total=le
                 originally_from_dataset=False
             )
         G.add_edge(
-            nid,
             paper_id,
+            nid,
             is_influential=is_influential_citation,
             result=paper.cites_result,
             methodology=paper.cites_methodology,
