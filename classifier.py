@@ -92,3 +92,25 @@ def is_mt_title_and_abstract(title, abstract):
     output = MT_MODEL(embedding)
     pred = torch.argmax(output)
     return bool(pred)
+
+
+IE_MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, 2)
+IE_MODEL.load_state_dict(torch.load('../notebooks/info-extraction-classifier-weights.pt'))
+
+def is_ie_title_and_abstract(title, abstract):
+    embedding = get_embedding(title, abstract)
+    embedding = torch.tensor(embedding, dtype=torch.float32)
+    output = IE_MODEL(embedding)
+    pred = torch.argmax(output)
+    return bool(pred)
+
+DIALOGUE_MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, 2)
+DIALOGUE_MODEL.load_state_dict(torch.load('../notebooks/dialogue-classifier-weights.pt'))
+
+def is_dialogue_title_and_abstract(title, abstract):
+    embedding = get_embedding(title, abstract)
+    embedding = torch.tensor(embedding, dtype=torch.float32)
+    output = DIALOGUE_MODEL(embedding)
+    pred = torch.argmax(output)
+    return bool(pred)
+
