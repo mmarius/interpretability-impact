@@ -135,3 +135,35 @@ def predict_track(title, abstract):
     output = GENERAL_TRACK_MODEL(embedding)
     pred = torch.argmax(output)
     return LABELS[pred]
+
+
+
+def get_batch_embeddings(titles, abstracts):
+    assert len(titles) == len(abstracts), "Titles and abstracts lists must have the same length"
+
+    texts = [title + tokenizer.sep_token + abstract for title, abstract in zip(titles, abstracts)]
+
+    inputs = tokenizer(texts,
+                       padding=True,
+                       truncation=True,
+                       return_tensors="pt",
+                       return_token_type_ids=False,
+                       max_length=512)
+    with torch.no_grad():
+        output = embedding_model(**inputs)
+
+    embeddings = output.last_hidden_state[:, 0, :]
+
+    return embeddings
+
+def predict_batch_tracks(titles, abstracts):
+    embeddings = get_batch_embeddings(titles, abstracts)
+    embeddings = embeddings.to(torch.float32)
+
+    with torch.no_grad():
+        outputs = GENERAL_TRACK_MODEL(embeddings)
+
+    preds = torch.argmax(outputs, dim=1)
+    predicted_labels = [LABELS[pred.item()] for pred in preds]
+
+    return predicted_labels
