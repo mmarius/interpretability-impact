@@ -59,7 +59,8 @@ class SemanticScholarPaper:
                  cites_result: bool = False,
                  cites_background: bool = False,
                  cites_methodology: bool = False,
-                 doi: Optional[str] = None
+                 doi: Optional[str] = None,
+                 contexts: list[str] = []
                  ):
         self.paper_id = paper_id
         self.title = title
@@ -74,6 +75,7 @@ class SemanticScholarPaper:
         self.cites_background = cites_background
         self.cites_methodology = cites_methodology
         self.doi = doi
+        self.contexts = contexts
 
     def add_acl_doi(self, doi: str) -> None:
         self.acl_doi = doi
@@ -205,17 +207,19 @@ def chunk_list(lst, chunk_size):
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
-def bulk_get_paper_details(paper_ids: list[str], include_embedding=False, include_citations=False) -> list[SemanticScholarPaper]:
+def bulk_get_paper_details(paper_ids: list[str], include_embedding=False, include_citations=False, include_abstracts=False) -> list[SemanticScholarPaper]:
     chunk_size = 500  # API limit
     all_papers = []
 
-    for chunk in tqdm(chunk_list(paper_ids, chunk_size), desc="Fetching papers"):
+    for chunk in tqdm(chunk_list(paper_ids, chunk_size), desc="Fetching papers", total=len(paper_ids)//chunk_size):
         url = 'https://api.semanticscholar.org/graph/v1/paper/batch'
-        fields = "title,venue,year,citationCount,influentialCitationCount"
+        fields = "title,venue,year,citationCount,influentialCitationCount,externalIds"
         if include_embedding:
             fields += ',embedding'
         if include_citations:
             fields += ',citations'
+        if include_abstracts:
+            fields += ',abstract'
 
         response = requests.post(url,
                                  headers={"x-api-key": API_KEY},
@@ -226,6 +230,13 @@ def bulk_get_paper_details(paper_ids: list[str], include_embedding=False, includ
             if paper_dict is None:
                 all_papers.append(None)
                 continue
+            abstract = paper_dict.get('abstract')
+            if abstract and len(abstract) < 10:
+                abstract = None
+            if paper_dict['externalIds'] and 'DOI' in paper_dict['externalIds']:
+                doi = paper_dict['externalIds']['DOI']
+            else:
+                doi = None
 
             paper = SemanticScholarPaper(
                 paper_id=paper_dict['paperId'],
@@ -234,7 +245,9 @@ def bulk_get_paper_details(paper_ids: list[str], include_embedding=False, includ
                 year=paper_dict["year"],
                 citation_count=paper_dict["citationCount"],
                 influential_citation_count=paper_dict["influentialCitationCount"],
-                embedding=paper_dict.get('embedding', {}).get('vector')
+                embedding=paper_dict.get('embedding', {}).get('vector'),
+                abstract=abstract,
+                doi=doi
             )
             all_papers.append(paper)
 
@@ -247,7 +260,7 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
     all_papers = []
     offset = 0
     query = f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/citations"
-    fields = "title,isInfluential,intents,year,venue,citationCount,influentialCitationCount,externalIds"
+    fields = "title,isInfluential,intents,year,venue,contexts,citationCount,influentialCitationCount,externalIds"
     if include_abstract:
         fields += ',abstract'
 
@@ -265,10 +278,13 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
         json_response = response.json()
         if "data" in json_response and json_response["data"] is not None:
             for paper in response.json()["data"]:
-                if 'extenalIds' in paper['citingPaper'] and 'DOI' in paper['citingPaper']['externalIds']:
+                if paper['citingPaper']['externalIds'] and 'DOI' in paper['citingPaper']['externalIds']:
                     doi = paper['citingPaper']['externalIds']['DOI']
                 else:
                     doi = None
+                abstract = paper['citingPaper'].get('abstract')
+                if abstract and len(abstract) < 10:
+                    abstract = None
                 paper = SemanticScholarPaper(
                     paper_id=paper['citingPaper']['paperId'],
                     title=paper['citingPaper']["title"],
@@ -276,12 +292,13 @@ def get_citation_details(paper_id: str, limit: int = 1000, max_retries: int = 10
                     year=paper['citingPaper']["year"],
                     citation_count=paper['citingPaper']["citationCount"],
                     influential_citation_count=paper['citingPaper']["citationCount"],
-                    abstract=paper['citingPaper'].get('abstract'),
+                    abstract=abstract,
                     is_influential_citation=paper['isInfluential'],
                     cites_result='result' in paper['intents'],
                     cites_methodology='methodology' in paper['intents'],
                     cites_background='background' in paper['intents'],
-                    doi=doi
+                    doi=doi,
+                    contexts=paper.get('contexts', [])
                 )
                 all_papers.append(paper)
 
@@ -322,6 +339,9 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
                     doi = paper['citedPaper']['externalIds']['DOI']
                 else:
                     doi = None
+                abstract = paper['citedPaper'].get('abstract')
+                if abstract and len(abstract) < 10:
+                    abstract = None
                 paper = SemanticScholarPaper(
                     paper_id=paper['citedPaper']['paperId'],
                     title=paper['citedPaper']["title"],
@@ -329,12 +349,13 @@ def get_reference_details(paper_id: str, limit: int = 1000, max_retries: int = 1
                     year=paper['citedPaper']["year"],
                     citation_count=paper['citedPaper']["citationCount"],
                     influential_citation_count=paper['citedPaper']["citationCount"],
-                    abstract=paper['citedPaper'].get('abstract'),
+                    abstract=abstract,
                     is_influential_citation=paper['isInfluential'],
                     cites_result='result' in paper['intents'],
                     cites_methodology='methodology' in paper['intents'],
                     cites_background='background' in paper['intents'],
-                    doi=doi
+                    doi=doi,
+                    contexts=paper.get('contexts', [])
                 )
                 all_papers.append(paper)
 
@@ -442,3 +463,85 @@ def merge_into_single_dict(d: dict) -> dict:
         else:
             r[k] = v
     return r
+
+
+#########################################################
+# Constants
+#########################################################
+
+TRACK_MAPPING = {
+  'Cognitive Modeling and Psycholinguistics': 'Linguistic Theories and Psycholinguistics',
+  'Commonsense Reasoning': 'Commonsense Reasoning',
+  'Computational Social Science and Cultural Analytics': 'Social Science',
+  'Computational Social Science and Social Media': 'Social Science',
+  'Dialog and Interactive Systems': 'Dialogue',
+  'Dialogue and Interactive Systems': 'Dialogue',
+  'Discourse and Pragmatics': 'Discourse and Pragmatics',
+  'Discourse and Pragmatics & Ethics in NLP': 'Discourse and Pragmatics',
+  'Efficient Methods for NLP': 'Efficient Methods',
+  'Ethic Concerns:Dialogue and Interactive Systems': 'Ethics',
+  'Ethic Concerns:Ethics': 'Ethics',
+  'Ethic Concerns:Linguistic Theories, Cognitive Modeling and Psycholinguistics': 'Ethics',
+  'Ethic Concerns:Multilinguality': 'Ethics',
+  'Ethic Concerns:NLP Applications': 'Ethics',
+  'Ethic Concerns:Resources and Evaluation': 'Ethics',
+  'Ethic Concerns:Sentiment Analysis, Stylistic Analysis, and Argument Mining': 'Ethics',
+  'Ethic Concerns:Speech, Vision, Robotics, Multimodal Grounding': 'Ethics',
+  'Ethic Concerns:Unsupervised and Weakly-Supervised Methods in NLP': 'Ethics',
+  'Ethics': 'Ethics',
+  'Ethics and NLP': 'Ethics',
+  'Ethics in NLP': 'Ethics',
+  'Generation': 'Generation',
+  'Human-Centered NLP': 'Human-Centered NLP',
+  'Industry': 'Industry',
+  'Information Extraction': 'Information Extraction/Retrieval',
+  'Information Retrieval and Text Mining': 'Information Extraction/Retrieval',
+  'Interpretability and Analysis of Models for NLP': 'Interpretability and Analysis',
+  'Interpretability, Interactivity and Analysis of Models for NLP': 'Interpretability and Analysis',
+  'Interpretability, Interactivity, and Analysis of Models for NLP': 'Interpretability and Analysis',
+  'Language Generation': 'Generation',
+  'Language Grounding to Vision, Robotics and Beyond': 'Multimodality, Speech and Grounding',
+  'Language Grounding to Vision, Robotics, and Beyond': 'Multimodality, Speech and Grounding',
+  'Language Groundings, Speech and Multimodality': 'Multimodality, Speech and Grounding',
+  'Language Modeling and Analysis of Language Models': 'Interpretability and Analysis',
+  'Large Language Models': 'Large Language Models',
+  'Linguistic Diversity': 'Machine Translation and Multilinguality',
+  'Linguistic Theories, Cognitive Modeling and Psycholinguistics': 'Linguistic Theories and Psycholinguistics',
+  'Linguistic Theories, Cognitive Modeling, and Psycholinguistics': 'Linguistic Theories and Psycholinguistics',
+  'Machine Learning for NLP': 'Machine Learning',
+  'Machine Translation': 'Machine Translation and Multilinguality',
+  'Machine Translation and Multilinguality': 'Machine Translation and Multilinguality',
+  'Multidisciplinary and Area Chair COI': 'Theme',
+  'Multilingualism and Cross-Lingual NLP': 'Machine Translation and Multilinguality',
+  'Multilinguality': 'Machine Translation and Multilinguality',
+  'Multilinguality and Linguistic Diversity': 'Machine Translation and Multilinguality',
+  'NLP Applications': 'Applications',
+  'Natural Language Generation': 'Generation',
+  'Phonology, Morphology and Word Segmentation': 'Phonology, Morphology and Word Segmentation',
+  'Phonology, Morphology, and Word Segmentation': 'Phonology, Morphology and Word Segmentation',
+  'Question Answering': 'Question Answering',
+  'Resources and Evaluation': 'Resources and Evaluation',
+  'Semantics': 'Semantics',
+  'Semantics: Lexical': 'Semantics',
+  'Semantics: Lexical Semantics': 'Semantics',
+  'Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.': 'Semantics',
+  'Semantics: Lexical, Sentence level, Textual Inference and Other areas': 'Semantics',
+  'Semantics: Sentence Level': 'Semantics',
+  'Semantics: Sentence-level Semantics, Textual Inference and Other areas': 'Semantics',
+  'Semantics: Sentence-level Semantics, Textual Inference, and Other Areas': 'Semantics',
+  'Semantics: Textual Inference and Other Areas of Semantics': 'Semantics',
+  'Sentiment Analysis, Stylistic Analysis, and Argument Mining': 'Sentiment Analysis',
+  'Special Theme on Language Diversity: From Low Resource to Endangered': 'Theme',
+  'Speech and Multimodality': 'Multimodality, Speech and Grounding',
+  'Speech, Vision, Robotics, Multimodal Grounding': 'Multimodality, Speech and Grounding',
+  'Summarization': 'Summarization',
+  'Syntax, Parsing and their Applications': 'Syntax',
+  'Syntax: Tagging, Chunking and Parsing': 'Syntax',
+  'Syntax: Tagging, Chunking, and Parsing': 'Syntax',
+  'Theme': 'Theme',
+  'Theme Track': 'Theme',
+  'Theme Track: Large Language Models and the Future of NLP': 'Theme',
+  'Theme: Reality Check': 'Theme',
+  'Theory and Formalism in NLP (Linguistic and Mathematical)': 'Theory and Formalism in NLP',
+  'Unsupervised and Weakly-Supervised Methods in NLP': 'Unsupervised and Weakly-Supervised Methods in NLP',
+}
