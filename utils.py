@@ -387,8 +387,19 @@ def get_alternative_id(paper_id: str, max_retries=2) -> Optional[str]:
 #########################################################
 # Abstract sources
 #########################################################
-
+import pyalex
 import bs4
+
+pyalex.config.email = "tomvergara@uc.cl"
+pyalex.config.max_retries = 1
+pyalex.config.retry_backoff_factor = 0.1
+
+def get_abstract_with_pyalex(doi):
+    paper = pyalex.Works()['https://doi.org/' + doi]
+    abstract = paper['abstract']
+    if abstract:
+        return abstract
+    return None
 
 def get_abstract_with_acl_anthology(doi):
     url_path = doi.split('/')[-1]
@@ -408,6 +419,11 @@ def get_abstract_from_crossref(doi):
     return soup.find('jats:p').text
 
 def get_abstract(doi):
+    try:
+        return get_abstract_with_pyalex(doi)
+    except Exception as e:
+        print(e)
+        print("Failed to get abstract from PyAlex")
     try:
         return get_abstract_from_crossref(doi)
     except Exception as e:
