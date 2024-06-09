@@ -1,0 +1,200 @@
+{
+    "Question Answering": {
+        "2020": {
+            "positive": 911,
+            "negative": 1891
+        },
+        "2021": {
+            "positive": 1314,
+            "negative": 3124
+        },
+        "2022": {
+            "positive": 1581,
+            "negative": 4501
+        },
+        "2023": {
+            "positive": 1472,
+            "negative": 5690
+        }
+    },
+    "Dialogue": {
+        "2020": {
+            "positive": 825,
+            "negative": 1032
+        },
+        "2021": {
+            "positive": 1709,
+            "negative": 1998
+        },
+        "2022": {
+            "positive": 2425,
+            "negative": 3057
+        },
+        "2023": {
+            "positive": 2635,
+            "negative": 3790
+        }
+    },
+    "Information Extraction/Retrieval": {
+        "2020": {
+            "positive": 438,
+            "negative": 631
+        },
+        "2021": {
+            "positive": 1641,
+            "negative": 1745
+        },
+        "2022": {
+            "positive": 3157,
+            "negative": 3284
+        },
+        "2023": {
+            "positive": 4099,
+            "negative": 4568
+        }
+    },
+    "Machine Learning": {
+        "2020": {
+            "positive": 122,
+            "negative": 1148
+        },
+        "2021": {
+            "positive": 411,
+            "negative": 3752
+        },
+        "2022": {
+            "positive": 771,
+            "negative": 7384
+        },
+        "2023": {
+            "positive": 1188,
+            "negative": 11138
+        }
+    },
+    "Summarization": {
+        "2020": {
+            "positive": 595,
+            "negative": 732
+        },
+        "2021": {
+            "positive": 1111,
+            "negative": 1580
+        },
+        "2022": {
+            "positive": 1473,
+            "negative": 2228
+        },
+        "2023": {
+            "positive": 1487,
+            "negative": 3380
+        }
+    },
+    "Multimodality, Speech and Grounding": {
+        "2020": {
+            "positive": 108,
+            "negative": 210
+        },
+        "2021": {
+            "positive": 454,
+            "negative": 946
+        },
+        "2022": {
+            "positive": 1104,
+            "negative": 1968
+        },
+        "2023": {
+            "positive": 1761,
+            "negative": 3068
+        }
+    },
+    "Generation": {
+        "2020": {
+            "positive": 613,
+            "negative": 1580
+        },
+        "2021": {
+            "positive": 1105,
+            "negative": 3543
+        },
+        "2022": {
+            "positive": 1510,
+            "negative": 6071
+        },
+        "2023": {
+            "positive": 1519,
+            "negative": 8742
+        }
+    },
+    "Interpretability and Analysis": {
+        "2020": {
+            "positive": 290,
+            "negative": 446
+        },
+        "2021": {
+            "positive": 989,
+            "negative": 1642
+        },
+        "2022": {
+            "positive": 1331,
+            "negative": 3013
+        },
+        "2023": {
+            "positive": 2264,
+            "negative": 5386
+        }
+    },
+    "Machine Translation and Multilinguality": {
+        "2020": {
+            "positive": 1430,
+            "negative": 2357
+        },
+        "2021": {
+            "positive": 2150,
+            "negative": 4009
+        },
+        "2022": {
+            "positive": 2694,
+            "negative": 5360
+        },
+        "2023": {
+            "positive": 2835,
+            "negative": 6623
+        }
+    },
+    "Social Science": {
+        "2020": {
+            "positive": 42,
+            "negative": 56
+        },
+        "2021": {
+            "positive": 199,
+            "negative": 405
+        },
+        "2022": {
+            "positive": 388,
+            "negative": 691
+        },
+        "2023": {
+            "positive": 475,
+            "negative": 1020
+        }
+    },
+    "Ethics": {
+        "2020": {
+            "positive": 64,
+            "negative": 105
+        },
+        "2021": {
+            "positive": 221,
+            "negative": 362
+        },
+        "2022": {
+            "positive": 536,
+            "negative": 812
+        },
+        "2023": {
+            "positive": 963,
+            "negative": 1362
+        }
+    }
+}
