@@ -115,18 +115,20 @@ def is_dialogue_title_and_abstract(title, abstract):
     return bool(pred)
 
 
-LABELS = ['Dialogue',
- 'Generation',
- 'Information Extraction/Retrieval',
- 'Interpretability and Analysis',
- 'Machine Learning',
- 'Machine Translation and Multilinguality',
- 'Multimodality, Speech and Grounding',
- 'Other',
- 'Question Answering',
- 'Sentiment Analysis',
- 'Social Science',
- 'Summarization']
+LABELS = [
+    'Dialogue',
+    'Ethics',
+    'Generation',
+    'Information Extraction/Retrieval',
+    'Interpretability and Analysis',
+    'Machine Learning',
+    'Machine Translation and Multilinguality',
+    'Multimodality, Speech and Grounding',
+    'Inconclusive',
+    'Question Answering',
+    'Social Science',
+    'Summarization'
+]
 GENERAL_TRACK_MODEL = MLPClassifier(INPUT_SIZE, HIDDEN_SIZE, len(LABELS))
 GENERAL_TRACK_MODEL.load_state_dict(torch.load('../notebooks/general-classifier-weights.pt'))
 def predict_track(title, abstract):
