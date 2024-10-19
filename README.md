@@ -1,7 +1,5 @@
 # From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP
 
-## About
-
 This repository contains the code for the paper [From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP
 ](https://arxiv.org/abs/2406.12618) published at EMNLP 2024.
 
